@@ -1,4 +1,7 @@
 # AWS Events Links & Slides
+> Welcome To The AWS Events Collection®. A collection of awesome links, slides, documents, books, practical resources about AWS Events Conference.
+> Thanks to our daily readers and contributors. The goal is to build a categorized community-driven collection of very well-known resources. Sharing, suggestions and contributions are always welcome!
+
 
 
 ## Table of Contents
