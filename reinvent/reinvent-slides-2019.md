@@ -1,46 +1,46 @@
 ## Artificial Intelligence & Machine Learning
 
-AIM201-S: Hot paths to anomaly detection with TIBCO data science, streaming on AWS   
+## AIM201-S: Hot paths to anomaly detection with TIBCO data science, streaming on AWS   
 
 Sensor data on the event stream can be voluminous. In NAND manufacturing, there are millions of columns of data that represent many measured and virtual metrics. These sensor data can arrive with considerable velocity. In this session, learn about developing cross-sectional and longitudinal analyses for anomaly detection and yield optimization using deep learning methods, as well as super-fast subsequence signature search on accumulated time-series data and methods for handling very wide data in Apache Spark on Amazon EMR. The trained models are developed in TIBCO Data Science and Amazon SageMaker and applied to event streams using services such as Amazon Kinesis to identify hot paths to anomaly detection. This presentation is brought to you by TIBCO Software, an APN Partner.
 
-AIM202-S: Artificial intelligence in Healthcare 
+## AIM202-S: Artificial intelligence in Healthcare 
 
 SENTRI is an intelligent automation application platform built leveraging native AWS components to facilitate case processing in the Healthcare industry. PwC built an engine that can take in an adverse healthcare/level of service (HC/LS) event case, extract key information, provide an initial interpretation of severity, and triage the case for review. PwC performed analysis using a user-centric experience, which allowed the case processor to easily verify outputs and helped build trust and confidence in the machine's interpretation. In this session, learn how a PwC customer has been successfully using this system for over nine months. It used to take two hours to process a case. Now, it takes three seconds. This presentation is brought to you by PwC, an APN Partner.
 
-AIM203-SR1: Take AI/ML from theory to practice with Intel technologies on AWS 
+## AIM203-SR1: Take AI/ML from theory to practice with Intel technologies on AWS 
 
 The challenges associated with scalability have been removed in the cloud. Today, organizations deploy tons of artificial intelligence/machine learning (AI/ML) workloads on AWS. Learn about how easy and cost-effective it is to build customized, intelligent data models leveraging the full power of Intel Xeon Scalable processors. Additionally, learn how Footasylum, a leading UK leisurewear retailer, is globally optimizing its value chain. By utilizing the Peak AI ML solution powered by Intel on AWS, Footasylum is leveraging ML for long-term success in the modern retail climate. This presentation is brought to you by Intel, an APN Partner.
 
-AIM204-S: Discovering the value of a cloud data platform   
+## AIM204-S: Discovering the value of a cloud data platform   
 
 In this session, Discover Financial Services and Accenture discuss their work with moving Discover from an on-premises data infrastructure to the AWS Cloud, which offers advanced analytics. With an intelligent data strategy and fully optimized AWS Cloud data solution, Discover is transforming the customer experience and increasing shareholder value. Today, the bank leverages data from many sources-structured and unstructured, streaming and batch-and analyzes the data for insights. This strategy required a bold pivot from a legacy, on-premises architecture to a fully integrated data platform on the cloud. Learn how Discover is also successfully navigating the cultural changes of this type of transformation. This presentation is brought to you by Accenture, an APN Partner.
 
-AIM205-R1: Starting the enterprise ML journey, featuring ProSiebenSat.1 Media SE   
+## AIM205-R1: Starting the enterprise ML journey, featuring ProSiebenSat.1 Media SE   
 
 Amazon has been investing in machine learning for more than 20 years, innovating in areas such as fulfillment and logistics, personalization and recommendations, forecasting, fraud prevention, and supply chain optimization. During this session, we take this expertise and show you how to identify business problems that can be solved with machine learning. We discuss considerations including selecting the right use case for a machine learning pilot, nurturing skills, and measuring the success of such pilots. We dive into success stories from the Amazon ML Solutions Lab, and you can hear from ProSiebenSat.1 Media SE about how it moved from idea to production with machine learning.
 
-AIM207-R9: Get started with AWS DeepRacer 
+## AIM207-R9: Get started with AWS DeepRacer 
 
 Get behind the keyboard for an immersive experience with AWS DeepRacer. Developers with no prior machine learning experience learn new skills and apply their knowledge in a fun and exciting way. With the help of the AWS pit crew, build and train a reinforcement learning model that you can race on the tracks in the MGM Grand Garden Arena and win special AWS prizes!
 
-AIM208-R1: Transform the way you search and interact with enterprise data using AI   
+## AIM208-R1: Transform the way you search and interact with enterprise data using AI   
 
 How can you get the most intuitive and specific answer to a search query when the answer may be hidden within various enterprise filing or information systems? This session teaches you how to use natural language processing, a machine learning technique, to build an enterprise search solution that will give you straightforward answers to questions like,"How much is the cash reward on the corporate credit card?" Learn how this can improve cross-team knowledge sharing, enhance sales and customer support services, and make it much easier for end customers to find the information they need.
 
-AIM211-R1: AI document processing for business automation 
+## AIM211-R1: AI document processing for business automation 
 
 Millions of times per day, customers from the Finance, Healthcare, public, and other sectors rely on information that is locked in documents. Amazon Textract uses artificial intelligence to 'read' such documents as a person would, to extract not only text but also tables, forms, and other structured data without configuration, training, or custom code. In this session, we demonstrate how you can use Amazon Textract to automate business processes with AI. You also hear directly from our customers about how they accelerated their own business processes with Amazon Textract.
 
-AIM214-R1: [NEW LAUNCH!] Introducing Amazon SageMaker Studio, the first full IDE for ML   
+## AIM214-R1: [NEW LAUNCH!] Introducing Amazon SageMaker Studio, the first full IDE for ML   
 
 Machine learning (ML) is a complex, iterative, often time-consuming process. One difficult aspect is the lack of integration between the workflow steps and the tools to accomplish them. Join us as we introduce Amazon SageMaker Studio, the first full integrated development environment (IDE) for ML that makes it easy to build, train, tune, debug, deploy, and monitor ML models at scale. It pulls together the ML workflow steps in a unified, visual interface-since they're performed and tracked within one environment, the non-linear and iterative nature of ML development is greatly simplified. You can quickly move between steps, compare results and adjust inputs and parameters, and iterate faster with Amazon SageMaker Studio.
 
-AIM215: [NEW LAUNCH!] Intro to Amazon SageMaker Autopilot: Auto-generate ML models 
+## AIM215: [NEW LAUNCH!] Intro to Amazon SageMaker Autopilot: Auto-generate ML models 
 
 Typical approaches to automatic ML don't provide insights into the data or logic used to create models, forcing you to compromise on accuracy. Join us as we introduce Amazon SageMaker Autopilot, an automated capability that generates ML models and provides complete control and visibility of them. Learn how Autopilot automatically inspects raw data, picks the best set of algorithms, trains multiple models, tunes them, and ranks them based on performance. The result is a recommendation for the best performing model and visibility into the logic and code for how the model was created and what's in it. Autopilot offers the best combination of automatic model creation with control and visibility.
 
-AIM216-R1: [NEW LAUNCH!] Intro to Amazon SageMaker Debugger: Get insights into ML model training 
+## AIM216-R1: [NEW LAUNCH!] Intro to Amazon SageMaker Debugger: Get insights into ML model training 
 
 During ML model training, it's challenging to ensure that models are progressively learning the correct values for different parameters and to analyze and debug model characteristics without building additional tools, making the process time-consuming and cumbersome. Come learn about Amazon SageMaker Debugger, a new capability that provides complete insights into the training process by automating data capture and analysis from training runs without code changes. Learn how you can analyze data using the Amazon SageMaker Studio visual interface and be alerted when anomalies and errors are detected, reducing the time needed to debug models from days to minutes. Amazon SageMaker Debugger helps you solve problems quickly, reduce troubleshooting time during training, and build high-quality models.
 
