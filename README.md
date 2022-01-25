@@ -3,6 +3,9 @@
 
 ## Table of Contents
 
+ - [Links](#links)
+ - [Slides](#slides)
+
 ## Links
 1. [re:Invent](https://reinvent.awsevents.com/)
    - [2021](reinvent/reinvent-2021.md)
@@ -14,3 +17,4 @@
 3. [re:Mars](https://remars.amazonevents.com/)
 4. [Innovate](https://aws.amazon.com/events/aws-innovate/)
 
+## Slides
