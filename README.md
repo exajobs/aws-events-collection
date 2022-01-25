@@ -1,1 +1,2 @@
-# aws-events-collection
+# AWS Events Links & Slides
+
