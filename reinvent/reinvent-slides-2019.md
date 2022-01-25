@@ -48,11 +48,11 @@ AIM220-S: Farmers Insurance elevating customer experience with conversational AI
 
 As part of its digital transformation journey, Farmers, one of America's largest insurers, envisioned digitizing its customer and agent service experience. Join Farmers for this insightful session, and learn how it leveraged conversational artificial intelligence (AI), chatbots, and other next-generation AWS technologies to offer a seamless, personalized, and contextualized experience for agents and customers. Learn how Farmers improved customer experience and optimized resources while encouraging self-service with cloud-based services, automation, and AI. Also, gain insights on how to design, architect, and build a scalable conversational AI solution that caters to growing business demands. This presentation is brought to you by Cognizant, an APN Partner.
 
-AIM222-R1: Monetizing text-to-speech AI 
+## AIM222-R1: Monetizing text-to-speech AI 
 
 In this interactive session, we look at different options to monetize text-to-voice applications. We focus on Amazon Polly, a machine learning-powered service that produces lifelike speech. You learn to monetize this capability and generate a positive ROI when creating Amazon Polly applications. This chalk talk covers both business and technical considerations.
 
-AIM223-R12: [NEW LAUNCH!] AWS DeepComposer: Get started with generative AI 
+## AIM223-R12: [NEW LAUNCH!] AWS DeepComposer: Get started with generative AI 
 
 Generative AI is one of the most fascinating advancements in artificial intelligence technology, and until now, developers interested in growing skills in this area haven't had an easy way to get started. In this workshop, you learn about generative AI and get hands-on with AWS DeepComposer, the world's first machine learning-enabled musical keyboard for developers, to create an original composition. You are also introduced to concepts that you can use in Amazon SageMaker to do even more with generative AI. Developers, make some noise!
 
