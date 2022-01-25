@@ -21,7 +21,8 @@
 4. [Innovate](https://aws.amazon.com/events/aws-innovate/)
 
 ## Slides
-
+1. [re:Invent](https://reinvent.awsevents.com/)
+   - [2019](reinvent/reinvent-slides-2019.md)
 
 ## License
 MIT License & [cc](https://creativecommons.org/licenses/by/4.0/) license
