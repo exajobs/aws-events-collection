@@ -126,55 +126,55 @@ AIM308: Build accurate training datasets with Amazon SageMaker Ground Truth
 
 Successful machine learning models are built on high-quality training datasets. Typically, the task of data labeling is distributed across a large number of humans, adding significant overhead and cost. This session explains how Amazon SageMaker Ground Truth reduces cost and complexity using techniques designed to improve labeling accuracy and reduce human effort. We walk through best practices for building highly accurate training datasets and discuss how you can use Amazon SageMaker Ground Truth to implement them.
 
-AIM310-S: Why observability requires the marriage of AI, metrics, and logs 
+## AIM310-S: Why observability requires the marriage of AI, metrics, and logs 
 
 The new digital world presents great opportunity as workloads move to the cloud and containers and companies benefit from serverless computing and an agile application delivery chain. However, these opportunities come with significant challenges. Site reliability engineers have been tasked with knitting together disparate platforms to build an observable stack, which is imperative for early detection of service degradation issues. We demonstrate a novel alternative that combines metrics, logs, and alerts into a comprehensive AIOps approach. Learn how to deliver an AI-enabled service that provides instant observability of your cloud application stack and how to combine logs and metrics into a single pane of glass. This presentation is brought to you by Moogsoft, an APN Partner.
 
-AIM311-R1: Choose the right instance type in Amazon SageMaker, with Texas Instruments   
+## AIM311-R1: Choose the right instance type in Amazon SageMaker, with Texas Instruments   
 
 Amazon SageMaker, a fully managed service for machine learning, offers several compute capabilities and instance types to meet the needs of your use case. In this session, we review the compute options available to you, including GPUs, CPUs, AWS Inferentia, Amazon SageMaker Neo, and Amazon Elastic Inference. We discuss best practices and key criteria to choose the right capabilities that meet the specific needs of your machine learning workload.
 
-AIM312: Predict future business outcomes using Amazon Forecast   
+## AIM312: Predict future business outcomes using Amazon Forecast   
 
 Based on the same technology used at Amazon.com, Amazon Forecast uses machine learning and time-series data to build accurate business forecasts. In this session, learn how machine learning can improve accuracy in demand forecasting, financial planning, and resource allocation while reducing your forecasting time from months to hours.
 
-AIM318-R2: Amazon SageMaker: Automatically tune hyperparameters 
+## AIM318-R2: Amazon SageMaker: Automatically tune hyperparameters 
 
 Amazon SageMaker offers automatic model tuning so you can use machine learning to quickly tune your model to be as accurate as possible. This capability lets you skip the tedious trial-and-error process of manually adjusting model parameters. Instead, over multiple training runs, automatic model tuning performs hyperparameter optimization by discovering interesting features in your data and learning how those features interact to affect accuracy. In this builders session, we show you how to configure and launch a hyperparameter tuning job. Please bring your laptop.
 
-AIM319-R2: Amazon SageMaker: Use prebuilt Jupyter notebooks 
+## AIM319-R2: Amazon SageMaker: Use prebuilt Jupyter notebooks 
 
 In this builders session, we show you how to bring an existing Jupyter notebook from your local environment to Amazon SageMaker. Learn how to automate repository and package operations. Using script mode, you also learn how to migrate your code to built-in algorithms and frameworks in order to easily train and deploy at any scale on managed infrastructure. Please bring your laptop.
 
-AIM322-R1: Fraud: How to detect and prevent it using ML   
+## AIM322-R1: Fraud: How to detect and prevent it using ML   
 
 Looking to protect your company from anonymous activity and prevent bad-actor behavior? This session details how to implement a customized fraud detection and prevention solution using machine learning services, how to proactively identify these use cases, and how to implement changes to protect your enterprise and your customers.
 
-AIM325-R1: [NEW LAUNCH!] Intro to Amazon Augmented AI for human review of ML predictions, featuring Ripcord 
+## AIM325-R1: [NEW LAUNCH!] Intro to Amazon Augmented AI for human review of ML predictions, featuring Ripcord 
 
 Many machine learning (ML) applications require humans to review for labeling or moderation of nuanced content, which can result in low confidence predictions to ensure the correct results. But building human review systems can be time-consuming and expensive. Amazon Augmented AI (A2I) makes it easy to build and manage human reviews for ML applications through built-in workflows for common ML use cases, such as content moderation (with Amazon Rekognition) and text extraction (with Amazon Textract). You can create workflows for custom ML models or those built on Amazon SageMaker. In this session, learn about Amazon A2I and how to use it. Then hear from Ripcord about how they plan to use Amazon A2I built-in integration with Amazon Textract to reduce the initial set up time for large and complex digitization projects.
 
-AIM326-R: Implement ML workflows with Kubernetes and Amazon SageMaker 
+## AIM326-R: Implement ML workflows with Kubernetes and Amazon SageMaker 
 
 Until recently, data scientists have spent much time performing operational tasks, such as ensuring that frameworks, runtimes, and drivers for CPUs and GPUs work well together. In addition, data scientists needed to design and build end-to-end machine learning (ML) pipelines to orchestrate complex ML workflows for deploying ML models in production. With Amazon SageMaker, data scientists can now focus on creating the best possible models while enabling organizations to easily build and automate end-to-end ML pipelines. In this session, we dive deep into Amazon SageMaker and container technologies, and we discuss how easy it is to integrate such tasks as model training and deployment into Kubernetes and Kubeflow-based ML pipelines.
 
-AIM326-R1: Implement ML workflows with Kubernetes and Amazon SageMaker   
+## AIM326-R1: Implement ML workflows with Kubernetes and Amazon SageMaker   
 
 Until recently, data scientists have spent much time performing operational tasks, such as ensuring that frameworks, runtimes, and drivers for CPUs and GPUs work well together. In addition, data scientists needed to design and build end-to-end machine learning (ML) pipelines to orchestrate complex ML workflows for deploying ML models in production. With Amazon SageMaker, data scientists can now focus on creating the best possible models while enabling organizations to easily build and automate end-to-end ML pipelines. In this session, we dive deep into Amazon SageMaker and container technologies, and we discuss how easy it is to integrate such tasks as model training and deployment into Kubernetes and Kubeflow-based ML pipelines.
 
-AIM328: Build predictive maintenance systems with Amazon SageMaker 
+## AIM328: Build predictive maintenance systems with Amazon SageMaker 
 
 Across a wide spectrum of industries, customers are starting to utilize prediction maintenance models to proactively fix problems before they impact production. The result is an optimized supply chain and improved working conditions. In this session, learn how to use data from equipment to build, train, and deploy predictive models. We dive deep into the architecture for using the turbofan degradation simulation dataset to train the model to recognize potential equipment failures and also how to provide recommended actions. Finally, we walk through an AWS CloudFormation template so you can get started quickly.
 
-AIM329: Using deep learning to track wildfires and air quality 
+## AIM329: Using deep learning to track wildfires and air quality 
 
 ALERTWildfire is a camera-based network infrastructure that captures satellite imagery of wildfires. In this chalk talk, we discuss deep-learning techniques that use this satellite imagery along with meteorological data to track wildfires and predict air quality in real time.
 
-AIM330: Build custom data labeling workflows with Amazon SageMaker 
+## AIM330: Build custom data labeling workflows with Amazon SageMaker 
 
 In this chalk talk, we explain how to use customer pre- and post-Lambda functions to extend the functionality of Amazon SageMaker Ground Truth. We show you how to make a custom annotator UI and use AWS Lambda to provide custom pre- and post-processing of annotations.
 
-AIM331-R1: Choose the proper algorithm in Amazon SageMaker 
+## AIM331-R1: Choose the proper algorithm in Amazon SageMaker 
 
 Amazon SageMaker gives you choices for the best algorithm to use to train your model. You get a 10x improvement in algorithm performance when using one of the build-in algorithms with Amazon SageMaker. However, it can be confusing to pick between the options. Commonly used ML algorithms are built-in and there are over 200 additional pre-trained models and algorithms available in AWS Marketplace. Plus you can also bring any other algorithm or framework by building it into a Docker container. During this chalk talk, we help you make sense of these choices to optimize performance.
 
