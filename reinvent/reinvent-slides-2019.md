@@ -4,7 +4,7 @@
 
 Sensor data on the event stream can be voluminous. In NAND manufacturing, there are millions of columns of data that represent many measured and virtual metrics. These sensor data can arrive with considerable velocity. In this session, learn about developing cross-sectional and longitudinal analyses for anomaly detection and yield optimization using deep learning methods, as well as super-fast subsequence signature search on accumulated time-series data and methods for handling very wide data in Apache Spark on Amazon EMR. The trained models are developed in TIBCO Data Science and Amazon SageMaker and applied to event streams using services such as Amazon Kinesis to identify hot paths to anomaly detection. This presentation is brought to you by TIBCO Software, an APN Partner.
 
--  SLIDES, [VIDEOS](https://www.youtube.com/watch?v=ZTI76iJCRjc)
+-  Slides, [Videos](https://www.youtube.com/watch?v=ZTI76iJCRjc)
 
 ## AIM202-S: Artificial intelligence in Healthcare 
 
