@@ -198,79 +198,79 @@ AIM338: Machine learning with containers and Amazon SageMaker
 
 Data scientists and machine learning engineers use containers to create custom, lightweight environments to train and serve models at scale with deep learning frameworks, such as TensorFlow, Apache MXNet, and PyTorch, achieving consistency across development and deployment. In this chalk talk, we discuss how to use AWS Deep Learning Containers to train and serve models with Amazon SageMaker.
 
-AIM340-R1: Next-gen video: Transcription, translation & search, powered by ML 
+## AIM340-R1: Next-gen video: Transcription, translation & search, powered by ML 
 
 Come discuss how machine learning can enhance your video files and generate searchable metadata in this chalk talk. The Media Analysis Solution on AWS uses Amazon Rekognition for facial recognition, Amazon Transcribe to create transcripts, Amazon Comprehend to run sentiment analysis on the transcripts, and Amazon Translate to make content available in multiple languages. By the end of this session, you will know how to upload your media files and work with the metadata that is automatically extracted through these services.
 
-AIM341: Deep learning on graphs 
+## AIM341: Deep learning on graphs 
 
 Graph databases are being adopted in a wide range of business domains and can be used with deep learning to tackle many common business problems. In this chalk talk, we explain how to do deep learning on graphs with Amazon SageMaker. We explore three use cases, including how to detect fraudulent accounts on social networks, how to identify social groups for marketing, and how to judge the creditworthiness of individuals.
 
-AIM342-R1: Large-scale document processing with Amazon Textract 
+## AIM342-R1: Large-scale document processing with Amazon Textract 
 
 Millions of mortgage applications and hundreds of millions of W-2 tax forms are processed each year-many times using manual data entry. In this chalk talk, we discuss how to architect a solution to extract text and data from these types of documents at scale for automatic processing. Learn how to build a serverless, highly available, highly scalable architecture that can easily handle spiky workloads.
 
-AIM343-R1: Build computer vision models with Amazon SageMaker 
+## AIM343-R1: Build computer vision models with Amazon SageMaker 
 
 Implementing computer vision (CV) models just got simpler and faster. In this chalk talk, learn how to implement CV models using Apache MXNet and the Gluon CV Toolkit, which provide implementations of state-of-the-art deep learning algorithms in computer vision to help engineers, researchers, and students quickly prototype products, validate new ideas, and learn computer vision.
 
-AIM344-R1: Crafting a conversational platform strategy 
+## AIM344-R1: Crafting a conversational platform strategy 
 
 In this chalk talk, we discuss how to build an Amazon Lex chatbot that can conduct a conversation based on data in a sample business intelligence database. We then explore ways that this chatbot could be adapted to your own datasets.
 
-AIM345: Build accurate models with automatic model tuning 
+## AIM345: Build accurate models with automatic model tuning 
 
 In many cases, what separates good models from great ones is the choice of hyperparameters. For example, how many layers you should use? What should the learning rate be? And what should the regularization parameters be? In this chalk talk, we dive deep into the automatic model tuning feature of Amazon SageMaker. Automatic model tuning lets you skip the tedious trial-and-error process of manually adjusting model parameters and instead performs hyperparameter optimization by discovering interesting features in your data and learning how those features interact to affect accuracy. You save days or even weeks of time.
 
-AIM346-R1: Personalized user engagement with machine learning 
+## AIM346-R1: Personalized user engagement with machine learning 
 
 In this chalk talk, we discuss how to use Amazon Personalize and Amazon Pinpoint to provide a personalized, omni-channel experience starting in your mobile application. We discuss best practices for real-time updates, personalized notifications (push), and messaging (email and text) that drives user engagement and product discovery. We also demonstrate how other mobile services can be used to facilitate rapid prototyping.
 
-AIM347: Time-series prediction using GluonTS and Amazon SageMaker 
+## AIM347: Time-series prediction using GluonTS and Amazon SageMaker 
 
 Time-series prediction-whether it is regression, classification, or anomaly detection-has experienced a renaissance in the past three years thanks to the application of neural models. In turn, AWS has released an open-source Gluon-based toolkit, GluonTS, for time-series prediction. In this session we provide you with different models that are implemented as part of GluonTS. We also provide guidance as to where and how to apply each model.
 
-AIM348: Deploying and managing machine learning models at scale 
+## AIM348: Deploying and managing machine learning models at scale 
 
 In this workshop, we dive into the deploy module of Amazon SageMaker. Amazon SageMaker offers one-click deployment onto auto-scaling Amazon ML instances across multiple Availability Zones. We explain how Amazon SageMaker manages your production compute infrastructure on your behalf to perform health checks, apply security patches, and conduct other routine maintenance. Then we explore the batch transform feature, which enables you to run predictions on large or small batch data. Finally, we explore inference pipelines, which let you pass raw input data and execute preprocessing, predictions, and post-processing. After the workshop, you will be ready to scale ML.
 
-AIM350-R1: Identifying product mentions in customer reviews using ML 
+## AIM350-R1: Identifying product mentions in customer reviews using ML 
 
 In recent years, we have seen the ascent of conversational AI, the rise of chatbots, and an exhaustive amount of data from customer calls, emails, and Tweets. Natural language processing (NLP) is at the core of all of these innovations. In this hands-on session, learn how Amazon Comprehend, and NLP service, enables you to train your own custom-named entity without needing to be skilled in machine learning (ML). Learn how to group support emails by department, social media posts by product, and analyst reports by business unit. Please bring your laptop.
 
-AIM353-R1: Identify and mask health data in images or text 
+## AIM353-R1: Identify and mask health data in images or text 
 
 Many companies in the Healthcare industry generate large amounts of data that's used in a variety of applications, such as population health management and electronic health records. Developers need to find ways to use the valuable health-related data in these applications while meeting their compliance obligations around sensitive data, such as protected health information (PHI). Join us in this builders session to learn how to use a pre-built solution from AWS, AI-Powered Health Data Masking, to identify and mask health-related data in images or text. Please bring your laptop.
 
-AIM356-R1: Smarter text analytics with Amazon ES & Amazon Comprehend 
+## AIM356-R1: Smarter text analytics with Amazon ES & Amazon Comprehend 
 
 In this session, learn how to use Amazon Elasticsearch Service (Amazon ES) and Amazon Comprehend to extract and visualize insights from text. Learn how to index and analyze news and Twitter feeds, and create live dashboards to visualize extracted entities, key phrases, and sentiment. Please bring your laptop.
 
-AIM357: Build an ETL pipeline to analyze customer data 
+## AIM357: Build an ETL pipeline to analyze customer data 
 
 Machine learning involves more than just training models; you need to source and prepare data, engineer features, select algorithms, train and tune models, and then deploy those models and monitor their performance in production. Learn how to set up an ETL pipeline to analyze customer data using Amazon SageMaker, AWS Glue, and AWS Step Functions.
 
-AIM358: Prepare data for ML using Amazon SageMaker 
+## AIM358: Prepare data for ML using Amazon SageMaker 
 
 High-quality datasets are the foundation of machine learning. In this chalk talk, we explain how to use Amazon SageMaker to prepare data. We show you how to create data inference pipelines so you can pass raw input data and execute preprocessing, predictions, and post-processing on real-time and batch inference requests. We also show you how to build data processing and feature engineering pipelines with a suite of feature transformers available in the SparkML and Scikit-learn framework containers in Amazon SageMaker.
 
-AIM359-R1: Build a fraud detection system with Amazon SageMaker 
+## AIM359-R1: Build a fraud detection system with Amazon SageMaker 
 
 In this workshop, we will explore the new AWS Fraud Detection Solution. We show you how to build, train, and deploy a fraud detection machine learning model. The fraud detection model recognizes fraud patterns, and is self-learning which enables it to adapt to new, unknown fraud patterns. We will show you how to execute automated transaction processing, and how to the Fraud Detection solution flags that activity for review. The solution comes with an implementation guide and accompanying AWS CloudFormation template.
 
-AIM360: Build a predictive maintenance system with Amazon SageMaker 
+## AIM360: Build a predictive maintenance system with Amazon SageMaker 
 
 In this workshop, we explore the new AWS Predictive Maintenance Using Machine Learning solution. This solution deploys a machine learning model and an example dataset of turbofan degradation simulation data to train the model to recognize potential equipment failures. You can use this solution to automate the detection of potential equipment failures and provide recommended actions to take. We walk through the solution's implementation guide and accompanying AWS CloudFormation template.
 
-AIM361-R1: [NEW LAUNCH!] Optimizing Your Machine Learning Models on Amazon SageMaker 
+## AIM361-R1: [NEW LAUNCH!] Optimizing Your Machine Learning Models on Amazon SageMaker 
 
 In this code-level workshop, you'll learn how to use hyperparameter optimization (HPO) and AutoML on Amazon SageMaker, in order to quickly and easily build highly accurate machine learning models. Using a real-life dataset, you'll first use HPO to tune models built with the popular XGBoost algorithm. Then, you'll use the newly released AutoML capability in Amazon SageMaker to automatically figure out the algorithm, the parameters, and the data preprocessing steps. Finally, you'll use HPO again to perform architecture search on a Keras neural network. Prerequisites: familiarity with Python, Jupyter, Amazon SageMaker and basic machine learning concepts.
 
-AIM362-R1: [NEW LAUNCH!] Build, train & debug, and deploy & monitor with Amazon SageMaker 
+## AIM362-R1: [NEW LAUNCH!] Build, train & debug, and deploy & monitor with Amazon SageMaker 
 
 Amazon SageMaker is a fully managed service that removes the heavy lifting from each step of the machine learning (ML) workflow and provides every developer and data scientist with the ability to build, train, and deploy ML models quickly. In this interactive workshop, we work on the different aspects of the ML workflow to build, train, and deploy a model using all the capabilities of Amazon SageMaker, including the ones that we announced at re:Invent this week. We use Amazon SageMaker to build and share notebooks, train and debug models with Amazon SageMaker Debugger, and deploy and monitor with Amazon SageMaker Model Monitor. Let's build together!
 
-AIM363: How to use NLP for domain-specific data 
+## AIM363: How to use NLP for domain-specific data 
 
 Market segments like finance, insurance, or manufacturing all have documents and data that are very specific to their business. In this chalk talk, we discuss how you can utilize Amazon Comprehend custom entity recognition and classification, and AutoML features, to build state-of-the-art custom models to extract domain-specific terms and classifiers completely automatically.
 
