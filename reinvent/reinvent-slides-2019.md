@@ -596,15 +596,15 @@ API311: Managing business processes using AWS Step Functions
 
 iRobot uses AWS Step Functions to manage a broad range of business processes, from regulatory compliance to firmware rollouts. Step Functions has eliminated the need for burdensome and expensive long-running compute resources to manage these processes and replaced it with an accessible, declarative language that can glue together a broad suite of AWS services. In this session, we present several business use cases for Step Functions, along with implementation patterns, including decoupling, eternal processes, and approval emails.
 
-API312: How to select the right application-integration service 
+## API312: How to select the right application-integration service 
 
 Sometimes, architects are unsure about the right application-integration tool or protocol for their use case. To begin with, there is messaging vs. streaming. But even when we're clear about that, there are several different protocols and tools for each category. In this chalk talk, we introduce a decision tree to help you select the right messaging or streaming tool for your architecture. We also discuss real-world scenarios provided by the audience. Bring your challenges and leave this session with a solid understanding of when to use what in messaging and streaming.
 
-API313: Nondisruptive strategies for application migration 
+## API313: Nondisruptive strategies for application migration 
 
 Many companies want to refactor applications to increase agility, but they face the challenge of migrating on-premises workloads to the cloud first. This is especially challenging for mission-critical applications, where any downtime has a major customer or business impact. In this session, we dive into common application-migration challenges and nondisruptive approaches, including hybrid architectures, that minimize the impact that migration has on existing applications. We review common on-premises message-broker vendors, like IBM MQ and RabbitMQ, and the benefits of using a managed broker like Amazon MQ as part of a migration strategy.
 
-API315-R3: Application integration patterns for microservices 
+## API315-R3: Application integration patterns for microservices 
 
 One of the implications of applying the microservices architectural style is that a lot of communication between components is done over the network. In order to achieve the promises of microservices, this communication needs to happen in a loosely coupled manner. In this session, we discuss some fundamental application integration patterns mostly based on messaging and connect them to real-world use cases in a microservices scenario. We also point out some benefits that asynchronous messaging can have over REST APIs for communication between microservices.
 
