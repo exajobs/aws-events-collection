@@ -409,3 +409,142 @@ Come build the most accurate text-classification model possible with Amazon Sage
 ## AIM428: [NEW LAUNCH!] AWS DeepRacer multi-car racing: An advanced RL driving course 
 
 This technical deep dive is suitable for advanced machine learning developers looking to learn more complex reinforcement learning (RL) concepts using AWS DeepRacer and Amazon SageMaker RL. AWS data scientists help you build models capable of avoiding objects and overtaking other cars using innovations in neural network architecture and expanded algorithms.
+
+
+# Analytics
+
+ANT308-R1: Deep dive into running Apache Spark on Amazon EMR   
+
+Amazon EMR enables customers to run ETL, machine learning, real-time processing, data science, and low-latency SQL at petabyte scale. We focus this session on running Apache Spark on Amazon EMR. We introduce design patterns such as using Amazon S3 instead of HDFS, running long- and short-lived clusters, using notebooks, and performance-related enhancements. We discuss lowering cost with auto scaling and Spot Instances, and security with encryption and fine-grained access control with AWS Lake Formation.
+
+ANT333: How Woot.com built a serverless data lake with AWS analytics   
+
+Woot.com designed and developed a data lake as a replacement for their legacy data warehouse to deliver powerful analytics capabilities across multiple business areas. In this session, learn how it used Amazon EMR, Amazon Athena, AWS Glue, and Amazon QuickSight to build an automated process to ingest and centralize data from external and internal sources for immediate analysis.
+
+ANT334-R: Migrate your data warehouse to the cloud in record time, featuring Fannie Mae 
+
+Modern data warehousing blends and analyzes all your data-in your data warehouse and in your data lake-without needing to move the data. In this session, a representative from Fannie Mae explains how they migrated from a leading on-premises data warehouse to Amazon Redshift in record time. See how the company uses AWS Database Migration Service (AWS DMS), AWS Schema Conversion Tool, AWS Glue, and Amazon Redshift to provide timely analytics across the organization.
+
+ANT334-R1: Migrate your data warehouse to the cloud in record time, featuring Nielsen   
+
+Modern data warehousing blends and analyzes all your data-in your data warehouse and in your data lake-without needing to move the data. In this session, a representative from Nielsen explains how they migrated from a leading on-premises data warehouse to Amazon Redshift in record time. See how the company uses AWS Database Migration Service (AWS DMS), AWS Schema Conversion Tool, AWS Glue, and Amazon Redshift to provide timely analytics across the organization.
+
+ANT335-R: How to build your data analytics stack at scale with Amazon Redshift   
+
+Modern cloud data warehouses must be able to scale up and scale out as needed to handle variable analytics workloads. In this session, we discuss Amazon Redshift's ability to deliver top performance at the lowest and most predictable cost for any use case or workload. Learn how Amazon Redshift handles small datasets with large bursts of query activity, large datasets with complex queries, a mix of frequently queried data and infrequently accessed historical data, a mix of open file formats in an Amazon S3 data lake and structured data in Amazon Redshift, and more.
+
+ANT335-R1: How to scale data analytics with Amazon Redshift, featuring Warner Bros. 
+
+Modern cloud data warehouses must be able to scale up and out to handle variable analytics workloads. In this session, we discuss Amazon Redshift's ability to deliver top performance at the lowest and most predictable cost for any use case or workload. Learn how Amazon Redshift handles small datasets with large bursts of query activity, large datasets with complex queries, a mix of frequently queried data and infrequently accessed historical data, a mix of open file formats in an Amazon S3 data lake and structured data in Amazon Redshift, and more. Additionally, Warner Brothers discusses how it has seen improvements to its analytics performance with Amazon Redshift.
+
+ANT335-R2: How to scale data analytics with Amazon Redshift 
+
+Modern cloud data warehouses must be able to scale up and out to handle variable analytics workloads. In this session, we discuss Amazon Redshift's ability to deliver top performance at the lowest and most predictable cost for any use case or workload. Learn how Amazon Redshift handles small datasets with large bursts of query activity, large datasets with complex queries, a mix of frequently queried data and infrequently accessed historical data, a mix of open file formats in an Amazon S3 data lake and structured data in Amazon Redshift, and more.¬†
+
+ANT336-R1: Rapidly evaluate AWS analytics solutions with Amazon Redshift 
+
+Amazon Redshift's pace of innovation continues to increase year-over-year, putting price-performance at an all-time high. Whether you're looking to modernize an existing Amazon Redshift footprint, migrate from an on-premises data warehouse, or get hands-on with AWS's popular cloud data warehouse, this session equips you for success. The Amazon Redshift engineering team guides you through a comprehensive evaluation of modern Amazon Redshift features by using the Amazon Redshift gold standards framework, a robust analytics architecture, managed datasets, and a suite of benchmarking and demonstration tools. The discussions and hands-on labs will rapidly onboard you on the latest features of Amazon Redshift.
+
+ANT337-R1: Stored procedures in Amazon Redshift 
+
+In this session, we show you how to make the best use of stored procedures in Amazon Redshift to encapsulate business logic in a secure manner. With PL/pgSQL stored procedures, you can easily migrate existing workloads from legacy, on-premises data warehouses to Amazon Redshift. We show how, using the security definer functionality in our stored procedures, an administrator can allow users to perform specific administrative actions without the added risk of security exposure that comes from giving them broad access to database objects.
+
+ANT338-R1: Best practices for using popular BI tools with Amazon Redshift 
+
+Popular business intelligence (BI) tools like Tableau, Looker, MicroStrategy, Amazon QuickSight, and others are used with Amazon Redshift to visualize analytical results. In this session, we discuss tips and best practices to optimize Amazon Redshift with popular BI tools. We show how tight integration can yield considerable performance gains, shorten development cycles, and make queries more efficient.
+
+ANT339: How Cerner built a healthcare ML ecosystem with AWS analytics 
+
+Cerner deployed a platform that enables developers to build analytics and predictive healthcare models using big data architecture and machine learning. This accelerates innovation and creates a common strategy to deploy models to the market faster. In this chalk talk, learn how to create an ecosystem allowing data scientists and engineers to collaborate, deploy, and monitor machine learning models and data transformation jobs on both batch and stream data powered by a data lake architecture.
+
+ANT340-R1: How Equinox Fitness built serverless data applications with AWS 
+
+Equinox Fitness members perform millions of user actions daily, both online and onsite. In this talk, learn how the team at Equinox leveraged services like Amazon Redshift, Amazon EMR, AWS Lambda, and Amazon DynamoDB to deploy fully serverless data applications and platforms in a matter of months and can now provide better personalization and accelerate ideation. Come learn how to create an environment that allows data scientists and engineers to collaborate, deploy, and monitor machine learning models and data transformation jobs.
+
+ANT341: Integrating Amazon SageMaker and Amazon QuickSight 
+
+Today, customers using traditional business intelligence tools spend too much time sifting through numerous dashboards to manually interpret charts and tables. Amazon QuickSight now applies the power of machine learning and natural language to proactively discover and deliver insights to every user in your organization. In this chalk talk, we show you how you can integrate Amazon QuickSight with Amazon SageMaker to build dashboards and make predictions using your own custom ML models.
+
+ANT342: [NEW LAUNCH!] Scalable, secure, interactive log analytics using Amazon ES 
+
+With the rapid growth in machine generated data, customers are looking for ways to securely and cost-effectively analyze this constantly growing data in real time. In this talk, we will discuss how to use Amazon Elasticsearch Service to build a secure and scalable log analytics solution to interactively analyze your log data and get valuable operational intelligence for application monitoring, log forensics, clickstream analytics, SIEM, and more.
+
+ANT343: [NEW LAUNCH!] Create a retail data product on AWS Data Exchange 
+
+AWS Data Exchange makes it easy to securely list retail data products for sharing with AWS customers. In this builders session, you see how easy it is to prepare and package a data product, list it with terms and pricing, and make revisions and alert your customers. You also learn how to bring over existing customers' subscriptions and deliver data without all the hassle. Be sure to bring your laptop.
+
+ANT344-R1: Augment business analytics with Amazon QuickSight & Amazon SageMaker 
+
+This session covers a new integration between Amazon QuickSight and Amazon SageMaker that makes it easy to connect to and use your predictive analytics models from Amazon SageMaker with Amazon QuickSight dashboards and analyses. Please bring your laptop.
+
+ANT345-S: Tableau Server on AWS enables analytics agility for Capital One 
+
+As a financial institution, Capital One must be compliant with internal and external policies and regulations. One of these is to regularly replace its Tableau infrastructure, which enables the company to always have the latest security updates and patches in place. To meet this requirement, Capital One chose Tableau Server on AWS and devised a one-click deployment pattern that reduced time and errors while increasing flexibility. In this session, representatives from Capital One discuss some key principles to be aware of as you start or grow your own Tableau deployment. This presentation is brought to you by Tableau, an APN Partner.
+
+ANT347-S: Build reliable data lakes with Delta Lake & Databricks   
+
+Enterprises need secure and reliable data storage to drive successful analytics programs. Data lakes are a key architectural element of modern data platforms, yet they can suffer from reliability challenges. In this session, you learn about the key data reliability challenges that data lakes face and how you can use open-source Delta Lake to apply schema enforcement, ACID transactions, and versioning to your data lake, making it usable for analytics. This presentation is brought to you by Databricks, an APN Partner.
+
+ANT401-R1: Build real-time analytics for a ride-sharing app 
+
+In this session, we walk through how to perform real-time analytics on ride-sharing and taxi data, and we explore how to build a reliable, scalable, and highly available streaming architecture based on managed services. You learn how to deploy, operate, and scale an Apache Flink application with Amazon Kinesis Data Analytics for Java applications. Leave this workshop knowing how to build an end-to-end streaming analytics pipeline, starting with ingesting data into a Kinesis data stream, writing and deploying a Flink application to perform basic stream transformations and aggregations, and persisting the results to Amazon Elasticsearch Service to be visualized from Kibana.
+
+ANT402-R2: Lift and shift an Apache Kafka cluster to Amazon MSK 
+
+Bring your Apache Kafka cluster to Amazon Managed Streaming for Kafka. Amazon MSK is a fully managed service that makes it easy to build and run applications that use Apache Kafka to process streaming data. Apache Kafka is an open-source platform for building real-time streaming data pipelines and applications. In this session, we show how to lift and shift your self-managed Apache Kafka cluster using MirrorMaker 2.0. We cover topics like running hot/hot Apache Kafka clusters and walk through migrating a live Apache Kafka cluster.
+
+ANT404-R1: Build a single query to analyze data across Amazon Redshift & Amazon S3 
+
+Amazon Redshift offers a common query interface against data stored in fast, local storage (Amazon Redshift) and data stored in high-capacity, inexpensive storage (Amazon S3). This workshop covers the basics of this tiered storage model and outlines design patterns that you can leverage to get the most from large volumes of data. Learn how to build out your own Amazon Redshift cluster with multiple data sets to illustrate the trade-offs between the storage systems. Learn how to distribute your data and design your DDL to deliver the best data warehouse for your business.
+
+ANT406-R1: Build a single query to analyze data across Amazon Redshift and Amazon S3 
+
+All organizations have dark data that is not loaded into their data warehouse for analysis. When that data is needed, ETL setup and data loading can take days or weeks, delaying time to insight. This session shows you how to mine your Amazon S3 data lake with Amazon Redshift without the need for data movement. Learn how to write a single query that analyzes open data formats stored in your Amazon S3 data lake and data stored in Amazon Redshift. Please bring your laptop.
+
+ANT407-R1: Real-time apps with Amazon Kinesis Data Analytics and Apache Flink 
+
+Building production-ready streaming applications can be complex, and maintaining them once they go live can be expensive and require dedicated resources and time. By using Amazon Kinesis fully managed streaming services, you can build, deploy, and maintain real-time applications that are highly available, durable, secure, and cost effective. In this session, we walk through how to build an application with Java leveraging Apache Flink, and share best practices for building and maintaining live applications. A foundational understanding of Apache Flink and Java is recommended for this session. Please come prepared with an active AWS account. Please bring your laptop.
+
+ANT408-R1: Amazon ES sizing and capacity planning 
+
+How many instances? How many shards? What can I monitor? Whether you're new to Amazon Elasticsearch Service (Amazon ES) or a veteran, you need to understand where to start with capacity planning and how to adjust based on monitoring your domain. In this session, we address all of your questions on sizing, explaining the drivers and key metrics along the way.
+
+ANT409-R1: Getting started with streaming data and Amazon Kinesis 
+
+In this session, we walk through how to build a simple, end-to-end streaming architecture using Amazon Kinesis and AWS Lambda. We cover how continuous, serverless processing works, and the best practices for taking a simple app and getting it into production. Please bring your laptop.
+
+ANT411-R1: Learn how to make ETL and ELT easy with Amazon Redshift 
+
+Loading data into your data warehouse quickly and reliably is a big pain point for many organizations. In this session, we show you how to generate the schema for your semi-structured data; create ETL code to transform, flatten, and enrich the data; and load it into Amazon Redshift on a recurring basis. You learn best practices to make your data pipeline performant and efficient. Please bring your laptop.
+
+ANT412-R1: Modernize your data warehouse with Amazon Redshift 
+
+Migrating an on-premises data warehouse to the cloud is often perceived as complex, but it doesn't have to be. In this builders session, we go over the steps you should take to correctly collect your requirements. We also cover AWS services that can assist you in migrating your data to Amazon Redshift, such as AWS Database Migration Service (AWS DMS), AWS Snowball, and AWS Snowmobile. We then dive into targeted use cases based on the needs of the participants in the room. Please bring your laptop.
+
+ANT413-R1: How to tame unpredictable analytics workloads with Amazon Redshift 
+
+Scaling a traditional data warehouse can be complex, time consuming, and expensive. In this session, we show you how to deploy Amazon Redshift in minutes and automate most administrative tasks. Learn how to manage, monitor, and scale your data warehouse quickly and easily. You also learn how to deploy and scale multiple independent clusters, and scale each independently to address different workload scenarios. Please bring your laptop.
+
+ANT414-R1: Build great Kibana visualizations 
+
+In this session, we walk you through how to visualize your data in Kibana. You start by learning how to create a visualization and then bring those visualizations together under an overarching dashboard. We cover visualizations such as mapping latitude and longitude, heat maps, bar charts, lines, and newer tools such as Vega. Please bring your laptop.
+
+ANT415-R1: Learn how to quickly ingest data into Amazon S3 
+
+Want to quickly get data into Amazon Simple Storage Service (Amazon S3) without a large number of small objects? Learn how you can use streaming data to capture, buffer, and deliver data to Amazon S3 in an optimal manner using Amazon Kinesis. Use this pattern to more easily and quickly take advantage of services that process data from Amazon S3, including Amazon Redshift and Amazon Athena. Please come prepared with an active AWS account and your laptop.
+
+ANT416-R: Performance and elasticity in Amazon Redshift 
+
+This session dives deep into the capabilities of Amazon Redshift. See how Amazon Redshift achieves its state-of-the-art performance and learn about all aspects of elasticity, from the compute and data elasticity within a single cluster to elasticity across multiple clusters.
+
+ANT416-R1: Performance and elasticity in Amazon Redshift 
+
+This session dives deep into the capabilities of Amazon Redshift. See how Amazon Redshift achieves its state-of-the-art performance and learn about all aspects of elasticity, from the compute and data elasticity within a single cluster to elasticity across multiple clusters.
+
+ANT417: Accelerating performance with materialized views 
+
+Amazon Redshift materialized views enable a dramatic reduction in query latency. This session explains how to get faster query results, either automatically or by having the queries explicitly refer to the materialized views. Materialized views also enable the acceleration of ETL pipelines by automatically and incrementally propagating changes from the base table data into the derived data of the materialized views, thus providing a superior alternative to the CTAS commands that recompute the derived data.
+
+ANT418: Deep dive and best practices for Amazon Redshift   
+
+In this session, we take an in-depth look at best practices for data warehousing with Amazon Redshift. We show you the best way to analyze all your data, inside and outside your data warehouse, without moving the data, which helps you gain deeper insights for running your business. We also cover best practices for how to design optimal schemas, load data efficiently, and optimize your queries to deliver high throughput and performance.
