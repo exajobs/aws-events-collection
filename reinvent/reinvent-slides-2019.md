@@ -555,7 +555,7 @@ Amazon Redshift materialized views enable a dramatic reduction in query latency.
 In this session, we take an in-depth look at best practices for data warehousing with Amazon Redshift. We show you the best way to analyze all your data, inside and outside your data warehouse, without moving the data, which helps you gain deeper insights for running your business. We also cover best practices for how to design optimal schemas, load data efficiently, and optimize your queries to deliver high throughput and performance.
 
 
-# Aplication Integration
+# Application Integration
 
 ## API201: Accelerating app migration using Amazon MQ 
 
