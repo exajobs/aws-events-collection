@@ -445,51 +445,51 @@ ANT336-R1: Rapidly evaluate AWS analytics solutions with Amazon Redshift
 
 Amazon Redshift's pace of innovation continues to increase year-over-year, putting price-performance at an all-time high. Whether you're looking to modernize an existing Amazon Redshift footprint, migrate from an on-premises data warehouse, or get hands-on with AWS's popular cloud data warehouse, this session equips you for success. The Amazon Redshift engineering team guides you through a comprehensive evaluation of modern Amazon Redshift features by using the Amazon Redshift gold standards framework, a robust analytics architecture, managed datasets, and a suite of benchmarking and demonstration tools. The discussions and hands-on labs will rapidly onboard you on the latest features of Amazon Redshift.
 
-ANT337-R1: Stored procedures in Amazon Redshift 
+## ANT337-R1: Stored procedures in Amazon Redshift 
 
 In this session, we show you how to make the best use of stored procedures in Amazon Redshift to encapsulate business logic in a secure manner. With PL/pgSQL stored procedures, you can easily migrate existing workloads from legacy, on-premises data warehouses to Amazon Redshift. We show how, using the security definer functionality in our stored procedures, an administrator can allow users to perform specific administrative actions without the added risk of security exposure that comes from giving them broad access to database objects.
 
-ANT338-R1: Best practices for using popular BI tools with Amazon Redshift 
+## ANT338-R1: Best practices for using popular BI tools with Amazon Redshift 
 
 Popular business intelligence (BI) tools like Tableau, Looker, MicroStrategy, Amazon QuickSight, and others are used with Amazon Redshift to visualize analytical results. In this session, we discuss tips and best practices to optimize Amazon Redshift with popular BI tools. We show how tight integration can yield considerable performance gains, shorten development cycles, and make queries more efficient.
 
-ANT339: How Cerner built a healthcare ML ecosystem with AWS analytics 
+## ANT339: How Cerner built a healthcare ML ecosystem with AWS analytics 
 
 Cerner deployed a platform that enables developers to build analytics and predictive healthcare models using big data architecture and machine learning. This accelerates innovation and creates a common strategy to deploy models to the market faster. In this chalk talk, learn how to create an ecosystem allowing data scientists and engineers to collaborate, deploy, and monitor machine learning models and data transformation jobs on both batch and stream data powered by a data lake architecture.
 
-ANT340-R1: How Equinox Fitness built serverless data applications with AWS 
+## ANT340-R1: How Equinox Fitness built serverless data applications with AWS 
 
 Equinox Fitness members perform millions of user actions daily, both online and onsite. In this talk, learn how the team at Equinox leveraged services like Amazon Redshift, Amazon EMR, AWS Lambda, and Amazon DynamoDB to deploy fully serverless data applications and platforms in a matter of months and can now provide better personalization and accelerate ideation. Come learn how to create an environment that allows data scientists and engineers to collaborate, deploy, and monitor machine learning models and data transformation jobs.
 
-ANT341: Integrating Amazon SageMaker and Amazon QuickSight 
+## ANT341: Integrating Amazon SageMaker and Amazon QuickSight 
 
 Today, customers using traditional business intelligence tools spend too much time sifting through numerous dashboards to manually interpret charts and tables. Amazon QuickSight now applies the power of machine learning and natural language to proactively discover and deliver insights to every user in your organization. In this chalk talk, we show you how you can integrate Amazon QuickSight with Amazon SageMaker to build dashboards and make predictions using your own custom ML models.
 
-ANT342: [NEW LAUNCH!] Scalable, secure, interactive log analytics using Amazon ES 
+## ANT342: [NEW LAUNCH!] Scalable, secure, interactive log analytics using Amazon ES 
 
 With the rapid growth in machine generated data, customers are looking for ways to securely and cost-effectively analyze this constantly growing data in real time. In this talk, we will discuss how to use Amazon Elasticsearch Service to build a secure and scalable log analytics solution to interactively analyze your log data and get valuable operational intelligence for application monitoring, log forensics, clickstream analytics, SIEM, and more.
 
-ANT343: [NEW LAUNCH!] Create a retail data product on AWS Data Exchange 
+## ANT343: [NEW LAUNCH!] Create a retail data product on AWS Data Exchange 
 
 AWS Data Exchange makes it easy to securely list retail data products for sharing with AWS customers. In this builders session, you see how easy it is to prepare and package a data product, list it with terms and pricing, and make revisions and alert your customers. You also learn how to bring over existing customers' subscriptions and deliver data without all the hassle. Be sure to bring your laptop.
 
-ANT344-R1: Augment business analytics with Amazon QuickSight & Amazon SageMaker 
+## ANT344-R1: Augment business analytics with Amazon QuickSight & Amazon SageMaker 
 
 This session covers a new integration between Amazon QuickSight and Amazon SageMaker that makes it easy to connect to and use your predictive analytics models from Amazon SageMaker with Amazon QuickSight dashboards and analyses. Please bring your laptop.
 
-ANT345-S: Tableau Server on AWS enables analytics agility for Capital One 
+## ANT345-S: Tableau Server on AWS enables analytics agility for Capital One 
 
 As a financial institution, Capital One must be compliant with internal and external policies and regulations. One of these is to regularly replace its Tableau infrastructure, which enables the company to always have the latest security updates and patches in place. To meet this requirement, Capital One chose Tableau Server on AWS and devised a one-click deployment pattern that reduced time and errors while increasing flexibility. In this session, representatives from Capital One discuss some key principles to be aware of as you start or grow your own Tableau deployment. This presentation is brought to you by Tableau, an APN Partner.
 
-ANT347-S: Build reliable data lakes with Delta Lake & Databricks   
+## ANT347-S: Build reliable data lakes with Delta Lake & Databricks   
 
 Enterprises need secure and reliable data storage to drive successful analytics programs. Data lakes are a key architectural element of modern data platforms, yet they can suffer from reliability challenges. In this session, you learn about the key data reliability challenges that data lakes face and how you can use open-source Delta Lake to apply schema enforcement, ACID transactions, and versioning to your data lake, making it usable for analytics. This presentation is brought to you by Databricks, an APN Partner.
 
-ANT401-R1: Build real-time analytics for a ride-sharing app 
+## ANT401-R1: Build real-time analytics for a ride-sharing app 
 
 In this session, we walk through how to perform real-time analytics on ride-sharing and taxi data, and we explore how to build a reliable, scalable, and highly available streaming architecture based on managed services. You learn how to deploy, operate, and scale an Apache Flink application with Amazon Kinesis Data Analytics for Java applications. Leave this workshop knowing how to build an end-to-end streaming analytics pipeline, starting with ingesting data into a Kinesis data stream, writing and deploying a Flink application to perform basic stream transformations and aggregations, and persisting the results to Amazon Elasticsearch Service to be visualized from Kibana.
 
-ANT402-R2: Lift and shift an Apache Kafka cluster to Amazon MSK 
+## ANT402-R2: Lift and shift an Apache Kafka cluster to Amazon MSK 
 
 Bring your Apache Kafka cluster to Amazon Managed Streaming for Kafka. Amazon MSK is a fully managed service that makes it easy to build and run applications that use Apache Kafka to process streaming data. Apache Kafka is an open-source platform for building real-time streaming data pipelines and applications. In this session, we show how to lift and shift your self-managed Apache Kafka cluster using MirrorMaker 2.0. We cover topics like running hot/hot Apache Kafka clusters and walk through migrating a live Apache Kafka cluster.
 
