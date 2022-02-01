@@ -330,71 +330,71 @@ In this builders session, we show you how to set up your own machine learning en
 
 TensorFlow is one of several open-source deep learning frameworks used in machine learning development that is currently popular among developers. But it can be challenging to scale TensorFlow model training and inference. Amazon SageMaker provides several features that solve these challenges. In this session, learn about these features, including distributed training, cost-effective inference, and workflow management. Then, hear from Mobileye, an Intel company focused on developing and delivering driving assist and autonomous vehicles solutions, about how they migrated their training workloads to Amazon SageMaker to reduce development cycle time from weeks to days.
 
-AIM410-R1: Deep learning applications with TensorFlow, featuring Fannie Mae 
+## AIM410-R1: Deep learning applications with TensorFlow, featuring Fannie Mae 
 
 TensorFlow is one of several currently popular open-source deep learning frameworks used in machine learning development. But it can be challenging to scale TensorFlow model training and inference. Amazon SageMaker provides several features that solve these challenges. In this session, learn about these features, including distributed training, cost-effective inference, and workflow management. Then, hear from Fannie Mae about how it developed its TensorFlow-based home appraisal models using Amazon SageMaker for scalability, security, and ease of management.
 
-AIM411-R1: Deep learning applications using Apache MXNet   
+## AIM411-R1: Deep learning applications using Apache MXNet   
 
 The Apache MXNet deep learning framework is used for developing, training, and deploying diverse artificial intelligence (AI) applications, including computer vision, speech recognition, and natural language processing (NLP). In this session, learn how to develop deep learning models with MXNet on Amazon SageMaker. Hear from the BBC about how it built a BERT-based NLP application to allow its website users to find relevant clips from recorded shows. We use the BBC's NLP application to demonstrate how to leverage MXNet's GluonNLP library to quickly build, train, and deploy deep learning models.
 
-AIM412-R: Deep learning applications using PyTorch, featuring Autodesk   
+## AIM412-R: Deep learning applications using PyTorch, featuring Autodesk   
 
 With support for PyTorch in Amazon SageMaker, you have a flexible deep learning framework combined with a fully managed machine learning solution to transition seamlessly from research prototyping to production deployment. In this session, hear from the PyTorch team on the latest features and library releases. Also learn how to develop with PyTorch using Amazon SageMaker for key use cases such as using a BERT model for natural language processing (NLP) and instance segmentation for fine-grain computer vision. Lastly, take away best practices from Autodesk based on its experience with PyTorch on Amazon SageMaker for a range of NLP use cases.
 
-AIM412-R1: Deep learning applications with PyTorch, featuring Freshworks 
+## AIM412-R1: Deep learning applications with PyTorch, featuring Freshworks 
 
 With support for PyTorch in Amazon SageMaker, you have a flexible deep learning framework combined with a fully managed machine learning solution to transition seamlessly from research prototyping to production deployment. In this session, hear from the PyTorch team on the latest features and library releases. Also learn how to develop with PyTorch using Amazon SageMaker for key use cases such as using a BERT model for natural language processing (NLP) and instance segmentation for fine-grain computer vision. Lastly, hear from Freshworks about how it reduced the time to train 20,000+ models from 15 hours to 30 minutes using PyTorch and Amazon SageMaker.
 
-AIM413: Deep dive on Project Jupyter   
+## AIM413: Deep dive on Project Jupyter   
 
 Amazon SageMaker offers fully managed Jupyter notebooks that you can use in the cloud so you can explore and visualize data and develop your machine learning model. In this session, we explain why we picked Jupyter notebooks, and how and why AWS is contributing to Project Jupyter. We dive deep into our overall strategy for Jupyter and explain different use cases for Jupyter, including data science, analytics, and simulation.
 
-AIM414: Containerizing deep learning workflows 
+## AIM414: Containerizing deep learning workflows 
 
 Deep learning software stacks can be complex to build, optimize, and maintain. With different versions of frameworks, libraries, runtimes, and drivers for CPUs and GPUs, developers and data scientists spend much time ensuring that the full software stack works well together during upgrades and system changes. Join us for a discussion on how container technologies can address these challenges by providing training and inference environments that are lightweight, portable, consistent, and scalable.
 
-AIM415-R1: Build fraud detection systems with Amazon SageMaker 
+## AIM415-R1: Build fraud detection systems with Amazon SageMaker 
 
 Fraud is an expensive problem that can damage customer trust. Many companies use a rule-based approach to detect fraudulent activity. But implementing and maintaining rules can be a complex process because fraud is constantly evolving, rules require that fraud patterns be known, and rules can lead to false positives or negatives. In this session, learn how machine learning (ML) can provide a more flexible approach. We dive deep on an ML solution using Amazon SageMaker, where the ML models don't use rules. Instead, they're trained to recognize fraud patterns, and they're self-learning, enabling them to adapt.
 
-AIM416: Deploy an ML model on the cloud and at the edge 
+## AIM416: Deploy an ML model on the cloud and at the edge 
 
 In this workshop, learn how to use Amazon SageMaker Neo deep learning compiler to compile your trained TensorFlow models and deploy them on the cloud or on edge devices using AWS IoT Greengrass. Learn how Neo deep learning compiler optimizes the trained models by improving efficiency and reducing the memory footprint of the compiled model and how Neo runtime abstracts the underlying hardware and allows running a compiled model on the target hardware platform. Explore how to reduce your inference costs by up to 75 percent using Amazon Elastic Inference to attach elastic GPU acceleration to your Amazon SageMaker instances.
 
-AIM417: Reinforcement learning with Amazon SageMaker 
+## AIM417: Reinforcement learning with Amazon SageMaker 
 
 Many applications, like personalized web services, are continuously faced with decisions based on contextual information. These services strive to adapt to individual users by making use of context. Despite advances, the problem remains challenging. First, systems should adapt to dynamically changing environments like evolving user interests. Second, because of the partial feedback that the system receives, decisions must be scrutinized to avoid introducing bias and a"self-fulfilling prophecy." Contextual bandits can be very effective in solving these problems; they adapt to dynamic environments while continuously balancing exploration with exploitation. In this session, we discuss building a scalable bandit model.
 
-AIM418: Distributed deep learning with Horovod 
+## AIM418: Distributed deep learning with Horovod 
 
 One of the main challenges customers face with deep learning is running efficient model training over multiple nodes. In this chalk talk, we discuss how to use Horovod, a distributed training framework, to speed up deep learning training for multiple frameworks including TensorFlow, PyTorch, and Apache MXNet. We also discuss how to run Horovod in Amazon SageMaker.
 
-AIM419-R1: [NEW LAUNCH!] Easily implement human review workflows for ML applications 
+## AIM419-R1: [NEW LAUNCH!] Easily implement human review workflows for ML applications 
 
 Amazon Augmented AI (A2I) is a service that makes it easy to build the workflows required for human review of machine learning (ML) predictions. Come join us for a demo and discussion of how to use Amazon A2I for the most common ML use cases, such as content moderation, text extraction, and image classification.
 
-AIM420: Build state-of-the-art NLP models with Amazon SageMaker and GluonNLP 
+## AIM420: Build state-of-the-art NLP models with Amazon SageMaker and GluonNLP 
 
 Implementing natural language processing (NLP) models just got simpler and faster. In this chalk talk, we introduce BERT (Bidirectional Encoder Representation from Transformers), a state-of-the-art (SOTA) NLP model, and demonstrate how it can be used for various NLP tasks. Learn how to implement NLP models using Apache MXNet and the GluonNLP toolkit to quickly prototype products, validate new ideas, and learn SOTA NLP. We also show how you can use GluonNLP and Amazon SageMaker to fine-tune BERT for a text classification use case and deploy the trained model. Come join us to train your NLP model onsite.
 
-AIM421-R1: How to use unsupervised ML to find patterns, meaning, and anomalies 
+## AIM421-R1: How to use unsupervised ML to find patterns, meaning, and anomalies 
 
 Unsupervised machine learning algorithms infer patterns from a dataset without reference to known or labeled outcomes. Unsupervised learning is used for discovering the underlying structure of data. In this chalk talk, we discuss how to use unsupervised learning and Amazon SageMaker for anomaly detection to automatically discover unusual data points in your dataset. This is useful to detect fraudulent transactions, faulty hardware, or outliers caused by human errors during data entry. We also discuss the intricacies of unsupervised algorithms, including clustering with k-means and anomaly detection with Amazon SageMaker Random Cut Forest (RCF).
 
-AIM422: Machine learning at the edge with Amazon SageMaker Neo 
+## AIM422: Machine learning at the edge with Amazon SageMaker Neo 
 
 Video-based tools have enabled advancements in computer vision, such as in-vehicle use cases for AI. However, it is not always possible to send this data to the cloud to be processed. In this chalk talk, learn how to train machine learning models using Amazon SageMaker and deploy them to an edge device using AWS Greengrass, enabling you to process data quickly at the edge, even when there is no connectivity.
 
-AIM423-R1: Improve your logistic operations with accurate forecasting 
+## AIM423-R1: Improve your logistic operations with accurate forecasting 
 
 One of biggest challenges of logistics is building highly accurate forecasts that impact all downstream operations. With accurate demand forecasting, you can align your resources and workforce and realize cost efficiencies. Being able to estimate peak demand allows you to differentiate your customer experience to improve satisfaction. In this builders session, we discuss how to incorporate large volumes of historical demand and contextual data to build forecasts for increased decision accuracy and logistic improvements.
 
-AIM424-R1: Accelerate experimentation with personalization models 
+## AIM424-R1: Accelerate experimentation with personalization models 
 
 In this builders session, you work with an AWS solutions architect to learn how to integrate such techniques as A/B testing, multi-armed bandit, and interleaved recommendation testing into applications to measure the effectiveness of personalization. You use Amazon Personalize to build an end-to-end solution for deploying recommendation models that integrates with measurement techniques and can be applied to the customer experience in ecommerce or other marketing channels. Please bring your laptop.
 
-AIM425-R1: Understanding a large amount of text by modeling & visualizing topics 
+## AIM425-R1: Understanding a large amount of text by modeling & visualizing topics 
 
 What's needed to describe and understand the themes and trends of 5,000 articles in a foreign language? You can spend a few years learning the language and reading through each article, or you can use a few lines of code with Amazon Translate and Amazon Comprehend in under an hour. To learn how to do the latter, come to this hands-on session. We cover topic modeling, a powerful unsupervised learning technique for understanding a large text corpus. Please bring your laptop.
 
@@ -417,31 +417,31 @@ ANT308-R1: Deep dive into running Apache Spark on Amazon EMR
 
 Amazon EMR enables customers to run ETL, machine learning, real-time processing, data science, and low-latency SQL at petabyte scale. We focus this session on running Apache Spark on Amazon EMR. We introduce design patterns such as using Amazon S3 instead of HDFS, running long- and short-lived clusters, using notebooks, and performance-related enhancements. We discuss lowering cost with auto scaling and Spot Instances, and security with encryption and fine-grained access control with AWS Lake Formation.
 
-ANT333: How Woot.com built a serverless data lake with AWS analytics   
+## ANT333: How Woot.com built a serverless data lake with AWS analytics   
 
 Woot.com designed and developed a data lake as a replacement for their legacy data warehouse to deliver powerful analytics capabilities across multiple business areas. In this session, learn how it used Amazon EMR, Amazon Athena, AWS Glue, and Amazon QuickSight to build an automated process to ingest and centralize data from external and internal sources for immediate analysis.
 
-ANT334-R: Migrate your data warehouse to the cloud in record time, featuring Fannie Mae 
+## ANT334-R: Migrate your data warehouse to the cloud in record time, featuring Fannie Mae 
 
 Modern data warehousing blends and analyzes all your data-in your data warehouse and in your data lake-without needing to move the data. In this session, a representative from Fannie Mae explains how they migrated from a leading on-premises data warehouse to Amazon Redshift in record time. See how the company uses AWS Database Migration Service (AWS DMS), AWS Schema Conversion Tool, AWS Glue, and Amazon Redshift to provide timely analytics across the organization.
 
-ANT334-R1: Migrate your data warehouse to the cloud in record time, featuring Nielsen   
+## ANT334-R1: Migrate your data warehouse to the cloud in record time, featuring Nielsen   
 
 Modern data warehousing blends and analyzes all your data-in your data warehouse and in your data lake-without needing to move the data. In this session, a representative from Nielsen explains how they migrated from a leading on-premises data warehouse to Amazon Redshift in record time. See how the company uses AWS Database Migration Service (AWS DMS), AWS Schema Conversion Tool, AWS Glue, and Amazon Redshift to provide timely analytics across the organization.
 
-ANT335-R: How to build your data analytics stack at scale with Amazon Redshift   
+## ANT335-R: How to build your data analytics stack at scale with Amazon Redshift   
 
 Modern cloud data warehouses must be able to scale up and scale out as needed to handle variable analytics workloads. In this session, we discuss Amazon Redshift's ability to deliver top performance at the lowest and most predictable cost for any use case or workload. Learn how Amazon Redshift handles small datasets with large bursts of query activity, large datasets with complex queries, a mix of frequently queried data and infrequently accessed historical data, a mix of open file formats in an Amazon S3 data lake and structured data in Amazon Redshift, and more.
 
-ANT335-R1: How to scale data analytics with Amazon Redshift, featuring Warner Bros. 
+## ANT335-R1: How to scale data analytics with Amazon Redshift, featuring Warner Bros. 
 
 Modern cloud data warehouses must be able to scale up and out to handle variable analytics workloads. In this session, we discuss Amazon Redshift's ability to deliver top performance at the lowest and most predictable cost for any use case or workload. Learn how Amazon Redshift handles small datasets with large bursts of query activity, large datasets with complex queries, a mix of frequently queried data and infrequently accessed historical data, a mix of open file formats in an Amazon S3 data lake and structured data in Amazon Redshift, and more. Additionally, Warner Brothers discusses how it has seen improvements to its analytics performance with Amazon Redshift.
 
-ANT335-R2: How to scale data analytics with Amazon Redshift 
+## ANT335-R2: How to scale data analytics with Amazon Redshift 
 
 Modern cloud data warehouses must be able to scale up and out to handle variable analytics workloads. In this session, we discuss Amazon Redshift's ability to deliver top performance at the lowest and most predictable cost for any use case or workload. Learn how Amazon Redshift handles small datasets with large bursts of query activity, large datasets with complex queries, a mix of frequently queried data and infrequently accessed historical data, a mix of open file formats in an Amazon S3 data lake and structured data in Amazon Redshift, and more.¬†
 
-ANT336-R1: Rapidly evaluate AWS analytics solutions with Amazon Redshift 
+## ANT336-R1: Rapidly evaluate AWS analytics solutions with Amazon Redshift 
 
 Amazon Redshift's pace of innovation continues to increase year-over-year, putting price-performance at an all-time high. Whether you're looking to modernize an existing Amazon Redshift footprint, migrate from an on-premises data warehouse, or get hands-on with AWS's popular cloud data warehouse, this session equips you for success. The Amazon Redshift engineering team guides you through a comprehensive evaluation of modern Amazon Redshift features by using the Amazon Redshift gold standards framework, a robust analytics architecture, managed datasets, and a suite of benchmarking and demonstration tools. The discussions and hands-on labs will rapidly onboard you on the latest features of Amazon Redshift.
 
