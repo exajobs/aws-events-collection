@@ -552,47 +552,47 @@ In this session, we take an in-depth look at best practices for data warehousing
 
 # Aplication Integration
 
-API201: Accelerating app migration using Amazon MQ 
+## API201: Accelerating app migration using Amazon MQ 
 
 A managed message broker like Amazon MQ is essential to connect applications with messaging. In this workshop, learn how to set up an Amazon MQ broker and use the supporting protocols. We dive deep into the security and monitoring features of Amazon MQ and show you how Amazon MQ works across multiple Availability Zones to provide high availability to your systems. You'll leave with a deeper understanding of how to use Amazon MQ to migrate your enterprise applications to the cloud.
 
-API202-R1: Building a bridge solution from IBM MQ to Amazon MQ 
+## API202-R1: Building a bridge solution from IBM MQ to Amazon MQ 
 
 Increasingly, customers want to move from commercial brokers to open-source brokers on the cloud. The challenge they face is that these message brokers are tightly integrated with several of their mission-critical applications. Amazon MQ is a managed ActiveMQ service running on AWS. In this session, we explore an approach to building a bridge solution from IBM MQ to Amazon MQ. The solution provides a phased nondisruptive approach that customers can adopt to migrate their applications to the cloud and use Amazon MQ as the message broker. We also explore options on benchmarking performance of Amazon MQ broker based on customer requirements. Please bring your laptop.
 
-API301: Securing data in serverless applications and messaging services 
+## API301: Securing data in serverless applications and messaging services 
 
 In this chalk talk, we walk you through the process of designing a serverless application that secures customer data sent to the cloud. The design uses features recently introduced by Amazon Simple Notification Service (Amazon SNS) and Amazon Simple Queue Service (Amazon SQS), including AWS Key Management Service (AWS KMS) keys for encrypting messages at rest and Amazon Virtual Private Cloud (Amazon VPC) endpoints powered by AWS PrivateLink for sending messages without traversing the public internet. These techniques are security best practices for systems that deal with private data, such as e-commerce orders, candidate resumes, or employee information.
 
-API304: Scalable serverless event-driven applications using Amazon SQS & Lambda 
+## API304: Scalable serverless event-driven applications using Amazon SQS & Lambda 
 
 Event-driven integration patterns emerged to enable integration between serverless applications at scale. Join this session to learn best practices for integrating serverless applications using Amazon Simple Queue Service (Amazon SQS) triggers. We dive deep into the architecture of Amazon SQS triggers to AWS Lambda and how it was engineered to autoscale your Lambda functions. Explore how to tune Lambda and Amazon SQS to scale your existing applications without having to worry about provisioning capacity.
 
-API305-R1: Building serverless machine-learning workflows 
+## API305-R1: Building serverless machine-learning workflows 
 
 Modern machine-learning workflows leverage AWS services such as Amazon Transcribe and Amazon Comprehend to extract, validate, mutate, and enrich your data. Some drive transactional systems that use ML to generate metadata, others derive insights by visualizing customer-interaction sentiment. All share a common challenge: orchestrating a combination of sequential and parallel steps fulfilled by independent microservices. Join us as we examine how workflows can be used to manage that orchestration in a way that's scalable, reliable, and easy to maintain and run. We contrast two approaches for creating such workflows: a traditional monolithic approach and a serverless approach utilizing AWS Step Functions.
 
-API306-R1: Building event-driven architectures 
+## API306-R1: Building event-driven architectures 
 
 Many customers choose to build event-driven application architectures, in which subscriber or target services automatically perform in response to events triggered by publisher or source services. This pattern can help development teams operate more independently so they can release new features faster and make their applications more scalable. In this session, we cover the basics of event-driven design, using examples involving Amazon Simple Notification Service (Amazon SNS), Amazon Simple Queue Service (Amazon SQS), AWS Lambda, Amazon EventBridge, and more. You also learn how to choose the right AWS service for the job, and how to optimize for cost and performance.
 
-API307: Build efficient and scalable distributed applications using Amazon MQ 
+## API307: Build efficient and scalable distributed applications using Amazon MQ 
 
 In this session, we demonstrate the features of the Amazon MQ network of brokers, availability, and performance tuning (to reduce cost of ownership and mitigate risk).
 
-API308: Monolith to serverless SaaS: Migrating to multi-tenant architecture 
+## API308: Monolith to serverless SaaS: Migrating to multi-tenant architecture 
 
 Many organizations begin their journey to SaaS with a single-tenant monolithic architecture. Their goal is to transform these systems into modern, multi-tenant serverless systems that can realize all of the cost, scale, and agility benefits that SaaS environments demand. In this session, we dig into the details of this transformation, exploring approaches to incrementally decompose your monolith into serverless microservices. We also look at how tenancy is introduced into your new microservices, pushing tenant for logging, metrics, data partitioning, and tenant isolation into Lambda layers. The goal is to outline an evolutionary approach that guides your path to a serverless SaaS model.
 
-API309: Durable serverless architecture: Working with dead-letter queues 
+## API309: Durable serverless architecture: Working with dead-letter queues 
 
 Dead-letter queues (DLQs) are useful for debugging and increasing the durability of your applications and messaging systems because they let you isolate problematic messages to determine why they haven't been successfully processed. In this chalk talk, we walk you through DLQs for AWS Lambda, Amazon Simple Queue Service (Amazon SQS), and Amazon Simple Notification Service (Amazon SNS) and how each one addresses a different failure mode. As part of the session, we design a serverless architecture that benefits from DLQs to address all of these failure modes.
 
-API310-R1: How to refactor a monolith to serverless in 8 steps 
+## API310-R1: How to refactor a monolith to serverless in 8 steps 
 
 Refactoring a monolith to serverless can be intimidating, but there are discrete steps that you can take to simplify the process. In this chalk talk, we outline eight steps for successfully refactoring your monolith and highlight key decision points such as language and tooling choices. Through real-world examples of successful migrations, we uncover common mistakes, useful techniques for identifying components for migration and service boundaries, and processes for migrating large amounts of data without downtime. Bring your refactoring challenges to this interactive session to see how these techniques can be applied in the context of your own application.
 
-API311: Managing business processes using AWS Step Functions 
+## API311: Managing business processes using AWS Step Functions 
 
 iRobot uses AWS Step Functions to manage a broad range of business processes, from regulatory compliance to firmware rollouts. Step Functions has eliminated the need for burdensome and expensive long-running compute resources to manage these processes and replaced it with an accessible, declarative language that can glue together a broad suite of AWS services. In this session, we present several business use cases for Step Functions, along with implementation patterns, including decoupling, eternal processes, and approval emails.
 
