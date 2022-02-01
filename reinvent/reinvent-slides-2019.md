@@ -1,7 +1,7 @@
 ## Table of Contents
-- [Artificial Intelligence & Machine Learning](artificial-intellligence-machine-learning)
+- [Artificial Intelligence & Machine Learning](#artificial-intelligence--machine-learning)
 - [Analytics](#analytics)
-- [Application Integration](#application-integration)
+- [Application Integration](#application--integration)
 
 # Artificial Intelligence & Machine Learning
 
