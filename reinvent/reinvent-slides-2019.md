@@ -493,51 +493,51 @@ In this session, we walk through how to perform real-time analytics on ride-shar
 
 Bring your Apache Kafka cluster to Amazon Managed Streaming for Kafka. Amazon MSK is a fully managed service that makes it easy to build and run applications that use Apache Kafka to process streaming data. Apache Kafka is an open-source platform for building real-time streaming data pipelines and applications. In this session, we show how to lift and shift your self-managed Apache Kafka cluster using MirrorMaker 2.0. We cover topics like running hot/hot Apache Kafka clusters and walk through migrating a live Apache Kafka cluster.
 
-ANT404-R1: Build a single query to analyze data across Amazon Redshift & Amazon S3 
+## ANT404-R1: Build a single query to analyze data across Amazon Redshift & Amazon S3 
 
 Amazon Redshift offers a common query interface against data stored in fast, local storage (Amazon Redshift) and data stored in high-capacity, inexpensive storage (Amazon S3). This workshop covers the basics of this tiered storage model and outlines design patterns that you can leverage to get the most from large volumes of data. Learn how to build out your own Amazon Redshift cluster with multiple data sets to illustrate the trade-offs between the storage systems. Learn how to distribute your data and design your DDL to deliver the best data warehouse for your business.
 
-ANT406-R1: Build a single query to analyze data across Amazon Redshift and Amazon S3 
+## ANT406-R1: Build a single query to analyze data across Amazon Redshift and Amazon S3 
 
 All organizations have dark data that is not loaded into their data warehouse for analysis. When that data is needed, ETL setup and data loading can take days or weeks, delaying time to insight. This session shows you how to mine your Amazon S3 data lake with Amazon Redshift without the need for data movement. Learn how to write a single query that analyzes open data formats stored in your Amazon S3 data lake and data stored in Amazon Redshift. Please bring your laptop.
 
-ANT407-R1: Real-time apps with Amazon Kinesis Data Analytics and Apache Flink 
+## ANT407-R1: Real-time apps with Amazon Kinesis Data Analytics and Apache Flink 
 
 Building production-ready streaming applications can be complex, and maintaining them once they go live can be expensive and require dedicated resources and time. By using Amazon Kinesis fully managed streaming services, you can build, deploy, and maintain real-time applications that are highly available, durable, secure, and cost effective. In this session, we walk through how to build an application with Java leveraging Apache Flink, and share best practices for building and maintaining live applications. A foundational understanding of Apache Flink and Java is recommended for this session. Please come prepared with an active AWS account. Please bring your laptop.
 
-ANT408-R1: Amazon ES sizing and capacity planning 
+## ANT408-R1: Amazon ES sizing and capacity planning 
 
 How many instances? How many shards? What can I monitor? Whether you're new to Amazon Elasticsearch Service (Amazon ES) or a veteran, you need to understand where to start with capacity planning and how to adjust based on monitoring your domain. In this session, we address all of your questions on sizing, explaining the drivers and key metrics along the way.
 
-ANT409-R1: Getting started with streaming data and Amazon Kinesis 
+## ANT409-R1: Getting started with streaming data and Amazon Kinesis 
 
 In this session, we walk through how to build a simple, end-to-end streaming architecture using Amazon Kinesis and AWS Lambda. We cover how continuous, serverless processing works, and the best practices for taking a simple app and getting it into production. Please bring your laptop.
 
-ANT411-R1: Learn how to make ETL and ELT easy with Amazon Redshift 
+## ANT411-R1: Learn how to make ETL and ELT easy with Amazon Redshift 
 
 Loading data into your data warehouse quickly and reliably is a big pain point for many organizations. In this session, we show you how to generate the schema for your semi-structured data; create ETL code to transform, flatten, and enrich the data; and load it into Amazon Redshift on a recurring basis. You learn best practices to make your data pipeline performant and efficient. Please bring your laptop.
 
-ANT412-R1: Modernize your data warehouse with Amazon Redshift 
+## ANT412-R1: Modernize your data warehouse with Amazon Redshift 
 
 Migrating an on-premises data warehouse to the cloud is often perceived as complex, but it doesn't have to be. In this builders session, we go over the steps you should take to correctly collect your requirements. We also cover AWS services that can assist you in migrating your data to Amazon Redshift, such as AWS Database Migration Service (AWS DMS), AWS Snowball, and AWS Snowmobile. We then dive into targeted use cases based on the needs of the participants in the room. Please bring your laptop.
 
-ANT413-R1: How to tame unpredictable analytics workloads with Amazon Redshift 
+## ANT413-R1: How to tame unpredictable analytics workloads with Amazon Redshift 
 
 Scaling a traditional data warehouse can be complex, time consuming, and expensive. In this session, we show you how to deploy Amazon Redshift in minutes and automate most administrative tasks. Learn how to manage, monitor, and scale your data warehouse quickly and easily. You also learn how to deploy and scale multiple independent clusters, and scale each independently to address different workload scenarios. Please bring your laptop.
 
-ANT414-R1: Build great Kibana visualizations 
+## ANT414-R1: Build great Kibana visualizations 
 
 In this session, we walk you through how to visualize your data in Kibana. You start by learning how to create a visualization and then bring those visualizations together under an overarching dashboard. We cover visualizations such as mapping latitude and longitude, heat maps, bar charts, lines, and newer tools such as Vega. Please bring your laptop.
 
-ANT415-R1: Learn how to quickly ingest data into Amazon S3 
+## ANT415-R1: Learn how to quickly ingest data into Amazon S3 
 
 Want to quickly get data into Amazon Simple Storage Service (Amazon S3) without a large number of small objects? Learn how you can use streaming data to capture, buffer, and deliver data to Amazon S3 in an optimal manner using Amazon Kinesis. Use this pattern to more easily and quickly take advantage of services that process data from Amazon S3, including Amazon Redshift and Amazon Athena. Please come prepared with an active AWS account and your laptop.
 
-ANT416-R: Performance and elasticity in Amazon Redshift 
+## ANT416-R: Performance and elasticity in Amazon Redshift 
 
 This session dives deep into the capabilities of Amazon Redshift. See how Amazon Redshift achieves its state-of-the-art performance and learn about all aspects of elasticity, from the compute and data elasticity within a single cluster to elasticity across multiple clusters.
 
-ANT416-R1: Performance and elasticity in Amazon Redshift 
+## ANT416-R1: Performance and elasticity in Amazon Redshift 
 
 This session dives deep into the capabilities of Amazon Redshift. See how Amazon Redshift achieves its state-of-the-art performance and learn about all aspects of elasticity, from the compute and data elasticity within a single cluster to elasticity across multiple clusters.
 
