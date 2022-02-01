@@ -541,10 +541,10 @@ ANT416-R1: Performance and elasticity in Amazon Redshift
 
 This session dives deep into the capabilities of Amazon Redshift. See how Amazon Redshift achieves its state-of-the-art performance and learn about all aspects of elasticity, from the compute and data elasticity within a single cluster to elasticity across multiple clusters.
 
-ANT417: Accelerating performance with materialized views 
+## ANT417: Accelerating performance with materialized views 
 
 Amazon Redshift materialized views enable a dramatic reduction in query latency. This session explains how to get faster query results, either automatically or by having the queries explicitly refer to the materialized views. Materialized views also enable the acceleration of ETL pipelines by automatically and incrementally propagating changes from the base table data into the derived data of the materialized views, thus providing a superior alternative to the CTAS commands that recompute the derived data.
 
-ANT418: Deep dive and best practices for Amazon Redshift   
+## ANT418: Deep dive and best practices for Amazon Redshift   
 
 In this session, we take an in-depth look at best practices for data warehousing with Amazon Redshift. We show you the best way to analyze all your data, inside and outside your data warehouse, without moving the data, which helps you gain deeper insights for running your business. We also cover best practices for how to design optimal schemas, load data efficiently, and optimize your queries to deliver high throughput and performance.
