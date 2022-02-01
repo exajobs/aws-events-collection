@@ -46,7 +46,7 @@ Typical approaches to automatic ML don't provide insights into the data or logic
 
 During ML model training, it's challenging to ensure that models are progressively learning the correct values for different parameters and to analyze and debug model characteristics without building additional tools, making the process time-consuming and cumbersome. Come learn about Amazon SageMaker Debugger, a new capability that provides complete insights into the training process by automating data capture and analysis from training runs without code changes. Learn how you can analyze data using the Amazon SageMaker Studio visual interface and be alerted when anomalies and errors are detected, reducing the time needed to debug models from days to minutes. Amazon SageMaker Debugger helps you solve problems quickly, reduce troubleshooting time during training, and build high-quality models.
 
-AIM220-S: Farmers Insurance elevating customer experience with conversational AI 
+## AIM220-S: Farmers Insurance elevating customer experience with conversational AI 
 
 As part of its digital transformation journey, Farmers, one of America's largest insurers, envisioned digitizing its customer and agent service experience. Join Farmers for this insightful session, and learn how it leveraged conversational artificial intelligence (AI), chatbots, and other next-generation AWS technologies to offer a seamless, personalized, and contextualized experience for agents and customers. Learn how Farmers improved customer experience and optimized resources while encouraging self-service with cloud-based services, automation, and AI. Also, gain insights on how to design, architect, and build a scalable conversational AI solution that caters to growing business demands. This presentation is brought to you by Cognizant, an APN Partner.
 
@@ -58,63 +58,63 @@ In this interactive session, we look at different options to monetize text-to-vo
 
 Generative AI is one of the most fascinating advancements in artificial intelligence technology, and until now, developers interested in growing skills in this area haven't had an easy way to get started. In this workshop, you learn about generative AI and get hands-on with AWS DeepComposer, the world's first machine learning-enabled musical keyboard for developers, to create an original composition. You are also introduced to concepts that you can use in Amazon SageMaker to do even more with generative AI. Developers, make some noise!
 
-AIM224-R1: Use pretrained models and algorithms in AWS Marketplace 
+## AIM224-R1: Use pretrained models and algorithms in AWS Marketplace 
 
 You can cut down on development time for machine learning projects with third-party algorithms and models in a secure environment using Amazon SageMaker. Learn how in this chalk talk, as we walk through the subscription, evaluation, and deployment process for algorithms as well as pretrained models from AWS Marketplace.
 
-AIM225: How to build a car that does an 8.64-second lap with AWS DeepRacer 
+## AIM225: How to build a car that does an 8.64-second lap with AWS DeepRacer 
 
 Deep dive on AWS DeepRacer! In this chalk talk, learn how to build a race-winning model from a 2019 AWS Summit Circuit race winner and get tips on how you can excel in the AWS DeepRacer league in 2020.
 
-AIM226: How to successfully become a machine learning developer 
+## AIM226: How to successfully become a machine learning developer 
 
 In this chalk talk, learn how to get started building, training, and deploying your first machine learning model. We then discuss tips, tricks, and best practices on starting your machine learning journey.
 
-AIM227-S: Powering global-scale predictive intelligence using HPC on AWS 
+## AIM227-S: Powering global-scale predictive intelligence using HPC on AWS 
 
 Learn how Maxar and Descartes Labs run complex, global-scale models on Amazon EC2 instances powered by Intel Xeon Scalable processors. Maxar discusses its experience setting up an operational HPC cluster to run global numerical weather prediction models, obtaining performance that eclipses the speed of the NOAA bare-metal supercomputer. Descartes Labs shows how its platform enables hyper-scale object detection on satellite imagery accelerated by Intel AVX-512 instructions. It also shares its experience deploying tightly coupled HPC applications that use spot blocks at many-thousand processor scale, using HPC clusters built on AWS instances and powered by Intel Xeon Scalable processors. This presentation is brought to you by Intel, an APN Partner.
 
-AIM229: Start using computer vision with AWS DeepLens 
+## AIM229: Start using computer vision with AWS DeepLens 
 
 If you're new to deep learning, this workshop is for you. Learn how to build and deploy computer-vision models using the AWS DeepLens deep-learning-enabled video camera. Also learn how to build a machine learning application and a model from scratch using Amazon SageMaker. Finally, learn to extend that model to Amazon SageMaker to build an end-to-end AI application.
 
-AIM230-R1: [NEW LAUNCH!] New Amazon SageMaker notebook experience: Share & collaborate at scale   
+## AIM230-R1: [NEW LAUNCH!] New Amazon SageMaker notebook experience: Share & collaborate at scale   
 
 Typically, starting notebooks requires spinning up compute instances, and there was previously no easy way to share and collaborate without tracking dependencies and other restrictions. Join us as we introduce the new Amazon SageMaker notebooks experience, which allows you to access notebooks in seconds without spinning up compute instances. The elastic notebooks allow you to easily scale compute up or down, and the changes take place automatically without interrupting your work. You can share notebooks by automatically reproducing the environment and library dependencies without manually tracking them so others can reproduce the results with the same data. With this new experience, you can build models faster and collaborate at scale.
 
-AIM231-S: Think Forward Initiative: 100M people making better financial decisions 
+## AIM231-S: Think Forward Initiative: 100M people making better financial decisions 
 
 Want to learn more about using technology to impact society? Join this session! Currently, 42 percent of Europeans face financial difficulties. As lead partners of the Think Forward Initiative (TFI), Deloitte, AWS, and ING aim to empower 100 million Europeans to make better financial decisions by translating the latest consumer behavior insights into easy applicable tools. In this session, you learn how TFI supports early stage scale-ups by using Amazon S3, Amazon API Gateway, AWS Lambda, Amazon Aurora, AWS CloudFormation, AWS Cloud9, Amazon Textract, and Amazon Personalize in an accelerator program. You also learn about the AWS Well-Architected Review and AWS Activate programs. This presentation is brought to you by Deloitte, an APN Partner.
 
-AIM232: Media discovery and compliance with Amazon Rekognition   
+## AIM232: Media discovery and compliance with Amazon Rekognition   
 
 Searching through hundreds of hours of media assets and reviewing them for compliance daily is a tedious manual task in most media workflows today. Amazon Rekognition is a service that helps you add intelligent video and image analysis to your applications. In this session, learn how Amazon Rekognition and AWS media solutions can help you generate and manage rich video metadata for people, objects, and scenes, as well as detect any inappropriate content. Hear from our customers about how they achieved time and cost savings by using Amazon Rekognition and other AWS services.
 
-AIM301-R1: Creating high-quality training datasets with data labeling 
+## AIM301-R1: Creating high-quality training datasets with data labeling 
 
 Amazon SageMaker Ground Truth makes it easy to quickly label high-quality, accurate training datasets. In this workshop, we set up labeling jobs for text and images to help you understand how to make the most of Amazon SageMaker Ground Truth. You learn how to explore and prepare the dataset and label it with object bounding boxes. Then, we use Amazon SageMaker to train a Single Shot MultiBox Detector (SSD) object-detection model based on the labeled dataset, use hyperparameter optimization to find the best model for deployment, and deploy the model to an endpoint for use in an application.
 
-AIM302-R1: Create a Q&A bot with Amazon Lex and Amazon Alexa 
+## AIM302-R1: Create a Q&A bot with Amazon Lex and Amazon Alexa 
 
 A recent poll showed that 44 percent of customers would rather talk to a chatbot than to a human for customer support. In this workshop, we show you how to deploy a question-and-answer bot using two open-source projects: QnABot and Lex-Web-UI. You get started quickly using Amazon Lex, Amazon Alexa, and Amazon Elasticsearch Service (Amazon ES) to provide a conversational chatbot interface. You enhance this solution using AWS Lambda and integrate it with Amazon Connect.
 
-AIM303-R1: Stop guessing: Use AI to understand customer conversations 
+## AIM303-R1: Stop guessing: Use AI to understand customer conversations 
 
 You don't need to be a data scientist to build an AI application. In this workshop, we show you how to use AWS AI services to build a serverless application that you can use to understand your customer interactions. Analyze call-center recordings with the help of automatic speech recognition, translation, and natural language processing (NLP). Get hands-on by producing your own call recordings using Amazon Connect. In the last step of this workshop, set up a processing pipeline to automate transcription and NLP analysis, and run analytics and visualizations on the results.
 
-AIM304-R1: Build a content-recommendation engine with Amazon Personalize 
+## AIM304-R1: Build a content-recommendation engine with Amazon Personalize 
 
 Machine learning is being used increasingly to improve customer engagement by powering personalized product and content recommendations. Amazon Personalize lets you easily build sophisticated personalization capabilities into your applications, using machine learning technology perfected from years of use on Amazon.com. In this workshop, you build your own recommendation engine by providing training data, building a model based on the algorithm of your choice, testing the model by deploying your Amazon Personalize campaign, and integrating it into your own application.
 
-AIM305-R1: Automate content moderation and compliance with AI 
+## AIM305-R1: Automate content moderation and compliance with AI 
 
 Brand safety is a major concern as advertising becomes more automated. Issues with ad adjacency arise, contracts with brands or celebrities run out, and user-generated content can be difficult to manage. In this workshop, you learn how to use Amazon Rekognition, Amazon Textract, and Amazon Comprehend to detect inappropriate content or noncompliant use of content such as logos or celebrity faces. You leave with a scalable architecture that will save days of manual review in media moderation and compliance workflows.
 
-AIM306-R: How to build high-performance ML solutions at low cost, featuring Aramex   
+## AIM306-R: How to build high-performance ML solutions at low cost, featuring Aramex   
 
 Amazon SageMaker helps provide the best model performance for less cost. In this session, we walk through a TCO analysis of Amazon SageMaker, exploring its three modules-build, train, and deploy. Learn how Amazon SageMaker automatically configures and optimizes ML frameworks such as TensorFlow, MXNet, and PyTorch, and see how to use pre-built algorithms that are tuned for scale, speed, and accuracy. We explain how the automatic model tuning feature performs hyperparameter optimization by discovering interesting features in your data and learning how those features interact to affect accuracy. Learn how to deploy your model with one click and how to lower inference costs using Amazon Elastic Inference. We end by showing how Aramex uses Amazon SageMaker.
 
-AIM306-R1: How to build high-performance ML solutions at low cost, featuring Siemens 
+## AIM306-R1: How to build high-performance ML solutions at low cost, featuring Siemens 
 
 Amazon SageMaker helps provide the best model performance for less cost. In this session, we walk through a TCO analysis of Amazon SageMaker, exploring its three modules-build, train, and deploy. Learn how Amazon SageMaker automatically configures and optimizes ML frameworks such as TensorFlow, MXNet, and PyTorch, and see how to use pre-built algorithms that are tuned for scale, speed, and accuracy. We explain how the automatic model tuning feature performs hyperparameter optimization by discovering interesting features in your data and learning how those features interact to affect accuracy. Learn how to deploy your model with one click and how to lower inference costs using Amazon Elastic Inference. We end by showing how Siemens uses Amazon SageMaker to manage costs.
 
