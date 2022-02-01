@@ -9,7 +9,7 @@
  - [Links](#links)
  - [Slides](#slides)
 
-## Links
+### Links
 1. [re:Invent](https://reinvent.awsevents.com/)
    - [2021](reinvent/reinvent-2021.md)
    - [2020](reinvent/reinvent-2020.md)
@@ -20,7 +20,7 @@
 3. [re:Mars](https://remars.amazonevents.com/)
 4. [Innovate](https://aws.amazon.com/events/aws-innovate/)
 
-## Slides
+### Slides
 1. [re:Invent](https://reinvent.awsevents.com/)
    - [2019](reinvent/reinvent-slides-2019.md)
 
