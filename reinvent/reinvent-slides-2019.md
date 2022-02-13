@@ -622,3 +622,8 @@ Companies are increasingly opting to build applications using event-driven archi
 ## API321: [NEW LAUNCH!] Event-Processing Workflows at Scale with AWS Step Functions 
 
 > Event-Processing Workflows at Scale with AWS Step Functions In this session, learn how to leverage AWS Step Functions Express Workflows and AWS Lambda to build and run event-processing applications. We will explore real-world examples including IoT data ingestion, streaming data transformation, and mobile app backends. Expect to leave this session with a practical understanding of how to use event-processing workflows to scale your application seamlessly, and express your business logic more productively.
+
+
+# Architecture
+
+
