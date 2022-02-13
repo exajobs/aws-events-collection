@@ -864,27 +864,27 @@ ARC406-R2: Building multi-region microservices
 
 In this session, participate in a hands-on exercise where you create, verify, and test a serverless solution across multiple regions using AWS Lambda and Amazon DynamoDB global tables. Please bring your laptop.
 
-ARC407-R2: Object detection at the edge 
+## ARC407-R2: Object detection at the edge 
 
 Many applications for machine learning run in environments with low-power devices and intermittent network connectivity. In this session, build an object detection model that counts animals in a video frame. You will then deploy your application to an IoT device and run it on example input data. Please bring your laptop.
 
-ARC409-R2: Near-zero-downtime migrations to AWS 
+## ARC409-R2: Near-zero-downtime migrations to AWS 
 
 Migrating workloads to AWS requires detailed analysis of the workloads and strategies to avoid data loss and downtime. In this session, you use CloudEndure to analyze and migrate sample workloads often found in large-scale data center migrations, like web applications, databases, and Active Directory. Then, you explore options for rehosting and replatforming. Please bring your laptop.
 
-ARC411-R1: Reducing blast radius with cell-based architectures 
+## ARC411-R1: Reducing blast radius with cell-based architectures 
 
 One thing we've learned is that failures come in many forms, some expected and some unexpected. A core consideration is how to minimize the blast radius of any failures. In this talk, we focus on cell-based architectures; system, cell, and router properties; and how we designed for failure on AWS leveraging serverless technologies like AWS Lambda, Amazon Kinesis, Amazon Simple Storage Service (Amazon S3), and Amazon Simple Queue Service (Amazon SQS). This cell-based architecture processes 28 petabytes of data with 1 billion transactions a month.
 
-ARC413-R1: SaaS metrics deep dive: A look inside multi-tenant analytics 
+## ARC413-R1: SaaS metrics deep dive: A look inside multi-tenant analytics 
 
 Metrics are at the core of every SaaS business. Having your finger on the pulse of tenant and system activity is essential to achieving and maintaining scale, agility, and innovation. These metrics directly shape both business and technical strategy. In this chalk talk, we move beyond the concepts of metrics and dig into specific metrics implementation strategies that can be used across all the moving parts of your SaaS architecture. The goal is to provide concrete examples of how systems are instruments, how the data is aggregated, and how it's surfaced to various business and technical consumers.
 
-ARC414-S: Accelerated analytics: Building the next-gen data platform for Hertz   
+## ARC414-S: Accelerated analytics: Building the next-gen data platform for Hertz   
 
 Hertz is undertaking a massive digital transformation to evolve its technology landscape. This move provides an opportunity to extract valuable insights from a large amount of data produced by the new systems. In this session, learn how Deloitte collaborated with Hertz to build a next-generation data platform, which includes an integration hub, a unified reporting layer, and an ecosystem of tools used to build advanced analytics models. Discover how the solution leveraged all native AWS services, such as Amazon S3, Amazon Kinesis, Amazon EMR, and AWS Lambda, to enable cross-functional insights and accelerate the cloud journey in under 12 months. This presentation is brought to you by Deloitte, an APN Partner.
 
-ARC415-S: Building modern applications with data on Heroku, Salesforce, and AWS 
+## ARC415-S: Building modern applications with data on Heroku, Salesforce, and AWS 
 
 Modern application development requires distributed architectures, multi-directional application and data workflows, and multi-disciplinary teams. These are complex interactions in isolation, but they are even more complex when the demands of infrastructure, architecture, and people are intertwined. Data is the lifeblood of this effort, and the ability of data to move across these three boundaries is critical to delivering value. In this session, you learn how Heroku helps developers and enterprises solve these challenges. This presentation is brought to you by Salesforce, an APN Partner.
 
