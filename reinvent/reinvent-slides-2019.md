@@ -780,87 +780,87 @@ ARC333-R2: Orchestrating Operations to Manage AWS Resources
 
 With the advent of virtualization and the cloud, IT staff face increasingly complex management challenges as systems scale. In this session, we'll review the architecture of the AWS Operations Conductor Solution, which automates a number of management tasks, such as archiving, data backup and recovery, resource selection and scheduling, and configuration management. Attendees will learn how to utilize relevant services, such as AWS Systems Manager and Amazon CloudWatch, to extend the Operations Conductor Solution or create automation applications for their own organization.¬†
 
-ARC334-R2: From one to many: Evolving VPC design   
+## ARC334-R2: From one to many: Evolving VPC design   
 
 As more customers adopt Amazon VPC architectures, the features and flexibility of the service are encountering the obstacles of evolving design requirements. In this session, we follow the evolution of a single regional VPC to a multi-VPC, multi-region design with diverse connectivity into on-premises systems and infrastructure. Along the way, we investigate creative customer solutions for scaling and securing outbound VPC traffic, securing private access to Amazon Simple Storage Service (Amazon S3), managing multi-tenant VPCs, integrating existing customer networks through AWS Direct Connect, and building a full VPC mesh network across global regions.
 
-ARC335-R1: Designing for failure: Architecting resilient systems on AWS   
+## ARC335-R1: Designing for failure: Architecting resilient systems on AWS   
 
 Customers moving mission-critical applications to the cloud are seeking guidance to replicate and improve the resiliency of their Tier 1 systems while simultaneously meeting compliance and regulatory requirements. Natural disasters, internet disruptions, or hardware or software failure can lead to events requiring customers to invoke disaster recovery (DR) plans. Join us in this session to learn how to design for failure and remain resilient in the event of disaster by designing applications using highly resilient components and service features.
 
-ARC336-R1: CLP Innovation: Increasing agility with cloud-native architectures   
+## ARC336-R1: CLP Innovation: Increasing agility with cloud-native architectures   
 
 In today's tech-driven world, an organization's architecture is a competitive differentiator. A key piece of this advantage lies in the ability to move fast. In this session, we dive into how cloud-native architecture patterns are changing the way businesses think about speed and cost of innovation. We hear from CLP Innovation Enterprises Ltd. on why it made the decision to reinvent with cloud-native services, what it learned, and benefits it has gained along its journey to modern application development.
 
-ARC337-R1: Baking the best security layer cake 
+## ARC337-R1: Baking the best security layer cake 
 
 It's not enough to fix a bug or issue, we also have to dig in and find a deeper kind of fix that eliminates most bugs of that entire class. Failsafe design and defense in depth are nothing new, but in security, the tendency to add layers can backfire. Each new layer brings its own potential bugs, risks, costs, and challenges. In this talk, we take a look at just how effective some of the simplest mitigations are and how modern verification techniques can provide run-time assurance without run-time risk.
 
-ARC338-R1: How Goldman Sachs minimizes the impact of managing events 
+## ARC338-R1: How Goldman Sachs minimizes the impact of managing events 
 
 The operational excellence pillar of the AWS Well-Architected Framework includes guidance and best practices on operating in the cloud. Join our talk as representatives from Goldman Sachs share how the company applied these best practices to reduce the impact of events and the level of effort they extended to manage them. They also discuss how they enabled their operations teams to safely do more by establishing the standards for operations that enable them to scale as new projects enter the cloud. Learn how AWS Systems Manager OpsCenter can support your situational awareness and event response, enabling you to view, investigate, and remediate operational issues presented with contextually relevant data.
 
-ARC339-R1: Best practices for IoT architecture using AWS smart product solution   
+## ARC339-R1: Best practices for IoT architecture using AWS smart product solution   
 
 As more consumer products are embedded with sensors that allow communication and data transfer between the product and the manufacturer, customers need architecture to onboard, protect, and monitor device fleets. In this session, we cover best practices for creating this architecture and use the decisions that were made when creating the AWS smart product solution as a guide. The architecture incorporates AWS IoT Core, as well as AWS Lambda for backend microservices, AWS IoT Analytics with Amazon QuickSight to analyze telemetry data, and AWS IoT Device Defender to audit device configurations. We also show you how to use AWS CDK to create customized deployments.
 
-ARC340-R1: Amazon.com automating machine learning deployments at scale   
+## ARC340-R1: Amazon.com automating machine learning deployments at scale   
 
 Machine learning involves more than just training models; you need to source and prepare data, engineer features, select algorithms, train and tune models, and then deploy those models and monitor their performance in production. Learn how Amazon Consumer Payments uses Amazon SageMaker, AWS Glue, AWS Step Functions, Amazon API Gateway, AWS Lambda, AWS Batch, Amazon Elastic Container Registry (Amazon ECR), and AWS CloudFormation to automate a CI/CD framework for business-critical machine learning workloads at scale.
 
-ARC341-R1: Automation safety: How to avoid breaking things at scale 
+## ARC341-R1: Automation safety: How to avoid breaking things at scale 
 
 In this chalk talk, learn how automation can benefit your operations activities, the risks of doing it badly, and how to do it safely. Through real-world examples that highlight what can go wrong, learn the automation safety best practices that can help you reduce your risk. We discuss default automation behaviors, tagging, permissions, blast radius, circuit breakers, back-off, runbooks, playbooks, and more. We also discuss AWS tools that can help you implement automation safety, and we take your questions about automation and automation safety on AWS.
 
-ARC342-R1: Cell-based architectures for global, well-architected apps 
+## ARC342-R1: Cell-based architectures for global, well-architected apps 
 
 In this chalk talk, we discuss patterns and practices for cell-based architectures (compartmentalization) and how they can help you build and migrate applications to the cloud. SaaS providers leverage cells for multi-tenant systems, and web, mobile, IoT, and almost any company can benefit from cells for better scale while maintaining higher availability, better operational management, and more secure and robust platforms.
 
-ARC343-R2: Modernizing legacy applications during your cloud migration 
+## ARC343-R2: Modernizing legacy applications during your cloud migration 
 
 This chalk talk covers the journey of a real-world customer as they migrate their legacy application stack to the cloud. The existing tech stack was a mix of .NET, Java-based applications using SQL server, and the target platform was a combination of AWS container services like AWS Fargate, AWS Elastic Beanstalk, Amazon RDS for SQL Server for the database services, and Amazon Cognito for application authentication.
 
-ARC344-R1: Understanding the landing zone journey 
+## ARC344-R1: Understanding the landing zone journey 
 
 Wondering how your organization can benefit from a landing zone? What is the thought process and journey? In this session, we talk about the multi-account strategy. Additionally, we discuss the story behind AWS Landing Zone; AWS Control Tower versus AWS Landing Zone; and Account Vending Machine versus Account Factory.
 
-ARC345-R1: Architecting data lakes with AWS data and analytics services 
+## ARC345-R1: Architecting data lakes with AWS data and analytics services 
 
 Customers with disparate data sources (databases, flat files, enterprise systems) have difficulty architecting a central data lake that can provide users a single source of truth and drive business outcomes. During this chalk talk, we discuss how to architect a secure data lake using Amazon S3, AWS Database Migration Service (AWS DMS), AWS Lake Formation, AWS Glue, and Amazon Athena. By the end of this session, you will be able to: understand key architecture tenets around data ingestion patterns, make design decisions to securely store data, apply granular security policies for access, and catalog/transform your data for end-user access and consumption.
 
-ARC346-R1: AWS ML at the edge: Building production-intended solutions 
+## ARC346-R1: AWS ML at the edge: Building production-intended solutions 
 
 Machine learning and IoT have become commonplace words in the enterprise workplace. Even in our homes we have ML-enabled IoT devices (we're looking at you, Amazon Alexa). But what does it look like to combine ML and IoT at the edge in a production environment? Join us in a discussion about how we built scalable production-intended ML solutions at the edge for many AWS customers. From detecting cracks in wheels on heavy machinery to automated inventory tracking in factories, we show you the results of our experiments and best practices learned the hard way, all while leveraging existing AWS services.
 
-ARC347-R1: Reinventing the Andon Cord: Amazon Virtual Andon solution 
+## ARC347-R1: Reinventing the Andon Cord: Amazon Virtual Andon solution 
 
 The Amazon Virtual Andon solution was built for Amazon fulfillment centers as an issue and notification system, and it is now publicly available as an AWS solution. In this session, we go behind the scenes of the creation of this solution and explain how we incorporated AWS IoT Core to monitor and connect to devices on the floor. We also discuss how we used IoT Rules Engine and Amazon SNS to send event notifications and AWS AppSync to perform complex queries and aggregations using GraphQL.
 
-ARC348-R1: Protecting your web applications from common attack vectors 
+## ARC348-R1: Protecting your web applications from common attack vectors 
 
 A web application that is unable to fend off attacks leads to an erosion of customer trust, and in the worst case, it leads to customer privacy issues. In this workshop, you learn best practices for architecting web applications to block common attack patterns that affect application availability and security. We take a compromised web application and use tools such as the AWS WAF Security Automations solution, and we build, train, and deploy a machine learning model to identify abnormal behaviors. We also build an application that automates security assessments and operational tasks, identifies anomalies in data, and monitors your AWS environment.
 
-ARC349-R1: Beyond five 9s: Lessons from our highest available data planes   
+## ARC349-R1: Beyond five 9s: Lessons from our highest available data planes   
 
 Every AWS service is designed to be highly available, but a small number of what we call Tier 0 services get extra-special attention. Come hear lessons from how AWS has built and architected Amazon Route 53 and the AWS authentication system, designed to survive cataclysmic failures, enormous load increases, and more. We cover our approach to redundancy and resilience at the infrastructure, software, and team levels, and we get into how the teams tasked with keeping the internet running manage themselves and still keep up with the pace of change that AWS customers demand.
 
-ARC401-R5: Scale up a web application 
+## ARC401-R5: Scale up a web application 
 
 In this session, you use an automated test suite to bombard an application with an increasing number of concurrent users. You then identify the bottlenecks and refactor the application. Find out how many concurrent users you can scale up to. Please bring your laptop.
 
-ARC402-R1: Connecting many VPCs: Network design patterns at scale 
+## ARC402-R1: Connecting many VPCs: Network design patterns at scale 
 
 In this session, we show you how to design connectivity between many VPCs and how new services interact with network architectures. We review common design patterns, such as shared services VPCs, transit VPCs, private links, firewalls, and more. We also cover solutions to common challenges, such as VPN sprawl, keeping up with VPC automation, sharing services, and network segmentation at scale for hundreds of VPCs.
 
-ARC404-R1: Resiliency testing: Verifying your system is as reliable as you think 
+## ARC404-R1: Resiliency testing: Verifying your system is as reliable as you think 
 
 In this workshop, we illustrate how to set up your own resiliency testing. We set up a simple three-tier architecture and explore the failure modes with Bash and Python scripts. To participate, you need an account that can run AWS CloudFormation, AWS Step Functions, AWS Lambda, Application Load Balancers, Amazon Elastic Compute Cloud (Amazon EC2), Amazon Relational Database Service (Amazon RDS) for MySQL, AWS Database Migration Service (AWS DMS), and Amazon Route 53.
 
-ARC405-R2: Building multi-tenant-aware SaaS microservices 
+## ARC405-R2: Building multi-tenant-aware SaaS microservices 
 
 As you move to an SaaS model, you must create an experience for your developers that lets them focus on functionality rather than the details of your multi-tenant policies. In this session, you look at strategies that simplify multi-tenant microservice development, streamlining and standardizing your model for logging, recording metrics, accessing tenant-partitioned data, and authorizing access to your services. You use AWS Lambda layers, Amazon Cognito, and Amazon API Gateway to develop reusable components. Please bring your laptop.
 
-ARC406-R2: Building multi-region microservices 
+## ARC406-R2: Building multi-region microservices 
 
 In this session, participate in a hands-on exercise where you create, verify, and test a serverless solution across multiple regions using AWS Lambda and Amazon DynamoDB global tables. Please bring your laptop.
 
