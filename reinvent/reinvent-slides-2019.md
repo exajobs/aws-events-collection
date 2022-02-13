@@ -740,43 +740,43 @@ ARC310-R1: Serverless data lake patterns for voice, vision, and ML
 
 Industry 4.0 demands greater insight into data to bring people, processes, and equipment together. In this workshop, we illustrate how to gain business insights from video and voice data sources, highlighting the data pipeline. We ingest source feeds, efficiently store the data, and perform advanced analytics using AWS ML services and analysis tools. Typical applications include anomaly detection (detecting spills or hazardous objects and predictive maintenance) and voice-sentiment analysis (customer service insights). By the end of the session, you will be able to quickly analyze data for uncommon characteristics using those detections to initiate a wide variety of actions.
 
-ARC313-R1: Architecting global storage with AWS Lambda 
+## ARC313-R1: Architecting global storage with AWS Lambda 
 
 Companies are searching for ways to synchronize their assets to their production facilities around the world, both on-premises and in the cloud, using best practices with AWS technologies. In this session learn how you can use AWS Lambda, Amazon API Gateway, Amazon Simple Storage Service (Amazon S3), AWS Storage Gateway, AWS Directory Service, and AWS Fargate to build a serverless global storage platform to enable employee collaboration around the world.
 
-ARC314-R2: Decoupled microservices: Building scalable applications 
+## ARC314-R2: Decoupled microservices: Building scalable applications 
 
 Often, when the microservices architecture style is applied, much of the communication between components is done over the network. In order to achieve the promises of microservices, this communication needs to happen in a loosely coupled manner. One frequently used option is to have all services expose an API following the REST architectural style. However, there is another option that provides even looser coupling: asynchronous messaging. In this workshop, you learn how to use AWS messaging services to build decoupled microservices architectures to achieve massive scale.
 
-ARC315-R1: Build end-to-end governance with AWS Control Tower 
+## ARC315-R1: Build end-to-end governance with AWS Control Tower 
 
 As you build and deploy an AWS landing zone solution leveraging AWS Control Tower, a common next step is to build out networking configurations for connecting to other AWS accounts and on-premises networks and federated access. In this session, you learn how to build, deploy, and test a transit gateway, as well as Okta integration for federated access on an AWS Control Tower-configured environment.
 
-ARC316-R1: Deploy and monitor a serverless application 
+## ARC316-R1: Deploy and monitor a serverless application 
 
 When building serverless applications, you need to know the design tradeoffs for improving performance in addition to how well your application is performing. What are the bottlenecks, time sinks, and bugs? Amazon Elasticsearch Service-with its ability to ingest, correlate search, and visualize data in near real time from different sources-is an ideal solution. In this workshop, you build on a bookstore application and add detailed monitoring and tracing across the stack. You'll flow data from Amazon DynamoDB and AWS Lambda (via AWS X-Ray) to Amazon ES, build visualizations, identify performance problems, and implement performance improvements to the application.
 
-ARC318-R3: Automated ML model development life cycle 
+## ARC318-R3: Automated ML model development life cycle 
 
 The machine-learning workflow is an iterative cross-functional process. In this session, you integrate a machine-learning model into a data pipeline. Learn how to automate data preparation, feature engineering, and periodic model tuning. Then see how to incorporate your model into a production workload and monitor model performance. Finally, integrate the model into a continuous deployment system to complete the model development life cycle (MDLC). Please bring your laptop.
 
-ARC319-R5: Security vulnerability identification and remediation 
+## ARC319-R5: Security vulnerability identification and remediation 
 
 In this session, learn how to monitor, alert, and remediate security events in your AWS environments. You use an AWS CloudFormation template to introduce a number of issues into accounts, including unencrypted and public S3 buckets, open security groups, and AWS Identity and Access Management (IAM) accounts without MFA enabled. You then practice monitoring, alerting, and automatic remediation for these issues using AWS Config, AWS Security Hub, and AWS Lambda. Please bring your laptop.
 
-ARC320-R2: Build self-service registration with facial recognition 
+## ARC320-R2: Build self-service registration with facial recognition 
 
 In this session, we build a modern web application that uses machine learning technologies for self-service registration. Your guests will be able to register for your event via this application and then check in using facial recognition on a smart webcam. You will leave with a fully functional application that was used for an actual AWS event. Please bring your laptop.
 
-ARC321-R2: Enabling AWS PrivateLink with the AWS Cloud Development Kit 
+## ARC321-R2: Enabling AWS PrivateLink with the AWS Cloud Development Kit 
 
 AWS PrivateLink provides private network access to AWS services and your own SaaS-style services. In this session, learn how to use the AWS Cloud Development Kit (CDK) to create a reusable component that sets up a proxy layer for resources that don't natively support AWS PrivateLink. Please bring your laptop.
 
-ARC322-R3: Enterprise messaging patterns 
+## ARC322-R3: Enterprise messaging patterns 
 
 Messaging applications are widely used to integrate different types of applications and decouple complex designs. In this session, learn how to use Apache Camel and Amazon MQ to implement common integration patterns for routing, message transformation, and integration with other AWS services. As an added bonus, we also explore how to scale Apache Camel using Amazon Elastic Kubernetes Service (Amazon EKS). The knowledge gained in this session can be applied to migrating to Amazon MQ from common legacy messaging service providers like IBM MQ and TIBCO. Please bring your laptop.
 
-ARC333-R2: Orchestrating Operations to Manage AWS Resources 
+## ARC333-R2: Orchestrating Operations to Manage AWS Resources 
 
 With the advent of virtualization and the cloud, IT staff face increasingly complex management challenges as systems scale. In this session, we'll review the architecture of the AWS Operations Conductor Solution, which automates a number of management tasks, such as archiving, data backup and recovery, resource selection and scheduling, and configuration management. Attendees will learn how to utilize relevant services, such as AWS Systems Manager and Amazon CloudWatch, to extend the Operations Conductor Solution or create automation applications for their own organization.¬†
 
