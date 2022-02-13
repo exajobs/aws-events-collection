@@ -626,4 +626,264 @@ Companies are increasingly opting to build applications using event-driven archi
 
 # Architecture
 
+ARC201-R1: Comparing serverless and containers 
+
+Microservices are a great way to segment your application into well-defined, self-contained units of functionality. Come join us in this chalk talk as we discuss two common architectures for deploying microservices: containers and serverless.
+
+ARC202-R2: Architecting for the cloud 
+
+Bring your ideas, war stories, and 'aha moments' to this interactive session with an AWS solutions architect, where we discuss cloud architecture best practices. We highlight specific discoveries and insights from AWS customers, as the cloud has redefined how they think about scalability, designing for failure, constrained thinking, elasticity, parallel processing, loose coupling, and more. Come with your own story or an interest in learning how AWS forever changed the way your colleagues think about the IT world.
+
+ARC203: Innovation at speed   
+
+What does it take to innovate quickly? In this session, we address how blockers to innovation, such as culture, skills, antiquated processes, and board-level concerns, can stand in the way of business agility. We map out a pathway to digital transformation, including new metrics for success, integration of real-world best practices from enterprises, and the most effective organizational patterns, as we integrate the business with development and operations.
+
+ARC204-R2: Cost optimizing a workload 
+
+In this hands-on session, we guide you through the AWS tools, services, and design decisions for architecting cost-optimized applications. Whether you run cloud-native applications or legacy monolithic applications, we show you tricks and techniques to run your workload at the lowest cost possible. Once the workload is optimized, we set up an enterprise cost-optimization dashboard to measure and report on workload efficiency utilizing Amazon Athena and Amazon QuickSight.
+
+ARC206-S: Meredith delivers media content to all with AWS and Rubrik 
+
+Meredith Corporation is America's largest media company of iconic magazine brands, television stations, and radio stations, including PEOPLE, Better Homes & Gardens, InStyle, and Allrecipes. Delivering that content online and in print requires Meredith's IT department to maintain a robust and highly available hybrid infrastructure on premises and on AWS. Join Meredith and its cloud data management partner, Rubrik, to learn how Meredith keeps up with the growing demand for more media by leveraging different AWS services to run its production workloads. Additionally, you'll learn how Rubrik protects Meredith's media assets on premises and in the cloud. This presentation is brought to you by Rubrik, an APN Partner.
+
+ARC207-S: Migrating applications to serverless Apache Kafka + KSQL 
+
+You were using Apache Kafka on premises a few years ago and have been happily building applications with it since then. But now it's well past time to move to the cloud, and you'd like to refactor your first application to something that feels more native to the cloud. In this talk, we demonstrate doing this with a fictional application, migrating the data from on premises to Confluent Cloud and converting the previous on-premises monolith to a set of stateless microservices fed by real-time, continuous KSQL queries. Leave this session with a clear understanding of how to do the same in your own stack. This presentation is brought to you by Confluent, an APN Partner.
+
+ARC209-R1: Running lean architectures: How to be cost-effective on AWS   
+
+Everybody can save money on AWS by optimizing your architecture! This session reviews a wide range of cost-optimization strategies, featuring real-world examples. In addition to Reserved Instances, we have a special focus on Spot Instances to get a discount of up to 90 percent. We also talk about leveraging AWS Auto Scaling, caching and offloading content to Amazon CloudFront to reduce backend load, and much more. Running serverless? Learn how to cut costs on serverless through minimizing AWS Lambda execution time and maximizing networking throughput. Additionally, we cover optimizing training and inference costs for machine learning on AWS.
+
+ARC212-R1: Cox Automotive: AWS Well-Architected Results on 200+ platforms   
+
+How do you know if you and your team are following cloud architecture best practices? How do you assess your potential risks? This session shows how the AWS Well-Architected Framework provides prescriptive architectural advice, and how the AWS Well-Architected Tool allows you to improve your technology portfolio. Hear executives from Cox Automotive explain how the company uses AWS Well-Architected as part of a scorecard across more than 200 platforms to health-check the Cox Automotive products. Learn how the scorecard works to drive resource and investment decisions, and how it helps measure profitability, technology risk, and engineering maturity.
+
+ARC213-R2: Architecture patterns for multi-region active-active   
+
+With global business, there is an ever-growing need to be able to implement multi-region active-active architecture. However, this requires first-order thinking and attention not just to app and database design but also to DNS, monitoring, traffic shaping, and so on. Furthermore, architecture complexity can increase rapidly, so multiple design trade-offs need to be made. In this session, we discuss challenges and solutions using various AWS services, like Amazon DynamoDB global tables, as well as open source products.
+
+ARC214-R1: Data lake DevOps on AWS 
+
+Standing up a data lake solution is greatly simplified using services like Amazon Kinesis, Amazon S3, AWS Glue, Amazon Redshift, Amazon EMR, and Amazon QuickSight. However, customers also need to deploy changes to data models, ETL scripts, programs, and other artifacts from time to time. This can be complex if not automated and can cause delays or failures in getting insights from data. In this chalk talk, learn how to provision a data lake on AWS and add CI/CD capability to it using AWS DevOps services such as AWS CodeCommit, AWS CodeBuild, AWS CodeDeploy, and AWS CodePipeline.
+
+ARC215-R1: Deconstruct a serverless analytics application 
+
+In this chalk talk, we use an analytics application use case to dive deep into architectural layers of a serverless application on AWS. This session reviews the recommended design principles for a well-architected serverless application, maps AWS services to each architectural layer, and establishes design patterns based on best practices.
+
+ARC216-R1: AI-powered virtual classroom for employee education 
+
+This chalk talk discusses how an interactive virtual classroom training can be developed using AWS services. It shows how to easily build scenes for virtual classrooms using Amazon Sumerian, make it interactive using AI services (Amazon Polly and Amazon Lex), and make it dynamic using AWS Lambda. We then discuss how the solution can be expanded to understand user sentiment using Amazon Comprehend and how to add security using Amazon Cognito. Key takeaways are understanding how AWS media and AI/ML services can be used to build an end-to-end virtual training application.
+
+ARC217-R1: Operating and managing hybrid cloud on AWS 
+
+Operating in a hybrid architecture is a necessary component of an enterprise cloud adoption journey. Security, provisioning, change management, and monitoring are all key aspects of managing any hybrid cloud environment. This session covers the AWS services, open source tools, and AWS partners that can provide enterprises with a secure, well-governed, performant, reliable, and well-operated hybrid cloud environment. We cover infrastructure and application continuous delivery and improvement solutions, along with best practices to automate hybrid cloud provisioning and operations activities.
+
+ARC218-L: Leadership session: AWS architecture   
+
+The skills required to be a successful architect are changing at a rapid pace, and this change shows no signs of slowing down. In this session, we reflect on the evolving role of the architect in organizations large and small. We recap the most impactful announcements from the week for architects, review some key tools designed to make life easier for architects building on AWS, and discuss industry changes that will impact future architectures.
+
+ARC219-R1: AWS Cost Management tools for cost & usage optimization 
+
+This is a hands-on session that guides you through the AWS tools and services used to drive cost optimization throughout your business. We look at the core AWS tools, such as AWS Identity and Access Management (IAM) policies, AWS Budgets, and Cost Explorer, to perform advanced billing analysis with Amazon Athena. Lastly, we create visualizations of cost usage using Amazon QuickSight.
+
+ARC220-S: Dell Technologies cloud-enabled infrastructure   
+
+For customers with data stores on-premises, Dell Technologies cloud-enabled infrastructure makes it possible to access AWS compute and analytics services. Additionally, it supports moving VMware workloads between on-premises and VMware Cloud on AWS. Join us in this session to learn more about how Dell Technologies cloud-enabled infrastructure can connect your on-premises data and workloads with your AWS environment for compute purposes, analytics services, disaster recovery scenarios, and regular access to your remote and branch offices. This presentation is brought to you by Dell, an APN Partner.
+
+ARC222-S: Chesapeake Energy: Transforming oil and gas production with AWS 
+
+Using IoT data and machine learning-based predictive maintenance models, Chesapeake is maximizing the uptime of oil and gas wells. Join this session to learn about the architecture behind this effort, which uses AWS services like Amazon EC2, Amazon S3, AWS Batch, and AWS Lambda as the data warehouse, while Control-M serves as the orchestration engine. This presentation is brought to you by BMC Software, an APN Partner.
+
+ARC223-S: Reimagine SME banking: OpenDATA-enabled innovation at Rabobank   
+
+Banks face unprecedented challenges as customer needs evolve, regulations change, and fintech disrupts the market. Come learn how Rabobank, enabled by Deloitte's OpenDATA platform, launched an SME lending solution in just 13 weeks, allowing customers to receive loan offers in less than 15 minutes based on machine learning and artificial intelligence models. Hear how this end-to-end platform powered by AWS acts as a toolkit to kick-start rapid innovation and delivery through an integrated set of cloud services and accelerators. This session details Rabobank's journey, including how the OpenDATA platform can enable incumbent financial services players to build and launch winning products in an open banking world. This presentation is brought to you by Deloitte, an APN Partner.
+
+ARC224-S: How rapid growth accelerated Zipwhip's move to AWS   
+
+Zipwhip is an SMS and MMS texting provider that has seen a 280-percent message growth over the past year. To support this growth and effectively deal with aging on-premises infrastructure, Zipwhip required a drastic migration to the cloud. Come learn how three engineers redesigned Zipwhip's infrastructure over nine months and began leveraging AWS services, including Amazon EKS and Nitro-based Amazon EC2 instances. Hear how they used F5 Network's BIG-IP Virtual Edition (VE) and NGINX (Kubernetes ingress controllers) to optimize application performance, visibility, and security throughout this migration. Finally, learn how with AWS, they increased performance, scalability, and resiliency while optimizing costs over traditional infrastructure. This presentation is brought to you by F5 Networks, an APN Partner.
+
+ARC301-R3: Architecture patterns: Serverless stream processing at scale 
+
+Streaming application architectures are commonly used to solve real-time analytics requirements. Serverless architectures are a great fit for stream-processing applications because they enable you to lower operational costs and pay per execution, and they can seamlessly scale as your stream data rates vary. In this workshop, learn how to create serverless stream-processing architectures that can seamlessly scale as your needs grow. Get hands-on experience using Amazon Kinesis Data Streams, Amazon Kinesis Data Firehose, Amazon Kinesis Data Analytics, and AWS Lambda to create real-time analytics pipelines. Learn how to ingest streaming data at scale and process it to generate real-time insights. Please bring your laptop.
+
+ARC302-R1: Patterns for hosting ML models in low latency microservices 
+
+Deploying deep learning models in a low latency microservices environment is challenging. However, without this, we wouldn't have many of the AI applications that we have today, such as voice response systems, fast image and video analytics, responsive visual search engines, and real-time predictions for business transactions, such as for ride-hailing apps. These challenges are due to the high amount of compute involved, latencies of models and costs, difficulties in deployment, A/B testing, and monitoring performance. In this session, we demonstrate Amazon Elastic Inference, Amazon SageMaker Neo and batch inference, AWS Inferentia, and AWS X-Ray, and we discuss how to use these services to overcome these challenges.
+
+ARC303-R2: Failing successfully: The AWS approach to resilient design 
+
+AWS global infrastructure provides the tools customers need to design resilient and reliable services. In this session, we explore how to get the most out of these tools. We discuss achieving continued stability and availability in the face of impaired dependencies. We also cover AWS tools and best practices you can use to design applications and services that avoid overload.
+
+ARC304-R3: From one to many: Diving deeper into evolving VPC design 
+
+In this session, we discuss a customer's evolution from a single regional VPC to multi-VPC, multi-region designs with diverse connectivity into on-premises systems and infrastructure. We review ways to manage multi-tenant VPCs and investigate creative solutions for scaling and securing outbound VPC traffic, securing private access to AWS public services, such as Amazon S3, Amazon SNS, and Amazon SQS. We explore AWS Transit Gateway and the architectures that reduce the complexity of establishing global VPC networks with integration points to the AWS Direct Connect gateway in multiple Regions. Lastly, we explore global routing solutions that complement globally distributed environments.
+
+ARC305-R1: Migrating single-tenant applications to multi-tenant SaaS 
+
+The appeal of SaaS has many ISVs interested in the value of delivering their solutions in a SaaS model. Moving a single-tenant application to a multi-tenant environment can be daunting. In this session, we look at many obstacles that ISVs face as they consider the move to a SaaS model. We explore a range of patterns from lift-and-shift to an incremental cutover to multi-tenant-aware microservices, data, and infrastructure. We highlight the challenges and technical considerations, including onboarding, identity, billing, metering, analytics, that shape your solution and allow you to better align your transformed solution with SaaS best practices.
+
+ARC307-R3: Serverless architectural patterns and best practices   
+
+As serverless architectures become more popular, customers need a framework of patterns to help them to identify how to leverage AWS to deploy their workloads without managing servers or operating systems. In this session, we describe reusable serverless patterns while considering costs. For each pattern, we provide operational, security, and reliability best practices and discuss potential challenges. We also demonstrate the implementation of some of the patterns in a reference solution. This session can help you recognize services and applications for serverless architectures in your own organization and understand areas of potential savings and increased agility and reliability.
+
+ARC308-R1: Hands-on SaaS: Constructing a multi-tenant solution on AWS 
+
+SaaS presents developers with unique architectural challenges. Supporting a multi-tenant model often means rethinking your approach to almost every layer of your architecture. Onboarding, security, data partitioning, tenant isolation, identity-these are areas that must be factored into how you design, build, and deploy your SaaS solution. In this workshop, we expose you to core concepts of SaaS architecture through a brief lecture and then dive into a reference SaaS architecture through a series of hands-on activities, where you explore a functional solution and then use code and configuration to extend the capabilities of this SaaS environment.
+
+ARC309-R1: Hands-on: Building a multi-region active-active solution 
+
+Do you need a highly available global application? Join us to build a global, multi-region resilient architecture with containers and serverless with polyglot persistence databases. You must bring your own laptop and have an AWS account for this hands-on session. This workshop includes using an Amazon Route 53 domain, Amazon API Gateway, Amazon Cognito, AWS Lambda, Amazon DynamoDB, AWS Fargate, Amazon Aurora with AWS code services, and AWS Cloud9.
+
+ARC310-R1: Serverless data lake patterns for voice, vision, and ML 
+
+Industry 4.0 demands greater insight into data to bring people, processes, and equipment together. In this workshop, we illustrate how to gain business insights from video and voice data sources, highlighting the data pipeline. We ingest source feeds, efficiently store the data, and perform advanced analytics using AWS ML services and analysis tools. Typical applications include anomaly detection (detecting spills or hazardous objects and predictive maintenance) and voice-sentiment analysis (customer service insights). By the end of the session, you will be able to quickly analyze data for uncommon characteristics using those detections to initiate a wide variety of actions.
+
+ARC313-R1: Architecting global storage with AWS Lambda 
+
+Companies are searching for ways to synchronize their assets to their production facilities around the world, both on-premises and in the cloud, using best practices with AWS technologies. In this session learn how you can use AWS Lambda, Amazon API Gateway, Amazon Simple Storage Service (Amazon S3), AWS Storage Gateway, AWS Directory Service, and AWS Fargate to build a serverless global storage platform to enable employee collaboration around the world.
+
+ARC314-R2: Decoupled microservices: Building scalable applications 
+
+Often, when the microservices architecture style is applied, much of the communication between components is done over the network. In order to achieve the promises of microservices, this communication needs to happen in a loosely coupled manner. One frequently used option is to have all services expose an API following the REST architectural style. However, there is another option that provides even looser coupling: asynchronous messaging. In this workshop, you learn how to use AWS messaging services to build decoupled microservices architectures to achieve massive scale.
+
+ARC315-R1: Build end-to-end governance with AWS Control Tower 
+
+As you build and deploy an AWS landing zone solution leveraging AWS Control Tower, a common next step is to build out networking configurations for connecting to other AWS accounts and on-premises networks and federated access. In this session, you learn how to build, deploy, and test a transit gateway, as well as Okta integration for federated access on an AWS Control Tower-configured environment.
+
+ARC316-R1: Deploy and monitor a serverless application 
+
+When building serverless applications, you need to know the design tradeoffs for improving performance in addition to how well your application is performing. What are the bottlenecks, time sinks, and bugs? Amazon Elasticsearch Service-with its ability to ingest, correlate search, and visualize data in near real time from different sources-is an ideal solution. In this workshop, you build on a bookstore application and add detailed monitoring and tracing across the stack. You'll flow data from Amazon DynamoDB and AWS Lambda (via AWS X-Ray) to Amazon ES, build visualizations, identify performance problems, and implement performance improvements to the application.
+
+ARC318-R3: Automated ML model development life cycle 
+
+The machine-learning workflow is an iterative cross-functional process. In this session, you integrate a machine-learning model into a data pipeline. Learn how to automate data preparation, feature engineering, and periodic model tuning. Then see how to incorporate your model into a production workload and monitor model performance. Finally, integrate the model into a continuous deployment system to complete the model development life cycle (MDLC). Please bring your laptop.
+
+ARC319-R5: Security vulnerability identification and remediation 
+
+In this session, learn how to monitor, alert, and remediate security events in your AWS environments. You use an AWS CloudFormation template to introduce a number of issues into accounts, including unencrypted and public S3 buckets, open security groups, and AWS Identity and Access Management (IAM) accounts without MFA enabled. You then practice monitoring, alerting, and automatic remediation for these issues using AWS Config, AWS Security Hub, and AWS Lambda. Please bring your laptop.
+
+ARC320-R2: Build self-service registration with facial recognition 
+
+In this session, we build a modern web application that uses machine learning technologies for self-service registration. Your guests will be able to register for your event via this application and then check in using facial recognition on a smart webcam. You will leave with a fully functional application that was used for an actual AWS event. Please bring your laptop.
+
+ARC321-R2: Enabling AWS PrivateLink with the AWS Cloud Development Kit 
+
+AWS PrivateLink provides private network access to AWS services and your own SaaS-style services. In this session, learn how to use the AWS Cloud Development Kit (CDK) to create a reusable component that sets up a proxy layer for resources that don't natively support AWS PrivateLink. Please bring your laptop.
+
+ARC322-R3: Enterprise messaging patterns 
+
+Messaging applications are widely used to integrate different types of applications and decouple complex designs. In this session, learn how to use Apache Camel and Amazon MQ to implement common integration patterns for routing, message transformation, and integration with other AWS services. As an added bonus, we also explore how to scale Apache Camel using Amazon Elastic Kubernetes Service (Amazon EKS). The knowledge gained in this session can be applied to migrating to Amazon MQ from common legacy messaging service providers like IBM MQ and TIBCO. Please bring your laptop.
+
+ARC333-R2: Orchestrating Operations to Manage AWS Resources 
+
+With the advent of virtualization and the cloud, IT staff face increasingly complex management challenges as systems scale. In this session, we'll review the architecture of the AWS Operations Conductor Solution, which automates a number of management tasks, such as archiving, data backup and recovery, resource selection and scheduling, and configuration management. Attendees will learn how to utilize relevant services, such as AWS Systems Manager and Amazon CloudWatch, to extend the Operations Conductor Solution or create automation applications for their own organization.¬†
+
+ARC334-R2: From one to many: Evolving VPC design   
+
+As more customers adopt Amazon VPC architectures, the features and flexibility of the service are encountering the obstacles of evolving design requirements. In this session, we follow the evolution of a single regional VPC to a multi-VPC, multi-region design with diverse connectivity into on-premises systems and infrastructure. Along the way, we investigate creative customer solutions for scaling and securing outbound VPC traffic, securing private access to Amazon Simple Storage Service (Amazon S3), managing multi-tenant VPCs, integrating existing customer networks through AWS Direct Connect, and building a full VPC mesh network across global regions.
+
+ARC335-R1: Designing for failure: Architecting resilient systems on AWS   
+
+Customers moving mission-critical applications to the cloud are seeking guidance to replicate and improve the resiliency of their Tier 1 systems while simultaneously meeting compliance and regulatory requirements. Natural disasters, internet disruptions, or hardware or software failure can lead to events requiring customers to invoke disaster recovery (DR) plans. Join us in this session to learn how to design for failure and remain resilient in the event of disaster by designing applications using highly resilient components and service features.
+
+ARC336-R1: CLP Innovation: Increasing agility with cloud-native architectures   
+
+In today's tech-driven world, an organization's architecture is a competitive differentiator. A key piece of this advantage lies in the ability to move fast. In this session, we dive into how cloud-native architecture patterns are changing the way businesses think about speed and cost of innovation. We hear from CLP Innovation Enterprises Ltd. on why it made the decision to reinvent with cloud-native services, what it learned, and benefits it has gained along its journey to modern application development.
+
+ARC337-R1: Baking the best security layer cake 
+
+It's not enough to fix a bug or issue, we also have to dig in and find a deeper kind of fix that eliminates most bugs of that entire class. Failsafe design and defense in depth are nothing new, but in security, the tendency to add layers can backfire. Each new layer brings its own potential bugs, risks, costs, and challenges. In this talk, we take a look at just how effective some of the simplest mitigations are and how modern verification techniques can provide run-time assurance without run-time risk.
+
+ARC338-R1: How Goldman Sachs minimizes the impact of managing events 
+
+The operational excellence pillar of the AWS Well-Architected Framework includes guidance and best practices on operating in the cloud. Join our talk as representatives from Goldman Sachs share how the company applied these best practices to reduce the impact of events and the level of effort they extended to manage them. They also discuss how they enabled their operations teams to safely do more by establishing the standards for operations that enable them to scale as new projects enter the cloud. Learn how AWS Systems Manager OpsCenter can support your situational awareness and event response, enabling you to view, investigate, and remediate operational issues presented with contextually relevant data.
+
+ARC339-R1: Best practices for IoT architecture using AWS smart product solution   
+
+As more consumer products are embedded with sensors that allow communication and data transfer between the product and the manufacturer, customers need architecture to onboard, protect, and monitor device fleets. In this session, we cover best practices for creating this architecture and use the decisions that were made when creating the AWS smart product solution as a guide. The architecture incorporates AWS IoT Core, as well as AWS Lambda for backend microservices, AWS IoT Analytics with Amazon QuickSight to analyze telemetry data, and AWS IoT Device Defender to audit device configurations. We also show you how to use AWS CDK to create customized deployments.
+
+ARC340-R1: Amazon.com automating machine learning deployments at scale   
+
+Machine learning involves more than just training models; you need to source and prepare data, engineer features, select algorithms, train and tune models, and then deploy those models and monitor their performance in production. Learn how Amazon Consumer Payments uses Amazon SageMaker, AWS Glue, AWS Step Functions, Amazon API Gateway, AWS Lambda, AWS Batch, Amazon Elastic Container Registry (Amazon ECR), and AWS CloudFormation to automate a CI/CD framework for business-critical machine learning workloads at scale.
+
+ARC341-R1: Automation safety: How to avoid breaking things at scale 
+
+In this chalk talk, learn how automation can benefit your operations activities, the risks of doing it badly, and how to do it safely. Through real-world examples that highlight what can go wrong, learn the automation safety best practices that can help you reduce your risk. We discuss default automation behaviors, tagging, permissions, blast radius, circuit breakers, back-off, runbooks, playbooks, and more. We also discuss AWS tools that can help you implement automation safety, and we take your questions about automation and automation safety on AWS.
+
+ARC342-R1: Cell-based architectures for global, well-architected apps 
+
+In this chalk talk, we discuss patterns and practices for cell-based architectures (compartmentalization) and how they can help you build and migrate applications to the cloud. SaaS providers leverage cells for multi-tenant systems, and web, mobile, IoT, and almost any company can benefit from cells for better scale while maintaining higher availability, better operational management, and more secure and robust platforms.
+
+ARC343-R2: Modernizing legacy applications during your cloud migration 
+
+This chalk talk covers the journey of a real-world customer as they migrate their legacy application stack to the cloud. The existing tech stack was a mix of .NET, Java-based applications using SQL server, and the target platform was a combination of AWS container services like AWS Fargate, AWS Elastic Beanstalk, Amazon RDS for SQL Server for the database services, and Amazon Cognito for application authentication.
+
+ARC344-R1: Understanding the landing zone journey 
+
+Wondering how your organization can benefit from a landing zone? What is the thought process and journey? In this session, we talk about the multi-account strategy. Additionally, we discuss the story behind AWS Landing Zone; AWS Control Tower versus AWS Landing Zone; and Account Vending Machine versus Account Factory.
+
+ARC345-R1: Architecting data lakes with AWS data and analytics services 
+
+Customers with disparate data sources (databases, flat files, enterprise systems) have difficulty architecting a central data lake that can provide users a single source of truth and drive business outcomes. During this chalk talk, we discuss how to architect a secure data lake using Amazon S3, AWS Database Migration Service (AWS DMS), AWS Lake Formation, AWS Glue, and Amazon Athena. By the end of this session, you will be able to: understand key architecture tenets around data ingestion patterns, make design decisions to securely store data, apply granular security policies for access, and catalog/transform your data for end-user access and consumption.
+
+ARC346-R1: AWS ML at the edge: Building production-intended solutions 
+
+Machine learning and IoT have become commonplace words in the enterprise workplace. Even in our homes we have ML-enabled IoT devices (we're looking at you, Amazon Alexa). But what does it look like to combine ML and IoT at the edge in a production environment? Join us in a discussion about how we built scalable production-intended ML solutions at the edge for many AWS customers. From detecting cracks in wheels on heavy machinery to automated inventory tracking in factories, we show you the results of our experiments and best practices learned the hard way, all while leveraging existing AWS services.
+
+ARC347-R1: Reinventing the Andon Cord: Amazon Virtual Andon solution 
+
+The Amazon Virtual Andon solution was built for Amazon fulfillment centers as an issue and notification system, and it is now publicly available as an AWS solution. In this session, we go behind the scenes of the creation of this solution and explain how we incorporated AWS IoT Core to monitor and connect to devices on the floor. We also discuss how we used IoT Rules Engine and Amazon SNS to send event notifications and AWS AppSync to perform complex queries and aggregations using GraphQL.
+
+ARC348-R1: Protecting your web applications from common attack vectors 
+
+A web application that is unable to fend off attacks leads to an erosion of customer trust, and in the worst case, it leads to customer privacy issues. In this workshop, you learn best practices for architecting web applications to block common attack patterns that affect application availability and security. We take a compromised web application and use tools such as the AWS WAF Security Automations solution, and we build, train, and deploy a machine learning model to identify abnormal behaviors. We also build an application that automates security assessments and operational tasks, identifies anomalies in data, and monitors your AWS environment.
+
+ARC349-R1: Beyond five 9s: Lessons from our highest available data planes   
+
+Every AWS service is designed to be highly available, but a small number of what we call Tier 0 services get extra-special attention. Come hear lessons from how AWS has built and architected Amazon Route 53 and the AWS authentication system, designed to survive cataclysmic failures, enormous load increases, and more. We cover our approach to redundancy and resilience at the infrastructure, software, and team levels, and we get into how the teams tasked with keeping the internet running manage themselves and still keep up with the pace of change that AWS customers demand.
+
+ARC401-R5: Scale up a web application 
+
+In this session, you use an automated test suite to bombard an application with an increasing number of concurrent users. You then identify the bottlenecks and refactor the application. Find out how many concurrent users you can scale up to. Please bring your laptop.
+
+ARC402-R1: Connecting many VPCs: Network design patterns at scale 
+
+In this session, we show you how to design connectivity between many VPCs and how new services interact with network architectures. We review common design patterns, such as shared services VPCs, transit VPCs, private links, firewalls, and more. We also cover solutions to common challenges, such as VPN sprawl, keeping up with VPC automation, sharing services, and network segmentation at scale for hundreds of VPCs.
+
+ARC404-R1: Resiliency testing: Verifying your system is as reliable as you think 
+
+In this workshop, we illustrate how to set up your own resiliency testing. We set up a simple three-tier architecture and explore the failure modes with Bash and Python scripts. To participate, you need an account that can run AWS CloudFormation, AWS Step Functions, AWS Lambda, Application Load Balancers, Amazon Elastic Compute Cloud (Amazon EC2), Amazon Relational Database Service (Amazon RDS) for MySQL, AWS Database Migration Service (AWS DMS), and Amazon Route 53.
+
+ARC405-R2: Building multi-tenant-aware SaaS microservices 
+
+As you move to an SaaS model, you must create an experience for your developers that lets them focus on functionality rather than the details of your multi-tenant policies. In this session, you look at strategies that simplify multi-tenant microservice development, streamlining and standardizing your model for logging, recording metrics, accessing tenant-partitioned data, and authorizing access to your services. You use AWS Lambda layers, Amazon Cognito, and Amazon API Gateway to develop reusable components. Please bring your laptop.
+
+ARC406-R2: Building multi-region microservices 
+
+In this session, participate in a hands-on exercise where you create, verify, and test a serverless solution across multiple regions using AWS Lambda and Amazon DynamoDB global tables. Please bring your laptop.
+
+ARC407-R2: Object detection at the edge 
+
+Many applications for machine learning run in environments with low-power devices and intermittent network connectivity. In this session, build an object detection model that counts animals in a video frame. You will then deploy your application to an IoT device and run it on example input data. Please bring your laptop.
+
+ARC409-R2: Near-zero-downtime migrations to AWS 
+
+Migrating workloads to AWS requires detailed analysis of the workloads and strategies to avoid data loss and downtime. In this session, you use CloudEndure to analyze and migrate sample workloads often found in large-scale data center migrations, like web applications, databases, and Active Directory. Then, you explore options for rehosting and replatforming. Please bring your laptop.
+
+ARC411-R1: Reducing blast radius with cell-based architectures 
+
+One thing we've learned is that failures come in many forms, some expected and some unexpected. A core consideration is how to minimize the blast radius of any failures. In this talk, we focus on cell-based architectures; system, cell, and router properties; and how we designed for failure on AWS leveraging serverless technologies like AWS Lambda, Amazon Kinesis, Amazon Simple Storage Service (Amazon S3), and Amazon Simple Queue Service (Amazon SQS). This cell-based architecture processes 28 petabytes of data with 1 billion transactions a month.
+
+ARC413-R1: SaaS metrics deep dive: A look inside multi-tenant analytics 
+
+Metrics are at the core of every SaaS business. Having your finger on the pulse of tenant and system activity is essential to achieving and maintaining scale, agility, and innovation. These metrics directly shape both business and technical strategy. In this chalk talk, we move beyond the concepts of metrics and dig into specific metrics implementation strategies that can be used across all the moving parts of your SaaS architecture. The goal is to provide concrete examples of how systems are instruments, how the data is aggregated, and how it's surfaced to various business and technical consumers.
+
+ARC414-S: Accelerated analytics: Building the next-gen data platform for Hertz   
+
+Hertz is undertaking a massive digital transformation to evolve its technology landscape. This move provides an opportunity to extract valuable insights from a large amount of data produced by the new systems. In this session, learn how Deloitte collaborated with Hertz to build a next-generation data platform, which includes an integration hub, a unified reporting layer, and an ecosystem of tools used to build advanced analytics models. Discover how the solution leveraged all native AWS services, such as Amazon S3, Amazon Kinesis, Amazon EMR, and AWS Lambda, to enable cross-functional insights and accelerate the cloud journey in under 12 months. This presentation is brought to you by Deloitte, an APN Partner.
+
+ARC415-S: Building modern applications with data on Heroku, Salesforce, and AWS 
+
+Modern application development requires distributed architectures, multi-directional application and data workflows, and multi-disciplinary teams. These are complex interactions in isolation, but they are even more complex when the demands of infrastructure, architecture, and people are intertwined. Data is the lifeblood of this effort, and the ability of data to move across these three boundaries is critical to delivering value. In this session, you learn how Heroku helps developers and enterprises solve these challenges. This presentation is brought to you by Salesforce, an APN Partner.
+
 
