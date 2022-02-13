@@ -11,9 +11,11 @@
 
 -  [Slides](https://github.com/exajobs/aws-events-collection/blob/main/reinvent/reinvent-contents-2019/Hot_paths_to_anomaly_detection_with_TIBCO_data_science%2C_streaming_on_AWS_AIM201-S.pdf) , [Videos](https://www.youtube.com/watch?v=ZTI76iJCRjc)
 
-## AIM202-S: Artificial intelligence in Healthcare 
+## [AIM202-S: Artificial intelligence in Healthcare](https://github.com/exajobs/aws-events-collection/blob/main/reinvent/reinvent-contents-2019/Artificial_intelligence_in_Healthcare_AIM202-S.pdf)
 
 > SENTRI is an intelligent automation application platform built leveraging native AWS components to facilitate case processing in the Healthcare industry. PwC built an engine that can take in an adverse healthcare/level of service (HC/LS) event case, extract key information, provide an initial interpretation of severity, and triage the case for review. PwC performed analysis using a user-centric experience, which allowed the case processor to easily verify outputs and helped build trust and confidence in the machine's interpretation. In this session, learn how a PwC customer has been successfully using this system for over nine months. It used to take two hours to process a case. Now, it takes three seconds. This presentation is brought to you by PwC, an APN Partner.
+
+-  [Slides](https://github.com/exajobs/aws-events-collection/blob/main/reinvent/reinvent-contents-2019/Artificial_intelligence_in_Healthcare_AIM202-S.pdf)
 
 ## AIM203-SR1: Take AI/ML from theory to practice with Intel technologies on AWS 
 
