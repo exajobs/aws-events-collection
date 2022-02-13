@@ -2,6 +2,8 @@
 - [Artificial Intelligence & Machine Learning](#artificial-intelligence--machine-learning)
 - [Analytics](#analytics)
 - [Application Integration](#application-integration)
+- [Architecture](#architecture)
+- [AR/VR](#ar-vr)
 
 # Artificial Intelligence & Machine Learning
 
