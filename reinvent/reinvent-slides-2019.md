@@ -969,3 +969,248 @@ Building enterprise blockchain applications on your own infrastructure is often 
 
 Blockchain networks afford us the ability to build decentralized applications that can be cheaper, faster, and more trustworthy than traditional centralized architectures. Amazon Managed Blockchain allows us to deploy managed, scalable Hyperledger Fabric networks that can help foster decentralized applications from experimentation to production. In this workshop, we create our own banks and build a consortium to provide interbank transfers and other services in a decentralized fashion. We explore the concepts behind blockchain and examine the features that you can leverage to build effective decentralized applications.
 
+
+
+International
+
+CHN202: AWS China Gateway: Power your business in China by working with AWS   
+
+The AWS China Gateway provides information that helps customers of all sizes get started in using AWS to grow their businesses in China. The AWS China (Beijing) Region and the AWS China (Ningxia) Region are located within mainland China. To provide the best experience for customers in China, as well as to comply with China's legal and regulatory requirements, AWS works with Chinese partners that possess telecom licenses required for delivering cloud services in China. Join this session to learn more about using the AWS China Region.
+
+Compute
+
+CMP202-R1: Better, faster, cheaper compute: Cost-optimizing Amazon EC2   
+
+It's easier than ever to grow your compute capacity and enable new types of cloud computing applications while maintaining the lowest TCO by blending Amazon EC2 Spot, On-Demand, and Reserved Instance purchase models. In this session, learn how to use the power of Amazon EC2 with other AWS services and features such as Auto Scaling, Amazon ECS, Amazon EKS, Amazon EMR, and AWS Batch to programmatically optimize costs while maintaining high performance and availability- all without breaking a sweat.
+
+CMP203: Studio in the cloud: Content production on AWS   
+
+In this session, learn how AWS Thinkbox and our partners are helping studios work with the best talent to scale their VFX and CG pipelines and produce some of the most popular and award-winning content. We cover several in-depth post-production topics around real-world VFX studio pipelines, and we focus on virtual workstations and rendering workloads, combining Amazon EC2 and AWS Thinkbox Deadline for scalable, cost-effective computing. Learn how real customers working on Hollywood productions integrate their pipelines with AWS to realize the elasticity and scale provided by Amazon EC2 and how they intend to leverage AWS in the future.
+
+CMP204-R1: HPC on AWS: Innovating without infrastructure constraints   
+
+High-performance computing (HPC) has always been about solving the most complex problems. But for far too long, HPC applications and workloads have been constrained by infrastructure capacity. In this session, we highlight how virtually unlimited capacity and scale, accessed instantly on the cloud, can create a paradigm shift in the way researchers and engineers approach innovation. Learn how Formula 1 uses AWS to run complex computational fluid dynamics (CFD) simulations as part of its 2021 car design. And hear about the migration of Morgan Stanley's grid computing workloads to AWS.
+
+CMP207-R1: Manage, control, and optimize costs with native AWS products, ft. Intuit 
+
+In this interactive chalk talk, learn about how AWS creates your cost and usage data and dive into how you can use native AWS products to manage your spend. We look at AWS Billing and Cost Management data, AWS Cost Explorer, AWS Cost and Usage reports, and AWS Budgets.
+
+CMP208-S: Achieving unparalleled elasticity on AWS at the lowest cost   
+
+Selecting the optimal cloud resources for your applications can be challenging since there are many ways that your cloud instances can be configured. Cloud engineers and architects are facing this challenge every day, trying to manually find the perfect match and avoid potential operational risks. In this session, join the VP of technical sales at Densify to learn how one line of code (e.g., Terraform) can unlock workload elasticity by precisely and automatically aligning your application demands with the right AWS resources, giving you better performance with reduced operational risk. This presentation is brought to you by Densify, an APN Partner.
+
+CMP210-R1: Dive deep on how to save with AWS Savings Plans   
+
+Savings Plans is a new flexible pricing model that provides savings of up to 72 percent on Amazon EC2 and AWS Fargate usage. Savings Plans offers significant savings over On Demand, just like Reserved Instances, but automatically reduces your bills on compute usage across any AWS Region, even as your usage changes. Savings Plans provides you the flexibility to use the compute option that best suits your needs and continues to save money, all without having to perform exchanges or modifications. Attend this session to learn how you can easily save money on your compute spend. We walk you through a demo of Savings Plans recommendations in AWS Cost Explorer and different considerations for signing up for Savings Plans.
+
+CMP211-R2: Amazon EC2 foundations   
+
+Amazon EC2 provides resizable compute capacity in the cloud and makes web-scale computing easier for customers. It offers a wide variety of compute instances and is well-suited to every imaginable use case, from static websites to supercomputing on-demand, all available via highly flexible pricing options. This session covers the latest EC2 capabilities, including recent instance families available in Amazon EC2, the differences among their hardware types and capabilities, and their optimal use cases.
+
+CMP212-R1: [NEW LAUNCH!] Intro to AWS Wavelength: Run applications with ultra-low latency requirements at the 5G network edge   
+
+In this session, come see how AWS Wavelength brings services such as Amazon EC2 and Amazon ECS to the edge of 5G mobile networks. This enables developers to build applications that reach 5G connected devices with single-digit millisecond latencies using familiar AWS APIs and development processes. This session provides an overview of typical application architectures that benefit from low-latency compute. We also dive deep into how Bethesda Softworks, a video game publisher best known for iconic franchises like The Elder Scrolls, Fallout, and DOOM, is using AWS Wavelength to greatly enhance the experience of streaming video games. You learn how to use AWS in the 5G network edge to build applications that require ultra low-latency such as game streaming, AR/VR, IoT, and analytics.
+
+CMP213-R: [NEW LAUNCH!] Introducing quantum computing with AWS   
+
+Quantum computing has the potential to solve computational problems that are beyond the reach of classical computers. Amazon Braket and the Amazon Quantum Solutions Lab help customers explore quantum computing, evaluate its potential, and develop expertise. Amazon Braket is a managed service that provides customers access to quantum computing resources and makes it easy to build, simulate, and test quantum computing applications. The Quantum Solutions Lab connects customers with quantum experts for education and collaboration. In this session, learn about the potential of quantum computing and how you can get started with the Amazon Braket service and the Quantum Solutions Lab.
+
+CMP214-R1: [NEW LAUNCH!] EC2 Image Builder: Building virtual machine images made easy   
+
+In this session, learn about EC2 Image Builder, a new capability that makes it easier and faster to build and maintain secure images. Keeping server images up-to-date can be time-consuming, resource-intensive, and error-prone. Currently, customers either manually update and snapshot VMs or have teams that build automation scripts to maintain images. Learn how EC2 Image Builder simplifies the creation, patching, testing, distribution, and sharing of Linux or Windows Server images.
+
+CMP302-R1: AWS Outposts: Extend the AWS experience to on-premises environments   
+
+AWS Outposts extends AWS to your on-premises and connected edge environments to support applications with latency and local data processing requirements. Attend this session to learn more about how it works and about key customer use cases.
+
+CMP302-R2: AWS Outposts: Extend the AWS experience to on-premises environments 
+
+AWS Outposts extends AWS to your on-premises and connected edge environments to support applications with latency and local data processing requirements. Attend this session to learn more about how it works and about key customer use cases.
+
+CMP303-R2: Powering next-gen Amazon EC2: Deep dive into the Nitro system   
+
+The Nitro system is a rich collection of building block technologies that include AWS-built hardware offload and security components; it is powering the next generation of Amazon EC2 instances with an ever-broadening selection of compute, storage, memory, and networking options. In this session, we deep-dive into the Nitro system, explore its design and architecture, discover how it enables innovative new EC2 instances, and see how it has made the seemingly impossible possible.
+
+CMP304-R1: AWS infrastructure for large-scale distributed training at Facebook AI   
+
+In this session, the Facebook AI team discusses its major machine learning models and workloads and the infrastructure challenges it faced with large-scale distributed training. They share details of how they tested these ML workloads on AWS infrastructure and the results of this benchmarking. Then we discuss how the deep breadth of AWS infrastructure for ML workloads in compute, networking, and storage helps address large-scale ML challenges. Specifically, we dive deep into the AWS machine learning stack to choose the right Amazon EC2 platform to fit your ML workload while leveraging 100 Gbps networking and high-performance file systems to efficiently scale from a single GPU to hundreds or thousands.
+
+CMP306: Getting started with Arm-based Amazon EC2 instances 
+
+Amazon EC2 A1 instances are the first EC2 instances powered by Arm-based AWS Graviton processors. They deliver significant cost savings for scale-out and Arm-based applications, such as web servers and containerized microservices. In this chalk talk, you learn about EC2 A1 instances, hear customer success stories, and experience how easy it can be to run your workloads on Arm-based EC2 instances and lower your costs.
+
+CMP307-R2: Optimize ML training and inferencing using Amazon EC2 
+
+In this workshop, you gain hands-on experience with Amazon EC2 instances that offer the highest-performing GPU-based instances in the cloud for efficient model training and cost-effective inference. This workshop walks you through the entire machine learning application development life cycle and focuses specifically on how to optimize training and inference by leveraging the power of EC2.
+
+CMP309-R2: Easily deploy and scale a cloud app with Amazon Lightsail 
+
+In this workshop, we start by deploying a monolithic web app into an Amazon Lightsail instance. From there, we separate out the components and use technologies like load balancers and snapshots to show you how to deploy your application at scale. By the end of this session, you'll understand: the benefits of Lightsail; when to choose Lightsail or Amazon EC2; best practices for deploying your application onto Lightsail's preconfigured blueprints; how to use an OS-only blueprint to deploy virtually any software package; and how to leverage snapshots and load balancers to scale applications.
+
+CMP311-R1: How NextRoll leverages AWS Batch for daily business operations 
+
+The Digital Marketing industry generates petabytes of event data per day. In this session, learn how NextRoll, a marketing technology provider and platform, uses AWS Batch to process these petabytes of data in a stable and efficient way. We review how NextRoll manages its compute environment provisioning, job scheduling, and jobs management, and how it performs data-transformation and business analytics calculations in the batch environment.
+
+CMP312-R2: Optimizing Amazon EBS for performance 
+
+Key techniques and practices while using Amazon EBS can help push performance and optimize spend. In this session, learn how to optimize storage performance and costs for Amazon EBS using tools such as Amazon CloudWatch and AWS Trusted Advisor, and third-party tools such as Cloudability.
+
+CMP313-R1: Save by using multiple purchase options with Amazon EC2 Auto Scaling 
+
+Amazon EC2 Auto Scaling makes it easy to mix multiple purchase options and instance types in the same Auto Scaling group. Now, with the introduction of instance type weights, you can configure your group to make scaling decisions based on the number of cores, amount of memory, or whatever instance type specifications your service uses, giving you more flexibility to use a wider range of instance types. In this chalk talk, we show you how to set up these Auto Scaling groups and discuss the different combinations that you can configure that best suit your use case for lowering cost and improving availability.
+
+CMP314: Accelerate applications using Amazon EC2 F1 FPGA instances 
+
+Amazon EC2 F1 instances with field programmable gate arrays (FPGAs), combined with optimized cloud-based FPGA programming tools, provide researchers, application developers, and startups with a well-tested, standardized, and accessible platform for custom hardware-accelerated computing. In this session, we update you on the latest EC2 F1 features, and guest speakers from Valtix dive deep on how they are using F1 instances to accelerate native network security in the cloud.
+
+CMP315-R1: Multi-node deep learning training in the cloud 
+
+The key barriers to the wider adoption of deep neural networks on industrial-sized datasets are the time and resources required to train them. Data scientists and machine learning engineers continue to demand shorter training times, as this provides them with increased agility to try new algorithms and optimization techniques. In this chalk talk, we show how to optimize AWS infrastructure to minimize deep learning training times by using distributed/multi-node training using Amazon EC2 P3dn instances.
+
+CMP316: How GE Aviation accelerates CFD simulations on AWS 
+
+General Electric is one of the world's largest manufacturing companies, and GE Avio is among the top aircraft engine suppliers, offering engines for the majority of commercial aircraft. Aircraft engine engineers need to run hundreds of computational fluid dynamics (CFD) simulations in order to optimize the turbine air flow. By moving these simulations to AWS, the customer has been able to run them four times faster and drastically reduce the time-to-market.
+
+CMP317-R2: Building a static site on Amazon Lightsail 
+
+In the earliest days of the web, almost all sites were static. But as time progressed, content management systems such as WordPress and Drupal gained popularity. Today static sites are becoming increasingly popular again. Based on the latest web technologies, static sites offer increased speed and security while being incredibly easy to deploy. In this chalk talk, we walk through how you can architect and deploy static websites-from a simple"brochure" site to more complex progressive web apps. You come away with a better idea of both when to choose a static website and how to easily deploy it using Amazon Lightsail.
+
+CMP318-R1: Kubernetes on Spot Instances: Optimize for scale and cost 
+
+Containers are usually stateless and fault-tolerant, and Amazon EC2 Spot Instances are a great match for powering container workloads. Attend this workshop to learn how to provision, manage, and maintain your Amazon Kubernetes clusters with Amazon EKS at any scale on Spot Instances while architecting to optimize cost and scale. We dive deep using hands-on material to provision and scale worker nodes, handle interruptions, and design for fault tolerance. We also demonstrate successfully managing a suddenly spiky workload. This workshop is designed to help architects, engineers, and developers understand how to run a containerized environment on Spot Instances.
+
+CMP319-R1: Deploy graphics desktops for content production on AWS 
+
+Cloud-based GPU desktops enable companies to hire the best talent regardless of location or time zone. In this hands-on session, you explore the technical schema and underlying architecture of several solutions, including Amazon AppStream and managed Amazon WorkSpaces, and then individually build a working Windows and Linux graphics desktop based on the new Amazon EC2 G4 GPU instance type using Teradici Cloud Access Software.
+
+CMP322-R1: Deep dive on Arm-based EC2 instances powered by AWS Graviton   
+
+AWS Graviton processors feature 64-bit Arm Neoverse cores and custom silicon designed by AWS, delivering optimized performance and cost. AWS Graviton processors are built exclusively for the cloud, utilizing AWS and Annapurna Labs' expertise in running hyperscale cloud platforms and cloud applications. Amazon EC2 A1 instances are the first instances powered by the AWS Graviton processor. In this session, learn how you can optimize cost and performance for your scale-out and Arm-based workloads using EC2 instances based on AWS Graviton processors. We present use cases, software ecosystem, and customer adoption stories for EC2 A1 instances.
+
+CMP324-R1: Deliver high performance ML inference with AWS Inferentia   
+
+Customers across diverse industries are defining entirely new categories of products and experiences by running intelligent applications that use ML at the core. These applications are becoming more expensive to run in production. AWS Inferentia is a custom-built machine learning inference chip designed to provide high throughput, low latency inference performance at an extremely low cost. Each chip provides hundreds of TOPS of inference throughput to allow complex models to make fast predictions. Join this session to see the latest developments using AWS Inferentia and how they can lower your inference costs in the future.
+
+CMP325-R1: Using Amazon EBS to build highly resilient applications 
+
+Storage architecture is a central consideration for building highly available and fault-tolerant applications in the cloud. Proper configuration of Amazon EBS deployment enables organizations to achieve the high resiliency they need for their mission-critical applications that use block storage. In this chalk talk, we share example design patterns and key techniques for building application resiliency, such as asynchronous volume replication across availability zones and the use of CloudEndure for disaster recovery.
+
+CMP326-R1: Capacity management made easy with Amazon EC2 Auto Scaling   
+
+Amazon EC2 Auto Scaling offers a hands-free capacity management experience to help customers maintain a healthy fleet, improve application availability, and reduce costs. In this session, we deep-dive into how Amazon EC2 Auto Scaling works to simplify continuous fleet management and automatic scaling with changing load. Netflix delivers shows like Sacred Games, Stranger Things, Money Heist, and many more to more than 150 million subscribers across 190+ countries around the world. Netflix shares how Amazon EC2 Auto Scaling allows its infrastructure to automatically adapt to changing traffic patterns in order to keep its audience entertained and its costs on target.
+
+CMP327: Scale your SAP HANA workloads on EC2 High Memory instances 
+
+AWS provides a suite of SAP-certified Amazon EC2 instances for SAP HANA workloads with memory footprints ranging from 244GB to 24TB. EC2 High Memory instances are purpose-built to run large in-memory databases, including production deployments of the SAP HANA in-memory database, in the cloud. Join this session for a detailed look into EC2 High Memory instances, and learn how you can use these EC2 instances in your Amazon VPC together with Amazon EBS to run mission-critical SAP HANA workloads and realize greater speed and agility.
+
+CMP328-R1: How Uber builds efficient & scalable autonomous vehicle simulations with AWS Batch   
+
+Learn how Uber uses AWS Batch to run hundreds of thousands of autonomous vehicle simulations across as many vCPUs every day. Hear the story of how the company built a highly performant and scalable simulation pipeline on native AWS services.
+
+CMP329-R: Build cost-effective web & containerized apps on EC2 Arm instances 
+
+In this chalk talk, learn how easy it can be to build and run various open-source applications on Amazon EC2 A1 Arm-based instances while lowering your costs. We discuss the software building blocks and toolchain support, as well as walk through example web, containerized application, and reference architectures that you can build on the Arm platform.¬†Bruce Sun, a senior cloud solutions architect at NetEase Games, shares how the company uses EC2 A1 instances for its large-scale online gaming platform to achieve significant cost savings.
+
+CMP329-R1: Build cost-effective web & containerized apps on EC2 Arm instances 
+
+In this chalk talk, learn how easy it can be to build and run various open-source applications on Amazon EC2 A1 Arm-based instances while lowering your costs. We discuss the software building blocks and toolchain support, as well as walk through example web, containerized application, and reference architectures that you can build on the Arm platform.
+
+CMP330-R1: How AWS Outposts helps APN Partners build on-premises customer solutions 
+
+AWS Outposts brings AWS infrastructure, services, and operating models to virtually any customer data center or on-premises facility. Customers looking to leverage Outposts for their on-premises use cases can leverage our AWS Partner Network (APN) to build a broad range of solutions just like in the cloud. In this session, customers learn about Outposts and how to access the wide range of APN Partners and ISV solutions available to support their low-latency and local data processing workloads. APN Partners learn about the tool kits available to them to deliver a successful Outposts journey to their customers.
+
+CMP332: Simplifying Microsoft architectures with AWS services   
+
+In this session, learn how to architect Microsoft solutions on AWS to be both highly available and scalable. Find out how Microsoft solutions can leverage AWS services to achieve more resiliency, replace unnecessary complexity, and provide scalability. We explore hybrid architecture scenarios and common architecture patterns for Active Directory and productivity solutions like SharePoint. We also cover common design patterns for .NET applications, including approaches to CI/CD, DevOps, and containerizing .NET applications.
+
+CMP333: Amazon Linux 2: Stability, security, and high performance 
+
+In this session, learn about Amazon Linux 2, the latest Amazon Linux operating system that comes with five years of support. See what's new with Amazon Linux 2, learn how it's different from other distributions of Linux, and understand why it's rapidly becoming the go-to operating system for AWS customers.
+
+CMP334-R2: Deep-dive into 100G networking & Elastic Fabric Adapter on Amazon EC2 
+
+In this chalk talk, we discuss the various hardware and software Nitro components that are powering the 100Gbps network performance and Elastic Fabric Adapter (EFA) on next-generation Amazon EC2 instances. Come to learn the benefits and uses cases, and discuss case studies of Amazon EC2 customers leveraging high network performance on these EC2 instances for high-performance computing, machine learning, database, and big data workloads.
+
+CMP335: Streamlining Amazon EC2 instance provisioning and management 
+
+Provisioning and managing instances is fundamental to creating a secure, scalable environment for your application. This session guides you through recommended practices for selecting instance types, provisioning resources, connecting to instances, building automation and governance, and monitoring and optimizing instance usage for your workloads. Learn how to move seamlessly from a proof of concept to an automated production environment using launch templates and newly launched features. We also cover some best practices and share tips on how you can simplify your instance launch experience.
+
+CMP336-R1: Save on big data workloads like Apache Spark and Hadoop 
+
+Learn how you can save on big data workloads by running Spot Instances on Amazon EMR. Access significantly higher compute capacity and reduce the time to process big datasets at a fraction of the cost. With Amazon EMR you can optimize for the right instance mix across Spot and On-Demand and simplify the setup process. Finally, learn how to increase cluster resilience by configuring transient and long-running clusters for the right mix of On-Demand and Spot Instances.
+
+CMP337-R1: AWS Outposts: Build for low latency and local data processing 
+
+Some applications need to run on premises due to low latency or because of local data processing needs. In this session, learn how AWS Outposts extends AWS services to customer sites for a consistent AWS experience on premises. We share customer examples of how AWS Outposts enhances performance, reliability, and responsiveness for applications that remain on premises.
+
+CMP339-R1: Running high-throughput Oracle databases on Amazon EC2 
+
+This session is for organizations migrating high-transactional throughput and low-latency applications backed by Oracle databases to AWS. We present a design for deploying Oracle databases on EC2 I3 instances that meet high availability and durability requirements. We also discuss failure modes and ways to tune that design. Further, we present results of performance tests. Come learn how to set up Oracle on Amazon EC2 and get performance results that you can use to design your own solution.
+
+CMP343-S: Turbocharge your data center infrastructure with AMD   
+
+With the ever-increasing need for efficiency and better price performance, a balanced data center infrastructure is a crucial component of today's cloud solutions. Organizations seeking to maximize the value of their cloud and on-premises infrastructures now have a choice when selecting their compute and GPU platforms. In this session, a representative from AMD discusses how AMD EPYC processors and AMD GPUs can help you optimize your workload performance and security while providing significant cost savings. This presentation is brought to you by AMD, an APN Partner.
+
+CMP344-R3: Move your first application to the cloud with Amazon Lightsail 
+
+Come spend time with the Amazon Lightsail team, and move one of your applications to the cloud. This session is specifically designed for people who are wondering how to get started with AWS. We sit down with you and help you deploy a workload into AWS using Lightsail. Bring your own workload or use one of our demo examples, and get started today. Please bring your laptop.
+
+CMP345-R2: Getting started with containers on Amazon Lightsail 
+
+Have you heard about containers and services like Amazon Elastic Kubernetes Service (Amazon EKS), AWS Fargate, and Amazon Elastic Container Service (Amazon ECS), but you're unsure where to get started? In this builders session, we show you the basics and help you understand the underlying technology so you can start planning your container journey. Learn what containers are, how to build them from scratch, how to store them in Amazon Elastic Container Registry (Amazon ECR), and what your options are for deploying containerized applications into production. Please bring your laptop.
+
+CMP346-R3: Deploy & scale a multi-tier application in Amazon Lightsail 
+
+In this session, we show you how to scale an existing cloud workload. We look at using snapshots to replicate a web tier application and at how to use load balancers to provide both scalability and fault tolerance. You can bring your own workload or work through one of our provided examples. Please bring your laptop.
+
+CMP347-R2: Deploy a highly scalable WordPress site on Lightsail in less than an hour 
+
+In this builders session, we deploy a highly available WordPress site using Amazon Lightsail and Amazon Simple Storage Service (Amazon S3). Learn how to create the WordPress front end, scale that behind a load balancer, connect to a standalone database instance, and use Amazon S3 to offload your media assets. The end result will be a fault-tolerant, scalable WordPress site, all deployed in less than one hour. Please bring your laptop.
+
+CMP348-R2: Building a pocket platform as a service with Amazon Lightsail 
+
+With Amazon Lightsail, it's easier than ever to build your own pocket platform as a service for maximum control and flexibility for small projects. In this chalk talk, we show you how to turn a Lightsail instance into a docker host with subdomain routing, SSL termination, CI/CD pipeline, and more.
+
+CMP401-R1: Running EC2 workloads at scale 
+
+Join this workshop to get hands-on with the latest Amazon EC2 features, including Amazon EC2 Auto Scaling groups and Amazon EC2 launch templates, and AWS CodeDeploy. Learn how to utilize EC2 launch templates to power and deploy an EC2 Auto Scaling group using a combination of EC2 On-Demand and EC2 Spot Instances behind a load balancer. Next, configure the workload to handle peak demand with automatic scaling policies-while optimizing cost and performance.
+
+CMP401-R2: Running EC2 workloads at scale 
+
+Join this workshop to get hands-on with the latest Amazon EC2 features, including Amazon EC2 Auto Scaling groups and Amazon EC2 launch templates, and AWS CodeDeploy. Learn how to utilize EC2 launch templates to power and deploy an EC2 Auto Scaling group using a combination of EC2 On-Demand and EC2 Spot Instances behind a load balancer. Next, configure the workload to handle peak demand with automatic scaling policies-while optimizing cost and performance.
+
+CMP402-R1: Setting up and optimizing your HPC cluster on AWS 
+
+It's not hard to build your first HPC cluster on AWS. In this workshop, we take you through the basics in a step-by-step approach that you can easily follow along with. We cover everything from installation of the AWS ParallelCluster software suite to instance selection, Amazon EC2 Spot Instance enablement, and launching your first MPI"hello world" job from the command line.
+
+CMP404-R2: Running Big Data clusters on Amazon EMR with Spot Instances 
+
+Join this builders session to learn how to run Big Data frameworks such as Apache Spark, Hadoop, and Hive through Amazon EMR while maximizing for scale, performance, and deep cost savings with Spot Instances. Learn how to configure clusters and instance fleets for the right mix of On-Demand and Spot Instances for long-running and transient workloads. Please bring your laptop.
+
+CMP405-R1: Optimize SAP HANA workloads with EC2 High Memory instances 
+
+Running SAP HANA workloads on AWS requires special considerations to meet SAP's KPI and get best performance for your mission critical SAP applications. In this builder session, an AWS expert will guide you on the best practices of configuring your Amazon EC2 instances including EC2 High Memory instance type and Amazon EBS to ensure that your SAP HANA environment is production ready from the get go. During this session, you can build your own production ready Amazon EC2 instance for your SAP HANA workloads. AWS provides suite of Amazon EC2 instances that are certified by SAP for running Business Suite on HANA (SoH), the next-generation Business Suite S/4HANA, Data Mart Solutions on HANA, Business Warehouse on HANA (BW), and SAP BW/4HANA in production environments. Please bring your laptop.
+
+CMP408-R2: Using Elastic Fabric Adapter to scale HPC workloads on AWS 
+
+In this builders session, we guide you through the process of using Elastic Fabric Adapter (EFA) to scale up your MPI-based HPC application on AWS. An AWS HPC expert answers your questions about benchmarking the performance of your HPC applications with EFA. Please bring your laptop.
+
+CMP412: Orchestrating complex genomics pipelines with AWS Batch 
+
+Learn how to simplify the process of orchestrating complex genomics pipelines using Nextflow-a popular open source data-driven computational pipeline tool that enables scalable and reproducible scientific workflows-and AWS Batch, a fully managed batch processing service that enables scientists and engineers to easily and efficiently run hundreds of thousands of batch computing jobs on AWS. In this workshop, we walk through a genomics workflow integrating Nextflow with AWS Batch and experience firsthand how AWS Batch can dynamically expand or contract cloud resources to meet the needs of the genomics pipeline.
+
+CMP416-R2: Scale Kubernetes for less using Spot Instances 
+
+In this builders session on containers, we cover how to optimize your Kubernetes clusters with Amazon Elastic Kubernetes Service (Amazon EKS) using a mixed worker node group of Amazon EC2 On-Demand and Spot Instances. We cover concepts of provisioning instances, scaling, and handling interruptions. This session provides a hands-on guide for developers and operations managers to explore. Please bring your laptop.
+
+CMP420-R2: Amazon EBS: Security best practices 
+
+With increasing data regulation across industries, AWS customers running mission-critical workloads on Amazon EC2 need simple, cost-effective ways to secure data, control storage access, and maintain uptime while meeting compliance goals. In this hands-on session, we walk you through security capabilities of Amazon EBS and cover best practices for techniques such as encrypting your EBS resources, setting up resource-level permissions, and sharing resources within your environment. Please bring your laptop.
+
+CMP422-R2: Leveraging native AWS Cost Management suite to optimize costs 
+
+In this builders session, we dive deeper into AWS Cost Management resources and features such as Reserved Instance (RI) performance reporting, resource optimization recommendations, RI recommendations, and other features to help optimize your resources and costs through the native AWS Cost Management suite. Please bring your laptop.
+
+CMP423-R1: [NEW LAUNCH!] Hands-on deep learning inference with Amazon EC2 Inf1 instances 
+
+In this workshop, you gain hands-on experience with Amazon EC2 Inf1 instances, powered by custom AWS Inferentia chips. Amazon EC2 Inf1 instances offer low-latency, high-throughput, and cost-effective machine learning inference in the cloud. This workshop walks you through taking a trained deep learning model to deployment on Amazon EC2 Inf1 instances by using AWS Neuron, an SDK for optimizing inference using AWS Inferentia processors.
