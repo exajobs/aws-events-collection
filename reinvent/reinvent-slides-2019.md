@@ -6,6 +6,8 @@
 - [AR/VR](#ar-vr)
 - [Automotive](#automotive)
 - [Blockchain](#blockchain)
+- [International](#international)
+- [Compute](#compute)
 
 # Artificial Intelligence & Machine Learning
 
