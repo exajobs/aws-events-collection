@@ -4,6 +4,8 @@
 - [Application Integration](#application-integration)
 - [Architecture](#architecture)
 - [AR/VR](#ar-vr)
+- [Automotive](#automotive)
+- [Blockchain](#blockchain)
 
 # Artificial Intelligence & Machine Learning
 
