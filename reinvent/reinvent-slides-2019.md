@@ -918,20 +918,22 @@ AUT307: Navigating the winding road toward driverless mobility
 
 Autonomous vehicles (AVs) are becoming a reality, as evidenced by the variety of advanced driver assistance systems (ADAS) and growing number of AV test programs on the road. Mobileye, a global leader in the development of technologies for ADAS and autonomous driving solutions, has been an integral part of this technology revolution. In this session, Mobileye discusses some of its technological innovations and how it leverages AWS to accelerate development across sensing, mapping, and planning. We also discuss the AWS AV reference architecture and key services used to enable ADAS and AV development at the cloud and edge.
 
-AUT401: Building AR/AI automotive owner applications with AWS 
+## AUT401: Building AR/AI automotive owner applications with AWS 
 
 Augmented reality (AR), AI, and IoT services can be used to jointly create both visual and aural owner applications, such as an interactive owner's manual. This session is dedicated to selecting and applying the appropriate AWS tools and services to build interactive owner applications for increasing after-market sales, personalization/localization of services, next-generation design, advertising, and media distribution. Developers and UX designers learn how to easily create applications that reinvent the way we interact with our vehicles in both the physical and digital worlds. Please bring your laptop.
 
-AUT402: Creating connected vehicle shadows using AWS IoT 
+## AUT402: Creating connected vehicle shadows using AWS IoT 
 
 The connected vehicle market continues to grow at a rapid pace, driven by new business models and innovative customer applications. As vehicles become more connected and the complexity of the features increases, the need for a digital representation of a vehicle grows. In this session, you learn to build a digital twin using HTML/CSS and the AWS IoT Core device shadow in order to allow two-way communication with the vehicle over WebSocket and Alexa, giving you the ability to execute remote commands (e.g., open trunk). Please bring your laptop.
 
-AUT403: Hands-on with the new AWS connected vehicle solution 
+## AUT403: Hands-on with the new AWS connected vehicle solution 
 
 Automotive companies are building next-generation platforms on AWS to take advantage of device management, lifecycle security, advanced analytics, and scalability features. In this hands-on session, we walk through the new features and use cases of the latest version of the AWS connected vehicle solution, including device registration, provisioning, anomaly detection, and trip aggregation. In this session, you deploy the solution using an AWS CloudFormation template, provision devices, and work with data collected from a vehicle simulator, which you install. You should have an understanding of device lifecycle management and connected vehicle solutions, and you should bring your laptop prepared with the AWS CLI.
 
-AUT404: Deep dive: AWS ML stack for autonomous vehicle model building 
+## AUT404: Deep dive: AWS ML stack for autonomous vehicle model building 
 
 Training and deploying autonomous vehicle algorithms relies heavily on machine learning. In this hands-on session, we show you how to use AWS ML stack and tools such as Amazon SageMaker to quickly build, train, and deploy machine learning models for autonomous driving. Please bring your laptop.
 
+
+# Blockchain
 
