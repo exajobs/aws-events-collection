@@ -892,29 +892,29 @@ Many applications for machine learning run in environments with low-power device
 
 
 
-## 
+# Automotive
 
-AUT301: Building predictive vehicle maintenance models on AWS 
+## AUT301: Building predictive vehicle maintenance models on AWS 
 
 Automobiles are among the most complex mechanisms that exist, made from tens of thousands of parts, expected to perform over a 10-year life span. Whether they're for personal use or in mobility fleets, the ability to predict maintenance to avoid failure can have a significant impact on customer satisfaction, vehicle uptime, safety, and cost. In this session, we introduce AWS solutions for predictive maintenance, and connected vehicles, and show how deep learning can be used for automotive prognostics and vehicle health. Attendees learn how to combine these solutions and their domain expertise to build their own predictive models.
 
-AUT302: Running autonomous driving simulations at large scale in AWS 
+## AUT302: Running autonomous driving simulations at large scale in AWS 
 
 Autonomous driving development requires that developers virtually drive millions of miles per day in thousands of scenarios and their"what-if" variants before deploying autonomous software on physical vehicles. Providing quick feedback to developers on how their software performs requires running those driving simulations at massive scale. However, massive does not mean easy, and we learned a few hard lessons along the way. During this session we provide insights on the challenges of scaling autonomous vehicle (AV) workloads, have an open discussion on architectures for AV, and share tips to prepare your application to run at scale.
 
-AUT303: How race teams gain a competitive advantage with AWS 
+## AUT303: How race teams gain a competitive advantage with AWS 
 
 In motorsports, one-tenth of a second can be the difference between first and sixth place-and millions in prize money. In this session, we provide two architectures that race teams use to automatically analyze images and video in real time to gain a competitive advantage. We discuss how to balance built-in machine learning with a custom rules engine to minimize hands-on data science without sacrificing accuracy. We also discuss how to iterate quickly and match the right cloud technology to the challenge as scale increases. Amazon SageMaker and Amazon Rekognition are featured in this session for builders and enthusiasts.
 
-AUT304: Device provisioning and management for connected vehicles 
+## AUT304: Device provisioning and management for connected vehicles 
 
 One important task in building any connected IoT solution is to have a scalable and secure device management platform. In this chalk talk, we dive deep into areas of building a multi-tenant system that takes care of automated device provisioning, certificate and asset management, over-the-air (OTA) updates, and remote command capabilities. We also show how to provide secure vehicle connectivity to the AWS Cloud along with capabilities for sophisticated event rules, data processing, and storage. Participants have the opportunity to interact with AWS experts and discuss how to use this framework to solve their business problems.
 
-AUT306: Creating a data-driven, cloud-native ecosystem at BMW Group 
+## AUT306: Creating a data-driven, cloud-native ecosystem at BMW Group 
 
 Data is the lifeblood fueling BMW Group's digital transformation. It drives BMW's personalized customer experiences, connected mobility solutions, and analytical insights. This session starts by outlining different archetypes of data platforms and then walking through the journey of building BMW Group's cloud data hub. Learn about the architectural fundamentals and how to unlock and harness the potential of various data sources, including vehicle sensory and relational data. We also present use cases that help shape the overall strategy and conclude with a combination of lessons learned and design decisions.
 
-AUT307: Navigating the winding road toward driverless mobility 
+## AUT307: Navigating the winding road toward driverless mobility 
 
 Autonomous vehicles (AVs) are becoming a reality, as evidenced by the variety of advanced driver assistance systems (ADAS) and growing number of AV test programs on the road. Mobileye, a global leader in the development of technologies for ADAS and autonomous driving solutions, has been an integral part of this technology revolution. In this session, Mobileye discusses some of its technological innovations and how it leverages AWS to accelerate development across sensing, mapping, and planning. We also discuss the AWS AV reference architecture and key services used to enable ADAS and AV development at the cloud and edge.
 
