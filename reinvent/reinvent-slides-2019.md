@@ -1097,122 +1097,122 @@ CMP325-R1: Using Amazon EBS to build highly resilient applications
 
 Storage architecture is a central consideration for building highly available and fault-tolerant applications in the cloud. Proper configuration of Amazon EBS deployment enables organizations to achieve the high resiliency they need for their mission-critical applications that use block storage. In this chalk talk, we share example design patterns and key techniques for building application resiliency, such as asynchronous volume replication across availability zones and the use of CloudEndure for disaster recovery.
 
-CMP326-R1: Capacity management made easy with Amazon EC2 Auto Scaling   
+## CMP326-R1: Capacity management made easy with Amazon EC2 Auto Scaling   
 
-Amazon EC2 Auto Scaling offers a hands-free capacity management experience to help customers maintain a healthy fleet, improve application availability, and reduce costs. In this session, we deep-dive into how Amazon EC2 Auto Scaling works to simplify continuous fleet management and automatic scaling with changing load. Netflix delivers shows like Sacred Games, Stranger Things, Money Heist, and many more to more than 150 million subscribers across 190+ countries around the world. Netflix shares how Amazon EC2 Auto Scaling allows its infrastructure to automatically adapt to changing traffic patterns in order to keep its audience entertained and its costs on target.
+> Amazon EC2 Auto Scaling offers a hands-free capacity management experience to help customers maintain a healthy fleet, improve application availability, and reduce costs. In this session, we deep-dive into how Amazon EC2 Auto Scaling works to simplify continuous fleet management and automatic scaling with changing load. Netflix delivers shows like Sacred Games, Stranger Things, Money Heist, and many more to more than 150 million subscribers across 190+ countries around the world. Netflix shares how Amazon EC2 Auto Scaling allows its infrastructure to automatically adapt to changing traffic patterns in order to keep its audience entertained and its costs on target.
 
-CMP327: Scale your SAP HANA workloads on EC2 High Memory instances 
+## CMP327: Scale your SAP HANA workloads on EC2 High Memory instances 
 
-AWS provides a suite of SAP-certified Amazon EC2 instances for SAP HANA workloads with memory footprints ranging from 244GB to 24TB. EC2 High Memory instances are purpose-built to run large in-memory databases, including production deployments of the SAP HANA in-memory database, in the cloud. Join this session for a detailed look into EC2 High Memory instances, and learn how you can use these EC2 instances in your Amazon VPC together with Amazon EBS to run mission-critical SAP HANA workloads and realize greater speed and agility.
+> AWS provides a suite of SAP-certified Amazon EC2 instances for SAP HANA workloads with memory footprints ranging from 244GB to 24TB. EC2 High Memory instances are purpose-built to run large in-memory databases, including production deployments of the SAP HANA in-memory database, in the cloud. Join this session for a detailed look into EC2 High Memory instances, and learn how you can use these EC2 instances in your Amazon VPC together with Amazon EBS to run mission-critical SAP HANA workloads and realize greater speed and agility.
 
 CMP328-R1: How Uber builds efficient & scalable autonomous vehicle simulations with AWS Batch   
 
-Learn how Uber uses AWS Batch to run hundreds of thousands of autonomous vehicle simulations across as many vCPUs every day. Hear the story of how the company built a highly performant and scalable simulation pipeline on native AWS services.
+> Learn how Uber uses AWS Batch to run hundreds of thousands of autonomous vehicle simulations across as many vCPUs every day. Hear the story of how the company built a highly performant and scalable simulation pipeline on native AWS services.
 
-CMP329-R: Build cost-effective web & containerized apps on EC2 Arm instances 
+## CMP329-R: Build cost-effective web & containerized apps on EC2 Arm instances 
 
-In this chalk talk, learn how easy it can be to build and run various open-source applications on Amazon EC2 A1 Arm-based instances while lowering your costs. We discuss the software building blocks and toolchain support, as well as walk through example web, containerized application, and reference architectures that you can build on the Arm platform.¬†Bruce Sun, a senior cloud solutions architect at NetEase Games, shares how the company uses EC2 A1 instances for its large-scale online gaming platform to achieve significant cost savings.
+> In this chalk talk, learn how easy it can be to build and run various open-source applications on Amazon EC2 A1 Arm-based instances while lowering your costs. We discuss the software building blocks and toolchain support, as well as walk through example web, containerized application, and reference architectures that you can build on the Arm platform.¬†Bruce Sun, a senior cloud solutions architect at NetEase Games, shares how the company uses EC2 A1 instances for its large-scale online gaming platform to achieve significant cost savings.
 
-CMP329-R1: Build cost-effective web & containerized apps on EC2 Arm instances 
+## CMP329-R1: Build cost-effective web & containerized apps on EC2 Arm instances 
 
-In this chalk talk, learn how easy it can be to build and run various open-source applications on Amazon EC2 A1 Arm-based instances while lowering your costs. We discuss the software building blocks and toolchain support, as well as walk through example web, containerized application, and reference architectures that you can build on the Arm platform.
+> In this chalk talk, learn how easy it can be to build and run various open-source applications on Amazon EC2 A1 Arm-based instances while lowering your costs. We discuss the software building blocks and toolchain support, as well as walk through example web, containerized application, and reference architectures that you can build on the Arm platform.
 
-CMP330-R1: How AWS Outposts helps APN Partners build on-premises customer solutions 
+## CMP330-R1: How AWS Outposts helps APN Partners build on-premises customer solutions 
 
-AWS Outposts brings AWS infrastructure, services, and operating models to virtually any customer data center or on-premises facility. Customers looking to leverage Outposts for their on-premises use cases can leverage our AWS Partner Network (APN) to build a broad range of solutions just like in the cloud. In this session, customers learn about Outposts and how to access the wide range of APN Partners and ISV solutions available to support their low-latency and local data processing workloads. APN Partners learn about the tool kits available to them to deliver a successful Outposts journey to their customers.
+> AWS Outposts brings AWS infrastructure, services, and operating models to virtually any customer data center or on-premises facility. Customers looking to leverage Outposts for their on-premises use cases can leverage our AWS Partner Network (APN) to build a broad range of solutions just like in the cloud. In this session, customers learn about Outposts and how to access the wide range of APN Partners and ISV solutions available to support their low-latency and local data processing workloads. APN Partners learn about the tool kits available to them to deliver a successful Outposts journey to their customers.
 
-CMP332: Simplifying Microsoft architectures with AWS services   
+## CMP332: Simplifying Microsoft architectures with AWS services   
 
 > In this session, learn how to architect Microsoft solutions on AWS to be both highly available and scalable. Find out how Microsoft solutions can leverage AWS services to achieve more resiliency, replace unnecessary complexity, and provide scalability. We explore hybrid architecture scenarios and common architecture patterns for Active Directory and productivity solutions like SharePoint. We also cover common design patterns for .NET applications, including approaches to CI/CD, DevOps, and containerizing .NET applications.
 
-CMP333: Amazon Linux 2: Stability, security, and high performance 
+## CMP333: Amazon Linux 2: Stability, security, and high performance 
 
 > In this session, learn about Amazon Linux 2, the latest Amazon Linux operating system that comes with five years of support. See what's new with Amazon Linux 2, learn how it's different from other distributions of Linux, and understand why it's rapidly becoming the go-to operating system for AWS customers.
 
-CMP334-R2: Deep-dive into 100G networking & Elastic Fabric Adapter on Amazon EC2 
+## CMP334-R2: Deep-dive into 100G networking & Elastic Fabric Adapter on Amazon EC2 
 
 > In this chalk talk, we discuss the various hardware and software Nitro components that are powering the 100Gbps network performance and Elastic Fabric Adapter (EFA) on next-generation Amazon EC2 instances. Come to learn the benefits and uses cases, and discuss case studies of Amazon EC2 customers leveraging high network performance on these EC2 instances for high-performance computing, machine learning, database, and big data workloads.
 
-CMP335: Streamlining Amazon EC2 instance provisioning and management 
+## CMP335: Streamlining Amazon EC2 instance provisioning and management 
 
 > Provisioning and managing instances is fundamental to creating a secure, scalable environment for your application. This session guides you through recommended practices for selecting instance types, provisioning resources, connecting to instances, building automation and governance, and monitoring and optimizing instance usage for your workloads. Learn how to move seamlessly from a proof of concept to an automated production environment using launch templates and newly launched features. We also cover some best practices and share tips on how you can simplify your instance launch experience.
 
-CMP336-R1: Save on big data workloads like Apache Spark and Hadoop 
+## CMP336-R1: Save on big data workloads like Apache Spark and Hadoop 
 
 > Learn how you can save on big data workloads by running Spot Instances on Amazon EMR. Access significantly higher compute capacity and reduce the time to process big datasets at a fraction of the cost. With Amazon EMR you can optimize for the right instance mix across Spot and On-Demand and simplify the setup process. Finally, learn how to increase cluster resilience by configuring transient and long-running clusters for the right mix of On-Demand and Spot Instances.
 
-CMP337-R1: AWS Outposts: Build for low latency and local data processing 
+## CMP337-R1: AWS Outposts: Build for low latency and local data processing 
 
 > Some applications need to run on premises due to low latency or because of local data processing needs. In this session, learn how AWS Outposts extends AWS services to customer sites for a consistent AWS experience on premises. We share customer examples of how AWS Outposts enhances performance, reliability, and responsiveness for applications that remain on premises.
 
-CMP339-R1: Running high-throughput Oracle databases on Amazon EC2 
+## CMP339-R1: Running high-throughput Oracle databases on Amazon EC2 
 
 > This session is for organizations migrating high-transactional throughput and low-latency applications backed by Oracle databases to AWS. We present a design for deploying Oracle databases on EC2 I3 instances that meet high availability and durability requirements. We also discuss failure modes and ways to tune that design. Further, we present results of performance tests. Come learn how to set up Oracle on Amazon EC2 and get performance results that you can use to design your own solution.
 
-CMP343-S: Turbocharge your data center infrastructure with AMD   
+## CMP343-S: Turbocharge your data center infrastructure with AMD   
 
 > With the ever-increasing need for efficiency and better price performance, a balanced data center infrastructure is a crucial component of today's cloud solutions. Organizations seeking to maximize the value of their cloud and on-premises infrastructures now have a choice when selecting their compute and GPU platforms. In this session, a representative from AMD discusses how AMD EPYC processors and AMD GPUs can help you optimize your workload performance and security while providing significant cost savings. This presentation is brought to you by AMD, an APN Partner.
 
-CMP344-R3: Move your first application to the cloud with Amazon Lightsail 
+## CMP344-R3: Move your first application to the cloud with Amazon Lightsail 
 
 > Come spend time with the Amazon Lightsail team, and move one of your applications to the cloud. This session is specifically designed for people who are wondering how to get started with AWS. We sit down with you and help you deploy a workload into AWS using Lightsail. Bring your own workload or use one of our demo examples, and get started today. Please bring your laptop.
 
-CMP345-R2: Getting started with containers on Amazon Lightsail 
+## CMP345-R2: Getting started with containers on Amazon Lightsail 
 
 > Have you heard about containers and services like Amazon Elastic Kubernetes Service (Amazon EKS), AWS Fargate, and Amazon Elastic Container Service (Amazon ECS), but you're unsure where to get started? In this builders session, we show you the basics and help you understand the underlying technology so you can start planning your container journey. Learn what containers are, how to build them from scratch, how to store them in Amazon Elastic Container Registry (Amazon ECR), and what your options are for deploying containerized applications into production. Please bring your laptop.
 
-CMP346-R3: Deploy & scale a multi-tier application in Amazon Lightsail 
+## CMP346-R3: Deploy & scale a multi-tier application in Amazon Lightsail 
 
 > In this session, we show you how to scale an existing cloud workload. We look at using snapshots to replicate a web tier application and at how to use load balancers to provide both scalability and fault tolerance. You can bring your own workload or work through one of our provided examples. Please bring your laptop.
 
-CMP347-R2: Deploy a highly scalable WordPress site on Lightsail in less than an hour 
+## CMP347-R2: Deploy a highly scalable WordPress site on Lightsail in less than an hour 
 
 > In this builders session, we deploy a highly available WordPress site using Amazon Lightsail and Amazon Simple Storage Service (Amazon S3). Learn how to create the WordPress front end, scale that behind a load balancer, connect to a standalone database instance, and use Amazon S3 to offload your media assets. The end result will be a fault-tolerant, scalable WordPress site, all deployed in less than one hour. Please bring your laptop.
 
-CMP348-R2: Building a pocket platform as a service with Amazon Lightsail 
+## CMP348-R2: Building a pocket platform as a service with Amazon Lightsail 
 
 > With Amazon Lightsail, it's easier than ever to build your own pocket platform as a service for maximum control and flexibility for small projects. In this chalk talk, we show you how to turn a Lightsail instance into a docker host with subdomain routing, SSL termination, CI/CD pipeline, and more.
 
-CMP401-R1: Running EC2 workloads at scale 
+## CMP401-R1: Running EC2 workloads at scale 
 
 > Join this workshop to get hands-on with the latest Amazon EC2 features, including Amazon EC2 Auto Scaling groups and Amazon EC2 launch templates, and AWS CodeDeploy. Learn how to utilize EC2 launch templates to power and deploy an EC2 Auto Scaling group using a combination of EC2 On-Demand and EC2 Spot Instances behind a load balancer. Next, configure the workload to handle peak demand with automatic scaling policies-while optimizing cost and performance.
 
-CMP401-R2: Running EC2 workloads at scale 
+## CMP401-R2: Running EC2 workloads at scale 
 
 > Join this workshop to get hands-on with the latest Amazon EC2 features, including Amazon EC2 Auto Scaling groups and Amazon EC2 launch templates, and AWS CodeDeploy. Learn how to utilize EC2 launch templates to power and deploy an EC2 Auto Scaling group using a combination of EC2 On-Demand and EC2 Spot Instances behind a load balancer. Next, configure the workload to handle peak demand with automatic scaling policies-while optimizing cost and performance.
 
-CMP402-R1: Setting up and optimizing your HPC cluster on AWS 
+## CMP402-R1: Setting up and optimizing your HPC cluster on AWS 
 
 > It's not hard to build your first HPC cluster on AWS. In this workshop, we take you through the basics in a step-by-step approach that you can easily follow along with. We cover everything from installation of the AWS ParallelCluster software suite to instance selection, Amazon EC2 Spot Instance enablement, and launching your first MPI"hello world" job from the command line.
 
-CMP404-R2: Running Big Data clusters on Amazon EMR with Spot Instances 
+## CMP404-R2: Running Big Data clusters on Amazon EMR with Spot Instances 
 
 > Join this builders session to learn how to run Big Data frameworks such as Apache Spark, Hadoop, and Hive through Amazon EMR while maximizing for scale, performance, and deep cost savings with Spot Instances. Learn how to configure clusters and instance fleets for the right mix of On-Demand and Spot Instances for long-running and transient workloads. Please bring your laptop.
 
-CMP405-R1: Optimize SAP HANA workloads with EC2 High Memory instances 
+## CMP405-R1: Optimize SAP HANA workloads with EC2 High Memory instances 
 
 > Running SAP HANA workloads on AWS requires special considerations to meet SAP's KPI and get best performance for your mission critical SAP applications. In this builder session, an AWS expert will guide you on the best practices of configuring your Amazon EC2 instances including EC2 High Memory instance type and Amazon EBS to ensure that your SAP HANA environment is production ready from the get go. During this session, you can build your own production ready Amazon EC2 instance for your SAP HANA workloads. AWS provides suite of Amazon EC2 instances that are certified by SAP for running Business Suite on HANA (SoH), the next-generation Business Suite S/4HANA, Data Mart Solutions on HANA, Business Warehouse on HANA (BW), and SAP BW/4HANA in production environments. Please bring your laptop.
 
-CMP408-R2: Using Elastic Fabric Adapter to scale HPC workloads on AWS 
+## CMP408-R2: Using Elastic Fabric Adapter to scale HPC workloads on AWS 
 
 > In this builders session, we guide you through the process of using Elastic Fabric Adapter (EFA) to scale up your MPI-based HPC application on AWS. An AWS HPC expert answers your questions about benchmarking the performance of your HPC applications with EFA. Please bring your laptop.
 
-CMP412: Orchestrating complex genomics pipelines with AWS Batch 
+## CMP412: Orchestrating complex genomics pipelines with AWS Batch 
 
 > Learn how to simplify the process of orchestrating complex genomics pipelines using Nextflow-a popular open source data-driven computational pipeline tool that enables scalable and reproducible scientific workflows-and AWS Batch, a fully managed batch processing service that enables scientists and engineers to easily and efficiently run hundreds of thousands of batch computing jobs on AWS. In this workshop, we walk through a genomics workflow integrating Nextflow with AWS Batch and experience firsthand how AWS Batch can dynamically expand or contract cloud resources to meet the needs of the genomics pipeline.
 
-CMP416-R2: Scale Kubernetes for less using Spot Instances 
+## CMP416-R2: Scale Kubernetes for less using Spot Instances 
 
 > In this builders session on containers, we cover how to optimize your Kubernetes clusters with Amazon Elastic Kubernetes Service (Amazon EKS) using a mixed worker node group of Amazon EC2 On-Demand and Spot Instances. We cover concepts of provisioning instances, scaling, and handling interruptions. This session provides a hands-on guide for developers and operations managers to explore. Please bring your laptop.
 
-CMP420-R2: Amazon EBS: Security best practices 
+## CMP420-R2: Amazon EBS: Security best practices 
 
 > With increasing data regulation across industries, AWS customers running mission-critical workloads on Amazon EC2 need simple, cost-effective ways to secure data, control storage access, and maintain uptime while meeting compliance goals. In this hands-on session, we walk you through security capabilities of Amazon EBS and cover best practices for techniques such as encrypting your EBS resources, setting up resource-level permissions, and sharing resources within your environment. Please bring your laptop.
 
-CMP422-R2: Leveraging native AWS Cost Management suite to optimize costs 
+## CMP422-R2: Leveraging native AWS Cost Management suite to optimize costs 
 
 > In this builders session, we dive deeper into AWS Cost Management resources and features such as Reserved Instance (RI) performance reporting, resource optimization recommendations, RI recommendations, and other features to help optimize your resources and costs through the native AWS Cost Management suite. Please bring your laptop.
 
-CMP423-R1: [NEW LAUNCH!] Hands-on deep learning inference with Amazon EC2 Inf1 instances 
+## CMP423-R1: [NEW LAUNCH!] Hands-on deep learning inference with Amazon EC2 Inf1 instances 
 
 > In this workshop, you gain hands-on experience with Amazon EC2 Inf1 instances, powered by custom AWS Inferentia chips. Amazon EC2 Inf1 instances offer low-latency, high-throughput, and cost-effective machine learning inference in the cloud. This workshop walks you through taking a trained deep learning model to deployment on Amazon EC2 Inf1 instances by using AWS Neuron, an SDK for optimizing inference using AWS Inferentia processors.
