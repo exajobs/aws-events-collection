@@ -1199,20 +1199,20 @@ In this builders session, we guide you through the process of using Elastic Fabr
 
 CMP412: Orchestrating complex genomics pipelines with AWS Batch 
 
-Learn how to simplify the process of orchestrating complex genomics pipelines using Nextflow-a popular open source data-driven computational pipeline tool that enables scalable and reproducible scientific workflows-and AWS Batch, a fully managed batch processing service that enables scientists and engineers to easily and efficiently run hundreds of thousands of batch computing jobs on AWS. In this workshop, we walk through a genomics workflow integrating Nextflow with AWS Batch and experience firsthand how AWS Batch can dynamically expand or contract cloud resources to meet the needs of the genomics pipeline.
+> Learn how to simplify the process of orchestrating complex genomics pipelines using Nextflow-a popular open source data-driven computational pipeline tool that enables scalable and reproducible scientific workflows-and AWS Batch, a fully managed batch processing service that enables scientists and engineers to easily and efficiently run hundreds of thousands of batch computing jobs on AWS. In this workshop, we walk through a genomics workflow integrating Nextflow with AWS Batch and experience firsthand how AWS Batch can dynamically expand or contract cloud resources to meet the needs of the genomics pipeline.
 
 CMP416-R2: Scale Kubernetes for less using Spot Instances 
 
-In this builders session on containers, we cover how to optimize your Kubernetes clusters with Amazon Elastic Kubernetes Service (Amazon EKS) using a mixed worker node group of Amazon EC2 On-Demand and Spot Instances. We cover concepts of provisioning instances, scaling, and handling interruptions. This session provides a hands-on guide for developers and operations managers to explore. Please bring your laptop.
+> In this builders session on containers, we cover how to optimize your Kubernetes clusters with Amazon Elastic Kubernetes Service (Amazon EKS) using a mixed worker node group of Amazon EC2 On-Demand and Spot Instances. We cover concepts of provisioning instances, scaling, and handling interruptions. This session provides a hands-on guide for developers and operations managers to explore. Please bring your laptop.
 
 CMP420-R2: Amazon EBS: Security best practices 
 
-With increasing data regulation across industries, AWS customers running mission-critical workloads on Amazon EC2 need simple, cost-effective ways to secure data, control storage access, and maintain uptime while meeting compliance goals. In this hands-on session, we walk you through security capabilities of Amazon EBS and cover best practices for techniques such as encrypting your EBS resources, setting up resource-level permissions, and sharing resources within your environment. Please bring your laptop.
+> With increasing data regulation across industries, AWS customers running mission-critical workloads on Amazon EC2 need simple, cost-effective ways to secure data, control storage access, and maintain uptime while meeting compliance goals. In this hands-on session, we walk you through security capabilities of Amazon EBS and cover best practices for techniques such as encrypting your EBS resources, setting up resource-level permissions, and sharing resources within your environment. Please bring your laptop.
 
 CMP422-R2: Leveraging native AWS Cost Management suite to optimize costs 
 
-In this builders session, we dive deeper into AWS Cost Management resources and features such as Reserved Instance (RI) performance reporting, resource optimization recommendations, RI recommendations, and other features to help optimize your resources and costs through the native AWS Cost Management suite. Please bring your laptop.
+> In this builders session, we dive deeper into AWS Cost Management resources and features such as Reserved Instance (RI) performance reporting, resource optimization recommendations, RI recommendations, and other features to help optimize your resources and costs through the native AWS Cost Management suite. Please bring your laptop.
 
 CMP423-R1: [NEW LAUNCH!] Hands-on deep learning inference with Amazon EC2 Inf1 instances 
 
-In this workshop, you gain hands-on experience with Amazon EC2 Inf1 instances, powered by custom AWS Inferentia chips. Amazon EC2 Inf1 instances offer low-latency, high-throughput, and cost-effective machine learning inference in the cloud. This workshop walks you through taking a trained deep learning model to deployment on Amazon EC2 Inf1 instances by using AWS Neuron, an SDK for optimizing inference using AWS Inferentia processors.
+> In this workshop, you gain hands-on experience with Amazon EC2 Inf1 instances, powered by custom AWS Inferentia chips. Amazon EC2 Inf1 instances offer low-latency, high-throughput, and cost-effective machine learning inference in the cloud. This workshop walks you through taking a trained deep learning model to deployment on Amazon EC2 Inf1 instances by using AWS Neuron, an SDK for optimizing inference using AWS Inferentia processors.
