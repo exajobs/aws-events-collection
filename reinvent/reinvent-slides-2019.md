@@ -1443,6 +1443,335 @@ CON424-R3: Using Amazon CloudWatch Container Insights to monitor your microservi
 
 In this session, we explore using Amazon CloudWatch Container Insights to monitor, analyze, and scale your Amazon ECS workloads and microservices. You learn through a guided tutorial how to enable an ECS cluster for Container Insights and set up infrastructure to enrich your DevOps processes on both AWS Fargate and Amazon EC2. Please bring your laptop.
 
+## Databases
+
+DAT202-R1: What's new in Amazon Aurora   
+
+Amazon Aurora is a MySQL- and PostgreSQL-compatible relational database with the speed, reliability, and availability of commercial databases at one-tenth the cost. In this session you get an overview of Aurora, including recently announced features, such as serverless, multi-master, and performance insights. We also help you get started using Aurora.
+
+DAT205: How Verizon Media implemented push notification using Amazon DynamoDB   
+
+Verizon Media had to create a better, stronger, and faster push notification system to serve the requirements of iconic Verizon brands, fulfill push notification completion time of 27 million devices in under three minutes, and consistently show the push 'toast' on all users' lock screens. Verizon decided to use Amazon DynamoDB and other AWS services such as Amazon ElastiCache and Amazon SQS in conjunction with its own Vespa search engine to power all the use cases of its brands. It also uses Kubernetes to orchestrate microservices across many Amazon EC2 instances. Join this session to learn how Verizon has been able to accomplish all of this.
+
+DAT207-R2: What's new in Amazon RDS   
+
+Amazon Relational Database Service (Amazon RDS) is a fully managed database service that allows you to launch an optimally configured, secure, and highly available database with just a few clicks. It manages time-consuming database administration tasks, freeing you to focus on your applications and business. In this session, we look at all of the new capabilities launched for Amazon RDS across different engines and review the latest features available.
+
+DAT208: Supercharge your real-time apps with Amazon ElastiCache   
+
+With the rapid growth in cloud adoption and the new scenarios that it empowers, applications need microsecond latency and high throughput to support millions of requests per second. Developers have traditionally relied on specialized hardware and workarounds, such as disk-based databases combined with data reduction techniques, to manage data for real-time applications. These approaches can be expensive and not scalable. Learn how you can boost the performance of real-time applications by using the fully managed, in-memory Amazon ElastiCache for extreme performance, high scalability, availability, and security.
+
+DAT209-L: Leadership session: AWS purpose-built databases   
+
+In this session, Shawn Bice, VP of databases, discusses the AWS purpose-built database strategy and explains why your application should drive the requirements for which database(s) to use, not the other way around. Learn about the purpose of each AWS database service and how AWS customers are using purpose-built databases to build some of the most scalable applications on the planet. If you are a technology or engineering leader and you're trying to understand how to modernize your data strategy, this session is for you. We discuss using various approaches for new application development, lifting-and-shifting to managed services, and refactoring monolithic database architectures to use purpose-built databases.
+
+DAT212-L: Leadership session: Database and analytics   
+
+We're witnessing an unprecedented growth in the amount of data collected and stored in the cloud. Generating insights from this data requires database and analytics services that scale and perform in ways not possible before. AWS offers a broad set of database and analytics services for processing, storing, managing, and analyzing all your data. In this session, we provide an overview of the database and analytics services at AWS, new services and features that we launched this year, how customers are using these services, and our vision for continued innovation in this space.
+
+DAT214: Automation framework to migrate relational databases 
+
+AWS Database Migration Service (AWS DMS) is used to migrate production workloads to the cloud. With AWS DMS you can do a full load and replicate ongoing changes to keep databases in sync. In this session, we utilize services such as AWS CodePipeline, AWS CodeBuild, and AWS Lambda to automate manual steps in the migration process using Oracle as the source and Amazon Aurora PostgreSQL as the target. By the end of the session, you know how to integrate these services to save time during migrations and automate the process.
+
+DAT215-R1: Build high-performing apps on Amazon Aurora Serverless with RDS Data API 
+
+Amazon Relational Database Service (Amazon RDS) Data API lets customers easily access their Amazon Aurora databases with web-services-based applications. In this session, we provide an overview of RDS Data API and show you how to create a microservice with it and Aurora Serverless and AWS Lambda.
+
+DAT216-R2: Build on Amazon RDS for MySQL and MariaDB 
+
+Amazon Relational Database Service (Amazon RDS) makes it easy to set up, operate, and scale a relational database in the cloud. Amazon RDS supports six popular database engines. In this session, get started with Amazon RDS for MariaDB or discuss your existing application running on Amazon RDS for MariaDB, and learn about recently announced features. Please bring your laptop.
+
+DAT217-R2: Build on Amazon RDS for PostgreSQL 
+
+Amazon Relational Database Service (Amazon RDS) makes it easy to set up, operate, and scale a relational database in the cloud. Amazon RDS supports six popular database engines. In this session, get started with Amazon RDS for PostgreSQL or discuss your existing application running on Amazon RDS for PostgreSQL, and learn about recently announced features. Please bring your laptop.
+
+DAT218-R3: Build on Amazon RDS for Oracle 
+
+Amazon Relational Database Service (Amazon RDS) makes it easy to set up, operate, and scale a relational database in the cloud. Amazon RDS supports six popular database engines. In this session, get started with Amazon RDS for Oracle or discuss your existing application running on Amazon RDS for Oracle, and learn about recently announced features.
+
+DAT220: Real-world customer use cases with Amazon Neptune   
+
+Why do you need a graph database? In this session, we deep dive into the use cases of Amazon Neptune. You hear from Uber and NBCUniversal about how they have deployed highly scalable graph solutions with Neptune. This session also covers the companies' design decisions, the lessons they learned, and their experiences with this service.
+
+DAT221-S: From RDS to SAP, protect your cloud databases the right way   
+
+Most business-critical applications rely on databases. Whether you have a new serverless cloud application, a database that is using Amazon RDS, or a high-transaction application using SAP HANA over hybrid cloud architecture, these databases need to be backed up, protected, and quickly recovered. Legacy backup solutions that were built for on-premises environments don't quite cut it for today's cloud workloads, while cloud snapshots can quickly become a burden to manage. Learn how to automate the backup of your cloud databases and provide fast and reliable recovery options when needed using Cohesity's modern data management software. This presentation is brought to you by Cohesity, an APN Partner.
+
+DAT303: Data security best practices on Amazon DynamoDB 
+
+In this session, learn about the security features built into Amazon DynamoDB and how you can best use them to protect your data. We show you how customers are using the available options for controlling access to their tables and the content stored within those tables. We also show you how customers are protecting the contents of their tables with encryption, and how they monitor access to their data.
+
+DAT304: Scale fearlessly with Amazon DynamoDB adaptive capacity   
+
+Planning to run spiky or unpredictable workloads? Worried that your traffic isn't evenly distributed? In this session, learn how Amazon DynamoDB accommodates imbalanced workloads without throttling and how you can ensure optimal performance at any scale. First, we briefly cover DynamoDB fundamentals and recent innovations. Then, we dive deep into how DynamoDB shards your data, what is new with adaptive capacity, and the latest workload monitoring tools.
+
+DAT305-R1: Real-world use cases for Amazon DynamoDB 
+
+Build (or test!) your DynamoDB chops in this chalk talk where we work together to design data models and solutions for real-world use cases using DynamoDB. Share your experiences and best practices, and ask questions of DynamoDB experts.
+
+DAT306-R2: Implement microservice architectures with Amazon DynamoDB & AWS Lambda 
+
+In this chalk talk, we start with building blocks for reliable event delivery in microservice architectures using Amazon DynamoDB and AWS Lambda. We then discuss how to use these building blocks to implement eventually consistent transactional behavior and support for querying using a Command Query Responsibility Segregation (CQRS) pattern in serverless microservices. Along the way, we discuss the trade-offs and benefits of event-driven designs over request/response designs, and we go into the details of tuning DynamoDB-based and Lambda-based reliable delivery and processing pipelines for scale, performance, and cost.
+
+DAT308: Real case on boosting performance with Amazon ElastiCache for Redis 
+
+In this session, we show you how to build a caching layer before your primary database to dramatically boost its performance. We walk through a real customer scenario, and we share the challenges, solutions, and best practices when using Amazon ElastiCache as a caching layer. We also dive deep into the ElastiCache Redis engine and explain the underlying functionality so you know how to use ElastiCache to better accelerate and scale your application.
+
+DAT309-R: Amazon Aurora storage demystified: How it all works   
+
+Amazon Aurora is a high-performance, highly scalable database service with MySQL and PostgreSQL compatibility. One of its key components is an innovative storage system that is optimized for database workloads and specifically designed to take advantage of modern cloud technology. In this session, hear from the team that built Amazon Aurora's storage system about how the system is designed, how it works, and what you need to know to get the most out of it.
+
+DAT309-R1: Amazon Aurora storage demystified: How it all works 
+
+Amazon Aurora is a high-performance, highly scalable database service with MySQL and PostgreSQL compatibility. One of its key components is an innovative storage system that is optimized for database workloads and specifically designed to take advantage of modern cloud technology. In this session, hear from the team that built Amazon Aurora's storage system about how the system is designed, how it works, and what you need to know to get the most out of it.
+
+DAT310: [NEW LAUNCH!] Managing databases on-premises with Amazon RDS on AWS Outposts 
+
+Applications with low latency requirements and local data processing needs require their relational databases to be on-premises. These relational databases are time consuming, complex, and expensive to manage on-premises. With most applications moving to the cloud, it's difficult to manage hybrid database fleets across different interfaces on-premises and in AWS. Come and learn how Amazon RDS on AWS Outposts solves these challenges and allows you to deploy fully managed RDS database instances in your on-premises environments.
+
+DAT311-R1: Understanding durability & availability with Amazon RDS for SQL Server 
+
+Amazon Relational Database Service (Amazon RDS) makes it easy to set up, operate, and scale SQL Server databases in the cloud. Even when using a fully managed service like Amazon RDS, durability and availability are always key considerations when deploying a database. In this session, you learn how to properly apply both snapshots and native backups to manage durability of your Amazon RDS for SQL Server instance. Additionally, you learn how to use Amazon RDS Multi-AZ to achieve high availability for your Amazon RDS for SQL Server deployment.
+
+DAT312-R1: Running mission-critical databases on Amazon RDS for Oracle 
+
+Amazon Relational Database Service (Amazon RDS) for Oracle continues to be a popular choice for"lifting and shifting" mission-critical Oracle database workloads to the cloud. In this session, you learn how you can scale compute, storage, and databases to address changing database workload patterns and increasing business demands for cost optimization. We also cover best practices for new high availability, security, and performance monitoring features. Come ask questions and share your experiences.
+
+DAT313: How Lambda256 developed a major blockchain platform with AWS databases 
+
+Lambda256 is one of Asia's largest blockchain as a service platforms built on AWS, provisioning Ethereum, Hyperledger, Luniverse mainnet, and other major protocols. Come to this session to learn how Lambda256 supports a large number of customers on its crypto exchange platform and to hear the rationale behind why Lambda256 chose AWS databases with which to build its platform.
+
+DAT316-R1: MySQL options on AWS: Self-managed, managed, and serverless   
+
+In recent years, MySQL has become a top database choice for new application development and migration from overpriced, restrictive commercial databases. In this session, we provide an overview of the MySQL and MariaDB options available on AWS. We also do a deep dive on Amazon Relational Database Service (Amazon RDS), a fully managed MySQL service; Amazon Aurora, a MySQL-compatible database with up to five times the performance; and many additional innovations.
+
+DAT317-R1: PostgreSQL options on AWS: Self-managed, managed, and serverless   
+
+In this session, we provide an overview of the PostgreSQL options available on AWS. We also do a deep dive on Amazon Relational Database Service (Amazon RDS) for PostgreSQL, a fully managed PostgreSQL service; and Amazon Aurora, a PostgreSQL-compatible database with up to three times the performance of standard PostgreSQL. Learn about the features, functionality, and many innovations in these two services. In doing so, you also gain the background to choose the right service to solve different technical challenges and the knowledge to easily move between services as your requirements change over time.
+
+DAT319: How Uber stores financial transactions in ledgers using Amazon DynamoDB   
+
+Each day, millions of people move around the world with Uber. The associated financial transactions are stored in Uber's Ledger Store with provable completeness backed by Amazon DynamoDB. In this session, we discuss why provable completeness is key for compliant storage of financial and other ledger-like use cases, and we explain how this can be implemented at global scale by using DynamoDB.
+
+DAT321-R1: Deep Dive on Amazon Aurora with MySQL Compatibility   
+
+Amazon Aurora is a fully managed relational database service that combines the speed and availability of high-end commercial databases with the simplicity and cost-effectiveness of open-source databases. With Aurora, we've completely reimagined how databases are built for the cloud, providing higher performance, availability, and durability than previously possible. In this session, we dive deep into the architectural details of Aurora with MySQL compatibility and review recent innovations, such as parallel query, backtrack, serverless, and multi-master. You also hear from Nintendo and DeNA about how they built the popular mobile game Mario Kart Tour with Aurora MySQL.
+
+DAT324: [NEW LAUNCH!] Introducing Amazon Managed Apache Cassandra Service 
+
+Apache Cassandra is a popular, wide-column, nonrelational database that can be used to store, retrieve, and manage large amounts of data. Customers like to use Cassandra because of its performance and familiar, SQL-like Cassandra Query Language (CQL). However, managing large Cassandra clusters can be difficult and complex. Amazon Managed Apache Cassandra Service is a new scalable, highly available, and managed Apache Cassandra-compatible database service that enables you to run your Cassandra workloads on AWS using the same Cassandra application code and developer tools that you use today. With Amazon Managed Cassandra Service, you don't have to provision, patch, or manage servers, and you don't have to install, maintain, or operate software. Amazon Managed Cassandra Service is serverless, so you pay for only the resources you use and the service automatically scales tables up and down in response to application traffic. In this chalk talk, learn how you can get started with Amazon Managed Cassandra Service with just a few clicks in the console or a few lines of code.
+
+DAT325: Amazon DynamoDB: Under the hood of a hyperscale database 
+
+Come to this session to learn how Amazon DynamoDB was built as the hyper-scale database for internet-scale applications. In January 2012, Amazon launched DynamoDB, a cloud-based NoSQL database service designed from the ground up to support extreme scale, with the security, availability, performance, and manageability needed to run mission-critical workloads. This session discloses the underpinnings of DynamoDB and how we run a fully managed nonrelational database used by more than 100,000 customers. We cover the underlying technical aspects of how an application works with DynamoDB for authentication, metadata, storage nodes, streams, backup, and global replication.
+
+DAT326: Amazon DocumentDB deep dive   
+
+Developers have adopted the flexible schema and expressive query language of the MongoDB API because it enables them to build and evolve applications faster. However, some developers find that managing databases can be time-consuming, complicated, and challenging to scale. Amazon DocumentDB (with MongoDB compatibility) provides a fast, reliable, fully managed MongoDB-compatible database service that eliminates time-consuming setup and management tasks, allowing developers to focus on building high-performance, scalable applications. Join us to learn more about Amazon DocumentDB and how you can run MongoDB workloads at scale.
+
+DAT327-R1: Accelerating application development with Amazon Aurora 
+
+In this session, learn how to leverage the unique features of the Amazon Aurora platform to build faster, more scalable database applications optimized for the cloud. We discuss architectural best practices and features designed to help increase agility so you can develop applications faster to reach the widest possible audience, such as Amazon Aurora Serverless, read-replica auto scaling, cross-region replicas, backtracking, fast database cloning, and performance insights. Through a hands-on lab, we help you understand how to best take advantage of the Aurora platform's capabilities to effectively accelerate application development.
+
+DAT328-R1: Deep dive on Amazon Aurora with PostgreSQL compatibility   
+
+Amazon Aurora with PostgreSQL compatibility is a relational database service that combines the speed and availability of high-end commercial databases with the simplicity and cost-effectiveness of open-source databases. In this session, we review the functionality in order to understand the architectural differences that contribute to improved scalability, availability, and durability. You'll also get a deep dive into the capabilities of the service and a review of the latest available features. Finally, we walk you through the techniques that you can use to migrate to Amazon Aurora.
+
+DAT329: Building your first graph application with Amazon Neptune 
+
+In this session, get hands-on with Amazon Neptune and build a cloud-based graph application. Learn how to quickly load data and begin writing Gremlin traversals.
+
+DAT330-R1: Build full-stack apps in 15 minutes or less with AWS databases 
+
+With the AWS full-stack template, you can get a web application up and running in just a few clicks and customize it to create any application from a travel-booking tool to an enterprise SaaS application. Our AWS CloudFormation template automatically builds all of the infrastructure you need, including databases, authentication, CRUD APIs, and monitoring. In this workshop, you spin up both applications and make them your own. You also learn about the architectural decisions we made and how you can get your full-stack application up and running in minutes.
+
+DAT334-R1: Advanced design patterns for Amazon DynamoDB 
+
+Join us for a practical hands-on workshop on using Amazon DynamoDB. This session is designed for developers, engineers, and database administrators who are involved in designing and maintaining DynamoDB applications. We begin with a walk-through of proven NoSQL design patterns for at-scale applications. Next, we use step-by-step instructions to apply lessons learned to design DynamoDB tables and indexes that are optimized for performance and cost. Expect to leave this session with the knowledge needed to build and monitor DynamoDB applications that can grow to any size and scale.
+
+DAT335-R1: Build serverless applications with Amazon DynamoDB and AWS Lambda 
+
+Join us for this interactive, advanced-design, and best-practices workshop that demonstrates the breadth of AWS serverless offerings and how the components work together. We look at the evolution of an ecommerce company that starts with a low-effort serverless product catalog. The company then iterates to scale to a million daily users, and then it adds analytics and near-real-time monitoring. As we progress through the workshop, you participate in deep dives into AWS serverless services such as Amazon DynamoDB, AWS Lambda, and Amazon Kinesis.
+
+DAT336-R1: Process data using cloud databases and serverless technologies 
+
+Organizations have disparate datasets and may find it challenging to process data and drive business outcomes. In this workshop, we leverage AWS managed database services and serverless technologies to help replicate, manage, and analyze data using an MLB dataset. We replicate a SQL Server database to Amazon Aurora Serverless using AWS Database Migration Service. We also use AWS Glue, a serverless ETL service, to transform and load the data to Amazon S3. Then, we use Amazon Athena to analyze data using SQL to enable better business decisions. For this workshop, you need an AWS account, some experience with databases and SQL, and your laptop.
+
+DAT337: Running and tuning SQL Server on Amazon RDS 
+
+In this workshop, you learn to set up an Amazon RDS for SQL Server instance and migrate data, and you look at ways to monitor performance. You also see how easy it is to identify performance problems and test remediations in Amazon RDS. Additionally, we cover best practices with respect to performance and migration. To participate in this session, bring a laptop computer with Chrome or Firefox and a valid AWS account.
+
+DAT338-R1: Hands-on workshop: How to migrate to Amazon DocumentDB 
+
+Amazon DocumentDB is a fast, reliable, fully managed MongoDB-compatible database service. If you're using MongoDB today, how can you move your workloads to Amazon DocumentDB? What do you need to think about before, during, and after migration? Which tools and approaches should you use to ensure a successful migration? Join us to learn how to migrate MongoDB workloads to Amazon DocumentDB, and also get a demo of using AWS Database Migration Service (DMS).
+
+DAT339-R4: Build on Amazon Aurora with MySQL compatibility 
+
+Amazon Aurora is a MySQL- and PostgreSQL-compatible relational database with the speed, reliability, and availability of commercial databases at one-tenth the cost. In this session, get started with the MySQL-compatible edition, discuss your existing application running on Aurora, or learn about recently announced features, such as serverless or parallel query. Please bring your laptop.
+
+DAT340-R4: Build on Amazon Aurora with PostgreSQL compatibility 
+
+Amazon Aurora is a MySQL- and PostgreSQL-compatible relational database with the speed, reliability, and availability of commercial databases at one-tenth the cost. In this session, get started with the PostgreSQL-compatible edition, discuss your existing application running on Aurora, or learn about recently announced features, such as fast database cloning or performance insights. Please bring your laptop.
+
+DAT341-R1: Best practices for graph data modeling and Amazon Neptune 
+
+Amazon Neptune is a fast, reliable, fully managed graph database service that makes it easy to build and run applications that work with highly connected datasets. In this session, we review some best practices for graph data modeling and how to migrate to graph from other data models.
+
+DAT342-R1: Lessons from migrating Oracle databases to Amazon Aurora 
+
+AWS Database Migration Service (AWS DMS) helps you migrate databases to AWS easily and securely, minimizing downtime to applications that rely on the database. AWS DMS can migrate your data to and from most widely used commercial and open-source databases and, along with AWS Schema Conversion Tool (AWS SCT), has helped multiple customers migrate off of their Oracle databases into Amazon Aurora. In this session, learn about common pitfalls, issues, the biggest differences between the engines, migration best practices, and how some of our customers have completed these migrations.
+
+DAT343-R1: Lessons from migrating SQL server databases to Amazon Aurora 
+
+AWS Database Migration Service (AWS DMS) helps you migrate databases to AWS easily and securely, minimizing downtime to applications that rely on the database. AWS DMS can migrate your data to and from most widely used commercial and open-source databases and, along with AWS Schema Conversion Tool (AWS SCT), has helped multiple customers migrate off of their SQL Server databases into Amazon Aurora. In this session, learn about common pitfalls, issues, the biggest differences between the engines, migration best practices, and how some of our customers have completed these migrations.
+
+DAT344-R1: Deploying the CIA security triad model on Amazon RDS and Amazon Aurora 
+
+Data is an enterprise's lifeblood, and as that data moves to the cloud, applying the CIA security model around confidentiality, integrity, and availability on the core data asset-relational databases-becomes critical. In this session, learn about security features available in Amazon Relational Database Service (Amazon RDS) and Amazon Aurora to build the CIA security triad principles. Delve deep into how native database security capabilities are applied to adhere to stringent governance and compliance models. We also cover integration with services like AWS Config, AWS Key Management Service (AWS KMS), AWS CloudTrail, and Amazon CloudWatch to implement security guardrails that control and monitor database usage.
+
+DAT345-R1: Assessing and categorizing your database migrations 
+
+Estimating the level of effort and resources required for database migrations and building a business case for them can be challenging. AWS Workload Qualification Framework (AWS WQF), part of AWS Database Migration Service (AWS DMS), uses AWS Schema Conversion Tool (AWS SCT) to collect information to model existing Oracle and Microsoft SQL Server databases and provides instructions to convert them to Amazon Aurora. AWS WQF can conduct a fleet-wide analysis of your database portfolio and categorize migrations based on complexity and workload to determine migration effort. In this session, learn about different migration workload categories and get an overview and demo of AWS WQF.
+
+DAT346: Planning proof of concept with Amazon Aurora 
+
+For relational-database workloads, customers are increasingly adopting Amazon Aurora to take advantage of Aurora's performance, high availability, durability, manageability, and innovations. The proof of concept (PoC) is the main process and decision-making step to evaluate and adopt Aurora. In this session, learn about methodology and framework about planning PoCs with Aurora.
+
+DAT347-R3: Neptune best practices: How to optimize your graph queries 
+
+In this builders session, we cover the fundamentals of performance tuning for OLTP query workloads against Amazon Neptune. Using AWS CloudFormation, you can set up a Neptune and Jupyter notebook stack, enabling you to run small read-and-write query workloads against Neptune in you own AWS account. We will then tune the scripts to maximize the throughput of the sample workloads through client-side parameter tuning and server-side improvements, such as failover to larger instance types and provisioning additional read replicas. Throughout the session, we discuss how to use Amazon CloudWatch to understand system behavior and identify optimizations. Please bring your laptop.
+
+DAT348-R1: Amazon Aurora global database in action 
+
+In this hands-on workshop, learn how to achieve multi-region resilience for your application backend by using Amazon Aurora global database. We focus on patterns for multi-region database rollout and real-world use cases. Get hands-on and learn how Aurora global database allows you to scale your infrastructure without having to implement complicated multi-region patterns and see how to best leverage Aurora global database for fast cross-region disaster recovery and low-latency global reads.
+
+DAT349-R1: Beyond caching: Advanced design patterns in Redis 
+
+Redis is the 'Swiss Army knife' of distributed apps, offering low-latency and high-throughput data processing. In this session, we go through use cases, examples, and demos of how you can take advantage of Redis to solve distributed system problems like managing state, processing events, and transforming data in real time.
+
+DAT350-R1: Migrating open-source databases from Amazon EC2 to Amazon Aurora MySQL 
+
+Running your open-source database on Amazon Elastic Compute Cloud (Amazon EC2) is convenient, but can it be easier, more scalable, and more cost effective? You bet it can. In this session, learn how to effectively and efficiently migrate a MySQL¬†database from Amazon EC2 to Amazon Aurora, increase availability, and reduce cost.
+
+DAT352: Building applications on Amazon QLDB 
+
+In this workshop, you build and review a sample Java application leveraging Amazon QLDB. You also learn how to use the different Amazon QLDB APIs and features, including learning how to write, query, and verify documents. Finally, we cover best practices for using this service. For this session, experience with Java is recommended but not required.
+
+DAT353: Unlock the value of Redis in AWS 
+
+We have seen our customers follow an adoption curve with Redis. Initially used to accelerate database access, Redis quickly becomes a repository for valuable business information. In this session, we teach you how to accelerate your database and integrate Redis with other AWS services.
+
+DAT354: Best practices with ElastiCache 
+
+With the explosive growth of business-critical, real-time applications built on Redis, availability, scalability, and security have become top considerations. Learn best practices for setting up your Amazon ElastiCache for success with online scaling, high availability across multiple Availability Zones, and security configurations from our fully managed service.
+
+DAT355-R1: How to choose between Amazon Aurora MySQL and PostgreSQL 
+
+Amazon Aurora is a MySQL- and PostgreSQL-compatible relational database built for the cloud that combines the performance and availability of traditional enterprise databases with the simplicity and cost-effectiveness of open-source databases. In this session, hear about some of the unique as well as common features of Aurora MySQL and PostgreSQL and learn about the design considerations for choosing one over the other for a given workload.
+
+DAT357-R1: Build flexible data architecture with Amazon DocumentDB change streams 
+
+Using the databases that are best-suited for your workload is a key tenet of the AWS purpose-built database approach. In this session, you learn how to use Amazon DocumentDB (with MongoDB compatibility) change streams to stream data to Amazon S3 for analytics, to Amazon Elasticsearch Service for enhanced search capabilities, and to Amazon ElastiCache to pre-warm a Redis cache.
+
+DAT358: Best practices for migrating Redis clusters from Amazon EC2 to ElastiCache   
+
+Managing Redis clusters on your own can be hard. You have to provision hardware, patch software, back up data, and monitor workloads constantly. With the newly released Online Migration feature for Amazon ElastiCache, you can now easily move your data from self-hosted Redis on Amazon EC2 to fully managed Amazon ElastiCache, with cluster mode disabled. In this session, you learn about the new Online Migration tool, see a demo, and, more importantly, learn hands-on best practices for a smooth migration to Amazon ElastiCache.
+
+DAT359: How Amazon.com migrated its applications from Oracle to AWS databases   
+
+Amazon.com¬†recently completed its enterprise database migration to AWS. In this session,¬†Amazon.com¬†leaders relay how they achieved database freedom with AWS. They discuss the enterprise program they built, and they share the lessons they learned and the benefits they realized. They also share how they reduced third-party and scaling risks to deliver peak retail events, such as Amazon Prime Day, Amazon Black Friday, and Cyber Monday.
+
+DAT360-R1: Analytical use cases with AWS Database Migration Service (AWS DMS)   
+
+AWS Database Migration Service (AWS DMS) can help you migrate and replicate data from any of our 12 supported sources to 14 targets. In this session, we show you how customers are using AWS DMS to replicate analytical workloads into services like Amazon Simple Storage Service (Amazon S3), Amazon Redshift, Amazon Elasticsearch Service, and Amazon Kinesis Data Streams for various use cases.
+
+DAT361: Deep dive on Amazon Neptune   
+
+Amazon Neptune is a fast, reliable, fully managed graph database service that makes it easy to build and run applications that work with highly connected datasets. In this session, we review how Neptune is optimized for storing billions of relationships and querying the graph with milliseconds latency. You also get a deep dive into the capabilities of the service and a review of the latest available features. Finally, we walk you through the techniques that you can use to migrate to Neptune.
+
+DAT363-R1: Migrating your data warehouses to Amazon Redshift   
+
+AWS Schema Conversion Tool data extractors can help with migrating from most widely used data warehouses like Teradata, Netezza, and Oracle to Amazon Redshift. You can also use the AWS SCT to optimize your Amazon Redshift database and use the right sort and distribution keys along with modernizing ETL from sources like Oracle and Teradata to AWS Glue. We walk you through AWS SCT's capabilities and show a demo on migrating a sample data warehouse from Netezza to Amazon Redshift and show you how the AWS Snowball Edge integration with AWS SCT data extractors works.
+
+DAT364-R1: Deep dive on new features in Amazon RDS for SQL Server   
+
+Amazon Relational Database Service (Amazon RDS) makes it easy to set up, operate, and scale SQL Server databases in the cloud. This session dives deep into the new features and best practices that make your Amazon RDS for SQL Server database deployments highly available, scalable, and secure.
+
+DAT365-R1: Deep dive on new features in Amazon RDS for Oracle   
+
+Amazon Relational Database Service (Amazon RDS) makes it easy to set up, operate, and scale Oracle databases in the cloud. This session dives deep into the new features and best practices that make your Amazon RDS for Oracle database deployments highly available, scalable, and secure.
+
+DAT366-R2: Running Oracle on Amazon RDS and migrating to Aurora PostgreSQL 
+
+If you'd like to move your Oracle databases to the cloud, this workshop is for you. We review the basics of Amazon Relational Database Service (Amazon RDS) and how Oracle databases run in Amazon RDS. We then leverage the combination of AWS Schema Conversion Tool and AWS Database Migration Service (AWS DMS), and we show you how to migrate your databases to Amazon Aurora PostgreSQL. You need a laptop with a Firefox or Chrome browser and a working AWS account.
+
+DAT367-R2: Running SQL Server on Amazon RDS and migrating to Aurora MySQL 
+
+If you'd like to move your SQL Server databases to the cloud, this workshop is for you. We review the basics of Amazon Relational Database Service (Amazon RDS) and how SQL Server databases run in Amazon RDS. We then leverage the combination of AWS Schema Conversion Tool and AWS Database Migration Service (AWS DMS), and we show you how to migrate your databases to Amazon Aurora MySQL. You need a laptop with a Firefox or Chrome browser and a working AWS account.
+
+DAT368: [NEW LAUNCH!] Modern application development with Amazon RDS Proxy 
+
+Amazon RDS Proxy is a new, fully managed, highly available database proxy built in to RDS. In this chalk talk, we will provide an overview of the recently announced RDS Proxy and show you how you can use it to build more scalable, robust, and secure applications.
+
+DAT369: [NEW LAUNCH!] Deep dive on Amazon Aurora machine learning integration 
+
+Amazon Aurora machine learning (ML) integration provides simple, optimized, and secure integration between Aurora, Amazon SageMaker, and Amazon Comprehend. It enables you to add ML-based predictions to applications using the familiar SQL programming language without having to build custom integrations, move data around, learn separate tools, or have prior ML experience. Attend this session to learn about this new feature and see how you can quickly build ML-enabled applications with Aurora, Amazon SageMaker, and Amazon Comprehend.
+
+DAT370: Best practices for Amazon DocumentDB 
+
+Taking the lessons we've learned from working with customers over the past year, we're excited to share some best practices for working with Amazon DocumentDB (with MongoDB compatibility). Join this chalk talk to learn about migration strategies, how to properly size your clusters, scaling in production, how to benchmark your application with Amazon DocumentDB, driver configurations and connection pooling, tips and tricks for cost optimization, and more.
+
+DAT372: Migrating your databases to Amazon DocumentDB   
+
+Amazon DocumentDB (with MongoDB compatibility) is a fast, reliable, fully managed MongoDB-compatible database service. What are the best practices to move your workloads to Amazon DocumentDB? What do you need to think about before, during, and after migration? Which tools and approaches should you use to ensure a successful migration? Join us to learn how to migrate database workloads to Amazon DocumentDB.
+
+DAT373: Data platform engineering: How Vanguard is migrating data to AWS   
+
+Organizations grappling with moving on-premises workloads and data to the cloud face the challenge of getting platform engineering and team structures right. In most cases, lift-and-shift is not an option. In this session, learn how Vanguard created a team to tackle volume and velocity of data for microservices and big data workloads, using data streaming (Amazon Kinesis), file transfer (AWS Storage Gateway), CDC replication (DB2 on z/OS, Oracle Exadata, Microsoft SQL Server), relational and NoSQL databases (Amazon DynamoDB, Amazon RDS for PostgreSQL, Amazon Aurora), and object storage (Amazon S3). The cloud data platform has seen a 200 percent YOY increase in adoption.
+
+DAT374-S: Using Redis beyond caching 
+
+With new use cases emerging every day and with wider adoption of microservices and cloud-native architectures, more complexities continue to shift to developers. In this session, representatives from Redis demonstrate how you can use Redis beyond caching to solve for some modern use cases. They also show you how to use Redis for event-based architectures to reduce some of these complexities. Finally, they discuss and demonstrate how to use conflict-free replicated data types (CRDTs) for geo-distributed deployments and use cases. This presentation is brought to you by Redis Labs, an APN Partner.
+
+DAT381: How Verizon moves critical databases to Amazon RDS with zero downtime   
+
+Learn how Verizon is moving mission-critical databases from on premises to Amazon RDS. Verizon's workloads, including¬†VZW.com, demand high availability, data consistency, and low latency at all times to service millions of customers every day. In this session, Verizon engineers share how they achieved a zero-downtime migration to AWS by setting up a multi-region active-active architecture and ensuring data synchronization across on-premises and cloud environments during the transition phase. They dive deep into the specific features and tools used and share the challenges and lessons learned during the migration process.
+
+DAT382: Aurora Serverless: Scalable, cost-effective application deployment   
+
+Amazon Aurora Serverless is an on-demand, automatic scaling configuration for Aurora where the database automatically starts up, shuts down, and scales capacity up or down based on your application's needs. It enables you to run your database in the cloud without managing any database instances. Aurora Serverless is a simple, cost-effective option for infrequent, intermittent, or unpredictable workloads. In this session, we explore these use cases, take a look under the hood, and delve into the future of serverless databases.
+
+DAT383: Create a DB on your on-premises vSphere cluster with Amazon RDS on VMware 
+
+Amazon RDS on VMware enables customers to create and manage RDS databases in their on-premises VMware environment. To get started with the service, customers connect their vSphere cluster to the applicable AWS Region and install RDS on the cluster using the service's easy step-by-step installer. The installer is a wizard that initiates the registration of the vSphere cluster with Amazon RDS and prepares the environment for provisioning/managing the RDS databases. The session dives deep into the process of preparing your vSphere cluster and using the installer to deploy RDS onto this cluster. Please bring your laptop.¬†
+
+DAT384: Create an RDS-managed SQL Server DB in your on-premises VMware environment 
+
+Amazon RDS on VMware enables customers to create and manage RDS databases in their on-premises VMware environment. The session walks through the steps required for customers to create an RDS-managed Microsoft SQL Server database running on premises in their vSphere cluster and connect their applications to it. Please bring your laptop.¬†
+
+DAT401-R1: Running on-premises databases with Amazon RDS on Vmware 
+
+In this chalk talk, we explain how to prepare your local environment to start using Amazon RDS on VMware, how to create your first database, and how to manage and monitor a hybrid fleet of databases that runs both on premises and on AWS. We also go over examples of how to take manual snapshots, take automatic backups, and restore from those backups.
+
+DAT402-R2: Going deep on Amazon Aurora Serverless 
+
+Amazon Aurora Serverless is a configuration for Amazon Aurora (MySQL and PosgreSQL-compatible editions) where the database automatically starts up, shuts down, and scales capacity up or down based on your application's needs. In this session, we discuss how Aurora Serverless supports infrequent, intermittent, or unpredictable workloads, and we provide tips for building your next application on a serverless database.
+
+DAT403-R1: Amazon DynamoDB deep dive: Advanced design patterns   
+
+This technical session is for advanced users of Amazon DynamoDB. The patterns and data models discussed in this presentation summarize a collection of implementations and best practices used by large customers-including Amazon retail businesses-to deliver highly scalable solutions for a wide variety of business problems. We delve into strategies for global secondary index sharding and index overloading, scalable graph processing with materialized queries, relational modeling with composite keys, executing transactional workflows on DynamoDB, and more.
+
+DAT404-R1: Amazon Aurora Multi-Master: Scaling out database write performance   
+
+In this session, learn how the Multi-Master capability of Amazon Aurora MySQL enables applications to scale out write performance and achieve continuous read/write availability. Engineering experts dive into the design concepts of Aurora Multi-Master and provide real-world advice on deploying high-throughput, highly available workloads in Aurora.
+
+DAT406-R1: Hands-on with Amazon ElastiCache for Redis 
+
+Join us for a practical, hands-on workshop on using Amazon ElastiCache. This session is designed for developers, engineers, and database administrators who are involved in designing ElastiCache for Redis. At the end of this session, you learn how to build an end-to-end, real-time application from the ground up. You must bring your laptop to participate.
+
+DAT407-R4: Get started with Amazon ElastiCache in 60 minutes 
+
+Join us for a hands-on tutorial on Amazon ElastiCache for Redis. At the end of this session you will have your first ElastiCache cluster up and running and ready to power your real-time applications. Please bring your laptop.
 
 
 
