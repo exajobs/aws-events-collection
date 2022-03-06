@@ -1079,11 +1079,11 @@ In the earliest days of the web, almost all sites were static. But as time progr
 
 CMP318-R1: Kubernetes on Spot Instances: Optimize for scale and cost 
 
-Containers are usually stateless and fault-tolerant, and Amazon EC2 Spot Instances are a great match for powering container workloads. Attend this workshop to learn how to provision, manage, and maintain your Amazon Kubernetes clusters with Amazon EKS at any scale on Spot Instances while architecting to optimize cost and scale. We dive deep using hands-on material to provision and scale worker nodes, handle interruptions, and design for fault tolerance. We also demonstrate successfully managing a suddenly spiky workload. This workshop is designed to help architects, engineers, and developers understand how to run a containerized environment on Spot Instances.
+> Containers are usually stateless and fault-tolerant, and Amazon EC2 Spot Instances are a great match for powering container workloads. Attend this workshop to learn how to provision, manage, and maintain your Amazon Kubernetes clusters with Amazon EKS at any scale on Spot Instances while architecting to optimize cost and scale. We dive deep using hands-on material to provision and scale worker nodes, handle interruptions, and design for fault tolerance. We also demonstrate successfully managing a suddenly spiky workload. This workshop is designed to help architects, engineers, and developers understand how to run a containerized environment on Spot Instances.
 
 CMP319-R1: Deploy graphics desktops for content production on AWS 
 
-Cloud-based GPU desktops enable companies to hire the best talent regardless of location or time zone. In this hands-on session, you explore the technical schema and underlying architecture of several solutions, including Amazon AppStream and managed Amazon WorkSpaces, and then individually build a working Windows and Linux graphics desktop based on the new Amazon EC2 G4 GPU instance type using Teradici Cloud Access Software.
+> Cloud-based GPU desktops enable companies to hire the best talent regardless of location or time zone. In this hands-on session, you explore the technical schema and underlying architecture of several solutions, including Amazon AppStream and managed Amazon WorkSpaces, and then individually build a working Windows and Linux graphics desktop based on the new Amazon EC2 G4 GPU instance type using Teradici Cloud Access Software.
 
 CMP322-R1: Deep dive on Arm-based EC2 instances powered by AWS Graviton   
 
