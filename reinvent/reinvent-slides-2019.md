@@ -8,10 +8,10 @@
 - [Blockchain](#blockchain)
 - [International](#international)
 - [Compute](#compute)
-- AWS Community Heroes
-- Containers
-- Databases
-- Demo
+- [AWS Community Heroes](#aws-community-heroes)
+- [Containers](#containers)
+- [Databases](#databases)
+- [Demo](#demo)
 
 # Artificial Intelligence & Machine Learning
 
