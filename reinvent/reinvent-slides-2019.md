@@ -1216,3 +1216,37 @@ CMP328-R1: How Uber builds efficient & scalable autonomous vehicle simulations w
 ## CMP423-R1: [NEW LAUNCH!] Hands-on deep learning inference with Amazon EC2 Inf1 instances 
 
 > In this workshop, you gain hands-on experience with Amazon EC2 Inf1 instances, powered by custom AWS Inferentia chips. Amazon EC2 Inf1 instances offer low-latency, high-throughput, and cost-effective machine learning inference in the cloud. This workshop walks you through taking a trained deep learning model to deployment on Amazon EC2 Inf1 instances by using AWS Neuron, an SDK for optimizing inference using AWS Inferentia processors.
+
+
+## AWS Community Heroes
+
+CMY201: Future-proof your career: Java developer to machine-learning practitioner   
+
+In this session, learn how to level-up your skills and career through the journey of Kesha Williams, an AWS Machine Learning Hero. Kesha transformed her engineering skills from Java developer to ML practitioner by learning hands-on with AWS AI solutions like AWS DeepLens, Amazon Rekognition, and Amazon SageMaker; as well as TensorFlow, Jupyter, and Python. As an ML practitioner, she integrates technology into everyday life by developing ML models using computer vision on SageMaker to help us better connect with people around us. Hear the challenges she faced on her journey and how she overcame them using AWS AI solutions.
+
+CMY301: Performing chaos engineering in a serverless world   
+
+The principles of chaos engineering have been battle-tested for years using traditional infrastructure and containerized microservices. But how do they work with serverless functions and managed services? In this session, we cover the motivations behind chaos engineering, how we perform chaos experiments, and what some of the common weaknesses are that we can test for in our serverless applications. We also run some actual experiments in a serverless AWS environment. Join us as we move from talking about principles to performing real chaos-engineering experiments for serverless.
+
+CMY302: Scaling Hotstar.com for 25 million concurrent viewers   
+
+This session focuses on why traditional autoscaling doesn't work for Hotstar (Disney's OTT streaming service), who recently created a global record for live streaming to 25.3 million concurrent viewers. We talk about challenges in scaling infrastructure for millions and how to overcome them, how Hotstar runs gamedays before facing live games, how it uses a load-testing monster called Hulk to prepare its platform for 50M peak. We also learn how the company uses chaos engineering to overcome real-world problems and achieve this scale.
+
+CMY303: Using Amazon CloudFront, AWS WAF, and Lambda@Edge to keep spammers out   
+
+In this session, we look at the timeline, analysis, and solution implemented for a sudden attack by spammers. Suddenly, the number of newly registered users in our system spiked. We could see that these new users were likely spammers. It was a more sophisticated attack than earlier, as traffic originated from everywhere; captchas and email verifications were bypassed. We already had some countermeasures in place, including a manual process for approval. We needed a quick and cost-effective solution. By using Amazon CloudFront, AWS WAF, Lambda@Edge, and some smarts, we permanently stopped 99% of the spammers within an hour.
+
+CMY304: Data modeling with Amazon DynamoDB   
+
+Modeling your data in the DynamoDB database structure requires a different approach from modeling in traditional relational databases. Alex DeBrie has written a number of applications using DynamoDB and is the creator of DynamoDBGuide.com, a free resource for learning DynamoDB. In this session, we review the key principles of modeling your DynamoDB tables and teach you some practical patterns to use in your data models. Leave this session with steps to follow and principles to guide you as you work with DynamoDB.
+
+CMY305: IoT big data pipeline for serverless analytics and anomaly detection   
+
+In this talk, we walk through the process of building an end-to-end big data pipeline using AWS managed services. Follow along and learn how to detect anomalous trajectories across different transportation industries ingesting IoT geo-referenced data and receiving real-time insights with Amazon Kinesis Data Analytics and AWS Glue. At the end of this session, you'll understand how to customize and deploy this solution at scale.
+
+
+## 
+
+
+
+
