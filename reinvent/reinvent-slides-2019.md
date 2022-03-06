@@ -1245,7 +1245,199 @@ CMY305: IoT big data pipeline for serverless analytics and anomaly detection
 In this talk, we walk through the process of building an end-to-end big data pipeline using AWS managed services. Follow along and learn how to detect anomalous trajectories across different transportation industries ingesting IoT geo-referenced data and receiving real-time insights with Amazon Kinesis Data Analytics and AWS Glue. At the end of this session, you'll understand how to customize and deploy this solution at scale.
 
 
-## 
+## Containers
+
+CON203-R3: Getting started with Kubernetes on AWS 
+
+Kubernetes is open-source software that allows you to deploy and manage containerized applications at scale. In this hands-on workshop, learn the basics of running Kubernetes, including cluster creation with Amazon Elastic Container Service for Kubernetes (Amazon EKS), deployment and scaling controls, and running your first app. This is the first of three workshops for running Kubernetes on AWS. Come prepared to build with a laptop; AWS credits are provided.
+
+CON206-R2: Management and operations for Amazon EKS 
+
+Amazon Elastic Kubernetes Service (Amazon EKS) makes it easy to deploy, manage, and scale containerized applications using Kubernetes on AWS. In this hands-on workshop, we cover how to implement operational best practices for running modern applications using Kubernetes on AWS. We cover logging, monitoring, tracing, traffic routing with service mesh, metrics-based auto scaling, network security, application migration, and cluster upgrades. This is the third of three workshops for running Kubernetes on AWS. Come prepared to build with a laptop; AWS credits are provided.
+
+CON207-R2: Mythical Mysfits: Build a modern web application on AWS 
+
+In this workshop, learn how to deploy a fully functional web application on AWS. We show you how to use the AWS services that enable you to focus on writing code without needing to manage underlying infrastructure. You use services such as AWS Fargate, Amazon Simple Storage Service (Amazon S3), and Amazon Dynamo DB to build and deploy a web application on AWS and connect the application to a backend database. To participate, you need a laptop (macOS or Windows), an AWS account with administrator-level access, and an active GitHub account.
+
+CON209-R1: Using AWS App Mesh to monitor and control your first containerized app 
+
+In this workshop, learn to create specific abstract resources for AWS App Mesh that will be used to drive a physical mapping to compute resources to stitch your application together, providing you with fine-grained control over traffic routing and end-to-end visibility of application request traffic and performance. You also learn how to deploy the services that will comprise your application to Amazon ECS along with proxy sidecars for each service task; App Mesh¬†will govern these to ensure that your application traffic behaves according to your specifications.
+
+CON210-S: How to run like a startup with enterprise Kubernetes on AWS 
+
+Scholastic Corporation reinvented itself with the adoption of a startup mindset and a move to microservices on AWS running in Red Hat OpenShift Container Platform, an enterprise Kubernetes distribution. In this session, you hear about the journey that this large publishing enterprise went on during its transformation. From our discussion of breaking up monolithic applications into microservices, you learn about some of the pitfalls along the road to Kubernetes, containers, and microservices adoption. You also hear about the resulting demonstrable benefits-faster time to market, lower infrastructure costs, happier developers, and improved business performance. This presentation is brought to you by Red Hat, an APN Partner.
+
+CON211-S: Set up Kubernetes clusters on premises & on AWS with Cisco Container Platform   
+
+In this session, you learn how to use Cisco Container Platform (part of the Cisco Hybrid Solution for Kubernetes on AWS) to set up and configure Kubernetes clusters in your data center and on AWS. We demonstrate installing and configuring Cisco Container Platform, setting up clusters on top of VMware infrastructure, and leveraging AWS Identity and Access Management (IAM) credentials to set up clusters in Amazon Elastic Kubernetes Service (Amazon EKS). This presentation is brought to you by Cisco, an APN Partner.
+
+CON212-R1: Running Kubernetes at Amazon scale using Amazon EKS   
+
+Amazon.com has built a hosted infrastructure on Amazon Elastic Kubernetes Service (Amazon EKS) to power part of the shopping experience that delights tens of millions of shoppers. During this session, we dive into the details of how Amazon EKS empowers a small team to own this highly available, multi-tenant solution. We explore how using Amazon EKS helped move the needle on agility for developers and innovation for shoppers. Finally, we dive into how this hosted platform enables Amazon.com developers to focus on building great shopping experiences and remain blissfully ignorant of changes happening at the infrastructure level.
+
+CON214-S: Policy-based management of hundreds of Kubernetes clusters   
+
+As your organization embraces Kubernetes, the number of clusters will explode, and it will become difficult to manage a consistent set of access, application security, configuration, and resource quota policies. In this session, you learn how to use a Kubernetes control plane to manage policies across hundreds of disparate clusters and align thousands of users with resources to maximize security and self-service. This presentation is brought to you by VMware, an APN Partner.
+
+CON215-S: Implementing Kubernetes on AWS with confidence 
+
+Come along on Lending Tree's journey to Kubernetes on AWS. In this talk, Lending Tree shares its experience and lessons learned while migrating to Kubernetes with the help of Sumo Logic. Hear how the company trained teams, ensured reliability, and made sure that monitoring stayed at the forefront of its technology stack. This presentation is brought to you by Sumo Logic, an APN Partner.
+
+CON216-R1: Getting started on AWS App Mesh 
+
+In this session, we provide an overview of AWS App Mesh and new capabilities that will enable your applications to securely communicate with each other. We also detail how to integrate App Mesh with Amazon Elastic Kubernetes Service (Amazon EKS) and Amazon Elastic Container Service (Amazon ECS). The demos and examples we provide in this session teach you the basics and tips and tricks for doing application-level networking on your services using App Mesh.
+
+CON217: Roadmaps for containers, application networking & Amazon Linux at AWS   
+
+In this session, we cover recent announcements for containers, Amazon Linux, and application networking at AWS, and how they fit into the bigger picture for users. We also cover how we're thinking about what's next and discuss different ways you can help drive our product direction-such as developer previews, publicly available roadmaps, and more!
+
+CON218: How Amazon Lex uses Amazon ECS to process batches at scale for conversational bots   
+
+Amazon Lex creates conversational interfaces powered by the same deep learning technologies used in Alexa. AWS Batch dynamically provisions the optimal quantity and type of compute resources based on the volume and specific resource requirements of the batch jobs submitted. In this chalk talk, learn how Amazon Lex uses Amazon ECS to dynamically run these batch jobs to create conversational bots.
+
+CON219-R1: Achieving zero-downtime deployments with Amazon EKS 
+
+Amazon Elastic Kubernetes Service is a managed Kubernetes control plane that enables customers to orchestrate their containerized applications. In this chalk talk, we walk through the basics of Kubernetes and containers from a rolling deployment perspective, share how to achieve a graceful shutdown of containers during a rolling update, and explain how to drain and stop any long-lived connections and gracefully save or close the current state using SIGTERM signals.
+
+CON306-R1: Building machine-learning infrastructure on Amazon EKS with Kubeflow   
+
+Data science, machine learning (ML), and artificial intelligence have exploded in popularity in the last few years, with companies building out dedicated ML teams. Kubeflow is the ML toolkit for Kubernetes and provides useful components resolving problems in multiple areas. For enterprise users, it still cannot fulfill all the requirements for out-of-the-box deployment. Some customizations need to be made, like authentication, training job monitoring, user profile, and resource quota management. In this session, we show you a real use case of how to build ML using Kubeflow, along with challenges and solutions to address them.
+
+CON307-S: Top 5 container and Kubernetes best practices   
+
+Yes, technologies like containers and Kubernetes can help make your software delivery processes easier and faster. However, these new deployment tools and orchestration methods are very different from a traditional environment in terms of management and monitoring. How should you architect your container so that it works the way that you want-and need-it to? Through the live examples provided in this session, you learn best practices for ensuring the efficiency and quality of the next application that you migrate to AWS. This presentation is brought to you by New Relic, an APN Partner.
+
+CON309-R1: FireLens 
+
+FireLens is an event router built using Fluent Bit that gives customers extensibility and control to tune between cost and availability for application logs. It works on Amazon ECS and AWS Fargate. In this session, we dive deep into how to use Fluent Bit to save costs and leverage the breadth of tools in AWS and third-party offerings. We also discuss how you can contribute to the open-source project.
+
+CON311-R1: [NEW LAUNCH!] Fargate Spot 
+
+With the ability to leverage Spot on Fargate, customers can now get the price flexibility they are used to with EC2 but through a serverless operational model. In this session, learn how to run Spot tasks on Fargate by running them as standalone tasks or in a service and how to handle interruptions. Also, we will briefly go over pricing and best practices of using Spot on Fargate.
+
+CON312: [NEW LAUNCH!] Automatic cluster scaling with ECS 
+
+Demonstrate the new cluster autoscaling capability of ECS. With ECS cluster autoscaling, your ECS clusters can automatically and reliably scale as needed to accommodate your tasks and services. This talk shows how to get started with ECS cluster autoscaling, and how to use it to get more out of your ECS clusters.
+
+CON313-R1: Life of your containerized application with new Amazon ECS CLI v2 
+
+With modern architecture comes the need to segment a project into several well-defined, self-contained microservice applications, each with its own infrastructure and deployment management. Looking to eliminate the undifferentiated heavy lifting of setting up and deploying these applications into multi-account, multi-region, multi-environments? In this talk, we walk you through the latest Amazon ECS command line tool to build, provision, test, deploy, and manage your containerized applications with a simple, well-organized set of commands that sets everything up with default AWS best practices.
+
+CON314-R1: A modern container application pipeline with Amazon ECR image scanning 
+
+Amazon ECR image scanning provides automated security assessment of software vulnerabilities in container images. In this session, see a demo of how scanning can integrate into a modern DevOps build and deploy process. We also discuss and share thoughts on and best practices for making an efficient and secure application pipeline with GitHub, Amazon ECR, and AWS Fargate.
+
+CON315-R2: Deep dive: Observability of Kubernetes applications 
+
+While Kubernetes has emerged as the new standard for container orchestration, one of the pain points for cluster administrators is setting up a monitoring environment that gives them sufficient insight into their containerized applications. In this session, we detail how cluster administrators can take advantage of CNCF projects such as Prometheus and Envoy, and AWS services, including Amazon CloudWatch and AWS App Mesh, while they deploy applications into a cloud-native environment.
+
+CON316-R1: Adopting CSI for stateful workloads on Amazon EKS 
+
+Container Storage Interface (CSI) became generally available in Kubernetes 1.13. Today, there are 28 CSI drivers being built and the number is still increasing. When there are so many different drivers available, there is no single solution that fits all. During this session, we go through how customers are using some of the drivers, the trade-offs being made by those customers under various situations, and how to fully leverage the state-of-art of those CSI drivers.
+
+CON317-R3: Securing your Amazon EKS cluster 
+
+In this session, we launch an Amazon Elastic Kubernetes Service (Amazon EKS) cluster with the default settings then enable the security features on the customer's side of the shared-responsibility model. In the process, we cover making the cluster private, enabling audit logs and searching them from an Elasticsearch, and configuring namespaces and Kubernetes RBAC and adding network policies. Please bring your laptop.
+
+CON318-R3: AWS App Mesh integration with an Amazon ECS microservice application 
+
+In this session, we give a step-by-step demonstration of how to build a microservice application and integrate it with AWS App Mesh. In the process, you learn how to run the different components-service mesh, virtual services, virtual nodes, and Envoy proxy. Please bring your laptop.
+
+CON319-R3: [NEW LAUNCH!] Build a highly available service using ECS capacity providers 
+
+As serverless technologies such as Fargate become ever more popular, the need to provision infrastructure often goes away entirely, allowing customers to focus on their applications first. In this session, we will build a application using the application-first design approach, whether on EC2 or Fargate.
+
+CON323-R1: AWS App Mesh under the hood   
+
+In this session, senior AWS engineers give you a behind-the-scenes look at the building of AWS App Mesh. We discuss the nuts and bolts of this service, including why we built a managed control plane and how AWS monitors, tests, and deploys the control plane. You also learn how we do scaling, debugging, and logging.
+
+CON324-R1: [NEW LAUNCH!] Cost Optimization with Containers and Spot   
+
+Containerized applications, especially those using modern micro-service architectural patterns, are often robust to interruption and unexpected termination of individual containers. For this reason, containerized applications are a good fit for EC2 Spot and Fargate Spot. With minimal modifications, many containerized applications can run some or even all of their containers as-is on Spot at substantially lower cost. In this session we discuss the design decisions and best practices for utilizing EC2 Spot and Fargate Spot with modern containerized applications.
+
+CON325-R1: [NEW LAUNCH!] Enabling application-first thinking with Amazon ECS capacity providers 
+
+Getting started with containerized application development often requires you to first provision the infrastructure that will be used to run your containers, what we call"infrastructure-first" development. As serverless technologies such as AWS Fargate become more popular, the need to provision infrastructure often goes away entirely, allowing customers to focus on their applications first. In this session, we discuss how a new concept in Amazon ECS called Capacity Providers enables application-first design and development of containerized applications, whether on Amazon EC2 or AWS Fargate.
+
+CON326-R1: [NEW LAUNCH!] Running Kubernetes Applications on AWS Fargate   
+
+Fargate is a serverless compute engine for containers that supports multiple orchestrators. Come to this session to learn how the new integration between EKS and Fargate allows developers to deploy containers on a kubernetes cluster without thinking about infrastructure.
+
+CON327-R1: Oversubscription at scale: Running tons of containers with Kubernetes   
+
+How do you build a best-in-class application that can scale to millions of users while also being efficient and easy to operate? In this session, you learn how GoDaddy is using Amazon EKS to drive massive scalability with optimal cost structure on AWS. You also hear how GoDaddy's pod-packing strategy for oversubscription on Kubernetes is a key element in the plan to drive down cost while supporting very large cluster sizes.
+
+CON328-R1: Improving observability of your containers   
+
+With CloudWatch Container Insights, FireLens, and AWS App Mesh working across Amazon Elastic Container Service (Amazon ECS), Amazon Elastic Kubernetes Service (Amazon EKS), and AWS Fargate, customers now have the tools to gain visibility into their deployments across environments. In this session, we dive deep into an architecture¬†that enables the company to have a unified view across containers.
+
+CON329: Running Kubernetes clusters at scale: Square   
+
+Cash App, part of the Square ecosystem, has amassed over 15 million monthly active users and continues to grow. Building its next-gen stack on top of AWS-managed open-source technologies has allowed Cash App platform teams to focus on security and increase developer velocity and permitted the app's product engineering teams to focus on business value. Come and learn how Cash App built its stack on top of Amazon EKS while leveraging AWS's first-rate managed services. If you are running at scale any application that requires operational excellence and fine-grained security policies, this session is for you.
+
+CON330: Running Kubernetes clusters at scale: Bird   
+
+Launched in fall 2017, Bird is a micromobility company that enables access to shared e-scooters and lightweight electric vehicles in 100+ locations worldwide. Join us to hear how building a modern stack on top of Amazon EKS has enabled Bird to quickly ramp up its development in order to provide business value in a stable and secure manner. Further, learn how Bird's backend utilizes native AWS services like Amazon S3 and Amazon SQS, open-source streaming systems like Kafka and Flink, and a modern microservices architecture to turn terabytes of geospatial data into the mobility revolution of the future.
+
+CON332-S: Extreme infrastructure automation with Wavefront by VMware 
+
+In this session, learn from Wavefront by VMware how to scale containerized infrastructure while increasing efficiency. Join this session to learn about intelligent Amazon EC2 instance size selection, pod placement, cost-optimization automation using Amazon EC2 Spot Instances, and next-generation reserved instance management. This presentation is brought to you by Spotinst, an APN Partner.
+
+CON334-R1: Running high-security workloads on Amazon EKS   
+
+AWS's rich set of features enable running high-security workloads on Amazon Elastic Kubernetes Service (Amazon EKS). In this session, we explore solutions with the real-life example of how HSBC's cloud services team built a secure multi-tenant platform for the company's application teams to run mission-critical containerized applications on Amazon EKS. Amazon EKS and HSBC engineers discuss security features, best practices, and lessons learned from operating secure Amazon EKS clusters. Topics include network security, Linux host security, AWS Identity and Access Management (IAM)integrations, IAM for service accounts, Kubernetes RBAC and Namespaces, and integrating logging and monitoring of the Kubernetes control-plane and worker nodes.
+
+CON335-R1: Using Amazon ECR to create trusted registries for container images 
+
+Dive deep with Amazon ECR to deploy a container image to AWS Fargate-but only if the image passes a vulnerability scan-and then set up subsequent re-scans, improving your application's security posture. Please bring your laptop.
+
+CON406-R1: Deep dive into application-level network management & observability with App Mesh   
+
+AWS App Mesh provides enterprise-ready features beyond what is available through open-source solutions for application-level networks. In this session, we do a deep dive on best ways to onboard your applications to App Mesh, including how to configure your application, layer in different capabilities, tune your route settings, and configure dashboards needed to observe apps. You also learn what your teams should know to maximize value from App Mesh.
+
+CON408-R1: Deep dive into firecracker-containerd 
+
+Last year, we released the Firecracker virtual machine monitor (VMM) built on top of the Linux KVM subsystem, which is optimized for lightweight, container-like"microVMs." In this session, we dive deep into the architecture of the firecracker-containerd project, which aims to allow portability between standard OCI container images and the larger container ecosystem with Firecracker microVMs. Topics covered include the standard containerd architecture with the reference OCI runtime (runc), challenges adapting containers into microVMs, and the firecracker-containerd suite.
+
+CON411-R1: Advanced network resource management on Amazon EKS 
+
+Different Kubernetes users have different requirements for their cluster network setup. They might want high pod density, or no overlay networking, or separate security groups, or separate network interface for each pod. Having a centralized network resource provider instead of a per-node IPAM daemon enables network assets available as a schedulable Kubernetes resource. This makes it possible to simplify the management of networking resources and offer further customizable networking solutions. In this session, we discuss how the Amazon Elastic Kubernetes Service (Amazon EKS) team has approached meeting these customer needs, and share the solution to manage network resources centrally.
+
+CON412-R1: Performance-tuning tips and tricks for Apache Spark on Kubernetes 
+
+Apache Spark is a popular execution framework for running machine-learning workloads. Since the beta release of spark-operator in early 2019, more users are determined to move their big data analytics workloads to Kubernetes. The challenge is that users still need guidance to utilize Kubernetes to achieve the best performance. In this session, we run Spark benchmarks on Kubernetes and provide insights into performance bottlenecks through use of compute-intensive workloads. We use benchmark tool spark-sql-perf from databricks and spark-bench from IBM CODAIT in performance evaluation. We share performance-tuning tips and tricks on scheduling, storage, and networking.
+
+CON413-R1: Move your machine learning workloads to Amazon EKS 
+
+With the increased importance of machine learning (ML) and artificial intelligence (AI), companies are assembling dedicated ML teams and looking to move their ML infrastructure to Amazon Elastic Kubernetes Service (Amazon EKS). In this session, we discuss the principles and technical challenges in moving ML workloads to Kubernetes. We share popular community solutions, such as Kubeflow, as well as common performance challenges and bottlenecks when running ML workloads at scale on Kubernetes. In addition, we provide an update on the EKS team's efforts in infrastructure, platform areas, such as Kubeflow support, GPU cost optimization, distributed training, and large-scale data preprocessing on EKS.
+
+CON414-R3: Security best practices for AWS Fargate 
+
+In this session, we highlight several of the recommendations for container security on AWS Fargate. You learn about using a private registry and securing the cluster and your services. We also discuss network security basics and security monitoring using AWS solutions. Please bring your laptop.
+
+CON415-R3: Auto scale Kubernetes workload by GPU 
+
+In this session, we add a GPU-enabled node group to an Amazon EKS cluster built with eksctl and show you how to automatically scale your workload based on the GPUs available in the cluster. Please bring your laptop.
+
+CON417-R3: Live debug microservice running on Kubernetes cluster 
+
+In this session, we give an overview of different options to debug microservices running on Amazon Elastic Kubernetes Service (Amazon EKS) clusters. We go over remote debugging configuration and the 'pod swap' technique, where you can debug local processes 'running' on remote Amazon EKS clusters (without a need to build an image and redeploy the service). Please bring your laptop.
+
+CON418-R3: Deep dive: Kubernetes auto scaling 
+
+In this session, we take a deeper look at Kubernetes HPA, VPA, and various custom metrics depending on the workload. We also perform a live demo of Kubernetes Cluster Autoscaler on AWS. Please bring your laptop.
+
+CON421-R1: Amazon EKS under the hood   
+
+Kubernetes allows you to run containerized workloads and services using declarative configuration and automation. Amazon Elastic Kubernetes Service (Amazon EKS) is a managed service that makes it easy to run Kubernetes on AWS without needing to stand up or maintain your own Kubernetes clusters. Amazon EKS takes care of the undifferentiated heavy lifting around securing, patching, qualifying, and upgrading Kubernetes clusters. Join us for a look under the hood at how Amazon EKS manages Kubernetes at scale. We also discuss some of the key design decisions in building out the infrastructure to manage one of the industry's fastest-growing open-source projects.
+
+CON423-R1: AWS Fargate under the hood   
+
+AWS Fargate is a completely serverless, container-native compute experience on AWS. Fargate doesn't require users to provision, scale, and manage any servers. Under the hood of Fargate, there is a sophisticated architecture where AWS is innovating both vertically to build a container-optimized virtualization platform and horizontally to build the right integrations with surrounding AWS services to take care of undifferentiated heavy lifting for the developer. In this session, learn from senior engineers how AWS Fargate is designed to deliver a scalable, secure, serverless developer experience with containers.
+
+CON424-R3: Using Amazon CloudWatch Container Insights to monitor your microservices 
+
+In this session, we explore using Amazon CloudWatch Container Insights to monitor, analyze, and scale your Amazon ECS workloads and microservices. You learn through a guided tutorial how to enable an ECS cluster for Container Insights and set up infrastructure to enrich your DevOps processes on both AWS Fargate and Amazon EC2. Please bring your laptop.
 
 
 
