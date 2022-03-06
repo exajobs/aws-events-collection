@@ -101,11 +101,11 @@ Want to learn more about using technology to impact society? Join this session! 
 
 ## AIM232: Media discovery and compliance with Amazon Rekognition   
 
-Searching through hundreds of hours of media assets and reviewing them for compliance daily is a tedious manual task in most media workflows today. Amazon Rekognition is a service that helps you add intelligent video and image analysis to your applications. In this session, learn how Amazon Rekognition and AWS media solutions can help you generate and manage rich video metadata for people, objects, and scenes, as well as detect any inappropriate content. Hear from our customers about how they achieved time and cost savings by using Amazon Rekognition and other AWS services.
+> Searching through hundreds of hours of media assets and reviewing them for compliance daily is a tedious manual task in most media workflows today. Amazon Rekognition is a service that helps you add intelligent video and image analysis to your applications. In this session, learn how Amazon Rekognition and AWS media solutions can help you generate and manage rich video metadata for people, objects, and scenes, as well as detect any inappropriate content. Hear from our customers about how they achieved time and cost savings by using Amazon Rekognition and other AWS services.
 
 ## AIM301-R1: Creating high-quality training datasets with data labeling 
 
-Amazon SageMaker Ground Truth makes it easy to quickly label high-quality, accurate training datasets. In this workshop, we set up labeling jobs for text and images to help you understand how to make the most of Amazon SageMaker Ground Truth. You learn how to explore and prepare the dataset and label it with object bounding boxes. Then, we use Amazon SageMaker to train a Single Shot MultiBox Detector (SSD) object-detection model based on the labeled dataset, use hyperparameter optimization to find the best model for deployment, and deploy the model to an endpoint for use in an application.
+> Amazon SageMaker Ground Truth makes it easy to quickly label high-quality, accurate training datasets. In this workshop, we set up labeling jobs for text and images to help you understand how to make the most of Amazon SageMaker Ground Truth. You learn how to explore and prepare the dataset and label it with object bounding boxes. Then, we use Amazon SageMaker to train a Single Shot MultiBox Detector (SSD) object-detection model based on the labeled dataset, use hyperparameter optimization to find the best model for deployment, and deploy the model to an endpoint for use in an application.
 
 ## AIM302-R1: Create a Q&A bot with Amazon Lex and Amazon Alexa 
 
@@ -185,23 +185,23 @@ ALERTWildfire is a camera-based network infrastructure that captures satellite i
 
 ## AIM330: Build custom data labeling workflows with Amazon SageMaker 
 
-In this chalk talk, we explain how to use customer pre- and post-Lambda functions to extend the functionality of Amazon SageMaker Ground Truth. We show you how to make a custom annotator UI and use AWS Lambda to provide custom pre- and post-processing of annotations.
+> In this chalk talk, we explain how to use customer pre- and post-Lambda functions to extend the functionality of Amazon SageMaker Ground Truth. We show you how to make a custom annotator UI and use AWS Lambda to provide custom pre- and post-processing of annotations.
 
 ## AIM331-R1: Choose the proper algorithm in Amazon SageMaker 
 
-Amazon SageMaker gives you choices for the best algorithm to use to train your model. You get a 10x improvement in algorithm performance when using one of the build-in algorithms with Amazon SageMaker. However, it can be confusing to pick between the options. Commonly used ML algorithms are built-in and there are over 200 additional pre-trained models and algorithms available in AWS Marketplace. Plus you can also bring any other algorithm or framework by building it into a Docker container. During this chalk talk, we help you make sense of these choices to optimize performance.
+> Amazon SageMaker gives you choices for the best algorithm to use to train your model. You get a 10x improvement in algorithm performance when using one of the build-in algorithms with Amazon SageMaker. However, it can be confusing to pick between the options. Commonly used ML algorithms are built-in and there are over 200 additional pre-trained models and algorithms available in AWS Marketplace. Plus you can also bring any other algorithm or framework by building it into a Docker container. During this chalk talk, we help you make sense of these choices to optimize performance.
 
 ## AIM333: How to design high-quality data-labeling pipelines 
 
-Amazon SageMaker Ground Truth is a fully managed service for data labeling. In this chalk talk, we explore the tools and techniques available in Ground Truth to help generate high-quality labels, from audit and verification workflows to annotation consolidation and active learning. We also discuss how the structured output format lends itself to generating hierarchical taxonomies of data.
+> Amazon SageMaker Ground Truth is a fully managed service for data labeling. In this chalk talk, we explore the tools and techniques available in Ground Truth to help generate high-quality labels, from audit and verification workflows to annotation consolidation and active learning. We also discuss how the structured output format lends itself to generating hierarchical taxonomies of data.
 
 ## AIM334-R1: Preparing data for use in AutoML scenarios 
 
-AutoML takes care of the heavy lifting of selecting the most optimal algorithm, but as the saying goes 'garbage in, garbage out.' Prepping data for use in AutoML scenarios is one of the most challenging components, and the most prohibitive to a successful proof of concept. Join us to discuss best practices for data prep, and walk through examples of how to do this for sample datasets.
+> AutoML takes care of the heavy lifting of selecting the most optimal algorithm, but as the saying goes 'garbage in, garbage out.' Prepping data for use in AutoML scenarios is one of the most challenging components, and the most prohibitive to a successful proof of concept. Join us to discuss best practices for data prep, and walk through examples of how to do this for sample datasets.
 
 ## AIM335-R1: Accelerate time-series forecasting with Amazon Forecast 
 
-Based on the same technology used at Amazon.com, Amazon Forecast uses machine learning to combine time-series data with additional variables to build up to 50% more accurate forecasts. In this workshop, prepare a dataset, build models based on that dataset, evaluate a model's performance based on real observations, and learn how to evaluate the value of a forecast compared with another. Gain the skills to make decisions that will impact the bottom line of your business.
+> Based on the same technology used at Amazon.com, Amazon Forecast uses machine learning to combine time-series data with additional variables to build up to 50% more accurate forecasts. In this workshop, prepare a dataset, build models based on that dataset, evaluate a model's performance based on real observations, and learn how to evaluate the value of a forecast compared with another. Gain the skills to make decisions that will impact the bottom line of your business.
 
 ## AIM337-R1: Deep dive into Amazon SageMaker security features 
 
