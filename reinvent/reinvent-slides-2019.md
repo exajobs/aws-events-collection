@@ -1763,15 +1763,15 @@ This technical session is for advanced users of Amazon DynamoDB. The patterns an
 
 DAT404-R1: Amazon Aurora Multi-Master: Scaling out database write performance   
 
-In this session, learn how the Multi-Master capability of Amazon Aurora MySQL enables applications to scale out write performance and achieve continuous read/write availability. Engineering experts dive into the design concepts of Aurora Multi-Master and provide real-world advice on deploying high-throughput, highly available workloads in Aurora.
+> In this session, learn how the Multi-Master capability of Amazon Aurora MySQL enables applications to scale out write performance and achieve continuous read/write availability. Engineering experts dive into the design concepts of Aurora Multi-Master and provide real-world advice on deploying high-throughput, highly available workloads in Aurora.
 
 DAT406-R1: Hands-on with Amazon ElastiCache for Redis 
 
-Join us for a practical, hands-on workshop on using Amazon ElastiCache. This session is designed for developers, engineers, and database administrators who are involved in designing ElastiCache for Redis. At the end of this session, you learn how to build an end-to-end, real-time application from the ground up. You must bring your laptop to participate.
+> Join us for a practical, hands-on workshop on using Amazon ElastiCache. This session is designed for developers, engineers, and database administrators who are involved in designing ElastiCache for Redis. At the end of this session, you learn how to build an end-to-end, real-time application from the ground up. You must bring your laptop to participate.
 
 DAT407-R4: Get started with Amazon ElastiCache in 60 minutes 
 
-Join us for a hands-on tutorial on Amazon ElastiCache for Redis. At the end of this session you will have your first ElastiCache cluster up and running and ready to power your real-time applications. Please bring your laptop.
+> Join us for a hands-on tutorial on Amazon ElastiCache for Redis. At the end of this session you will have your first ElastiCache cluster up and running and ready to power your real-time applications. Please bring your laptop.
 
 
 
