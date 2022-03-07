@@ -1737,39 +1737,39 @@ DAT381: How Verizon moves critical databases to Amazon RDS with zero downtime
 
 Learn how Verizon is moving mission-critical databases from on premises to Amazon RDS. Verizon's workloads, including¬†VZW.com, demand high availability, data consistency, and low latency at all times to service millions of customers every day. In this session, Verizon engineers share how they achieved a zero-downtime migration to AWS by setting up a multi-region active-active architecture and ensuring data synchronization across on-premises and cloud environments during the transition phase. They dive deep into the specific features and tools used and share the challenges and lessons learned during the migration process.
 
-DAT382: Aurora Serverless: Scalable, cost-effective application deployment   
+## DAT382: Aurora Serverless: Scalable, cost-effective application deployment   
 
-Amazon Aurora Serverless is an on-demand, automatic scaling configuration for Aurora where the database automatically starts up, shuts down, and scales capacity up or down based on your application's needs. It enables you to run your database in the cloud without managing any database instances. Aurora Serverless is a simple, cost-effective option for infrequent, intermittent, or unpredictable workloads. In this session, we explore these use cases, take a look under the hood, and delve into the future of serverless databases.
+> Amazon Aurora Serverless is an on-demand, automatic scaling configuration for Aurora where the database automatically starts up, shuts down, and scales capacity up or down based on your application's needs. It enables you to run your database in the cloud without managing any database instances. Aurora Serverless is a simple, cost-effective option for infrequent, intermittent, or unpredictable workloads. In this session, we explore these use cases, take a look under the hood, and delve into the future of serverless databases.
 
-DAT383: Create a DB on your on-premises vSphere cluster with Amazon RDS on VMware 
+## DAT383: Create a DB on your on-premises vSphere cluster with Amazon RDS on VMware 
 
-Amazon RDS on VMware enables customers to create and manage RDS databases in their on-premises VMware environment. To get started with the service, customers connect their vSphere cluster to the applicable AWS Region and install RDS on the cluster using the service's easy step-by-step installer. The installer is a wizard that initiates the registration of the vSphere cluster with Amazon RDS and prepares the environment for provisioning/managing the RDS databases. The session dives deep into the process of preparing your vSphere cluster and using the installer to deploy RDS onto this cluster. Please bring your laptop.¬†
+> Amazon RDS on VMware enables customers to create and manage RDS databases in their on-premises VMware environment. To get started with the service, customers connect their vSphere cluster to the applicable AWS Region and install RDS on the cluster using the service's easy step-by-step installer. The installer is a wizard that initiates the registration of the vSphere cluster with Amazon RDS and prepares the environment for provisioning/managing the RDS databases. The session dives deep into the process of preparing your vSphere cluster and using the installer to deploy RDS onto this cluster. Please bring your laptop.¬†
 
-DAT384: Create an RDS-managed SQL Server DB in your on-premises VMware environment 
+## DAT384: Create an RDS-managed SQL Server DB in your on-premises VMware environment 
 
-Amazon RDS on VMware enables customers to create and manage RDS databases in their on-premises VMware environment. The session walks through the steps required for customers to create an RDS-managed Microsoft SQL Server database running on premises in their vSphere cluster and connect their applications to it. Please bring your laptop.¬†
+> Amazon RDS on VMware enables customers to create and manage RDS databases in their on-premises VMware environment. The session walks through the steps required for customers to create an RDS-managed Microsoft SQL Server database running on premises in their vSphere cluster and connect their applications to it. Please bring your laptop.¬†
 
-DAT401-R1: Running on-premises databases with Amazon RDS on Vmware 
+## DAT401-R1: Running on-premises databases with Amazon RDS on Vmware 
 
-In this chalk talk, we explain how to prepare your local environment to start using Amazon RDS on VMware, how to create your first database, and how to manage and monitor a hybrid fleet of databases that runs both on premises and on AWS. We also go over examples of how to take manual snapshots, take automatic backups, and restore from those backups.
+> In this chalk talk, we explain how to prepare your local environment to start using Amazon RDS on VMware, how to create your first database, and how to manage and monitor a hybrid fleet of databases that runs both on premises and on AWS. We also go over examples of how to take manual snapshots, take automatic backups, and restore from those backups.
 
-DAT402-R2: Going deep on Amazon Aurora Serverless 
+## DAT402-R2: Going deep on Amazon Aurora Serverless 
 
-Amazon Aurora Serverless is a configuration for Amazon Aurora (MySQL and PosgreSQL-compatible editions) where the database automatically starts up, shuts down, and scales capacity up or down based on your application's needs. In this session, we discuss how Aurora Serverless supports infrequent, intermittent, or unpredictable workloads, and we provide tips for building your next application on a serverless database.
+> Amazon Aurora Serverless is a configuration for Amazon Aurora (MySQL and PosgreSQL-compatible editions) where the database automatically starts up, shuts down, and scales capacity up or down based on your application's needs. In this session, we discuss how Aurora Serverless supports infrequent, intermittent, or unpredictable workloads, and we provide tips for building your next application on a serverless database.
 
-DAT403-R1: Amazon DynamoDB deep dive: Advanced design patterns   
+## DAT403-R1: Amazon DynamoDB deep dive: Advanced design patterns   
 
-This technical session is for advanced users of Amazon DynamoDB. The patterns and data models discussed in this presentation summarize a collection of implementations and best practices used by large customers-including Amazon retail businesses-to deliver highly scalable solutions for a wide variety of business problems. We delve into strategies for global secondary index sharding and index overloading, scalable graph processing with materialized queries, relational modeling with composite keys, executing transactional workflows on DynamoDB, and more.
+> This technical session is for advanced users of Amazon DynamoDB. The patterns and data models discussed in this presentation summarize a collection of implementations and best practices used by large customers-including Amazon retail businesses-to deliver highly scalable solutions for a wide variety of business problems. We delve into strategies for global secondary index sharding and index overloading, scalable graph processing with materialized queries, relational modeling with composite keys, executing transactional workflows on DynamoDB, and more.
 
-DAT404-R1: Amazon Aurora Multi-Master: Scaling out database write performance   
+## DAT404-R1: Amazon Aurora Multi-Master: Scaling out database write performance   
 
 > In this session, learn how the Multi-Master capability of Amazon Aurora MySQL enables applications to scale out write performance and achieve continuous read/write availability. Engineering experts dive into the design concepts of Aurora Multi-Master and provide real-world advice on deploying high-throughput, highly available workloads in Aurora.
 
-DAT406-R1: Hands-on with Amazon ElastiCache for Redis 
+## DAT406-R1: Hands-on with Amazon ElastiCache for Redis 
 
 > Join us for a practical, hands-on workshop on using Amazon ElastiCache. This session is designed for developers, engineers, and database administrators who are involved in designing ElastiCache for Redis. At the end of this session, you learn how to build an end-to-end, real-time application from the ground up. You must bring your laptop to participate.
 
-DAT407-R4: Get started with Amazon ElastiCache in 60 minutes 
+## DAT407-R4: Get started with Amazon ElastiCache in 60 minutes 
 
 > Join us for a hands-on tutorial on Amazon ElastiCache for Redis. At the end of this session you will have your first ElastiCache cluster up and running and ready to power your real-time applications. Please bring your laptop.
 
