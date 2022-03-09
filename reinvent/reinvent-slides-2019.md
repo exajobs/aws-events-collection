@@ -1937,3 +1937,242 @@ DOP409-R1: Faster Cryptography in Java with Amazon Corretto Crypto Provider (ACC
 
 In this session, learn how to integrate Amazon Corretto Crypto Provider (ACCP) into a sample Java application, which will significantly speed up the common cryptographic algorithms that are being performed. Then use Amazon CloudWatch to measure how ACCP improves both the latency and the throughput of the sample application.
 
+
+## Enterprise
+
+## ENT201-R3: Top 10 AWS Cost Explorer reports & AWS Budgets alerts 
+
+When it comes to managing your AWS costs, transparency is a key metric that can help you quickly find outliers and identify teams that are overspending. Join this session to learn the top 10 most useful AWS Cost Explorer reports and AWS Budget alerts that can help your organization achieve cost awareness with AWS. Please bring your laptop.
+
+## ENT202-R2: Quantifying the business value of the AWS Cloud 
+
+The value of adopting the AWS Cloud goes beyond infrastructure cost savings. In this chalk talk, we discuss how customers use the AWS Cloud Value Framework to quantify the business value they can achieve with AWS. Further, we discuss the two main approaches to building a business case-the value benchmarking approach and the bottom-up data collection approach-and when to use which. We also share best practices for how to communicate the business value of AWS to different stakeholders in your organizations.
+
+## ENT203-R1: Operating as a high-frequency enterprise   
+
+High-frequency enterprises embrace cloud computing as a flywheel for frequent value delivery. This requires tighter alignment with business unit stakeholders to increase agility and pace of innovation. In this session, we explore the potential for transformation that comes with cloud adoption and discuss how some of the world's leading enterprises were able to transform and quickly deliver business value outcomes. We also explore organizational and technology best practices that you can implement to become a high-frequency enterprise.
+
+## ENT204-R1: Managing your cloud financials as you scale on AWS   
+
+Cloud financial management is a set of capabilities that allows customers to successfully manage, optimize, and predict cloud costs. In this session, you learn fundamentals of cloud financial management with AWS and how to build a cost-conscious culture in your organization without slowing down innovation. Guest speakers from Lyft will join us and share how they've accelerated cost optimization and improved cost visibility while growing their business with AWS.
+
+## ENT205-R1: Get started on your migration business case   
+
+When planning cloud migrations to AWS, knowledge is power. A clear baseline of what you have on premises is essential to evaluate your migration options. In this breakout session, we share different migration scenarios and how the AWS business case methodology can help you understand utilization of your on-premises resources, and how you can save cost and realize business value through AWS. TSO Logic, an AWS company, shares experiences that demonstrate how to simplify migration planning and their research on achieving cost savings by factoring in real-time utilization and Microsoft licenses.
+
+## ENT206-R1: Optimize AWS costs and utilization with AWS management tools 
+
+In this hands-on session, you learn how to use AWS tools and services to drive cost optimization throughout your business. We look at the core tools of cost management, such as AWS IAM policies, AWS Budgets, and AWS Cost Explorer. After mastering these tools, we go deeper into advanced billing analysis with Amazon Athena and visualizations using Amazon QuickSight.
+
+## ENT208-R1: Build a cloud action plan with AWS Cloud Adoption Framework 
+
+Leverage the best practices learned from hundreds of customer engagements to build your own comprehensive cloud adoption framework. In this workshop, we break down the process of launching your cloud adoption journey into manageable areas of focus. Within each area of focus, you learn how to define work streams that span multiple disciplines and teams, including how to create an action plan that you can use to guide your organization's change management process.
+
+## ENT209: Creating an effective roadmap for your cloud journey 
+
+Join this workshop for an experiential cloud journey workshop where you work through a representative use case of a company's cloud adoption journey. In this session, you are divided into teams, and each team makes practical recommendations on how to plan and execute their journey to the cloud. Learn best practices on organization transformation, migration methodology, and application landscape optimization from AWS facilitators. You also have the opportunity to share tips with other AWS customers to make your cloud journey successful.
+
+## ENT210-S: The future of cloud management 
+
+There were over a dozen acquisitions of cloud management companies in 2018 and more in 2019 as technology vendors responded to their customers' adoption of the cloud and multiple tools and services for containers, microservices, and serverless computing deployments. IT departments are creating cloud centers of excellence and evolving to everything as a service (XaaS) IT delivery models to be more agile. Join this session to learn about emerging cloud management trends. We discuss how to optimize your cloud infrastructure and services for performance, cost, security, and compliance while allowing teams to use the cloud services and tools that they prefer. This presentation is brought to you by VMware, an APN Partner.
+
+## ENT212-S: Transform your business with the VMware & AWS hybrid cloud 
+
+VMware and AWS are making hybrid cloud architecture a reality. Learn about the latest innovations in our jointly architected hybrid cloud services and how these services can benefit your workloads and applications. VMware Cloud on AWS delivers a highly scalable and secure service, enabling you to seamlessly migrate, run, and protect workloads in industry-leading vSphere-based environments running natively on the AWS Cloud. VMware solutions for AWS Outposts bring these innovations on premises and deliver the data center as a service experience. In this session, experts provide a technical overview of the services, discuss what's new, and talk about customer use cases. This presentation is brought to you by VMware, an APN Partner.
+
+## ENT213-S: New IT for new pharma: Cloud as catalyst for Sanofi innovation   
+
+To achieve its business objectives of improved cost-efficiency, better service quality, and next-generation digital support, Sanofi was looking to capitalize on a decade-long journey to an 80-percent data center consolidation. This panel discussion explores how Accenture and AWS are working with Sanofi to move most of its applications to AWS. We discuss how they're deploying an innovative infrastructure managed service model center with the key elements of modernizing infrastructure services to full managed services and introducing next-generation infrastructure to optimize operations and increase service quality to all geographies and business functions. Learn how these ongoing efforts will help Sanofi leverage IT to accelerate business transformation and innovation. This presentation is brought to you by Accenture, an APN Partner.
+
+## NT214: Cloud migration in the face of data-center eviction   
+
+Learn how to rethink your cloud strategy to accelerate migration through organizational change management, process optimization, and automation. Hear from Thomson Reuters, which successfully revised its cloud migration strategy in the midst of a business-unit divestiture that required it to exit the majority of its data centers and move >10,000 servers (hundreds of services) in two years. We discuss how it uses AWS Managed Services to de-risk its migration and keep its cloud resources focused on the applications. Thomson Reuters shares how it designed and implemented standard migration patterns, made refactoring and re-platforming choices, and leveraged automation.
+
+## ENT216: Differentiation through innovation   
+
+The acceleration of technology change is disrupting all industries and provides an opportunity for organizations of any size to truly differentiate their business through innovation. In this session, we share a number of examples of how customers are innovating on AWS to differentiate their business by improving pace of innovation, getting to market faster, creating new products, and scaling innovative ideas globally to stay ahead of changing business needs.
+
+## ENT217-R1: Build enterprise cloud fluency to accelerate cloud adoption 
+
+Learn best practices to accelerate cloud adoption by upskilling and closing the cloud skills gap. Explore how to get started with a learning-needs analysis to assess your team's current skills, develop tailored training programs, engage employees, and develop and validate new cloud skills.
+
+ENT218-R1: Executing a large-scale migration to AWS 
+
+AWS has partnered with hundreds of customers in their large-scale migration to the AWS Cloud. In this session, you will learn best practices from enterprises at different stages of their have faced during large-scale migrations and how they overcame them. You will also learn the patterns that make migrations successful and the mechanisms we created to help our customers migrate and transform faster.
+
+ENT219-R2: Iterating toward a cloud-enabled IT organization 
+
+Transforming your organization and its people to unlock the maximum value of running your business on AWS can be an overwhelming task. Platform teams, operations teams, and development teams have both technical and nontechnical challenges to consider. In this chalk talk, learn the Amazonian way of working, organizing, and enabling your cloud foundation team. You also learn how to organize your teams into a small number of two-pizza application teams. You can then iteratively scale the concepts used to build these initial teams to build a fully cloud-enabled IT organization.
+
+ENT220-R1: VMware Cloud on AWS for VDI Workloads 
+
+¬†VDI Workloads are an ideal candidate for VMware Cloud on AWS for many reasons; including the ability to have a high density of desktops to hosts as well as access to native AWS services. Learn how you can deploy your entire VDI environment or extend your existing on-premises VDI environment into VMware Cloud on AWS. We will dive into the different use cases, supported compute instances, along with how to accelerate innovation with the latest capabilities of VMware products and integration of native AWS services.
+
+ENT221-R2: How to optimize TCO by bringing Microsoft licenses to AWS 
+
+In this session, we cover practical steps for cost-optimizing your Microsoft workloads on AWS from both licensing and infrastructure perspectives. We discuss ways to diversify and optimize your current licensing investments, how to think strategically about licensing in the cloud, and how to bring your own licenses to AWS. We also cover a variety of additional cost-optimization features and approaches, and we explain how these can be applied to Microsoft-specific workloads. Please bring your laptop.
+
+ENT224-R1: Amazon culture of innovation   
+
+Organizations of all sizes often ask how they can innovate like Amazon. Since its humble beginnings as the 'world's largest bookstore,' Amazon has not only innovated across ecommerce and other adjacent segments, it has also introduced entirely new and unrelated businesses to the organization. Over the years, Amazon has gotten good at taking problems that are hard to solve and making them easy for customers. In this session, we discuss how Amazon views and leverages technology as a utility to increase the pace of innovation across the organization.
+
+ENT225: The why, what & how of transforming and innovating with SAP solutions   
+
+Thousands of customers currently run SAP on AWS, and many more are evaluating their SAP migration and innovation strategies. In this session, discover how 11 years of joint innovation with SAP and AWS have helped create a path of choice for customers on their SAP transformation journey. Learn how companies evaluated moving their SAP landscapes to the cloud, why they've chosen AWS on which to run SAP, and how they are now innovating on behalf of their customers faster.
+
+ENT226: Increase business value through modernization   
+
+Many enterprises execute modernization initiatives to leverage modern technologies and create new customer experiences. However, many stall mid-journey because they lack a clear strategy and execution path, often replicating the challenges of their on-premises environment on the cloud. Attend this session to learn why an enterprise-wide modernization makes sense, what may be the anti-patterns, and how the five-point success strategy for modernization that AWS has devised helps hundreds of enterprises conduct successful modernizations and increases business value.
+
+ENT227-S: DXC Technology and AWS accelerating digital transformation globally 
+
+DXC Technology has made a multi-billion dollar investment in digital innovation with AWS. Through digital transformation centers, worldwide talent development, and cloud-ready products, DXC is changing the way that large-scale companies journey to the cloud. Discussion topics for this session include DXC's unique approach to delivering scale, value, and speed in the cloud; DXC's AWS investment and commitment; and a customer spotlight on business and technical challenges and the solution delivered to address them. Learn how DXC and AWS are working together to transform the digital strategy and how DXC's legacy clients represent a major enterprise opportunity. This presentation is brought to you by DXC Technology, an APN Partner.
+
+ENT228-R1: How to build a business case with value benchmarking 
+
+Build a high-level business case using value benchmarking. Learn about AWS' recent market research on the benefits AWS customers have realized. We discuss how to use these insights to benchmark your organization and create or supplement your business case. Learn from AWS, as well as your peers, on how to solidify your business case for AWS by identifying and tracking relevant KPIs and adopting the latest industry best practices.
+
+ENT229-L: Leadership session: The enterprise transformation journey with AWS   
+
+AWS has partnered with hundreds of enterprises undergoing digital transformations. In this session, hear from one of our leaders who works with enterprises to leverage AWS services and learn how they create new revenue streams, improve operational efficiency, and reduce business risks.
+
+ENT230-R2: Introduction to forecasting costs on AWS 
+
+Accurately forecasting AWS costs is an important element for cloud financial management. In this chalk talk, we discuss some approaches to consider when forecasting your AWS spend. These approaches include examining historical trends and linking plans, such as new-product development and business expansion, into cloud consumption.
+
+ENT231: How to go from zero to hundreds of certified AWS engineers   
+
+For many organizations, a perceived or real lack of cloud skills in their staff can limit their move to the cloud. Proper re-skilling of your engineers and developers can speed the pace of adoption, cloud migration, and delivery of business benefits by helping your organization effectively operate the AWS Cloud. Learn about the 12 prescriptive steps that have been proven to work with many customers around the world to help accelerate their journeys. Additionally, hear from National Australia Bank about their re-skilling journey, which allowed them to go from zero to hundreds of AWS certified engineers.
+
+ENT234-S: Venerable accelerates its modernization journey with AWS 
+
+Venerable, a newly created annuity company, manages $34B of assets for closed block variable annuity and $19B of fixed and fixed indexed annuity liabilities. As a young company, Venerable made a strategic decision to migrate two complex policy administration systems and its entire ecosystem to the cloud. In this session, learn how Venerable migrated 60+ business-critical applications and set up more than 72 interfaces on AWS in less than 18 months so that today, 100 percent of Venerable's business systems and operations run on AWS. Also, learn how Cognizant helped Venerable modernize its core systems while accelerating its transformation journey. This presentation is brought to you by Cognizant, an APN Partner.
+
+ENT235-S: How Salesforce and AWS accelerate the contact center 
+
+Eighty percent of customer service interactions still take place over the phone. With the growing presence of cloud telephony in contact centers, companies now have an opportunity to weave intelligence into these phone interactions. In this session, learn how telephony can be integrated with Service Cloud to boost agent productivity, enhance reporting and training for supervisors, and deliver business insights based on call content and analytics. This presentation is brought to you by Salesforce, an APN Partner.
+
+ENT236: Best practices to become data-driven with AWS   
+
+AWS provides data analytics and ML services to allow companies of every size to transform their business by unlocking value from their data. In this session, Brad Burke, the chief data officer of American Family Insurance, joins us to share American Family's journey from being data-rich to becoming data-driven with a focus on platform, people, and mission. Brad discusses how solutions are a network of architectures that bring applications, data, and data science together; how the new currency in data is the data engineer; and how having the data connected to the right part of the business value chain is the real trick.
+
+ENT237: Transform your enterprise using AWS experience-based accelerators   
+
+From the C-suite to individual teams, can you break down siloes, migrate faster, and simplify processes along the way? Experience-based acceleration (EBA) is a mechanism that addresses cloud-adoption blockers using a large-scale, prescriptive, migration"party" approach. Learn from SAP Concur how hundreds of customers have used EBAs to change how they work to deliver faster, more impactful migrations, and how the leadership is using cloud adoption to modernize their organization.
+
+ENT238: Speeding your deployments with AWS solutions 
+
+Did you know AWS has more than 150 pre-built, well-architected, documented, and fast-to-deploy solutions available for you to use today? These solutions are built by AWS experts and partners and automatically put together all the AWS services needed to cover common technical, enterprise, or industry-specific use cases. Why reinvent the wheel? Share your ideas for solutions, learn about the available solutions, and understand how you can deploy them into your landing zone to accelerate your time to value.
+
+ENT239-S: Protect and migrate your compute instances with Zerto 
+
+Having a cloud strategy is critical for a successful digital transformation, and this strategy should include application and data mobility for on-premises and cloud environments. In this session, you learn how to move workloads to AWS, reduce your disaster recovery and data protection costs by using AWS as a target, and enable your workloads to be moved to any location based on business requirements. Michael Masters from Maritz, an AWS and Zerto customer, explains how they're using Zerto to reduce IT costs by 40 percent and achieve market-leading RTOs with no production impact, enabling an IT resilience strategy with data protection and mobility. This presentation is brought to you by Zerto, an APN Partner.
+
+ENT240-S: Cloud customer trends in 2020 
+
+In this customer panel hosted by the Cloudbusting podcast team, learn about some of the major upcoming trends in the market with representatives from BP and Global Payments. The panel discusses what organizations must do, both technically and culturally, to be more adaptable to their changing markets, evidenced by real customer stories. Leave this session with insights on what other businesses have done to prepare their organizations for digital change and with ideas that you can implement in your own transformation programs. This presentation is brought to you by Cloudreach, an APN Partner.
+
+ENT241: Reimagine SAP: How ENGIE, HP & SAP itself are transforming their SAP solutions   
+
+Thousands of customers run SAP on AWS, and many more are evaluating their SAP migration and innovation strategies. In this session, hear from two SAP on AWS customers, and from SAP itself, about the role AWS has played in their SAP transformation journeys. ENGIE, an energy services provider, shares how it achieved its SAP innovation goals, from migrating its mission-critical SAP environment through accelerating innovation with Amazon Machine Learning and other solutions. HP, which develops PCs, 3D printing solutions, printers, and related supplies, discusses its transformation effort to consolidate legacy SAP ERP systems into an S/4HANA landscape. Juergen Mueller, the CTO of SAP, which provides enterprise software, joins us to discuss SAP customers, tech landscapes, and AWS.
+
+ENT301-R2: Create a migration strategy for your application portfolio 
+
+A key step in formulating your migration strategy is to collect application portfolio data and rationalize it into what we refer to as"The 7 Rs": relocate, rehost, replatform, refactor, repurchase, retire, and retain. In this session, we examine a typical enterprise environment and learn how to effectively rationalize application portfolios to build a cloud migration plan. We look at how to categorize the applications, their interdependencies, technical complexity, and business criticality to determine the appropriate migration strategy.
+
+ENT302-R2: Accelerate migration to AWS with the right tools 
+
+The right tools can simplify and accelerate a large migration project. AWS migration tools, as well as our ecosystem of third-party tools, provide automation and intelligent recommendations for each step of the migration process. In this session, we discuss how to choose the right tool for each phase of your AWS migration, from your initial assessment through migrations and operations.
+
+ENT303-R1: Plan and architect an application portfolio migration to AWS 
+
+Help us complete an acquisition integration! Unicorn Rentals has acquired a competitor, BuyMyUnicorn, and needs to quickly integrate their IT systems to ensure smooth business operations. Bring your laptop to this session so that you can get experience with our migration methodologies and tools to plan a highly available and scalable architecture. You'll migrate critical systems to AWS and help Unicorn Rentals achieve their desired business outcomes.
+
+ENT304-R1: Build a migration factory with CloudEndure and Migration Hub 
+
+A migration factory can increase the speed of your migration by leveraging automation and an agile delivery model. Bring your laptop to this session and build a migration factory using the CloudEndure Migration API and AWS Migration Hub. The session explores automation tasks such as installation of migration agents, orchestrating migration waves, updating database connection strings, application testing, application cutovers, and tracking migration status throughout the migration pipeline.
+
+ENT305-R1: Intelligently automating cloud operations 
+
+You can surface insights into best practices, security, fault tolerance, and performance using Amazon Inspector, AWS Config, Service Quotas, AWS Health, and AWS Trusted Advisor. Join this session to learn how to automate these insights intelligently using AWS DevOps and machine learning tools. After explaining the data insights that we surface, we walk you through setting up repeatable automation pipelines and using anomaly detection to drive automation. This hands-on workshop guides you through using Amazon CloudWatch, AWS Lambda, and AWS ML services.
+
+ENT306-R1: Getting hands on with VMware Cloud on AWS and native AWS service integrations 
+
+In this workshop, gain hands-on experience using VMware Cloud on AWS to build a hybrid cloud. Learn about the hybrid cloud platform that delivers the best of both worlds, and utilize four popular use cases: Cloud migration, data center extension, disaster recovery, and application modernization. Work through setting up VMware Cloud on AWS and integrating native AWS services with your VM workloads. Please bring your laptop and power supply.
+
+ENT307-R1: Strategies and tools to migrate hundreds of applications   
+
+Your CIO has asked you to start migrating your application portfolio to AWS, including hundreds of applications hosted on thousands of servers. In this session, you learn how to analyze your application portfolio, determine the right migration strategies for a broad mix of applications, and select tools to accelerate the migration.
+
+ENT308-S: Build your next microservices application with modern AWS services   
+
+Learn how easy it is to get started with a new application composed of several microservices on AWS Lambda, Amazon EKS, Amazon SQS, and Amazon DynamoDB. In this session, you first learn through live demonstration how to do basic administration, such as deploying an application and inspecting the relevant Kubernetes resources. Next, you learn some troubleshooting practices (using log files, accessing containers, etc.) and dive into advanced troubleshooting. Innovate faster with software as you learn to leverage some of the most modern services on AWS. This presentation is brought to you by New Relic, an APN Partner.
+
+ENT309-R3: The best replatforming strategies for legacy workloads 
+
+As customers continue to rapidly migrate to AWS, IT teams must reduce technical debt to optimize costs and improve operational efficiencies. In this session, learn about AWS native services that can be leveraged as migration targets-such as Amazon Elastic Block Store (Amazon EBS), Amazon Route 53, AWS Certificate Manager (ACM), Amazon MQ, and others-to achieve these goals while you plan and prepare your applications for migration.
+
+ENT310-R3: Architecting your data lake with SAP on AWS 
+
+Migrating SAP to AWS opens up opportunities for data and analytics transformation with AWS data lake solutions. But it can be difficult to manage the different frameworks and technologies to extract data across SAP HANA, SAP ERP, and SAP BW solutions. In this builders session, you can work with an SAP on AWS expert to understand best practices for integrating SAP data with AWS data lake solutions. You will take home prescriptive guidance, reference architectures, and code samples for your specific use cases using services like AWS Glue and AWS Lambda. Please bring your laptop.
+
+ENT311-R2: Accelerate migration planning using automated processes 
+
+In this session, we discuss how to accelerate your cloud migration journey with the automation of portfolio assessment and migration planning. We review AWS tools available to assess and plan your cloud migration. We analyze data from a sample portfolio of enterprise IT applications to determine your migration strategy, evaluate costs, and build a migration plan. We also discuss automation options to migrate these applications to AWS. Bring your laptop to play along with the demos.
+
+ENT312-R2: Automating performance optimization and risk management 
+
+To make it easy for you to optimize your environment and manage risks associated with downtime, AWS Support offers tools such as AWS Personal Health Dashboard, AWS Trusted Advisor, and Amazon CloudWatch. In this hands-session, learn how these tools give you the ability to monitor your environment, get proactive alerts on any issues, and build automation for issue resolution. We dive into how you can optimize your AWS environment and reduce risk by implementing automation of AWS best practice recommendations. We also discuss how to address any specific challenges you currently face. Please bring your laptop.
+
+ENT313-R2: Migrate to AWS using CloudEndure and AWS Migration Hub 
+
+CloudEndure's highly automated replication, machine conversion, and orchestration capabilities to migrate a live application server to AWS with nondisruptive testing and short cutover windows helps expedite your migrations. Join this hands-on session to experience how to migrate Microsoft SQL Server to AWS from any source platform (physical, virtual, or another cloud). We also discuss how to leverage AWS Migration Hub to track the progress of application migrations across multiple AWS and partner solutions. Please bring your laptop and migrate with us.
+
+ENT314: How GE Power empowered its departments to manage & stream their desktop apps 
+
+Learn how your enterprise application owners can onboard, manage, and stream desktop applications to their users without managing complex virtual desktop infrastructure (VDI).
+
+ENT315: Improve message deliverability to ensure customer reach 
+
+Do you have outbound and inbound email requirements? Is email a critical workload for your enterprise? Several factors determine whether your email messages reach your recipients. In this chalk talk, learn how to safely migrate your outbound and inbound email volumes over to AWS and Amazon Simple Email Service (Amazon SES). Learn how to onboard, safely ramp up, and ensure that business continues without disruption. Also learn best practices for delivering email messages into your customers' inbox rather than their spam folder, and receive guidance on scaling deliverability and improving deliverability of certain campaigns.
+
+ENT316-R1: Well-architected WorkSpaces: Enterprise deployment at scale 
+
+In this chalk talk, learn best practices for successfully implementing and managing your Amazon WorkSpaces deployment at scale in your enterprise. We discuss key topics, including¬†In this chalk talk, learn best practices for successfully implementing and managing your Amazon WorkSpaces deployment at scale in your enterprise. We discuss key topics, including account structure and governance, VPC design and setup, directory services configuration, deployment and operations of Amazon WorkSpaces, image and patch management, and application deployment. We also cover best practices for automating the process of migrating a large number of licenses, how to create custom images, and ways to manage license compliance.
+
+ENT317: Inside story of Phillips 66 SAP S/4HANA business transformation   
+
+When Phillips 66 embarked on a journey to transform its hydrocarbon value chain with SAP's new S/4HANA platform, it selected AWS to host its project and production landscapes. It successfully launched in October 2019, and Phillips 66 is now sharing how AWS accelerated its innovation, decreased its costs, and reduced the risk of a two-year S/4HANA business transformation. Leave this session with an understanding of how to extend your traditional SAP systems to leverage native, low-cost, and massively scalable AWS services to drive value for years.
+
+ENT318-R1: Building hybrid cloud architectures with VMware and AWS   
+
+There are more options than ever when building hybrid cloud architectures as well as hybrid cloud applications. Learn how AWS integrations with services such as VMware Cloud on AWS can help you take a lower-risk and iterative transformation approach to executing on your existing applications and data. In this session, we dive into best practices for migrating as well as augmenting your VMware-based workloads with native AWS services such as Amazon S3, Amazon RDS, Elastic Load Balancing, and more.
+
+ENT319-R1: Migration to AWS: A foundation for enterprise transformation   
+
+To realize the maximum benefits of moving to AWS, you need to build a solid enterprise foundation and accelerate the migration journey. In this session, learn techniques such as: planning and implementing a landing zone, executing migrations with a migration factory, and iterating toward modern application architectures.
+
+ENT320-R1: Cloud operations engineer: A day in the life   
+
+Are you an expert data center operations engineer looking to sharpen your AWS skills? Are you an IT operations manager looking to speed up your team's cloud learning curve for operating in a hybrid cloud environment? Are you a DevOps engineer looking to grow your operations experience? This session follows two AWS operations experts throughout their day as they solve real problems in complex, hybrid enterprise environments that include the AWS Cloud. Expect to learn actionable hacks and tricks that you would not learn in standard training classes. Receive practical advice for solving common and uncommon issues, and learn the top things our experts wish they knew when they were getting started with AWS.
+
+ENT321-S: Global financial services customer optimizes & migrates workloads to AWS   
+
+Today, development is cloud-first. Many companies are migrating to the cloud and replacing workloads with cloud-based alternatives. But how do you bring the cloud to the final frontier-mission-critical applications, such as SAP, Oracle, or custom options? In this technical deep dive, learn how a financial services customer uses easy-to-use AWS CloudFormation Templates and Amazon Machine Image deployments with Veritas InfoScale for running heavily used applications on AWS. Veritas experts provide guidance on decoupling applications from the underlying infrastructure, enabling seamless migration to AWS. Are you ready to go where no administrator has gone before? If so, join this session. This presentation is brought to you by Veritas Technologies, an APN Partner.
+
+ENT322-S: Help protect your cloud journey with Druva on AWS 
+
+For most enterprises, the top two catalysts driving innovation and transformation are ever-increasing data volumes and migration to the cloud as a scalable and cost-effective platform. The critical underpinnings of this journey are data protection across all on-premises and cloud workloads, workload mobility, data governance, analytics, and ransomware. In this technical session, solutions architects from Druva discuss how customers can make use of powerful solutions from Druva and AWS to protect and manage data, applications, and workloads across the cloud and on-premises environments. Hear about unified protection of hybrid cloud data and workloads, disaster recovery, long-term data retention and data governance, and ransomware. This presentation is brought to you by Druva, an APN Partner.
+
+ENT323-S: Ensuring data protection readiness across hybrid environments 
+
+Achieving SLAs across on-premises, cloud, and hybrid environments can be difficult, especially when using standalone tools for backup and disaster recovery. It's highly inefficient and makes it difficult to meet recovery SLAs. The shift to the cloud and software-defined storage can present new challenges for workload portability and data protection. In this session, learn how Commvault support for AWS provides a comprehensive data management platform for moving, managing, and using data across files, applications, databases, hypervisors, and the cloud. Learn how a single platform provides you access to extensive capabilities for data protection, backup, recovery, management, and e-discovery, all designed to run seamlessly on the AWS Cloud. This session is brought to you by Commvault, an APN Partner.
+
+ENT401-R1: A life-cycle approach to governance, compliance, and audit 
+
+Ongoing implementation of regulations by governments across a variety of industries requires organizations to adopt enterprise solutions that fulfill needs relating to compliance, audit, and overall risk management. Join us to learn more about how Amazon CloudWatch, AWS CloudFormation, AWS Config, and AWS CloudTrail can help with enhanced controls, beginning with resource provisioning through to monitoring, remediation, event audit, and issue investigation.
+
+ENT402-R1: Jump-start your cloud adoption with a multi-account strategy 
+
+In this session, learn about various multi-account design patterns to jump-start your cloud adoption journey. We cover AWS Landing Zone, AWS Control Tower, and AWS Organizations, and we help you determine the optimal path for your enterprise.
+
