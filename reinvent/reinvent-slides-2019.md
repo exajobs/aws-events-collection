@@ -1775,3 +1775,165 @@ If you'd like to move your Oracle databases to the cloud, this workshop is for y
 
 
 
+## 
+
+DOP202-R2: Implementing GitFLow with AWS tools 
+
+Utilizing short-lived feature branches is the development method of choice for many teams. In this workshop, you learn how to use AWS tools to automate merge-and-release tasks. We cover high-level frameworks for how to implement GitFlow using AWS CodePipeline, AWS CodeCommit, AWS CodeBuild, and AWS CodeDeploy. You also get an opportunity to walk through a prebuilt example and examine how the framework can be adopted for individual use cases.
+
+DOP204-S: Transforming IT pros to DevOps gurus: How to secure your new tech stacks 
+
+Large enterprises are limited by legacy systems. With existing tools, traditional platforms, outdated requirements, and more, IT and engineering teams have difficulty building in a modern way. Hear how Pivvot, a US enterprise, used tools in the AWS Cloud to escape this traditional trap. The Pivvot team learned to scale by adopting a DevOps philosophy to support hundreds of organizations and thousands of customers inside a commercial software company. Learn how building a pipeline-driven cloud-native process with built-in security helps modernize an organization. Culture change is challenging, but with the right approach and a strong tech stack, you can build securely and ship quickly in the AWS Cloud. This presentation is brought to you by Trend Micro, an APN Partner.
+
+DOP206-S: Breaking the monolith with style and speed   
+
+Microservices are here to stay, but nearly all of the most successful architectures originate from the classic monolith. The promised land of microservices is filled with treasures like decoupled deploys, scalability, resilience, development velocity, and more. However, the journey there can involve prolonged seasons of pain, suffering, and even regret. This talk is the story of how Stitch Fix used all three pillars of observability to build confidence, accelerate its migration, and collaborate with other teams. Learn about the strategies that Stitch Fix used and how it incorporated logs, metrics, and traces into these strategies. This presentation is brought to you by Datadog, an APN Partner.
+
+DOP207-R1: Driving change and building a high-performance DevOps culture   
+
+When it comes to digital transformation, every enterprise is different. There is often a person or group with a vision, knowledge of good practices, a sense of urgency, and the energy to break through impediments. They may be anywhere in the organizational structure: high, low, or-in a typical scenario-somewhere in middle management. Mark Schwartz, an enterprise strategist at AWS and the author of 'The Art of Business Value' and 'A Seat at the Table: IT Leadership in the Age of Agility,' shares some of his research into building a high-performance culture by driving change from every level of the organization.
+
+DOP209-R1: Introduction to DevOps on AWS   
+
+How can you accelerate the delivery of new, high-quality services? Are you able to experiment and get feedback quickly from your customers? How do you scale your development team from 1 to 1,000? To answer these questions, it is essential to leverage some key DevOps principles and use CI/CD pipelines so you can iterate on and quickly release features. In this talk, we walk you through the journey of a single developer building a successful product and scaling their team and processes to hundreds or thousands of deployments per day. We also walk you through best practices and using AWS tools to achieve your DevOps goals.
+
+DOP210-L: Leadership Session: Developer Tools on AWS   
+
+Join Ken Exner, GM of AWS Developer Tools, as he shares the state of developer tooling on AWS, as well as the future of development on AWS. Ken uses insight from his position managing Amazon's internal tooling to discuss Amazon's practices and patterns for releasing software to the cloud. Additionally, Ken provides knowledge and updates across many areas of developer tooling, including infrastructure as code, authoring and debugging, automation and release, and observability. Throughout the session, Ken recaps recent launches and demos some of the latest features.
+
+DOP212: Best practices for building your business on AWS IQ   
+
+In this session, we share best practices for using AWS IQ to complete on-demand project work and supplement your team's technical skill set. Learn from the AWS IQ team, hear customer stories, get your questions answered, and leave with insights for growing your business.
+
+DOP215-R2: Using AWS tools to author and debug applications 
+
+Every organization wants its developers to be faster and more productive. AWS Cloud9 lets you create isolated cloud-based development environments for each project and access them from a powerful web-based IDE anywhere, anytime. In this session, we demonstrate how to use AWS Cloud9 and provide an overview of IDE toolkits that can be used to author application code.
+
+DOP216-R2: Continuous integration using AWS tools 
+
+Today, more teams are adopting continuous-integration (CI) techniques to enable collaboration, increase agility, and deliver a high-quality product faster. Cloud-based development tools such as AWS CodeCommit and AWS CodeBuild can enable teams to easily adopt CI practices without the need to manage infrastructure. In this session, we showcase best practices for continuous integration and discuss how to effectively use AWS tools for CI.
+
+DOP217-S: A great customer experience with the automated NOC-free environment 
+
+Delivering a great customer experience is at the core of any business. Genesys, which provides customer experience solutions, has made a significant investment in modern infrastructure that is heavily oriented around AWS and Sumo Logic due to their born-in-the-cloud heritage. As Genesys runs hundreds of microservices on AWS infrastructure around the globe, the real-time data insights it gets around operations and security enables it move to an automated NOC-free environment and help its customers deliver a great experience to their clients. In this session, learn about the discoverability, observability, and security of modern applications with Sumo Logic on AWS. This presentation is brought to you by Sumo Logic, an APN Partner.
+
+DOP218-S: Designing an open-source observability stack for Kubernetes   
+
+Observability teams today need to achieve complete visibility into the systems that they monitor, but Kubernetes deployments can add significant complexity to achieving this goal. Open-source tools provide powerful options and come with serious advantages in cost, agility, and speed. Join Logz.io co-founder Asaf Yigal to learn how you can gain observability for Kubernetes projects with open-source tools. He reviews OSS telemetry tools for Kubernetes and how to deploy them for monitoring, logging, and tracing on AWS. He also covers the importance of security and how to add it to your observability stack. This session is brought to you by Logz.io, an APN Partner.
+
+DOP302-R1: Best practices for authoring AWS CloudFormation   
+
+Incorporating infrastructure as code into software development practices can help teams and organizations improve automation and throughput without sacrificing quality and uptime. In this session, we cover multiple best practices for writing, testing, and maintaining AWS CloudFormation template code. You learn about IDE plug-ins, reusability, testing tools, modularizing stacks, and more. During the session, we also review sample code that showcases some of the best practices in a way that lends more context and clarity.
+
+DOP306-R3: Building a scalable serverless application with AWS CDK 
+
+Dive into AWS and build a web application with the AWS Mythical Mysfits tutorial. In this workshop, you build a serverless application using AWS Lambda, Amazon API Gateway, and the AWS Cloud Development Kit (AWS CDK). Through the tutorial, you get hands-on experience using AWS CDK to model and provision a serverless distributed application infrastructure, you connect your application to a backend database, and you capture and analyze data on user behavior. Other AWS services that are utilized include Amazon Kinesis Data Firehose and Amazon DynamoDB.
+
+DOP307-S: Fast-track Kubernetes and platform rebuilds with observability 
+
+CLEAR uses your eyes and fingerprints to confirm your identity, helping you breeze through airports, stadiums, and more. To continue to scale up its core biometric matching engine, CLEAR rapidly rebuilt its system using Kubernetes and microservices. In this session, hear from Jeff Gelb, SVP of platform integrations and operations, and Ruslan Rusu, principal performance engineer, about how building with the principles of observability allowed CLEAR to accelerate development, improve performance, harden operations, tune costs, and move with confidence. This presentation is brought to you by SignalFx, an APN Partner.
+
+DOP308-S: Building a culture of observability 
+
+Observability! Maybe you've read the blog posts, bought some tools, or added a whole team. How's that working out? Just ticking the observability box isn't a fix. Real change comes when you adjust the culture of your organization. In this session, you hear from Cory Watson, technical director in the office of the CTO at SignalFx, and Julia Wong, developer at Atlassian, about their successes and failures in creating and managing observability teams, building tools, teaching engineers, adopting and migrating new vendors, and working alongside incident processes. Walk away with a guide for how your company can reap the benefits of observability by focusing on this often overlooked requirement. This session is brought to you by SignalFx, an APN Partner.
+
+DOP311-R2: Generating dynamic deployment pipelines with AWS CDK 
+
+In this session we dive deep into dynamically generating deployment pipelines that deploy across multiple AWS accounts and Regions. Using the power of the AWS Cloud Development Kit (AWS CDK), we demonstrate how to simplify and abstract the creation of deployment pipelines to suit a range of scenarios. We highlight how AWS CodePipeline-along with AWS CodeBuild, AWS CodeCommit, and AWS CodeDeploy-can be structured together with the AWS deployment framework to get the most out of your infrastructure and application deployments.
+
+DOP312-R3: Customize AWS CloudFormation with open-source tools 
+
+In this session, we showcase some of the best open-source tools available for AWS CloudFormation customers, including conversion and validation utilities. Get a glimpse of the many open-source projects that you can use as you create and maintain your AWS CloudFormation stacks.
+
+DOP313-R2: Assembling an AWS CloudFormation authoring tool chain 
+
+In this session, we provide a prescriptive tool chain and methodology to improve your coding productivity as you create and maintain AWS CloudFormation stacks. We cover authoring recommendations from editors and plugins, to setting up a deployment pipeline for your AWS CloudFormation code.
+
+DOP314-R2: Optimizing Java applications for scale on AWS 
+
+Executing at scale in the cloud can require more than the conventional best practices. During this talk, we offer a number of different Java-related tools you can add to your AWS tool belt to help you more efficiently develop Java applications on AWS-as well as strategies for optimizing those applications. We adapt the talk on the fly to cover the topics that interest the group most, including more easily accessing Amazon DynamoDB, handling high-throughput uploads to and downloads from Amazon Simple Storage Service (Amazon S3), troubleshooting Amazon ECS services, working with local AWS Lambda invocations, optimizing the Java SDK, and more.
+
+DOP315-R2: Build using JavaScript with AWS Amplify, AWS Lambda, and AWS Fargate 
+
+Learn how to build applications with AWS Amplify on the front end and AWS Fargate and AWS Lambda on the backend, and protocols (like HTTP/2), using the JavaScript SDKs in the browser and node. Leverage the AWS SDK for JavaScript's modular NPM packages in resource-constrained environments, and benefit from the built-in async features to run your node and mobile applications, and SPAs, at scale.
+
+DOP317-R3: Amazon's approach to automated testing 
+
+Join us for a session about how Amazon uses testing strategies to build a culture of quality. Learn Amazon's best practices around load testing, unit testing, integration testing, and UI testing. We also discuss what parts of testing are automated and how we take advantage of tools, and share how we strategize to fail early to ensure minimum impact to end users.
+
+DOP319-R2: Building and deploying applications on AWS with Python 
+
+In this session, hear from core developers of the AWS SDK for Python (Boto3) as we walk through the design of sample Python applications. We cover best practices in using Boto3 and look at other libraries to help build these applications, including AWS Chalice, a serverless microframework for Python. Additionally, we discuss testing and deployment strategies to manage the lifecycle of your applications.
+
+DOP320-R1: Strategies for securing code in the cloud and on premises   
+
+Some people prefer to keep their code and tooling on premises, though this can create headaches and slow teams down. Others prefer keeping code off of laptops that can be misplaced. In this session, we walk through the alternatives and recommend best practices for securing your code in cloud and on-premises environments. We demonstrate how to use services such as Amazon WorkSpaces to keep code secure in the cloud. We also show how to connect tools such as Amazon Elastic Container Registry (Amazon ECR) and AWS CodeBuild with your on-premises environments so that your teams can go fast while keeping your data off of the public internet.
+
+DOP321: Migrating .NET frameworks to the cloud   
+
+Learn how to migrate your .NET application to AWS with minimal steps. In this demo-heavy session, we share best practices for migrating a three-tiered application on ASP.NET and SQL Server to AWS. Throughout the process, you get to see how AWS Toolkit for Visual Studio can enable you to fully leverage AWS services such as AWS Elastic Beanstalk, modernizing your application for more agile and flexible development.
+
+DOP322-S: Continuous delivery to AWS with GitHub Actions 
+
+Join us in this session, and discover how you can use GitHub Actions to automate your software lifecycle from idea to delivery. Additionally, you learn how to use GitHub Actions to triage issues, validate pull requests, and deploy your application to AWS. This session is brought to you by GitHub, an APN Partner.
+
+DOP324-R4: Slack ChatOps for AWS: Setting up AWS Chatbot 
+
+In this session, we show you how to set up ChatOps for your team's Slack channel with AWS Chatbot. AWS Chatbot is an interactive agent that makes it easy to monitor and interact with AWS resources in your Slack channels. You learn how to set up AWS Chatbot, choose which notifications are relevant for you and your teams, and define channel-specific permission controls. Please bring your laptop.
+
+DOP325-R1: Deploying AWS CloudFormation StackSets across accounts and Regions 
+
+AWS CloudFormation StackSets can be a critical tool to efficiently manage deployments of resources across multiple accounts and regions. In this session, we cover how AWS CloudFormation StackSets can help you ensure that all of your accounts have the proper resources in place to meet security, governance, and regulation requirements. We also cover how to make the most of the latest functionalities and discuss best practices, including how to plan for safe deployments with minimal blast radius for critical changes.
+
+DOP326: Deploy your code, scale your application, and lower cloud costs using Elastic Beanstalk   
+
+You can effortlessly convert your code into web applications without having to worry about provisioning and managing AWS infrastructure, applying patches and updates to your platform, or using a variety of tools to monitor your application's health. In this session, we show you how anyone-not just professional developers-can use AWS Elastic Beanstalk in various scenarios without the need to understand or manage the infrastructure details. These scenarios include an administrator moving a Windows .NET workload into the cloud, a developer building a containerized enterprise app as a Docker image, and a data scientist deploying a machine learning model.
+
+DOP327-R2: Monitoring and observability of serverless apps using AWS X-Ray 
+
+Monitoring and observability are essential parts of DevOps best practices. You need monitoring to debug and trace unhandled errors, performance bottlenecks, and customer impact in the distributed nature of a microservices architecture. In this chalk talk, we show you how to integrate the AWS X-Ray SDK to your code to provide observability to your overall application and drill down to each service component. We discuss how X-Ray can be used to analyze, identify, and alert on performance issues and errors and how it can help you troubleshoot application issues faster.
+
+DOP328: Five lessons from principal engineers on building reliable services   
+
+In this session, five Amazon principal engineers share hard-learned lessons from their experiences building reliable services at Amazon. Join Andrew Certain, Becky Weiss, Colm MacCarthaigh, David Yanacek, and Marc Brooker as they share personal stories that highlight a current Amazon best practice. The engineers discuss how Amazon uses timeouts, how we think about back-offs and retries, our approach to taking dependencies, how we measure performance, and how we use shuffle sharding.
+
+DOP329-R2: .NET on AWS: Problem-solving with AWS software engineers 
+
+In this builders session, experts from the .NET SDK engineering team answer your questions related to the .NET experience on AWS, including questions about the AWS SDK for .NET, AWS Lambda with .NET, AWS Lambda support for PowerShell, and AWS Tools for Visual Studio Team Services. Come and chat with us. Please bring your laptop.
+
+DOP331-R2: AWS Tools for PowerShell 
+
+Join us for this builders session, where you and a small group work with an AWS subject-matter expert to explore several PowerShell use cases on AWS. Please bring your laptop.
+
+DOP332-R5: Microservices insights with AWS X-Ray 
+
+In this session, learn how to easily debug and trace unhandled errors, performance bottlenecks, and customer impact in the distributed nature of a microservices architecture. Please bring your laptop.
+
+DOP336-R4: Serverless app infrastructure with the AWS Cloud Development Kit (AWS CDK) 
+
+The AWS Cloud Development Kit (AWS CDK) is a multi-language, open-source framework that lets developers harness the full power of familiar programming languages to define reusable cloud components and provision applications built from those components using AWS CloudFormation. In this session, you develop an application as well as learn how to assemble your AWS infrastructure while leveraging the Python language-focused version of the AWS CDK. Finally, we explore the AWS Construct Library and show you how easy it is to configure your cloud resources, manage permissions, connect event sources, and build and publish your own constructs. Please bring your laptop.
+
+DOP340-R6: Debugging serverless applications 
+
+To get the most out of your serverless applications, it is critical to have the proper tools to help manage the development lifecycle. Being able to leverage these tools to improve developer productivity, identify performance bottlenecks, and remediate bugs quickly can also help you maintain a competitive edge in today's marketplace. In this session, learn how to leverage the AWS Toolkit for VS Code, AWS Lambda, AWS X-Ray, and Amazon CloudWatch to effectively debug, test, and improve observability of serverless applications. You also get the opportunity to compete in a mini serverless application debugging showdown! Please bring your laptop.
+
+DOP341-R2: Optimizing deployment strategies for speed & safety 
+
+Modern application development moves fast and demands continuous delivery. However, the greatest risk to an application's availability can occur during deployments. Join us in this chalk talk to learn about deployment strategies for web servers and for Amazon EC2, container-based, and serverless architectures. Learn how you can optimize your deployments to increase productivity during development cycles and mitigate common risks when deploying to production by using canary and blue/green deployment strategies. Further, we share our learnings from operating production services at AWS.
+
+DOP342-R1: Amazon's approach to building resilient services   
+
+One of the biggest challenges of building services and systems is predicting the future. Changing load, business requirements, and customer behavior can all change in unexpected ways. In this talk, we look at how AWS builds, monitors, and operates services that handle the unexpected. Learn how to make your own services handle a changing world, from basic design principles to patterns you can apply today.
+
+DOP402-R1: Deep dive into AWS Cloud Development Kit   
+
+The AWS Cloud Development Kit (AWS CDK) is a multi-language, open-source framework that enables developers to harness the full power of familiar programming languages to define reusable cloud components and provision applications built from those components using AWS CloudFormation. In this session, you develop an AWS CDK application and learn how to quickly assemble AWS infrastructure. We explore the AWS Construct Library and show you how easy it is to configure your cloud resources, manage permissions, connect event sources, and build and publish your own constructs.
+
+DOP408-R2: What's new in AWS CloudFormation   
+
+AWS CloudFormation is one of the most widely used AWS tools, enabling infrastructure as code, deployment automation, repeatability, compliance, and standardization. In this session, we cover the latest improvements and best practices for AWS CloudFormation customers in particular, and for seasoned infrastructure engineers in general. We cover new features and improvements that span many use cases, including programmability options, cross-region and cross-account automation, operational safety, and additional integration with many other AWS services.
+
+DOP409-R1: Faster Cryptography in Java with Amazon Corretto Crypto Provider (ACC 
+
+In this session, learn how to integrate Amazon Corretto Crypto Provider (ACCP) into a sample Java application, which will significantly speed up the common cryptographic algorithms that are being performed. Then use Amazon CloudWatch to measure how ACCP improves both the latency and the throughput of the sample application.
+
