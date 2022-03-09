@@ -934,46 +934,46 @@ The connected vehicle market continues to grow at a rapid pace, driven by new bu
 
 ## AUT403: Hands-on with the new AWS connected vehicle solution 
 
-Automotive companies are building next-generation platforms on AWS to take advantage of device management, lifecycle security, advanced analytics, and scalability features. In this hands-on session, we walk through the new features and use cases of the latest version of the AWS connected vehicle solution, including device registration, provisioning, anomaly detection, and trip aggregation. In this session, you deploy the solution using an AWS CloudFormation template, provision devices, and work with data collected from a vehicle simulator, which you install. You should have an understanding of device lifecycle management and connected vehicle solutions, and you should bring your laptop prepared with the AWS CLI.
+> Automotive companies are building next-generation platforms on AWS to take advantage of device management, lifecycle security, advanced analytics, and scalability features. In this hands-on session, we walk through the new features and use cases of the latest version of the AWS connected vehicle solution, including device registration, provisioning, anomaly detection, and trip aggregation. In this session, you deploy the solution using an AWS CloudFormation template, provision devices, and work with data collected from a vehicle simulator, which you install. You should have an understanding of device lifecycle management and connected vehicle solutions, and you should bring your laptop prepared with the AWS CLI.
 
 ## AUT404: Deep dive: AWS ML stack for autonomous vehicle model building 
 
-Training and deploying autonomous vehicle algorithms relies heavily on machine learning. In this hands-on session, we show you how to use AWS ML stack and tools such as Amazon SageMaker to quickly build, train, and deploy machine learning models for autonomous driving. Please bring your laptop.
+> Training and deploying autonomous vehicle algorithms relies heavily on machine learning. In this hands-on session, we show you how to use AWS ML stack and tools such as Amazon SageMaker to quickly build, train, and deploy machine learning models for autonomous driving. Please bring your laptop.
 
 
 # Blockchain
 
 ## BLC201: Building your first blockchain application with Managed Blockchain 
 
-Learn how to set up a blockchain network and deploy your first application using Amazon Managed Blockchain. In this hands-on workshop, we show you how to build a blockchain network for a nonprofit organization to allow it to distribute funds without an intermediary, ensuring immutable transactions and full transparency to donors. Using Hyperledger Fabric on Managed Blockchain, you then create a peer node and connect it to the nonprofit blockchain network. In this example, donors register their profiles, review the causes the nonprofit supports, and donate funds. Using smart contracts, the nonprofit distributes the funds, and the network tracks how each donation is allocated.
+> Learn how to set up a blockchain network and deploy your first application using Amazon Managed Blockchain. In this hands-on workshop, we show you how to build a blockchain network for a nonprofit organization to allow it to distribute funds without an intermediary, ensuring immutable transactions and full transparency to donors. Using Hyperledger Fabric on Managed Blockchain, you then create a peer node and connect it to the nonprofit blockchain network. In this example, donors register their profiles, review the causes the nonprofit supports, and donate funds. Using smart contracts, the nonprofit distributes the funds, and the network tracks how each donation is allocated.
 
 ## BLC202: Amazon QLDB fundamentals 
 
-In this workshop, learn how to use the features and core functionality of Amazon Quantum Ledger Database (Amazon QLDB), including writing queries to track your data's complete history, cryptographically verifying documents, and designing a data model. You also learn about the new open-source PartiQL and the Amazon Ion format. No prior experience required.
+> In this workshop, learn how to use the features and core functionality of Amazon Quantum Ledger Database (Amazon QLDB), including writing queries to track your data's complete history, cryptographically verifying documents, and designing a data model. You also learn about the new open-source PartiQL and the Amazon Ion format. No prior experience required.
 
 ## BLC203: Why you need a ledger database: BMW, DVLA, and Sage discuss their use cases 
 
-Why do you need an immutable ledger database? In this session, we dive into the problems that Amazon Quantum Ledger Database (Amazon QLDB) can solve, and we answer your questions about when and why you would use a ledger database. Customers BMW, the UK government organization Driver and Vehicle Licensing Agency, and Sage share their use cases for maintaining data integrity with Amazon QLDB.
+> Why do you need an immutable ledger database? In this session, we dive into the problems that Amazon Quantum Ledger Database (Amazon QLDB) can solve, and we answer your questions about when and why you would use a ledger database. Customers BMW, the UK government organization Driver and Vehicle Licensing Agency, and Sage share their use cases for maintaining data integrity with Amazon QLDB.
 
 ## BLC205: Using Amazon QLDB as a system of record 
 
-Data is a strategic asset for organizations. However, as customer data is increasingly getting dispersed across cloud and enterprise applications, the need for a trusted system of record is becoming paramount. In this chalk talk, we show you how to take advantage of Amazon Quantum Ledger Database (Amazon QLDB) to build system-of-record applications.
+> Data is a strategic asset for organizations. However, as customer data is increasingly getting dispersed across cloud and enterprise applications, the need for a trusted system of record is becoming paramount. In this chalk talk, we show you how to take advantage of Amazon Quantum Ledger Database (Amazon QLDB) to build system-of-record applications.
 
 ## BLC206: Smart supply chain management systems based on blockchain, IoT & AI 
 
-A variety of business use cases based on blockchain are being showcased on top of cryptocurrency. Particularly, blockchain is used for supply chain management (SCM) in Retail, CPG, Manufacturing, and more. Retail food companies run improved SCM based on Amazon Managed Blockchain. In this session, we talk about the background of service adoption from a customer business perspective and its reference architecture, which consists of not only Amazon Managed Blockchain but also other services like AWS Lambda, AWS IoT core, and more. We also discuss the future of SCM, leveraging AI, IoT, and automation-related services.
+> A variety of business use cases based on blockchain are being showcased on top of cryptocurrency. Particularly, blockchain is used for supply chain management (SCM) in Retail, CPG, Manufacturing, and more. Retail food companies run improved SCM based on Amazon Managed Blockchain. In this session, we talk about the background of service adoption from a customer business perspective and its reference architecture, which consists of not only Amazon Managed Blockchain but also other services like AWS Lambda, AWS IoT core, and more. We also discuss the future of SCM, leveraging AI, IoT, and automation-related services.
 
 ## BLC207-R1: Trade finance goes high tech using Amazon Managed Blockchain 
 
-Buyers and sellers around the world conduct complex trades with each other using a contract mechanism called letter of credit. This process requires cooperation not just between buyer and seller but also banks and third parties. Learn how Amazon Managed Blockchain allows our customers to focus on improving these complex distributed transactions while spending less time on the complexity of the blockchain network itself.
+> Buyers and sellers around the world conduct complex trades with each other using a contract mechanism called letter of credit. This process requires cooperation not just between buyer and seller but also banks and third parties. Learn how Amazon Managed Blockchain allows our customers to focus on improving these complex distributed transactions while spending less time on the complexity of the blockchain network itself.
 
 ## BLC301-R1: Dive deep into Managed Blockchain 
 
-Building enterprise blockchain applications on your own infrastructure is often expensive, complicated, and time-consuming. Amazon Managed Blockchain makes it easy to build scalable blockchain applications by eliminating the need to set up and manage infrastructure, allowing you to focus on writing applications for your business. In this technical session, you get an in-depth look at Managed Blockchain's features, APIs, the Hyperledger Fabric SDK, and how to add new members and join fabric channels. We also show how to build an application on Managed Blockchain with the help of demo applications and sample code.
+> Building enterprise blockchain applications on your own infrastructure is often expensive, complicated, and time-consuming. Amazon Managed Blockchain makes it easy to build scalable blockchain applications by eliminating the need to set up and manage infrastructure, allowing you to focus on writing applications for your business. In this technical session, you get an in-depth look at Managed Blockchain's features, APIs, the Hyperledger Fabric SDK, and how to add new members and join fabric channels. We also show how to build an application on Managed Blockchain with the help of demo applications and sample code.
 
 ## BLC302: Build an interbank asset-transfer application with blockchain 
 
-Blockchain networks afford us the ability to build decentralized applications that can be cheaper, faster, and more trustworthy than traditional centralized architectures. Amazon Managed Blockchain allows us to deploy managed, scalable Hyperledger Fabric networks that can help foster decentralized applications from experimentation to production. In this workshop, we create our own banks and build a consortium to provide interbank transfers and other services in a decentralized fashion. We explore the concepts behind blockchain and examine the features that you can leverage to build effective decentralized applications.
+> Blockchain networks afford us the ability to build decentralized applications that can be cheaper, faster, and more trustworthy than traditional centralized architectures. Amazon Managed Blockchain allows us to deploy managed, scalable Hyperledger Fabric networks that can help foster decentralized applications from experimentation to production. In this workshop, we create our own banks and build a consortium to provide interbank transfers and other services in a decentralized fashion. We explore the concepts behind blockchain and examine the features that you can leverage to build effective decentralized applications.
 
 
 
@@ -981,29 +981,29 @@ International
 
 CHN202: AWS China Gateway: Power your business in China by working with AWS   
 
-The AWS China Gateway provides information that helps customers of all sizes get started in using AWS to grow their businesses in China. The AWS China (Beijing) Region and the AWS China (Ningxia) Region are located within mainland China. To provide the best experience for customers in China, as well as to comply with China's legal and regulatory requirements, AWS works with Chinese partners that possess telecom licenses required for delivering cloud services in China. Join this session to learn more about using the AWS China Region.
+> The AWS China Gateway provides information that helps customers of all sizes get started in using AWS to grow their businesses in China. The AWS China (Beijing) Region and the AWS China (Ningxia) Region are located within mainland China. To provide the best experience for customers in China, as well as to comply with China's legal and regulatory requirements, AWS works with Chinese partners that possess telecom licenses required for delivering cloud services in China. Join this session to learn more about using the AWS China Region.
 
 Compute
 
 CMP202-R1: Better, faster, cheaper compute: Cost-optimizing Amazon EC2   
 
-It's easier than ever to grow your compute capacity and enable new types of cloud computing applications while maintaining the lowest TCO by blending Amazon EC2 Spot, On-Demand, and Reserved Instance purchase models. In this session, learn how to use the power of Amazon EC2 with other AWS services and features such as Auto Scaling, Amazon ECS, Amazon EKS, Amazon EMR, and AWS Batch to programmatically optimize costs while maintaining high performance and availability- all without breaking a sweat.
+> It's easier than ever to grow your compute capacity and enable new types of cloud computing applications while maintaining the lowest TCO by blending Amazon EC2 Spot, On-Demand, and Reserved Instance purchase models. In this session, learn how to use the power of Amazon EC2 with other AWS services and features such as Auto Scaling, Amazon ECS, Amazon EKS, Amazon EMR, and AWS Batch to programmatically optimize costs while maintaining high performance and availability- all without breaking a sweat.
 
 CMP203: Studio in the cloud: Content production on AWS   
 
-In this session, learn how AWS Thinkbox and our partners are helping studios work with the best talent to scale their VFX and CG pipelines and produce some of the most popular and award-winning content. We cover several in-depth post-production topics around real-world VFX studio pipelines, and we focus on virtual workstations and rendering workloads, combining Amazon EC2 and AWS Thinkbox Deadline for scalable, cost-effective computing. Learn how real customers working on Hollywood productions integrate their pipelines with AWS to realize the elasticity and scale provided by Amazon EC2 and how they intend to leverage AWS in the future.
+> In this session, learn how AWS Thinkbox and our partners are helping studios work with the best talent to scale their VFX and CG pipelines and produce some of the most popular and award-winning content. We cover several in-depth post-production topics around real-world VFX studio pipelines, and we focus on virtual workstations and rendering workloads, combining Amazon EC2 and AWS Thinkbox Deadline for scalable, cost-effective computing. Learn how real customers working on Hollywood productions integrate their pipelines with AWS to realize the elasticity and scale provided by Amazon EC2 and how they intend to leverage AWS in the future.
 
 CMP204-R1: HPC on AWS: Innovating without infrastructure constraints   
 
-High-performance computing (HPC) has always been about solving the most complex problems. But for far too long, HPC applications and workloads have been constrained by infrastructure capacity. In this session, we highlight how virtually unlimited capacity and scale, accessed instantly on the cloud, can create a paradigm shift in the way researchers and engineers approach innovation. Learn how Formula 1 uses AWS to run complex computational fluid dynamics (CFD) simulations as part of its 2021 car design. And hear about the migration of Morgan Stanley's grid computing workloads to AWS.
+> High-performance computing (HPC) has always been about solving the most complex problems. But for far too long, HPC applications and workloads have been constrained by infrastructure capacity. In this session, we highlight how virtually unlimited capacity and scale, accessed instantly on the cloud, can create a paradigm shift in the way researchers and engineers approach innovation. Learn how Formula 1 uses AWS to run complex computational fluid dynamics (CFD) simulations as part of its 2021 car design. And hear about the migration of Morgan Stanley's grid computing workloads to AWS.
 
 CMP207-R1: Manage, control, and optimize costs with native AWS products, ft. Intuit 
 
-In this interactive chalk talk, learn about how AWS creates your cost and usage data and dive into how you can use native AWS products to manage your spend. We look at AWS Billing and Cost Management data, AWS Cost Explorer, AWS Cost and Usage reports, and AWS Budgets.
+> In this interactive chalk talk, learn about how AWS creates your cost and usage data and dive into how you can use native AWS products to manage your spend. We look at AWS Billing and Cost Management data, AWS Cost Explorer, AWS Cost and Usage reports, and AWS Budgets.
 
 CMP208-S: Achieving unparalleled elasticity on AWS at the lowest cost   
 
-Selecting the optimal cloud resources for your applications can be challenging since there are many ways that your cloud instances can be configured. Cloud engineers and architects are facing this challenge every day, trying to manually find the perfect match and avoid potential operational risks. In this session, join the VP of technical sales at Densify to learn how one line of code (e.g., Terraform) can unlock workload elasticity by precisely and automatically aligning your application demands with the right AWS resources, giving you better performance with reduced operational risk. This presentation is brought to you by Densify, an APN Partner.
+> Selecting the optimal cloud resources for your applications can be challenging since there are many ways that your cloud instances can be configured. Cloud engineers and architects are facing this challenge every day, trying to manually find the perfect match and avoid potential operational risks. In this session, join the VP of technical sales at Densify to learn how one line of code (e.g., Terraform) can unlock workload elasticity by precisely and automatically aligning your application demands with the right AWS resources, giving you better performance with reduced operational risk. This presentation is brought to you by Densify, an APN Partner.
 
 CMP210-R1: Dive deep on how to save with AWS Savings Plans   
 
