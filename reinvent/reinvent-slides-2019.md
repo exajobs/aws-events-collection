@@ -1419,27 +1419,27 @@ CON414-R3: Security best practices for AWS Fargate
 
 In this session, we highlight several of the recommendations for container security on AWS Fargate. You learn about using a private registry and securing the cluster and your services. We also discuss network security basics and security monitoring using AWS solutions. Please bring your laptop.
 
-CON415-R3: Auto scale Kubernetes workload by GPU 
+## CON415-R3: Auto scale Kubernetes workload by GPU 
 
 In this session, we add a GPU-enabled node group to an Amazon EKS cluster built with eksctl and show you how to automatically scale your workload based on the GPUs available in the cluster. Please bring your laptop.
 
-CON417-R3: Live debug microservice running on Kubernetes cluster 
+## CON417-R3: Live debug microservice running on Kubernetes cluster 
 
 In this session, we give an overview of different options to debug microservices running on Amazon Elastic Kubernetes Service (Amazon EKS) clusters. We go over remote debugging configuration and the 'pod swap' technique, where you can debug local processes 'running' on remote Amazon EKS clusters (without a need to build an image and redeploy the service). Please bring your laptop.
 
-CON418-R3: Deep dive: Kubernetes auto scaling 
+## CON418-R3: Deep dive: Kubernetes auto scaling 
 
 In this session, we take a deeper look at Kubernetes HPA, VPA, and various custom metrics depending on the workload. We also perform a live demo of Kubernetes Cluster Autoscaler on AWS. Please bring your laptop.
 
-CON421-R1: Amazon EKS under the hood   
+## CON421-R1: Amazon EKS under the hood   
 
 Kubernetes allows you to run containerized workloads and services using declarative configuration and automation. Amazon Elastic Kubernetes Service (Amazon EKS) is a managed service that makes it easy to run Kubernetes on AWS without needing to stand up or maintain your own Kubernetes clusters. Amazon EKS takes care of the undifferentiated heavy lifting around securing, patching, qualifying, and upgrading Kubernetes clusters. Join us for a look under the hood at how Amazon EKS manages Kubernetes at scale. We also discuss some of the key design decisions in building out the infrastructure to manage one of the industry's fastest-growing open-source projects.
 
-CON423-R1: AWS Fargate under the hood   
+## CON423-R1: AWS Fargate under the hood   
 
 AWS Fargate is a completely serverless, container-native compute experience on AWS. Fargate doesn't require users to provision, scale, and manage any servers. Under the hood of Fargate, there is a sophisticated architecture where AWS is innovating both vertically to build a container-optimized virtualization platform and horizontally to build the right integrations with surrounding AWS services to take care of undifferentiated heavy lifting for the developer. In this session, learn from senior engineers how AWS Fargate is designed to deliver a scalable, secure, serverless developer experience with containers.
 
-CON424-R3: Using Amazon CloudWatch Container Insights to monitor your microservices 
+## CON424-R3: Using Amazon CloudWatch Container Insights to monitor your microservices 
 
 In this session, we explore using Amazon CloudWatch Container Insights to monitor, analyze, and scale your Amazon ECS workloads and microservices. You learn through a guided tutorial how to enable an ECS cluster for Container Insights and set up infrastructure to enrich your DevOps processes on both AWS Fargate and Amazon EC2. Please bring your laptop.
 
