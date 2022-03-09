@@ -1713,7 +1713,7 @@ DAT368: [NEW LAUNCH!] Modern application development with Amazon RDS Proxy
 
 Amazon RDS Proxy is a new, fully managed, highly available database proxy built in to RDS. In this chalk talk, we will provide an overview of the recently announced RDS Proxy and show you how you can use it to build more scalable, robust, and secure applications.
 
-DAT369: [NEW LAUNCH!] Deep dive on Amazon Aurora machine learning integration 
+## DAT369: [NEW LAUNCH!] Deep dive on Amazon Aurora machine learning integration 
 
 Amazon Aurora machine learning (ML) integration provides simple, optimized, and secure integration between Aurora, Amazon SageMaker, and Amazon Comprehend. It enables you to add ML-based predictions to applications using the familiar SQL programming language without having to build custom integrations, move data around, learn separate tools, or have prior ML experience. Attend this session to learn about this new feature and see how you can quickly build ML-enabled applications with Aurora, Amazon SageMaker, and Amazon Comprehend.
 
@@ -1721,19 +1721,19 @@ DAT370: Best practices for Amazon DocumentDB
 
 Taking the lessons we've learned from working with customers over the past year, we're excited to share some best practices for working with Amazon DocumentDB (with MongoDB compatibility). Join this chalk talk to learn about migration strategies, how to properly size your clusters, scaling in production, how to benchmark your application with Amazon DocumentDB, driver configurations and connection pooling, tips and tricks for cost optimization, and more.
 
-DAT372: Migrating your databases to Amazon DocumentDB   
+## DAT372: Migrating your databases to Amazon DocumentDB   
 
 Amazon DocumentDB (with MongoDB compatibility) is a fast, reliable, fully managed MongoDB-compatible database service. What are the best practices to move your workloads to Amazon DocumentDB? What do you need to think about before, during, and after migration? Which tools and approaches should you use to ensure a successful migration? Join us to learn how to migrate database workloads to Amazon DocumentDB.
 
-DAT373: Data platform engineering: How Vanguard is migrating data to AWS   
+## DAT373: Data platform engineering: How Vanguard is migrating data to AWS   
 
 Organizations grappling with moving on-premises workloads and data to the cloud face the challenge of getting platform engineering and team structures right. In most cases, lift-and-shift is not an option. In this session, learn how Vanguard created a team to tackle volume and velocity of data for microservices and big data workloads, using data streaming (Amazon Kinesis), file transfer (AWS Storage Gateway), CDC replication (DB2 on z/OS, Oracle Exadata, Microsoft SQL Server), relational and NoSQL databases (Amazon DynamoDB, Amazon RDS for PostgreSQL, Amazon Aurora), and object storage (Amazon S3). The cloud data platform has seen a 200 percent YOY increase in adoption.
 
-DAT374-S: Using Redis beyond caching 
+## DAT374-S: Using Redis beyond caching 
 
 With new use cases emerging every day and with wider adoption of microservices and cloud-native architectures, more complexities continue to shift to developers. In this session, representatives from Redis demonstrate how you can use Redis beyond caching to solve for some modern use cases. They also show you how to use Redis for event-based architectures to reduce some of these complexities. Finally, they discuss and demonstrate how to use conflict-free replicated data types (CRDTs) for geo-distributed deployments and use cases. This presentation is brought to you by Redis Labs, an APN Partner.
 
-DAT381: How Verizon moves critical databases to Amazon RDS with zero downtime   
+## DAT381: How Verizon moves critical databases to Amazon RDS with zero downtime   
 
 Learn how Verizon is moving mission-critical databases from on premises to Amazon RDS. Verizon's workloads, including¬†VZW.com, demand high availability, data consistency, and low latency at all times to service millions of customers every day. In this session, Verizon engineers share how they achieved a zero-downtime migration to AWS by setting up a multi-region active-active architecture and ensuring data synchronization across on-premises and cloud environments during the transition phase. They dive deep into the specific features and tools used and share the challenges and lessons learned during the migration process.
 
