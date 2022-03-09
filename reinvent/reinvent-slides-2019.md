@@ -1,3 +1,5 @@
+
+
 ## Table of Contents
 - [Artificial Intelligence & Machine Learning](#artificial-intelligence--machine-learning)
 - [Analytics](#analytics)
@@ -12,6 +14,9 @@
 - [Containers](#containers)
 - [Databases](#databases)
 - [Demo](#demo)
+- [DevOps](#devops)
+- [Enterprise](#enterprise)
+
 
 # Artificial Intelligence & Machine Learning
 
@@ -2172,7 +2177,7 @@ ENT401-R1: A life-cycle approach to governance, compliance, and audit
 
 Ongoing implementation of regulations by governments across a variety of industries requires organizations to adopt enterprise solutions that fulfill needs relating to compliance, audit, and overall risk management. Join us to learn more about how Amazon CloudWatch, AWS CloudFormation, AWS Config, and AWS CloudTrail can help with enhanced controls, beginning with resource provisioning through to monitoring, remediation, event audit, and issue investigation.
 
-ENT402-R1: Jump-start your cloud adoption with a multi-account strategy 
+## ENT402-R1: Jump-start your cloud adoption with a multi-account strategy 
 
 In this session, learn about various multi-account design patterns to jump-start your cloud adoption journey. We cover AWS Landing Zone, AWS Control Tower, and AWS Organizations, and we help you determine the optimal path for your enterprise.
 
