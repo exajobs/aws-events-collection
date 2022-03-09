@@ -1775,7 +1775,7 @@ If you'd like to move your Oracle databases to the cloud, this workshop is for y
 
 
 
-## 
+## DevOps
 
 DOP202-R2: Implementing GitFLow with AWS tools 
 
