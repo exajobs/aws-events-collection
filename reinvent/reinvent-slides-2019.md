@@ -1690,17 +1690,17 @@ DAT360-R1: Analytical use cases with AWS Database Migration Service (AWS DMS)
 
 AWS Database Migration Service (AWS DMS) can help you migrate and replicate data from any of our 12 supported sources to 14 targets. In this session, we show you how customers are using AWS DMS to replicate analytical workloads into services like Amazon Simple Storage Service (Amazon S3), Amazon Redshift, Amazon Elasticsearch Service, and Amazon Kinesis Data Streams for various use cases.
 
-DAT361: Deep dive on Amazon Neptune   
+## DAT361: Deep dive on Amazon Neptune   
 
 Amazon Neptune is a fast, reliable, fully managed graph database service that makes it easy to build and run applications that work with highly connected datasets. In this session, we review how Neptune is optimized for storing billions of relationships and querying the graph with milliseconds latency. You also get a deep dive into the capabilities of the service and a review of the latest available features. Finally, we walk you through the techniques that you can use to migrate to Neptune.
 
-DAT363-R1: Migrating your data warehouses to Amazon Redshift   
+## DAT363-R1: Migrating your data warehouses to Amazon Redshift   
 
-AWS Schema Conversion Tool data extractors can help with migrating from most widely used data warehouses like Teradata, Netezza, and Oracle to Amazon Redshift. You can also use the AWS SCT to optimize your Amazon Redshift database and use the right sort and distribution keys along with modernizing ETL from sources like Oracle and Teradata to AWS Glue. We walk you through AWS SCT's capabilities and show a demo on migrating a sample data warehouse from Netezza to Amazon Redshift and show you how the AWS Snowball Edge integration with AWS SCT data extractors works.
+> AWS Schema Conversion Tool data extractors can help with migrating from most widely used data warehouses like Teradata, Netezza, and Oracle to Amazon Redshift. You can also use the AWS SCT to optimize your Amazon Redshift database and use the right sort and distribution keys along with modernizing ETL from sources like Oracle and Teradata to AWS Glue. We walk you through AWS SCT's capabilities and show a demo on migrating a sample data warehouse from Netezza to Amazon Redshift and show you how the AWS Snowball Edge integration with AWS SCT data extractors works.
 
-DAT364-R1: Deep dive on new features in Amazon RDS for SQL Server   
+## DAT364-R1: Deep dive on new features in Amazon RDS for SQL Server   
 
-Amazon Relational Database Service (Amazon RDS) makes it easy to set up, operate, and scale SQL Server databases in the cloud. This session dives deep into the new features and best practices that make your Amazon RDS for SQL Server database deployments highly available, scalable, and secure.
+> Amazon Relational Database Service (Amazon RDS) makes it easy to set up, operate, and scale SQL Server databases in the cloud. This session dives deep into the new features and best practices that make your Amazon RDS for SQL Server database deployments highly available, scalable, and secure.
 
 DAT365-R1: Deep dive on new features in Amazon RDS for Oracle   
 
