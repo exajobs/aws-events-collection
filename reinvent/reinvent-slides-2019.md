@@ -1658,29 +1658,29 @@ DAT350-R1: Migrating open-source databases from Amazon EC2 to Amazon Aurora MySQ
 
 Running your open-source database on Amazon Elastic Compute Cloud (Amazon EC2) is convenient, but can it be easier, more scalable, and more cost effective? You bet it can. In this session, learn how to effectively and efficiently migrate a MySQL¬†database from Amazon EC2 to Amazon Aurora, increase availability, and reduce cost.
 
-DAT352: Building applications on Amazon QLDB 
+## DAT352: Building applications on Amazon QLDB 
 
 In this workshop, you build and review a sample Java application leveraging Amazon QLDB. You also learn how to use the different Amazon QLDB APIs and features, including learning how to write, query, and verify documents. Finally, we cover best practices for using this service. For this session, experience with Java is recommended but not required.
 
-DAT353: Unlock the value of Redis in AWS 
+## DAT353: Unlock the value of Redis in AWS 
 
 We have seen our customers follow an adoption curve with Redis. Initially used to accelerate database access, Redis quickly becomes a repository for valuable business information. In this session, we teach you how to accelerate your database and integrate Redis with other AWS services.
 
-DAT354: Best practices with ElastiCache 
+## DAT354: Best practices with ElastiCache 
 
 With the explosive growth of business-critical, real-time applications built on Redis, availability, scalability, and security have become top considerations. Learn best practices for setting up your Amazon ElastiCache for success with online scaling, high availability across multiple Availability Zones, and security configurations from our fully managed service.
 
-DAT355-R1: How to choose between Amazon Aurora MySQL and PostgreSQL 
+## DAT355-R1: How to choose between Amazon Aurora MySQL and PostgreSQL 
 
-Amazon Aurora is a MySQL- and PostgreSQL-compatible relational database built for the cloud that combines the performance and availability of traditional enterprise databases with the simplicity and cost-effectiveness of open-source databases. In this session, hear about some of the unique as well as common features of Aurora MySQL and PostgreSQL and learn about the design considerations for choosing one over the other for a given workload.
+> Amazon Aurora is a MySQL- and PostgreSQL-compatible relational database built for the cloud that combines the performance and availability of traditional enterprise databases with the simplicity and cost-effectiveness of open-source databases. In this session, hear about some of the unique as well as common features of Aurora MySQL and PostgreSQL and learn about the design considerations for choosing one over the other for a given workload.
 
-DAT357-R1: Build flexible data architecture with Amazon DocumentDB change streams 
+## DAT357-R1: Build flexible data architecture with Amazon DocumentDB change streams 
 
-Using the databases that are best-suited for your workload is a key tenet of the AWS purpose-built database approach. In this session, you learn how to use Amazon DocumentDB (with MongoDB compatibility) change streams to stream data to Amazon S3 for analytics, to Amazon Elasticsearch Service for enhanced search capabilities, and to Amazon ElastiCache to pre-warm a Redis cache.
+> Using the databases that are best-suited for your workload is a key tenet of the AWS purpose-built database approach. In this session, you learn how to use Amazon DocumentDB (with MongoDB compatibility) change streams to stream data to Amazon S3 for analytics, to Amazon Elasticsearch Service for enhanced search capabilities, and to Amazon ElastiCache to pre-warm a Redis cache.
 
-DAT358: Best practices for migrating Redis clusters from Amazon EC2 to ElastiCache   
+## DAT358: Best practices for migrating Redis clusters from Amazon EC2 to ElastiCache   
 
-Managing Redis clusters on your own can be hard. You have to provision hardware, patch software, back up data, and monitor workloads constantly. With the newly released Online Migration feature for Amazon ElastiCache, you can now easily move your data from self-hosted Redis on Amazon EC2 to fully managed Amazon ElastiCache, with cluster mode disabled. In this session, you learn about the new Online Migration tool, see a demo, and, more importantly, learn hands-on best practices for a smooth migration to Amazon ElastiCache.
+> Managing Redis clusters on your own can be hard. You have to provision hardware, patch software, back up data, and monitor workloads constantly. With the newly released Online Migration feature for Amazon ElastiCache, you can now easily move your data from self-hosted Redis on Amazon EC2 to fully managed Amazon ElastiCache, with cluster mode disabled. In this session, you learn about the new Online Migration tool, see a demo, and, more importantly, learn hands-on best practices for a smooth migration to Amazon ElastiCache.
 
 DAT359: How Amazon.com migrated its applications from Oracle to AWS databases   
 
