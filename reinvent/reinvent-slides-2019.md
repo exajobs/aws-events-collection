@@ -807,11 +807,11 @@ In today's tech-driven world, an organization's architecture is a competitive di
 
 ## ARC337-R1: Baking the best security layer cake 
 
-It's not enough to fix a bug or issue, we also have to dig in and find a deeper kind of fix that eliminates most bugs of that entire class. Failsafe design and defense in depth are nothing new, but in security, the tendency to add layers can backfire. Each new layer brings its own potential bugs, risks, costs, and challenges. In this talk, we take a look at just how effective some of the simplest mitigations are and how modern verification techniques can provide run-time assurance without run-time risk.
+> It's not enough to fix a bug or issue, we also have to dig in and find a deeper kind of fix that eliminates most bugs of that entire class. Failsafe design and defense in depth are nothing new, but in security, the tendency to add layers can backfire. Each new layer brings its own potential bugs, risks, costs, and challenges. In this talk, we take a look at just how effective some of the simplest mitigations are and how modern verification techniques can provide run-time assurance without run-time risk.
 
 ## ARC338-R1: How Goldman Sachs minimizes the impact of managing events 
 
-The operational excellence pillar of the AWS Well-Architected Framework includes guidance and best practices on operating in the cloud. Join our talk as representatives from Goldman Sachs share how the company applied these best practices to reduce the impact of events and the level of effort they extended to manage them. They also discuss how they enabled their operations teams to safely do more by establishing the standards for operations that enable them to scale as new projects enter the cloud. Learn how AWS Systems Manager OpsCenter can support your situational awareness and event response, enabling you to view, investigate, and remediate operational issues presented with contextually relevant data.
+> The operational excellence pillar of the AWS Well-Architected Framework includes guidance and best practices on operating in the cloud. Join our talk as representatives from Goldman Sachs share how the company applied these best practices to reduce the impact of events and the level of effort they extended to manage them. They also discuss how they enabled their operations teams to safely do more by establishing the standards for operations that enable them to scale as new projects enter the cloud. Learn how AWS Systems Manager OpsCenter can support your situational awareness and event response, enabling you to view, investigate, and remediate operational issues presented with contextually relevant data.
 
 ## ARC339-R1: Best practices for IoT architecture using AWS smart product solution   
 
@@ -835,7 +835,7 @@ This chalk talk covers the journey of a real-world customer as they migrate thei
 
 ## ARC344-R1: Understanding the landing zone journey 
 
-Wondering how your organization can benefit from a landing zone? What is the thought process and journey? In this session, we talk about the multi-account strategy. Additionally, we discuss the story behind AWS Landing Zone; AWS Control Tower versus AWS Landing Zone; and Account Vending Machine versus Account Factory.
+> Wondering how your organization can benefit from a landing zone? What is the thought process and journey? In this session, we talk about the multi-account strategy. Additionally, we discuss the story behind AWS Landing Zone; AWS Control Tower versus AWS Landing Zone; and Account Vending Machine versus Account Factory.
 
 ## ARC345-R1: Architecting data lakes with AWS data and analytics services 
 
