@@ -982,55 +982,55 @@ The connected vehicle market continues to grow at a rapid pace, driven by new bu
 
 
 
-International
+## International
 
-CHN202: AWS China Gateway: Power your business in China by working with AWS   
+## CHN202: AWS China Gateway: Power your business in China by working with AWS   
 
 > The AWS China Gateway provides information that helps customers of all sizes get started in using AWS to grow their businesses in China. The AWS China (Beijing) Region and the AWS China (Ningxia) Region are located within mainland China. To provide the best experience for customers in China, as well as to comply with China's legal and regulatory requirements, AWS works with Chinese partners that possess telecom licenses required for delivering cloud services in China. Join this session to learn more about using the AWS China Region.
 
-Compute
+## Compute
 
-CMP202-R1: Better, faster, cheaper compute: Cost-optimizing Amazon EC2   
+## CMP202-R1: Better, faster, cheaper compute: Cost-optimizing Amazon EC2   
 
 > It's easier than ever to grow your compute capacity and enable new types of cloud computing applications while maintaining the lowest TCO by blending Amazon EC2 Spot, On-Demand, and Reserved Instance purchase models. In this session, learn how to use the power of Amazon EC2 with other AWS services and features such as Auto Scaling, Amazon ECS, Amazon EKS, Amazon EMR, and AWS Batch to programmatically optimize costs while maintaining high performance and availability- all without breaking a sweat.
 
-CMP203: Studio in the cloud: Content production on AWS   
+## CMP203: Studio in the cloud: Content production on AWS   
 
 > In this session, learn how AWS Thinkbox and our partners are helping studios work with the best talent to scale their VFX and CG pipelines and produce some of the most popular and award-winning content. We cover several in-depth post-production topics around real-world VFX studio pipelines, and we focus on virtual workstations and rendering workloads, combining Amazon EC2 and AWS Thinkbox Deadline for scalable, cost-effective computing. Learn how real customers working on Hollywood productions integrate their pipelines with AWS to realize the elasticity and scale provided by Amazon EC2 and how they intend to leverage AWS in the future.
 
-CMP204-R1: HPC on AWS: Innovating without infrastructure constraints   
+## CMP204-R1: HPC on AWS: Innovating without infrastructure constraints   
 
 > High-performance computing (HPC) has always been about solving the most complex problems. But for far too long, HPC applications and workloads have been constrained by infrastructure capacity. In this session, we highlight how virtually unlimited capacity and scale, accessed instantly on the cloud, can create a paradigm shift in the way researchers and engineers approach innovation. Learn how Formula 1 uses AWS to run complex computational fluid dynamics (CFD) simulations as part of its 2021 car design. And hear about the migration of Morgan Stanley's grid computing workloads to AWS.
 
-CMP207-R1: Manage, control, and optimize costs with native AWS products, ft. Intuit 
+## CMP207-R1: Manage, control, and optimize costs with native AWS products, ft. Intuit 
 
 > In this interactive chalk talk, learn about how AWS creates your cost and usage data and dive into how you can use native AWS products to manage your spend. We look at AWS Billing and Cost Management data, AWS Cost Explorer, AWS Cost and Usage reports, and AWS Budgets.
 
-CMP208-S: Achieving unparalleled elasticity on AWS at the lowest cost   
+## CMP208-S: Achieving unparalleled elasticity on AWS at the lowest cost   
 
 > Selecting the optimal cloud resources for your applications can be challenging since there are many ways that your cloud instances can be configured. Cloud engineers and architects are facing this challenge every day, trying to manually find the perfect match and avoid potential operational risks. In this session, join the VP of technical sales at Densify to learn how one line of code (e.g., Terraform) can unlock workload elasticity by precisely and automatically aligning your application demands with the right AWS resources, giving you better performance with reduced operational risk. This presentation is brought to you by Densify, an APN Partner.
 
-CMP210-R1: Dive deep on how to save with AWS Savings Plans   
+## CMP210-R1: Dive deep on how to save with AWS Savings Plans   
 
 Savings Plans is a new flexible pricing model that provides savings of up to 72 percent on Amazon EC2 and AWS Fargate usage. Savings Plans offers significant savings over On Demand, just like Reserved Instances, but automatically reduces your bills on compute usage across any AWS Region, even as your usage changes. Savings Plans provides you the flexibility to use the compute option that best suits your needs and continues to save money, all without having to perform exchanges or modifications. Attend this session to learn how you can easily save money on your compute spend. We walk you through a demo of Savings Plans recommendations in AWS Cost Explorer and different considerations for signing up for Savings Plans.
 
-CMP211-R2: Amazon EC2 foundations   
+## CMP211-R2: Amazon EC2 foundations   
 
 Amazon EC2 provides resizable compute capacity in the cloud and makes web-scale computing easier for customers. It offers a wide variety of compute instances and is well-suited to every imaginable use case, from static websites to supercomputing on-demand, all available via highly flexible pricing options. This session covers the latest EC2 capabilities, including recent instance families available in Amazon EC2, the differences among their hardware types and capabilities, and their optimal use cases.
 
-CMP212-R1: [NEW LAUNCH!] Intro to AWS Wavelength: Run applications with ultra-low latency requirements at the 5G network edge   
+## CMP212-R1: [NEW LAUNCH!] Intro to AWS Wavelength: Run applications with ultra-low latency requirements at the 5G network edge   
 
 In this session, come see how AWS Wavelength brings services such as Amazon EC2 and Amazon ECS to the edge of 5G mobile networks. This enables developers to build applications that reach 5G connected devices with single-digit millisecond latencies using familiar AWS APIs and development processes. This session provides an overview of typical application architectures that benefit from low-latency compute. We also dive deep into how Bethesda Softworks, a video game publisher best known for iconic franchises like The Elder Scrolls, Fallout, and DOOM, is using AWS Wavelength to greatly enhance the experience of streaming video games. You learn how to use AWS in the 5G network edge to build applications that require ultra low-latency such as game streaming, AR/VR, IoT, and analytics.
 
-CMP213-R: [NEW LAUNCH!] Introducing quantum computing with AWS   
+## CMP213-R: [NEW LAUNCH!] Introducing quantum computing with AWS   
 
 Quantum computing has the potential to solve computational problems that are beyond the reach of classical computers. Amazon Braket and the Amazon Quantum Solutions Lab help customers explore quantum computing, evaluate its potential, and develop expertise. Amazon Braket is a managed service that provides customers access to quantum computing resources and makes it easy to build, simulate, and test quantum computing applications. The Quantum Solutions Lab connects customers with quantum experts for education and collaboration. In this session, learn about the potential of quantum computing and how you can get started with the Amazon Braket service and the Quantum Solutions Lab.
 
-CMP214-R1: [NEW LAUNCH!] EC2 Image Builder: Building virtual machine images made easy   
+## CMP214-R1: [NEW LAUNCH!] EC2 Image Builder: Building virtual machine images made easy   
 
 In this session, learn about EC2 Image Builder, a new capability that makes it easier and faster to build and maintain secure images. Keeping server images up-to-date can be time-consuming, resource-intensive, and error-prone. Currently, customers either manually update and snapshot VMs or have teams that build automation scripts to maintain images. Learn how EC2 Image Builder simplifies the creation, patching, testing, distribution, and sharing of Linux or Windows Server images.
 
-CMP302-R1: AWS Outposts: Extend the AWS experience to on-premises environments   
+## CMP302-R1: AWS Outposts: Extend the AWS experience to on-premises environments   
 
 AWS Outposts extends AWS to your on-premises and connected edge environments to support applications with latency and local data processing requirements. Attend this session to learn more about how it works and about key customer use cases.
 
