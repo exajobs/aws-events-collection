@@ -1630,19 +1630,19 @@ DAT343-R1: Lessons from migrating SQL server databases to Amazon Aurora
 
 AWS Database Migration Service (AWS DMS) helps you migrate databases to AWS easily and securely, minimizing downtime to applications that rely on the database. AWS DMS can migrate your data to and from most widely used commercial and open-source databases and, along with AWS Schema Conversion Tool (AWS SCT), has helped multiple customers migrate off of their SQL Server databases into Amazon Aurora. In this session, learn about common pitfalls, issues, the biggest differences between the engines, migration best practices, and how some of our customers have completed these migrations.
 
-DAT344-R1: Deploying the CIA security triad model on Amazon RDS and Amazon Aurora 
+## DAT344-R1: Deploying the CIA security triad model on Amazon RDS and Amazon Aurora 
 
 Data is an enterprise's lifeblood, and as that data moves to the cloud, applying the CIA security model around confidentiality, integrity, and availability on the core data asset-relational databases-becomes critical. In this session, learn about security features available in Amazon Relational Database Service (Amazon RDS) and Amazon Aurora to build the CIA security triad principles. Delve deep into how native database security capabilities are applied to adhere to stringent governance and compliance models. We also cover integration with services like AWS Config, AWS Key Management Service (AWS KMS), AWS CloudTrail, and Amazon CloudWatch to implement security guardrails that control and monitor database usage.
 
-DAT345-R1: Assessing and categorizing your database migrations 
+## DAT345-R1: Assessing and categorizing your database migrations 
 
 Estimating the level of effort and resources required for database migrations and building a business case for them can be challenging. AWS Workload Qualification Framework (AWS WQF), part of AWS Database Migration Service (AWS DMS), uses AWS Schema Conversion Tool (AWS SCT) to collect information to model existing Oracle and Microsoft SQL Server databases and provides instructions to convert them to Amazon Aurora. AWS WQF can conduct a fleet-wide analysis of your database portfolio and categorize migrations based on complexity and workload to determine migration effort. In this session, learn about different migration workload categories and get an overview and demo of AWS WQF.
 
-DAT346: Planning proof of concept with Amazon Aurora 
+## DAT346: Planning proof of concept with Amazon Aurora 
 
 For relational-database workloads, customers are increasingly adopting Amazon Aurora to take advantage of Aurora's performance, high availability, durability, manageability, and innovations. The proof of concept (PoC) is the main process and decision-making step to evaluate and adopt Aurora. In this session, learn about methodology and framework about planning PoCs with Aurora.
 
-DAT347-R3: Neptune best practices: How to optimize your graph queries 
+## DAT347-R3: Neptune best practices: How to optimize your graph queries 
 
 In this builders session, we cover the fundamentals of performance tuning for OLTP query workloads against Amazon Neptune. Using AWS CloudFormation, you can set up a Neptune and Jupyter notebook stack, enabling you to run small read-and-write query workloads against Neptune in you own AWS account. We will then tune the scripts to maximize the throughput of the sample workloads through client-side parameter tuning and server-side improvements, such as failover to larger instance types and provisioning additional read replicas. Throughout the session, we discuss how to use Amazon CloudWatch to understand system behavior and identify optimizations. Please bring your laptop.
 
