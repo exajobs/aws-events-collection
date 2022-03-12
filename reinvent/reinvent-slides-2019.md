@@ -2117,39 +2117,39 @@ ENT309-R3: The best replatforming strategies for legacy workloads
 
 As customers continue to rapidly migrate to AWS, IT teams must reduce technical debt to optimize costs and improve operational efficiencies. In this session, learn about AWS native services that can be leveraged as migration targets-such as Amazon Elastic Block Store (Amazon EBS), Amazon Route 53, AWS Certificate Manager (ACM), Amazon MQ, and others-to achieve these goals while you plan and prepare your applications for migration.
 
-ENT310-R3: Architecting your data lake with SAP on AWS 
+## ENT310-R3: Architecting your data lake with SAP on AWS 
 
-Migrating SAP to AWS opens up opportunities for data and analytics transformation with AWS data lake solutions. But it can be difficult to manage the different frameworks and technologies to extract data across SAP HANA, SAP ERP, and SAP BW solutions. In this builders session, you can work with an SAP on AWS expert to understand best practices for integrating SAP data with AWS data lake solutions. You will take home prescriptive guidance, reference architectures, and code samples for your specific use cases using services like AWS Glue and AWS Lambda. Please bring your laptop.
+> Migrating SAP to AWS opens up opportunities for data and analytics transformation with AWS data lake solutions. But it can be difficult to manage the different frameworks and technologies to extract data across SAP HANA, SAP ERP, and SAP BW solutions. In this builders session, you can work with an SAP on AWS expert to understand best practices for integrating SAP data with AWS data lake solutions. You will take home prescriptive guidance, reference architectures, and code samples for your specific use cases using services like AWS Glue and AWS Lambda. Please bring your laptop.
 
-ENT311-R2: Accelerate migration planning using automated processes 
+## ENT311-R2: Accelerate migration planning using automated processes 
 
-In this session, we discuss how to accelerate your cloud migration journey with the automation of portfolio assessment and migration planning. We review AWS tools available to assess and plan your cloud migration. We analyze data from a sample portfolio of enterprise IT applications to determine your migration strategy, evaluate costs, and build a migration plan. We also discuss automation options to migrate these applications to AWS. Bring your laptop to play along with the demos.
+> In this session, we discuss how to accelerate your cloud migration journey with the automation of portfolio assessment and migration planning. We review AWS tools available to assess and plan your cloud migration. We analyze data from a sample portfolio of enterprise IT applications to determine your migration strategy, evaluate costs, and build a migration plan. We also discuss automation options to migrate these applications to AWS. Bring your laptop to play along with the demos.
 
-ENT312-R2: Automating performance optimization and risk management 
+## ENT312-R2: Automating performance optimization and risk management 
 
-To make it easy for you to optimize your environment and manage risks associated with downtime, AWS Support offers tools such as AWS Personal Health Dashboard, AWS Trusted Advisor, and Amazon CloudWatch. In this hands-session, learn how these tools give you the ability to monitor your environment, get proactive alerts on any issues, and build automation for issue resolution. We dive into how you can optimize your AWS environment and reduce risk by implementing automation of AWS best practice recommendations. We also discuss how to address any specific challenges you currently face. Please bring your laptop.
+> To make it easy for you to optimize your environment and manage risks associated with downtime, AWS Support offers tools such as AWS Personal Health Dashboard, AWS Trusted Advisor, and Amazon CloudWatch. In this hands-session, learn how these tools give you the ability to monitor your environment, get proactive alerts on any issues, and build automation for issue resolution. We dive into how you can optimize your AWS environment and reduce risk by implementing automation of AWS best practice recommendations. We also discuss how to address any specific challenges you currently face. Please bring your laptop.
 
-ENT313-R2: Migrate to AWS using CloudEndure and AWS Migration Hub 
+## ENT313-R2: Migrate to AWS using CloudEndure and AWS Migration Hub 
 
-CloudEndure's highly automated replication, machine conversion, and orchestration capabilities to migrate a live application server to AWS with nondisruptive testing and short cutover windows helps expedite your migrations. Join this hands-on session to experience how to migrate Microsoft SQL Server to AWS from any source platform (physical, virtual, or another cloud). We also discuss how to leverage AWS Migration Hub to track the progress of application migrations across multiple AWS and partner solutions. Please bring your laptop and migrate with us.
+> CloudEndure's highly automated replication, machine conversion, and orchestration capabilities to migrate a live application server to AWS with nondisruptive testing and short cutover windows helps expedite your migrations. Join this hands-on session to experience how to migrate Microsoft SQL Server to AWS from any source platform (physical, virtual, or another cloud). We also discuss how to leverage AWS Migration Hub to track the progress of application migrations across multiple AWS and partner solutions. Please bring your laptop and migrate with us.
 
-ENT314: How GE Power empowered its departments to manage & stream their desktop apps 
+## ENT314: How GE Power empowered its departments to manage & stream their desktop apps 
 
 Learn how your enterprise application owners can onboard, manage, and stream desktop applications to their users without managing complex virtual desktop infrastructure (VDI).
 
-ENT315: Improve message deliverability to ensure customer reach 
+## ENT315: Improve message deliverability to ensure customer reach 
 
-Do you have outbound and inbound email requirements? Is email a critical workload for your enterprise? Several factors determine whether your email messages reach your recipients. In this chalk talk, learn how to safely migrate your outbound and inbound email volumes over to AWS and Amazon Simple Email Service (Amazon SES). Learn how to onboard, safely ramp up, and ensure that business continues without disruption. Also learn best practices for delivering email messages into your customers' inbox rather than their spam folder, and receive guidance on scaling deliverability and improving deliverability of certain campaigns.
+> Do you have outbound and inbound email requirements? Is email a critical workload for your enterprise? Several factors determine whether your email messages reach your recipients. In this chalk talk, learn how to safely migrate your outbound and inbound email volumes over to AWS and Amazon Simple Email Service (Amazon SES). Learn how to onboard, safely ramp up, and ensure that business continues without disruption. Also learn best practices for delivering email messages into your customers' inbox rather than their spam folder, and receive guidance on scaling deliverability and improving deliverability of certain campaigns.
 
-ENT316-R1: Well-architected WorkSpaces: Enterprise deployment at scale 
+## ENT316-R1: Well-architected WorkSpaces: Enterprise deployment at scale 
 
-In this chalk talk, learn best practices for successfully implementing and managing your Amazon WorkSpaces deployment at scale in your enterprise. We discuss key topics, including¬†In this chalk talk, learn best practices for successfully implementing and managing your Amazon WorkSpaces deployment at scale in your enterprise. We discuss key topics, including account structure and governance, VPC design and setup, directory services configuration, deployment and operations of Amazon WorkSpaces, image and patch management, and application deployment. We also cover best practices for automating the process of migrating a large number of licenses, how to create custom images, and ways to manage license compliance.
+> In this chalk talk, learn best practices for successfully implementing and managing your Amazon WorkSpaces deployment at scale in your enterprise. We discuss key topics, including¬†In this chalk talk, learn best practices for successfully implementing and managing your Amazon WorkSpaces deployment at scale in your enterprise. We discuss key topics, including account structure and governance, VPC design and setup, directory services configuration, deployment and operations of Amazon WorkSpaces, image and patch management, and application deployment. We also cover best practices for automating the process of migrating a large number of licenses, how to create custom images, and ways to manage license compliance.
 
-ENT317: Inside story of Phillips 66 SAP S/4HANA business transformation   
+## ENT317: Inside story of Phillips 66 SAP S/4HANA business transformation   
 
-When Phillips 66 embarked on a journey to transform its hydrocarbon value chain with SAP's new S/4HANA platform, it selected AWS to host its project and production landscapes. It successfully launched in October 2019, and Phillips 66 is now sharing how AWS accelerated its innovation, decreased its costs, and reduced the risk of a two-year S/4HANA business transformation. Leave this session with an understanding of how to extend your traditional SAP systems to leverage native, low-cost, and massively scalable AWS services to drive value for years.
+> When Phillips 66 embarked on a journey to transform its hydrocarbon value chain with SAP's new S/4HANA platform, it selected AWS to host its project and production landscapes. It successfully launched in October 2019, and Phillips 66 is now sharing how AWS accelerated its innovation, decreased its costs, and reduced the risk of a two-year S/4HANA business transformation. Leave this session with an understanding of how to extend your traditional SAP systems to leverage native, low-cost, and massively scalable AWS services to drive value for years.
 
-ENT318-R1: Building hybrid cloud architectures with VMware and AWS   
+## ENT318-R1: Building hybrid cloud architectures with VMware and AWS   
 
 > There are more options than ever when building hybrid cloud architectures as well as hybrid cloud applications. Learn how AWS integrations with services such as VMware Cloud on AWS can help you take a lower-risk and iterative transformation approach to executing on your existing applications and data. In this session, we dive into best practices for migrating as well as augmenting your VMware-based workloads with native AWS services such as Amazon S3, Amazon RDS, Elastic Load Balancing, and more.
 
