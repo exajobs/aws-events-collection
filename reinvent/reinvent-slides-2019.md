@@ -2157,23 +2157,23 @@ ENT319-R1: Migration to AWS: A foundation for enterprise transformation
 
 > To realize the maximum benefits of moving to AWS, you need to build a solid enterprise foundation and accelerate the migration journey. In this session, learn techniques such as: planning and implementing a landing zone, executing migrations with a migration factory, and iterating toward modern application architectures.
 
-ENT320-R1: Cloud operations engineer: A day in the life   
+## ENT320-R1: Cloud operations engineer: A day in the life   
 
 > Are you an expert data center operations engineer looking to sharpen your AWS skills? Are you an IT operations manager looking to speed up your team's cloud learning curve for operating in a hybrid cloud environment? Are you a DevOps engineer looking to grow your operations experience? This session follows two AWS operations experts throughout their day as they solve real problems in complex, hybrid enterprise environments that include the AWS Cloud. Expect to learn actionable hacks and tricks that you would not learn in standard training classes. Receive practical advice for solving common and uncommon issues, and learn the top things our experts wish they knew when they were getting started with AWS.
 
-ENT321-S: Global financial services customer optimizes & migrates workloads to AWS   
+## ENT321-S: Global financial services customer optimizes & migrates workloads to AWS   
 
 > Today, development is cloud-first. Many companies are migrating to the cloud and replacing workloads with cloud-based alternatives. But how do you bring the cloud to the final frontier-mission-critical applications, such as SAP, Oracle, or custom options? In this technical deep dive, learn how a financial services customer uses easy-to-use AWS CloudFormation Templates and Amazon Machine Image deployments with Veritas InfoScale for running heavily used applications on AWS. Veritas experts provide guidance on decoupling applications from the underlying infrastructure, enabling seamless migration to AWS. Are you ready to go where no administrator has gone before? If so, join this session. This presentation is brought to you by Veritas Technologies, an APN Partner.
 
-ENT322-S: Help protect your cloud journey with Druva on AWS 
+## ENT322-S: Help protect your cloud journey with Druva on AWS 
 
 > For most enterprises, the top two catalysts driving innovation and transformation are ever-increasing data volumes and migration to the cloud as a scalable and cost-effective platform. The critical underpinnings of this journey are data protection across all on-premises and cloud workloads, workload mobility, data governance, analytics, and ransomware. In this technical session, solutions architects from Druva discuss how customers can make use of powerful solutions from Druva and AWS to protect and manage data, applications, and workloads across the cloud and on-premises environments. Hear about unified protection of hybrid cloud data and workloads, disaster recovery, long-term data retention and data governance, and ransomware. This presentation is brought to you by Druva, an APN Partner.
 
-ENT323-S: Ensuring data protection readiness across hybrid environments 
+## ENT323-S: Ensuring data protection readiness across hybrid environments 
 
 > Achieving SLAs across on-premises, cloud, and hybrid environments can be difficult, especially when using standalone tools for backup and disaster recovery. It's highly inefficient and makes it difficult to meet recovery SLAs. The shift to the cloud and software-defined storage can present new challenges for workload portability and data protection. In this session, learn how Commvault support for AWS provides a comprehensive data management platform for moving, managing, and using data across files, applications, databases, hypervisors, and the cloud. Learn how a single platform provides you access to extensive capabilities for data protection, backup, recovery, management, and e-discovery, all designed to run seamlessly on the AWS Cloud. This session is brought to you by Commvault, an APN Partner.
 
-ENT401-R1: A life-cycle approach to governance, compliance, and audit 
+## ENT401-R1: A life-cycle approach to governance, compliance, and audit 
 
 > Ongoing implementation of regulations by governments across a variety of industries requires organizations to adopt enterprise solutions that fulfill needs relating to compliance, audit, and overall risk management. Join us to learn more about how Amazon CloudWatch, AWS CloudFormation, AWS Config, and AWS CloudTrail can help with enhanced controls, beginning with resource provisioning through to monitoring, remediation, event audit, and issue investigation.
 
