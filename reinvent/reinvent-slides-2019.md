@@ -2417,31 +2417,31 @@ FSI308: Detect market data anomalies using Amazon SageMaker
 
 To meet the standards of the Risk Management Framework, financial institutions build tools to seek anomalies in trade datasets with the intention of generating actionable insights. In this session, we walk you through a process of using Amazon SageMaker to build an anomaly detection service using trade data sourced from the Deutsche B√∂rse public dataset, which consists of trade data aggregated from the Eurex and Xetra trading systems. We cover the steps involved in creating an Amazon SageMaker notebook instance, preparing the data, training and deploying the model, and, finally evaluating the performance of the model.
 
-FSI309: Relational databases: Performance, scale, and availability
+## FSI309: Relational databases: Performance, scale, and availability
 
 Relational databases have long been the heart and soul of Financial Services. Despite their popularity, operating these databases at scale to meet the strict performance and availability requirements of the industry can be difficult. In this session, we look at applying these demanding principals to Amazon Aurora, a MySQL and PostgreSQL-compatible relational database built for the cloud. Learn how to integrate Amazon Aurora into your existing applications or design from the very beginning to achieve new levels of performance, availability, and scale.
 
-FSI310-R1: The journey to least privilege: IAM for Financial Services
+## FSI310-R1: The journey to least privilege: IAM for Financial Services
 
 Enhancements to AWS Identity and Access Management and related services have made it safer and easier than ever to grant developers direct access to AWS. In this session, we share a new approach to automating identity and access management in AWS based on recent engagements with global Financial Services customers. Then, we dive deep to answer your questions about how CI/CD tools and techniques can be used to enforce separation of duties, curtail human review of policy code, and delegate access to IAM while reducing the risk of unintended privilege escalation.
 
-FSI402: Create a dynamic rating engine using serverless technology
+## FSI402: Create a dynamic rating engine using serverless technology
 
 To meet customer expectations and respond to changing market conditions, financial institutions need the ability to rapidly deploy new rating formulas. In the past, this was very difficult to achieve using in-house software, which could require weeks of working with IT departments. This session shows you how to build a rating solution using serverless technology that makes rapid development, deployment, and modification of rating models possible. The session also delves into a CI/CD approach that allows developers to develop and deploy their lambda and step functions from their local workstations. Please bring your laptop.
 
-FSI403: How to build a Financial Services HPC cluster on AWS
+## FSI403: How to build a Financial Services HPC cluster on AWS
 
 Have you ever needed to build a 10,000-core HPC cluster? And have you wondered what it would take to scale that cluster to 50,000 cores? This chalk talk explores different approaches to scaling a cost-efficient HPC cluster on AWS using Amazon EC2 Spot Instances. We consider HPC clusters used in risk measurements, actuarial calculations, high-frequency trading, and investment research modeling that use EC2 Spot Instances and Amazon FSx for Lustre as well as cost-management techniques for elastic clusters.
 
-FSI404: Enable secure ML deployments in Financial Services
+## FSI404: Enable secure ML deployments in Financial Services
 
 This workshop dives deep into the security best practices for running Amazon SageMaker in a regulated environment, including identity and access management, network configuration, infrastructure protection, data protection, and logging and audit. In this workshop, use AWS Service Catalog to deploy an Amazon SageMaker notebook in a private subnet with no internet connectivity, encrypt all data at rest with AWS KMS customer master keys (CMKs), implement a least-privileged permission model, and enable logging and auditing with Amazon CloudWatch and AWS CloudTrail. Participants also deploy detective controls using an Amazon CloudWatch Events Rule and AWS Lambda to ensure continuous compliance.
 
-FSI405: Deploying a production web platform with Amazon EKS
+## FSI405: Deploying a production web platform with Amazon EKS
 
 A production web platform provides a self-service, secure, and automated way to route HTTP/HTTPS traffic. The Ingress API object in Kubernetes provides a way to expose HTTP and HTTPS routes from outside the cluster to services within the cluster. In this builders session, we explore external DNS patterns for routing traffic to our Amazon EKS cluster, deploy an Ingress Controller to automate the configuration of the Application Load Balancer for our web applications, and use Ingress configurations to route web traffic by URI path or HTTP header. Finally, we review various integrations to secure our EKS-hosted applications with AWS Certificate Manager, AWS WAF, and Amazon Cognito for authentication. At the end of this session, attendees will be able deploy a production-ready web platform. Please bring your laptop.
 
-FSI406: Real-time stream processing in Financial Services
+## FSI406: Real-time stream processing in Financial Services
 
 Data streams and stream processing have many applications in Financial Services. In this session, we build a serverless trade monitoring application that utilizes real-time stream processing with additional reporting from historical trade information. We stream trade capture reports via Amazon Kinesis Data Streams and process them in real time with Amazon Kinesis Data Analytics via a number of common algorithms. Raw and processed data from the stream will be stored in Amazon S3 for long-term retention and used for historical reporting with Amazon Athena. Please bring your laptop.
 
