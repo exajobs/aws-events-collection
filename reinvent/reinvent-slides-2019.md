@@ -1944,7 +1944,7 @@ DOP409-R1: Faster Cryptography in Java with Amazon Corretto Crypto Provider (ACC
 In this session, learn how to integrate Amazon Corretto Crypto Provider (ACCP) into a sample Java application, which will significantly speed up the common cryptographic algorithms that are being performed. Then use Amazon CloudWatch to measure how ACCP improves both the latency and the throughput of the sample application.
 
 
-## Enterprise
+# Enterprise
 
 ## ENT201-R3: Top 10 AWS Cost Explorer reports & AWS Budgets alerts 
 
@@ -2368,4 +2368,87 @@ Learn how enterprises like Facebook deploy and manage Amazon WorkSpaces at scale
 EUC405: Amazon WorkSpaces Streaming Protocol: Enable a consistent user experience
 
 In this session, join Stephen Vilke, GM of AWS end user computing services, as he dives into why and how his team built a cloud-native streaming protocol. Learn how Amazon WorkSpaces Streaming Protocol enables a consistent user experience across the globe when accessing your WorkSpaces on unstable networks.
+
+
+# Financial Services
+
+FSI201-L: Leadership session: Running critical FSI applications on AWS
+
+As financial services institutions strive to grow their businesses and better serve customers by building secure, flexible, and scalable solutions on the cloud, they have gained the confidence to run their most business-critical applications on AWS. In this session, Frank Fallon, VP of Worldwide Financial Services at AWS, discusses the industry's growing reliance on the public cloud and the strengthening of ties between business and IT. Frank is joined by senior executives of leading financial institutions who share why and how they moved key applications to AWS-and the benefits they have realized as a result.
+
+FSI202: AXA: Scaling adoption with a global landing zone
+
+Like many global financial institutions, AXA faces the challenge of globally scaling its cloud adoption. The company needed to deploy a landing zone across 80+ entities operating in 60+ countries. In this session, learn how AXA took a unique and agile approach that enables local teams to autonomously test, validate, and propose changes to landing zone templates while centrally monitoring adherence to detective and preventative controls. We explore how AXA accelerated the secure migration of hundreds of applications to AWS by embedding its landing zone within an organizational transformation program that includes robust cloud onboarding and change management processes.
+
+FSI203: NAB: Transforming customer experience with data and machine learning
+
+National Australia Bank (NAB) has more than 160 years of customer and banking data at its disposal. But the bank faced the challenge of harnessing this asset to enable its contact-center team to provide rapid and engaging experiences to its customers while maintaining their privacy and security. Come learn how NAB lowered operational costs and transformed customer experience by transitioning hundreds of retail, corporate, and institutional contact-center professionals to Amazon Connect. This session also shares NAB's approach to building a centralized enterprise data lake and applying machine learning to further engage customers and drive the bank's multichannel strategy.
+
+FSI204: JPMorgan Chase: Moving workloads at speed and scale
+
+In this session, JPMorgan Chase, one of the leading global financial institutions in the world, talks about unlocking adoption across its enterprise of 50,000 developers and its application estate. Learn how JPMorgan Chase embraced"cloud parties," shifted to a focus on patterns from a focus on service enablement, and leveraged CI/CD tools to move 50+ workloads to production in three weeks. We discuss how JPMorgan Chase achieved this speed and scale across several lines of business in collaboration with engineering teams across disciplines, while maintaining the controls required to operate within a highly regulated environment.
+
+FSI301: Practical patterns for meeting IT compliance requirements
+
+AWS offers a wide variety of services and features that help companies in regulated industries such as Financial Services meet their IT governance requirements and operate in an agile manner. This chalk talk provides a guided tour of emerging patterns and solutions to address common IT governance concerns, such as zero-trust architecture, immutable production, and controlled change management. Our tour features a variety of services, including AWS Single Sign-On, AWS Organizations, and AWS Control Tower, among others.
+
+FSI302-R1: Migrating monolithic applications with the strangler pattern
+
+Lifting and shifting an enterprise-scale application will give some of the benefits of the cloud, but elasticity and agility may still be limited. Conversely, rewriting that application to be cloud-native can be costly in terms of both time and money and could cause you to miss a market opportunity. This session explores the challenges financial institutions in particular face when migrating their existing portfolio of applications to the cloud. We walk through the steps financial institutions can take to migrate applications in such a way that they realize cloud-native architectural benefits incrementally using the strangler pattern.
+
+FSI304: Nasdaq: From data warehouse to data lake
+
+Earlier this year, Nasdaq embarked on a strategy to migrate its growing 68-node Amazon Redshift data warehouse to a more modern data lake architecture with the goal of better managing expenses and taking advantage of additional analytical services. In this session, we share the path Nasdaq took, what worked well, what challenges we encountered, and how and why we had to rewrite queries and rethink our initial strategy. In completing this migration, Nasdaq reduced the cost of its existing data warehouse environment while providing a more cost-effective, scalable, and elastic platform to its business.
+
+FSI305: Barclays: Accelerating research data science using AWS
+
+Barclays has created a research data platform using AWS services to analyze and extract insights from third-party datasets. The solution provides data scientists with the ability to securely import large amounts of data and provision resources to quickly execute public and privately developed Python models running on Spark clusters. Attendees learn how Barclays overcame the challenges it faced on-premises of long lead times securing infrastructure, on-demand elastic job processing, and a lack of available capabilities for automation and tooling. The solution directly benefits the business by providing a new capability to extract market insights from datasets at a greater velocity than previously possible.
+
+FSI306: HSBC: Meeting requirements for open banking with serverless
+
+To improve competition, regulators in regions including the UK, Mexico, Hong Kong, Singapore, and Australia have issued open banking requirements. HSBC has addressed the regulation's requirements to share customer data with third-party service providers by building a serverless architecture on AWS. This session explores how HSBC embraced APIs and built an open banking solution using AWS Lambda, Amazon API Gateway, and other AWS Managed Services, including Amazon RDS. Learn how HSBC is using AWS globally to meet open banking requirements and handle the thousands of API calls the bank receives every day.
+
+FSI307: Privacy by design in Financial Services
+
+This chalk talk helps customers apply due diligence and discovery efforts around data privacy regulations and compliance frameworks by leading the discussion through a worked case study. We use the same discovery, assessment, and implementation phases that AWS Professional Services uses with customers, focusing on specific AWS services as well as technology-agnostic tooling that customers can use today to build a robust approach to their privacy journey.
+
+FSI308: Detect market data anomalies using Amazon SageMaker
+
+To meet the standards of the Risk Management Framework, financial institutions build tools to seek anomalies in trade datasets with the intention of generating actionable insights. In this session, we walk you through a process of using Amazon SageMaker to build an anomaly detection service using trade data sourced from the Deutsche B√∂rse public dataset, which consists of trade data aggregated from the Eurex and Xetra trading systems. We cover the steps involved in creating an Amazon SageMaker notebook instance, preparing the data, training and deploying the model, and, finally evaluating the performance of the model.
+
+FSI309: Relational databases: Performance, scale, and availability
+
+Relational databases have long been the heart and soul of Financial Services. Despite their popularity, operating these databases at scale to meet the strict performance and availability requirements of the industry can be difficult. In this session, we look at applying these demanding principals to Amazon Aurora, a MySQL and PostgreSQL-compatible relational database built for the cloud. Learn how to integrate Amazon Aurora into your existing applications or design from the very beginning to achieve new levels of performance, availability, and scale.
+
+FSI310-R1: The journey to least privilege: IAM for Financial Services
+
+Enhancements to AWS Identity and Access Management and related services have made it safer and easier than ever to grant developers direct access to AWS. In this session, we share a new approach to automating identity and access management in AWS based on recent engagements with global Financial Services customers. Then, we dive deep to answer your questions about how CI/CD tools and techniques can be used to enforce separation of duties, curtail human review of policy code, and delegate access to IAM while reducing the risk of unintended privilege escalation.
+
+FSI402: Create a dynamic rating engine using serverless technology
+
+To meet customer expectations and respond to changing market conditions, financial institutions need the ability to rapidly deploy new rating formulas. In the past, this was very difficult to achieve using in-house software, which could require weeks of working with IT departments. This session shows you how to build a rating solution using serverless technology that makes rapid development, deployment, and modification of rating models possible. The session also delves into a CI/CD approach that allows developers to develop and deploy their lambda and step functions from their local workstations. Please bring your laptop.
+
+FSI403: How to build a Financial Services HPC cluster on AWS
+
+Have you ever needed to build a 10,000-core HPC cluster? And have you wondered what it would take to scale that cluster to 50,000 cores? This chalk talk explores different approaches to scaling a cost-efficient HPC cluster on AWS using Amazon EC2 Spot Instances. We consider HPC clusters used in risk measurements, actuarial calculations, high-frequency trading, and investment research modeling that use EC2 Spot Instances and Amazon FSx for Lustre as well as cost-management techniques for elastic clusters.
+
+FSI404: Enable secure ML deployments in Financial Services
+
+This workshop dives deep into the security best practices for running Amazon SageMaker in a regulated environment, including identity and access management, network configuration, infrastructure protection, data protection, and logging and audit. In this workshop, use AWS Service Catalog to deploy an Amazon SageMaker notebook in a private subnet with no internet connectivity, encrypt all data at rest with AWS KMS customer master keys (CMKs), implement a least-privileged permission model, and enable logging and auditing with Amazon CloudWatch and AWS CloudTrail. Participants also deploy detective controls using an Amazon CloudWatch Events Rule and AWS Lambda to ensure continuous compliance.
+
+FSI405: Deploying a production web platform with Amazon EKS
+
+A production web platform provides a self-service, secure, and automated way to route HTTP/HTTPS traffic. The Ingress API object in Kubernetes provides a way to expose HTTP and HTTPS routes from outside the cluster to services within the cluster. In this builders session, we explore external DNS patterns for routing traffic to our Amazon EKS cluster, deploy an Ingress Controller to automate the configuration of the Application Load Balancer for our web applications, and use Ingress configurations to route web traffic by URI path or HTTP header. Finally, we review various integrations to secure our EKS-hosted applications with AWS Certificate Manager, AWS WAF, and Amazon Cognito for authentication. At the end of this session, attendees will be able deploy a production-ready web platform. Please bring your laptop.
+
+FSI406: Real-time stream processing in Financial Services
+
+Data streams and stream processing have many applications in Financial Services. In this session, we build a serverless trade monitoring application that utilizes real-time stream processing with additional reporting from historical trade information. We stream trade capture reports via Amazon Kinesis Data Streams and process them in real time with Amazon Kinesis Data Analytics via a number of common algorithms. Raw and processed data from the stream will be stored in Amazon S3 for long-term retention and used for historical reporting with Amazon Athena. Please bring your laptop.
+
+## FSI407: Implement a smart contract with Amazon Managed Blockchain
+
+> Smart contracts have the potential to solve the inefficiencies inherent to traditional contracts. In this session, we build Hyperledger Fabric networks using Amazon Managed Blockchain, form a trusted consortium with multiple parties, and deploy a smart contract for a settlement use case. While obtaining an access-controlled Hyperledger consortium, we go through Hyperledger Fabric constructs, smart contract application interfaces, real-time transaction analytics, and connections to existing business systems, such as data analytics and reporting services. Please bring your laptop.
+
+
+
+
 
