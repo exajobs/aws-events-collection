@@ -2183,7 +2183,7 @@ ENT319-R1: Migration to AWS: A foundation for enterprise transformation
 > In this session, learn about various multi-account design patterns to jump-start your cloud adoption journey. We cover AWS Landing Zone, AWS Control Tower, and AWS Organizations, and we help you determine the optimal path for your enterprise.
 
 
-## End User Computing & Business Apps
+# End User Computing & Business Apps
 
 ## EUC201: Multichannel customer engagement using Amazon Pinpoint
 
