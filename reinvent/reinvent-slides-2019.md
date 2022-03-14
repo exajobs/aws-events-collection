@@ -2182,11 +2182,11 @@ ENT319-R1: Migration to AWS: A foundation for enterprise transformation
 > In this session, learn about various multi-account design patterns to jump-start your cloud adoption journey. We cover AWS Landing Zone, AWS Control Tower, and AWS Organizations, and we help you determine the optimal path for your enterprise.
 
 
-##
+## End User Computing & Business Apps
 
-EUC201: Multichannel customer engagement using Amazon Pinpoint
+## EUC201: Multichannel customer engagement using Amazon Pinpoint
 
-Engage with your customers by using Amazon Pinpoint to send email, SMS, push, and voice messages. Walk into this workshop with just your laptop and leave with an Amazon Pinpoint project that you can use to engage with the right customers at the right time through the right channels.
+> Engage with your customers by using Amazon Pinpoint to send email, SMS, push, and voice messages. Walk into this workshop with just your laptop and leave with an Amazon Pinpoint project that you can use to engage with the right customers at the right time through the right channels.
 
 EUC202-R1: Amazon Connect: Build a unified voice and chat contact center experience
 
