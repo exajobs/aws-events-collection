@@ -17,6 +17,7 @@
 - [DevOps](#devops)
 - [Enterprise](#enterprise)
 - [End User Computing & Business Apps](#end-user-computing--business-apps)
+- [Financial Services](#financial-services)
 
 
 # Artificial Intelligence & Machine Learning
