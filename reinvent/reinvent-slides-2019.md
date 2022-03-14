@@ -1412,9 +1412,9 @@ CON411-R1: Advanced network resource management on Amazon EKS
 
 Different Kubernetes users have different requirements for their cluster network setup. They might want high pod density, or no overlay networking, or separate security groups, or separate network interface for each pod. Having a centralized network resource provider instead of a per-node IPAM daemon enables network assets available as a schedulable Kubernetes resource. This makes it possible to simplify the management of networking resources and offer further customizable networking solutions. In this session, we discuss how the Amazon Elastic Kubernetes Service (Amazon EKS) team has approached meeting these customer needs, and share the solution to manage network resources centrally.
 
-CON412-R1: Performance-tuning tips and tricks for Apache Spark on Kubernetes 
+## CON412-R1: Performance-tuning tips and tricks for Apache Spark on Kubernetes 
 
-Apache Spark is a popular execution framework for running machine-learning workloads. Since the beta release of spark-operator in early 2019, more users are determined to move their big data analytics workloads to Kubernetes. The challenge is that users still need guidance to utilize Kubernetes to achieve the best performance. In this session, we run Spark benchmarks on Kubernetes and provide insights into performance bottlenecks through use of compute-intensive workloads. We use benchmark tool spark-sql-perf from databricks and spark-bench from IBM CODAIT in performance evaluation. We share performance-tuning tips and tricks on scheduling, storage, and networking.
+> Apache Spark is a popular execution framework for running machine-learning workloads. Since the beta release of spark-operator in early 2019, more users are determined to move their big data analytics workloads to Kubernetes. The challenge is that users still need guidance to utilize Kubernetes to achieve the best performance. In this session, we run Spark benchmarks on Kubernetes and provide insights into performance bottlenecks through use of compute-intensive workloads. We use benchmark tool spark-sql-perf from databricks and spark-bench from IBM CODAIT in performance evaluation. We share performance-tuning tips and tricks on scheduling, storage, and networking.
 
 CON413-R1: Move your machine learning workloads to Amazon EKS 
 
