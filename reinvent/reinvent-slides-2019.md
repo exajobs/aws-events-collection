@@ -2001,47 +2001,47 @@ The acceleration of technology change is disrupting all industries and provides 
 
 Learn best practices to accelerate cloud adoption by upskilling and closing the cloud skills gap. Explore how to get started with a learning-needs analysis to assess your team's current skills, develop tailored training programs, engage employees, and develop and validate new cloud skills.
 
-ENT218-R1: Executing a large-scale migration to AWS 
+## ENT218-R1: Executing a large-scale migration to AWS 
 
 AWS has partnered with hundreds of customers in their large-scale migration to the AWS Cloud. In this session, you will learn best practices from enterprises at different stages of their have faced during large-scale migrations and how they overcame them. You will also learn the patterns that make migrations successful and the mechanisms we created to help our customers migrate and transform faster.
 
-ENT219-R2: Iterating toward a cloud-enabled IT organization 
+## ENT219-R2: Iterating toward a cloud-enabled IT organization 
 
 Transforming your organization and its people to unlock the maximum value of running your business on AWS can be an overwhelming task. Platform teams, operations teams, and development teams have both technical and nontechnical challenges to consider. In this chalk talk, learn the Amazonian way of working, organizing, and enabling your cloud foundation team. You also learn how to organize your teams into a small number of two-pizza application teams. You can then iteratively scale the concepts used to build these initial teams to build a fully cloud-enabled IT organization.
 
-ENT220-R1: VMware Cloud on AWS for VDI Workloads 
+## ENT220-R1: VMware Cloud on AWS for VDI Workloads 
 
 ¬†VDI Workloads are an ideal candidate for VMware Cloud on AWS for many reasons; including the ability to have a high density of desktops to hosts as well as access to native AWS services. Learn how you can deploy your entire VDI environment or extend your existing on-premises VDI environment into VMware Cloud on AWS. We will dive into the different use cases, supported compute instances, along with how to accelerate innovation with the latest capabilities of VMware products and integration of native AWS services.
 
-ENT221-R2: How to optimize TCO by bringing Microsoft licenses to AWS 
+## ENT221-R2: How to optimize TCO by bringing Microsoft licenses to AWS 
 
 In this session, we cover practical steps for cost-optimizing your Microsoft workloads on AWS from both licensing and infrastructure perspectives. We discuss ways to diversify and optimize your current licensing investments, how to think strategically about licensing in the cloud, and how to bring your own licenses to AWS. We also cover a variety of additional cost-optimization features and approaches, and we explain how these can be applied to Microsoft-specific workloads. Please bring your laptop.
 
-ENT224-R1: Amazon culture of innovation   
+## ENT224-R1: Amazon culture of innovation   
 
-Organizations of all sizes often ask how they can innovate like Amazon. Since its humble beginnings as the 'world's largest bookstore,' Amazon has not only innovated across ecommerce and other adjacent segments, it has also introduced entirely new and unrelated businesses to the organization. Over the years, Amazon has gotten good at taking problems that are hard to solve and making them easy for customers. In this session, we discuss how Amazon views and leverages technology as a utility to increase the pace of innovation across the organization.
+> Organizations of all sizes often ask how they can innovate like Amazon. Since its humble beginnings as the 'world's largest bookstore,' Amazon has not only innovated across ecommerce and other adjacent segments, it has also introduced entirely new and unrelated businesses to the organization. Over the years, Amazon has gotten good at taking problems that are hard to solve and making them easy for customers. In this session, we discuss how Amazon views and leverages technology as a utility to increase the pace of innovation across the organization.
 
 ENT225: The why, what & how of transforming and innovating with SAP solutions   
 
 Thousands of customers currently run SAP on AWS, and many more are evaluating their SAP migration and innovation strategies. In this session, discover how 11 years of joint innovation with SAP and AWS have helped create a path of choice for customers on their SAP transformation journey. Learn how companies evaluated moving their SAP landscapes to the cloud, why they've chosen AWS on which to run SAP, and how they are now innovating on behalf of their customers faster.
 
-ENT226: Increase business value through modernization   
+## ENT226: Increase business value through modernization   
 
 Many enterprises execute modernization initiatives to leverage modern technologies and create new customer experiences. However, many stall mid-journey because they lack a clear strategy and execution path, often replicating the challenges of their on-premises environment on the cloud. Attend this session to learn why an enterprise-wide modernization makes sense, what may be the anti-patterns, and how the five-point success strategy for modernization that AWS has devised helps hundreds of enterprises conduct successful modernizations and increases business value.
 
-ENT227-S: DXC Technology and AWS accelerating digital transformation globally 
+## ENT227-S: DXC Technology and AWS accelerating digital transformation globally 
 
 DXC Technology has made a multi-billion dollar investment in digital innovation with AWS. Through digital transformation centers, worldwide talent development, and cloud-ready products, DXC is changing the way that large-scale companies journey to the cloud. Discussion topics for this session include DXC's unique approach to delivering scale, value, and speed in the cloud; DXC's AWS investment and commitment; and a customer spotlight on business and technical challenges and the solution delivered to address them. Learn how DXC and AWS are working together to transform the digital strategy and how DXC's legacy clients represent a major enterprise opportunity. This presentation is brought to you by DXC Technology, an APN Partner.
 
-ENT228-R1: How to build a business case with value benchmarking 
+## ENT228-R1: How to build a business case with value benchmarking 
 
 Build a high-level business case using value benchmarking. Learn about AWS' recent market research on the benefits AWS customers have realized. We discuss how to use these insights to benchmark your organization and create or supplement your business case. Learn from AWS, as well as your peers, on how to solidify your business case for AWS by identifying and tracking relevant KPIs and adopting the latest industry best practices.
 
-ENT229-L: Leadership session: The enterprise transformation journey with AWS   
+## ENT229-L: Leadership session: The enterprise transformation journey with AWS   
 
 AWS has partnered with hundreds of enterprises undergoing digital transformations. In this session, hear from one of our leaders who works with enterprises to leverage AWS services and learn how they create new revenue streams, improve operational efficiency, and reduce business risks.
 
-ENT230-R2: Introduction to forecasting costs on AWS 
+## ENT230-R2: Introduction to forecasting costs on AWS 
 
 Accurately forecasting AWS costs is an important element for cloud financial management. In this chalk talk, we discuss some approaches to consider when forecasting your AWS spend. These approaches include examining historical trends and linking plans, such as new-product development and business expansion, into cloud consumption.
 
