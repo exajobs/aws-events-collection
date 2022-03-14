@@ -2181,3 +2181,190 @@ ENT319-R1: Migration to AWS: A foundation for enterprise transformation
 
 > In this session, learn about various multi-account design patterns to jump-start your cloud adoption journey. We cover AWS Landing Zone, AWS Control Tower, and AWS Organizations, and we help you determine the optimal path for your enterprise.
 
+
+##
+
+EUC201: Multichannel customer engagement using Amazon Pinpoint
+
+Engage with your customers by using Amazon Pinpoint to send email, SMS, push, and voice messages. Walk into this workshop with just your laptop and leave with an Amazon Pinpoint project that you can use to engage with the right customers at the right time through the right channels.
+
+EUC202-R1: Amazon Connect: Build a unified voice and chat contact center experience
+
+Amazon Connect now gives businesses a single unified contact center service that makes it easy to deliver better customer experiences on voice and chat. In this instructor-led workshop, you create an Amazon Connect contact center instance and learn how to use a single contact flow to design a natural language chatbot experience (via Amazon Lex) that escalates to a human agent on voice and chat. We cover concepts such as routing, queueing, chatbot design, agent experience, and concurrency for voice and chat. Bring your laptop, phone, and an AWS account, and come prepared to build!
+
+EUC203-R2: Best practices for designing contact-center experiences
+
+Legacy customer care engines are often comprised of functional silos, forcing customer experiences to reflect these boundaries. For example, many call flows start with a menu (IVR), then queue music (ACD), then an agent (PBX). At Amazon, we take a holistic approach to service design, working backward from the customer and leveraging products such as Amazon Connect, Amazon Lex, and Amazon DynamoDB to deliver persona-based experiences. In this chalk talk, you learn how to reimagine your customer-care engine to offer a hyper-personalized experience that promotes relevant automation and access on a contact-by-contact basis, at scale.
+
+EUC204: Detect fraud and authenticate customers with voice biometrics
+
+Contact centers can be the target of fraudulent activity. In this chalk talk, learn how to detect fraud or authenticate customers using voice biometrics in Amazon Connect. Fraud-detection solutions from Amazon Partner Network (APN) partners help you protect your Amazon Connect contact center from fraudulent activity, minimize the impact of fraud on your organizations, and improve customer authentication experiences.
+
+EUC206: Overview of Amazon digital user engagement & messaging solutions
+
+In this session, we describe how AWS shares the Amazon customer-centric culture of innovation, key technology building blocks, and a user engagement and messaging platform to help companies better understand their users. You also learn how Coinbase is utilizing the Amazon approach to engage its own users. The intended audience: Developers and business professionals who are responsible for digitally transforming their company.
+
+EUC207: Build high-volume email applications with Amazon SES
+
+Companies in many industries use AWS to send millions of emails every day, including Amazon.com. In this session, learn how to build applications using the highly scalable, highly reliable, and multi-tenant-capable email infrastructure of Amazon Simple Email Service (Amazon SES). You also learn how to monitor delivery rates and other important metrics, and how to use this data to improve deliverability. Members of the Amazon.com team discuss the architecture of their multi-tenant email-sending platform, the historical challenges they faced, and the ways Amazon Pinpoint and Amazon SES helped them meet their goals around Prime Day, Cyber Monday, and other retail events.
+
+EUC209: Amazon Connect: Omnichannel cloud contact centers with Intuit and Salesforce
+
+In this session, hear about recently launched web and mobile chat for Amazon Connect. Learn how Intuit is deploying voice and chat at scale with Amazon Connect to improve customer engagement and how it implemented the solution across its global contact centers, what it learned along the way, and next steps in its contact center evolution. Specifically, Intuit shares its experiences with multi-session agents, best practices for using voice and chat simultaneously, and its approach to dynamic customer experiences. Also learn from Salesforce why it is using Amazon Connect to provide contact center solutions to its own customers.
+
+EUC210-L: Leadership session: End-user computing
+
+In this session, Nathan Thomas, GM of Amazon WorkSpaces, and Muneer Mirza, GM of Amazon AppStream 2.0 and Amazon WorkLink, share our vision for end-user computing at AWS. We show how the world's largest companies are deploying global solutions for their users, and dive into recent feature updates.
+
+EUC211: Modern service desk with Amazon Connect and News Corp
+
+Learn how News Corp implemented Amazon Connect to improve employee and service desk engagement. News Corp's service desk is the 24/7/365 central point of contact for all IT-related questions and issues within News Corp companies in North America, including Dow Jones, HarperCollins, and¬†Realtor.com. News Corp was able to set up Amazon Connect in weeks instead of months, while saving hundreds of thousands of dollars. Amazon Connect contributed to improved employee experience, reduced abandon rate, reduced time to answer, enhanced reporting capability, and more. Come hear how News Corp realized a modern service desk and what it plans for the future.
+
+EUC212-R1: Build highly available contact centers with Amazon Connect
+
+Amazon Connect allows customers to build highly available and resilient contact-center solutions at a massive scale. Superior contact centers require a great deal of integration with external systems to achieve a personalized and dynamic customer experience. In this session, learn from our experts how to do this easily. We also show you specific designs approaches and techniques you can consider to ensure a high level of resiliency and availability while maintaining the set of flexibilities offered by Amazon Connect.
+
+EUC213: The New York Times: Improving customer care with Amazon Connect
+
+The New York Times was looking to radically transform its computer telephony integration (CTI) system supporting its customer-care operations. After evaluating other solutions, the company chose Amazon Connect because of its ease of migration, flexibility, and customer-centric capabilities. Learn how The New York Times successfully rewrote its IVR and call workflows using Amazon Lex for natural language detection, and how it is using Amazon Transcribe to stream call data to a datastore and is writing Amazon Lex bots. Hear how the company was able to leverage cutting-edge technology, at scale, while reducing operational costs.
+
+EUC301-R1: Get up and running with Amazon Linux WorkSpaces
+
+Amazon WorkSpaces provide cloud desktops, based on Amazon Linux 2, that help developers and office workers boost their productivity while providing secure data and access. In this workshop, attendees learn how to set up Amazon Linux WorkSpaces at scale to help make developers more productive. Attendees configure and provision their own Amazon Linux WorkSpaces and then join them to their existing directory and corporate network configurations. We also cover how to continuously manage, orchestrate, and apply usage policies to Amazon WorkSpaces for both Linux and Windows fleets using different administration and orchestration tools.
+
+EUC302: Move your desktops and applications to AWS EUC
+
+IT organizations today need to support a mobile, flexible, global workforce and ensure that their users can be productive anywhere. Moving desktops and applications to AWS offers improved security, scale, and performance with cloud economics. In this session, we provide an overview of Amazon WorkSpaces and Amazon AppStream 2.0, and we discuss the use cases for each. Then, we dive deep into best practices for implementing Amazon WorkSpaces and AppStream 2.0, including how to integrate with your existing identity, security, networking, and storage solutions.
+
+EUC303: Build an Amazon AppStream 2.0 environment to stream desktop apps
+
+In this workshop, we build out an end-to-end Amazon AppStream 2.0 environment for your organization. We create a master image containing desktop applications and configure a streaming fleet and streaming stack. We walk through network configuration options and show how to connect to resources in your VPC. Finally, we show you how to create streaming URLs that users need to access their applications. To complete this workshop, you must arrive with a provisioned individual AWS account and a working knowledge of AWS concepts.
+
+EUC304-R1: Implement AI-powered speech analytics for Amazon Connect
+
+In this workshop, you learn how to apply AI-powered speech analytics to your Amazon Connect contact center. The solution combines Amazon Transcribe for real-time speech recognition and transcription, Amazon Comprehend to analyze customer interactions and detect sentiment, and Amazon Translate to translate the conversation into an agent's preferred language. This solution helps drive better customer outcomes by providing real-time information and suggestions to call center agents. Bring your laptop, phone, and AWS account. Come prepared to build!
+
+EUC305: Build a voice-based chatbot for your Amazon Connect contact center
+
+Learn how easy it is to incorporate a voice-based Amazon Lex chatbot into your Amazon Connect contact center. In this workshop, we walk you through configuring your own Amazon Connect contact center, implementing a chatbot, and using it in your workflows to deliver a personalized voice-based caller experience. You also learn how to use AWS Lambda to further personalize your chatbots. Leave this workshop with a functioning Amazon Connect contact center and a voice-enabled chatbot. Bring your laptop, phone, and AWS account so that you can build and test your chatbot.
+
+EUC306: Build new enterprise workflows with chatbots in Amazon Chime
+
+Amazon Chime is an audio, video, and chat meeting service. Using chatbots, users can open support tickets, run reports, and execute commands right from an Amazon Chime chat room. In this workshop, you learn how to build a chatbot in Amazon Chime that enables a cool workflow integration with the enterprise application of your choice. Come with your laptop, phone, and some builder mojo!
+
+EUC307-R3: Amazon WorkSpaces disaster-recovery best practices
+
+In this session, learn how to prepare your Amazon WorkSpaces environment for various disaster-recovery scenarios for desktops, users, and storage. Please bring your laptop.
+
+EUC308-R1: Build and deploy your own two-way text chatbot
+
+In this builders session, you build an AI-powered chatbot that your customers can engage with by sending SMS messages. Your chatbot can help customers quickly ask questions, get answers, book appointments, check order status, and much more. Please bring your laptop.
+
+EUC309-R1: Build your own omnichannel e-commerce experience
+
+In this hands-on session, you learn how to integrate AWS Amplify and Amazon Pinpoint to create a retail website. You use the event data that's generated by customers' activities on your site to send custom-tailored emails and push notifications, creating a curated, omnichannel experience. This session is intended for builders who want to expand the user-engagement capabilities of their sites and apps. Please bring your laptop.
+
+EUC310-R1: Enhance Amazon AppStream 2.0 environments: Automation and more
+
+In this session, learn how you can customize your application streaming environment. We also show you how to automate image, fleet, and stack management. You also learn how to do all of this and scale while optimizing your utilization. Please bring your laptop.
+
+EUC313-R1: Scaling your Amazon AppStream 2.0 Environment
+
+Learn the options for scaling your Amazon AppStream 2.0 streaming resources to match user demand for remotely delivered applications. We also discuss how you can manage your streaming fleets to balance between an instant-on and on-demand experience, select the optimal instance types for best performance, and manage updates to your environment to deliver the latest versions of users' applications. Please bring your laptop.
+
+EUC314: Advanced routing with Amazon Connect agent queues
+
+Amazon Connect lets you give your top customers direct access to your agents via extensions or direct numbers, while providing high-touch options like callback from queue and overflow routing. This service is great for high-value customers with a dedicated account or case manager. Bring your laptop and learn how to utilize Amazon Connect agent queues along with AWS Lambda and Amazon DynamoDB to create personalized experiences for customers and agents in your contact center. You also learn how to level-up customer experience through innovations like letting callers speak with the last agent spoken to, providing consistent multi-contact experiences.
+
+EUC316-R1: Enable Alexa for your Zoom conference rooms
+
+In this session, we walk you through integrating Alexa for Business with Zoom conference rooms and Office 365 calendaring, using an Amazon Echo as a controller. We cover solution requirements, configuration, testing, and Alexa blueprints and best practices. Once integration is complete, you will be able to use Alexa voice utterances to start, stop, and manage your meetings. Please bring your laptop.
+
+EUC317: Amazon Connect for inbound contact-center customer service
+
+Come build an inbound contact-center customer-service hub with Amazon Connect. We cover how to leverage additional AWS services with Amazon Connect to create an immersive real-time experience. You learn how Amazon Connect can communicate with any third-party CRM solution. We also show you how to leverage AWS Lambda to invoke sentiment analysis through Amazon Comprehend, and how to view the data in real time through Amazon QuickSight, giving you a graphical sentiment snapshot of what is happening in the contact center. You leave the session with a contact-center solution that you can deploy when you get back to work. Please bring your laptop.
+
+EUC318: Create an SaaS portal for your desktop app with Amazon AppStream 2.0
+
+In this session, learn how you can embed your desktop application in a web portal using Amazon AppStream 2.0 to create an SaaS solution. Please bring your laptop.
+
+EUC319: Customize your Amazon AppStream 2.0 environment with session scripts
+
+In this session, learn how you can use Amazon AppStream 2.0 session scripts before and after a user session to simplify common admin tasks. We walk through how to customize sessions based on user identity, application configuration, logging, and cleanup tasks. Please bring your laptop.
+
+EUC320: Dive deep into Amazon Connect reporting and metrics
+
+Providing end-to-end reporting of your contact-center data often requires processing and querying a collection of data sources with different record structures. In this builders session, you learn how to leverage Amazon Connect with other AWS services to create a unified data repository. Learn how to use AWS Glue to crawl your data sources and discover different schemas, then drill down into the details with Amazon Athena, and leverage Amazon QuickSight business-intelligence service to easily create and publish analytical dashboards to your business owners. Bring your laptop if you want to build in this session. Please bring your laptop.
+
+EUC321: Getting started with Amazon WorkSpaces Linux
+
+In this session, we show you how easy it is to get started using Amazon WorkSpaces Linux. We walk you through best practices for deployment and management. Please bring your laptop.
+
+EUC322: Improve customer engagement by predicting user behavior
+
+In this hands-on session, you learn how to use Amazon SageMaker and Amazon Pinpoint to create customer engagement scenarios powered by machine learning. You use cross-channel customer-activity and demographic data to train your own behavioral models. After you use your model to categorize your customers, you use Amazon Pinpoint to send engagement campaigns that are optimized to reengage users. This session is intended for builders, marketers, or data scientists who want to improve user engagement using machine learning. Please bring your laptop.
+
+EUC323: Manage Amazon WorkSpaces by integrating AWS Service Catalog with ServiceNow
+
+As enterprises adopt Amazon WorkSpaces as part of their EUC solution, there is a need to implement an ITSM-based self-service offering for provisioning and operations. In this session, you learn how to integrate AWS Service Catalog with ServiceNow to enable users to request their own WorkSpace inclusive of all business-level approvals and auditing. You then add self-service actions directly from ServiceNow to allow users to reboot, terminate, repair, or upgrade their WorkSpace. Please bring your laptop.
+
+EUC324: Add a video help desk to a website with the Amazon Chime SDK
+
+The Amazon Chime SDK makes it easy to add audio calling, video calling, and screen sharing features to web applications. In this session, you use the Amazon Chime SDK and the Amazon Chime SDK for JavaScript to add a real-time video help desk to an example website, connecting users in need of assistance to remote support agents. Please bring a laptop.
+
+EUC325: Build call recording & transcription on Amazon Chime Voice Connector
+
+Amazon Chime Voice Connector is a session initiation protocol (SIP) trunking service that lets your organization place secure, low-cost phone calls to over 115 countries from your existing phone systems. In this session, we show you how to stream the audio of telephone calls carried by Amazon Chime Voice Connector to Amazon Kinesis Video Streams, and build a serverless processing pipeline using AWS Lambda to upload the audio files to Amazon S3 or transcribe them using Amazon Transcribe. Using these capabilities, you can build compliance monitoring solutions for your enterprise. Please bring a laptop with AWS CLI installed. Please bring your laptop.
+
+EUC326: Visualize and analyze your Amazon AppStream 2.0 usage
+
+In this session, learn how you can create custom reports and visualizations of your Amazon AppStream 2.0 usage data with Amazon Athena and Amazon Quicksight. Please bring your laptop.
+
+EUC328: Engage with your customers using SMS text messages
+
+Text messages form a vital part of customer-engagement strategy for organizations around the world. In this workshop, learn how to use Amazon Pinpoint to send promotional, transactional, and two-way SMS messages. You also see demonstrations of how other AWS customers use SMS messaging to engage with their customers.
+
+EUC330-R1: Migrating your Windows 7 desktops to Windows 10 on Amazon WorkSpaces
+
+With support for Windows 7 ending in January 2020, IT teams are facing costly extended-support solutions or purchasing and deploying new hardware for Windows 10. In this chalk talk, we discuss how to plan your migration from Windows 7 to Windows 10 with Amazon WorkSpaces, using your existing hardware.
+
+EUC332: Nielsen modernizes its PSTN calling with Amazon Chime Voice Connector
+
+In this chalk talk, you get a real-world account from Nielsen of how and why it moved its high-volume outbound dialing workload from legacy ISDN PRI to modern SIP trunking on AWS using Amazon Chime Voice Connector. We deep dive into implementation details, project timelines, and how Nielsen overcame challenges along the way. You also learn about new Voice Connector features like Amazon Kinesis audio streaming, call detail records, and Amazon CloudWatch integration. Whether you are a telecommunications, networking, or IT professional, learn how you can simplify PSTN calling in your enterprise with Amazon Chime Voice Connector.
+
+EUC333: Add audio & video calling to your apps with the Amazon Chime SDK
+
+The Amazon Chime SDK makes it easy for developers to extend their end-user applications to include audio calling, video calling, and screen sharing, all without the complexity, cost, and effort of managing a real-time communication stack. In this session, we explore what you can achieve with the APIs contained within this SDK, backed by Chime's real-time, global-scale media resources; walk through some real-world examples built with the SDK; and dive deep into questions from the audience.
+
+EUC334: Give students access to applications for class through any computer
+
+Learn how you can stream desktop applications to any student with Amazon AppStream 2.0, a fully managed application streaming service. In this chalk talk, we walk through Cornell University's journey with AppStream 2.0 and cover key topics including application management, student access, and scaling.
+
+EUC336: Surprise and delight customers with location-based notifications
+
+In this chalk talk, learn how to use AWS Amplify, AWS AppSync, and Amazon Pinpoint to geo-target customers. We teach you how to build and configure geofences to trigger location-based mobile-app notifications. We also walk you through the published solution and provide dedicated time for Q&A with an AWS solutions architect.
+
+EUC337: Accolade speeds health answers to customers with Amazon Connect
+
+Accolade, a personalized health and benefits solution, migrated a contact center to a global deployment of Amazon Connect in just four months, supporting over 700 agents taking more than 14,000 calls a day on a global scale. Learn how the company did this completely self-service through staggered global deployment. They also discuss where the key transition points were, how they mapped data from one solution to the next, their core development investments, and how they kept business running during the migration. Hear how a small team deploying Amazon Connect quickly and successfully can have a big business impact.
+
+EUC338: Why Carnival Cruise Line moved from on-premises VDI to Amazon WorkSpaces
+
+Learn why enterprises like Carnival Cruise Line are leaving the complexity and costs of virtual desktop infrastructure (VDI) for Amazon WorkSpaces. We dive into the business value that Amazon WorkSpaces provides Carnival, and how Carnival quickly and easily deployed solutions for multiple use cases.
+
+EUC341: Why GE Renewable Energy and Multiview stream their desktop applications
+
+Learn how to provide instant access to desktop applications through a browser on any computer. In this session, we present an overview of Amazon AppStream 2.0, a managed application streaming service, and walk through common application streaming use cases for enterprises, ISVs, and educational institutions. Hear from GE Renewable Energy and from Multiview Corporation, a financial software provider, on their journeys to stream applications with AppStream 2.0.
+
+EUC401: Create a custom Amazon Connect agent using AWS Amplify
+
+Amazon Connect lets you customize your agent desktop by providing the Streams API. Customers can build fully customized agent-desktop applications or integrate with a CRM system, delivering value by streamlining agent activities and increased responsiveness to customers. This often requires adding multiple modules for authentication and data access through APIs. In this session, you build your own contact-center agent desktop leveraging the Amazon Connect Streams API with AWS Amplify as a library. Leveraging Amplify simplifies integrating authentication layers and API calls to additional AWS services. This session is technical and will require writing JavaScript code. Please bring your laptop.
+
+EUC404: How Facebook deployed Amazon WorkSpaces globally
+
+Learn how enterprises like Facebook deploy and manage Amazon WorkSpaces at scale. Dive deep into Facebook's technical deployment from start to finish, and walk through key Amazon WorkSpaces features that can benefit your enterprise's global deployment.
+
+EUC405: Amazon WorkSpaces Streaming Protocol: Enable a consistent user experience
+
+In this session, join Stephen Vilke, GM of AWS end user computing services, as he dives into why and how his team built a cloud-native streaming protocol. Learn how Amazon WorkSpaces Streaming Protocol enables a consistent user experience across the globe when accessing your WorkSpaces on unstable networks.
+
