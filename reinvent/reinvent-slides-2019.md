@@ -1278,7 +1278,7 @@ CON210-S: How to run like a startup with enterprise Kubernetes on AWS
 
 Scholastic Corporation reinvented itself with the adoption of a startup mindset and a move to microservices on AWS running in Red Hat OpenShift Container Platform, an enterprise Kubernetes distribution. In this session, you hear about the journey that this large publishing enterprise went on during its transformation. From our discussion of breaking up monolithic applications into microservices, you learn about some of the pitfalls along the road to Kubernetes, containers, and microservices adoption. You also hear about the resulting demonstrable benefits-faster time to market, lower infrastructure costs, happier developers, and improved business performance. This presentation is brought to you by Red Hat, an APN Partner.
 
-CON211-S: Set up Kubernetes clusters on premises & on AWS with Cisco Container Platform   
+## CON211-S: Set up Kubernetes clusters on premises & on AWS with Cisco Container Platform   
 
 In this session, you learn how to use Cisco Container Platform (part of the Cisco Hybrid Solution for Kubernetes on AWS) to set up and configure Kubernetes clusters in your data center and on AWS. We demonstrate installing and configuring Cisco Container Platform, setting up clusters on top of VMware infrastructure, and leveraging AWS Identity and Access Management (IAM) credentials to set up clusters in Amazon Elastic Kubernetes Service (Amazon EKS). This presentation is brought to you by Cisco, an APN Partner.
 
