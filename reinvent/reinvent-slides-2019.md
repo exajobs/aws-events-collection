@@ -1286,7 +1286,7 @@ CON212-R1: Running Kubernetes at Amazon scale using Amazon EKS
 
 Amazon.com has built a hosted infrastructure on Amazon Elastic Kubernetes Service (Amazon EKS) to power part of the shopping experience that delights tens of millions of shoppers. During this session, we dive into the details of how Amazon EKS empowers a small team to own this highly available, multi-tenant solution. We explore how using Amazon EKS helped move the needle on agility for developers and innovation for shoppers. Finally, we dive into how this hosted platform enables Amazon.com developers to focus on building great shopping experiences and remain blissfully ignorant of changes happening at the infrastructure level.
 
-CON214-S: Policy-based management of hundreds of Kubernetes clusters   
+## CON214-S: Policy-based management of hundreds of Kubernetes clusters   
 
 As your organization embraces Kubernetes, the number of clusters will explode, and it will become difficult to manage a consistent set of access, application security, configuration, and resource quota policies. In this session, you learn how to use a Kubernetes control plane to manage policies across hundreds of disparate clusters and align thousands of users with resources to maximize security and self-service. This presentation is brought to you by VMware, an APN Partner.
 
