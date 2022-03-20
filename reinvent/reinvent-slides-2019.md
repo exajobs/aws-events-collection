@@ -3085,6 +3085,48 @@ STG405: Maximizing Amazon EFS performance for Linux workloads
 Amazon Elastic File System (Amazon EFS) delivers highly available and highly durable file systems that are distributed across an unconstrained number of storage servers and enables massively parallel access. This means that highly parallelized workloads can drive high levels of aggregate throughput and operations per second. In this chalk talk, we diagram different architectures that leverage this distributed data-storage design, and we share best practices around selecting the appropriate performance and throughput mode, configuring clients, ingesting data, and monitoring performance.
 
 # Startup
+STP201: How Ginkgo Bioworks uses AWS to make organisms
+
+Ginkgo Bioworks makes custom microbes for a wide range of industries. Each year, the company makes three times as many microbes as the year before. For each project, it must design microbes' metabolism, genetic sequences, and potentially new laboratory protocols. It also must keep track of millions of laboratory operations and measurements. To do this, Ginkgo Bioworks leverages AWS to create its microbe designs, run workflows, aggregate data, and run analytics-all at an exponentially accelerating speed. In this session, learn about the company's migration process to AWS and how it is being used to scale Ginkgo Bioworks' operations.
+
+STP205: How Affirm leverages AWS to support a unified data lake
+
+At Affirm, data is its greatest asset. Data is used to track how its products are doing, make strategic decisions, fuel machine learning model training, analyze user trends, detect fraud, and generate reports that are required by a variety of customers and regulators. In this session, learn how Affirm uses Amazon EMR, Amazon Redshift, Amazon Redshift Spectrum, Amazon Athena, Amazon Aurora on Amazon RDS, and AWS DMS to support a unified data lake. Also learn how the company addresses the tradeoffs between different types of data analytics use cases.
+
+STP206: Building the future of writing with AWS Lambda
+
+The future of writing is knowing how well your words work before anyone reads them. Textio is building an augmented writing platform and using AWS to do it. Engineering teams are using Lambda to power the platform through web applications, data science, and infrastructure. This talk covers several different use cases where Lambda has empowered Textio to quickly build and deploy services. This talk also covers Textio's approach to using Lambda as it designs services
+
+STP207: How Coinbase handles incident management by leveraging AWS
+
+Coinbase strives to be the most trusted digital currency exchange, making reliability and security top priorities. However, this doesn't mean that Coinbase is incident-free. As the cryptocurrency space evolves, the company inevitably faces new engineering challenges. In this talk, Coinbase walks you through the way the infrastructure team uses AWS Lambda functions and Amazon SES to build Misato, the incident bot that helps coordinate, monitor, and improve incident response in the organization. Learn how Coinbase made incident processing as user-friendly as possible-from creating an incident to reviewing a postmortem document.
+
+STP208: How to build a company founded on engineering principles
+
+Intercom is"all in" on AWS-a strategy that's aligned with the engineering principles used to build the company. This talk covers how the company uses those principles to make engineering decisions. Learn about the evolution of Intercom's architecture, from handful of Amazon EC2 hosts to thousands of instances. Also learn how Intercom uses Amazon DynamoDB, AWS Lambda, Amazon SQS, Amazon Aurora, Amazon Redshift, Amazon Kinesis, and more. Finally, learn why Intercom decided against leveraging microservices, and why this has increased its ability to move fast and ship great products.
+
+STP209-R1: Quantifying what makes your happiest customers so happy
+
+Customers are using your product because it's solving an important problem for them. However, that doesn't mean that they are entirely happy. Often, your product solves only part of the problem, and your customers have work around your product's limitations. Or your product has features that provide a lot of value but customers aren't using them yet. In this session, learn ways to identify and measure which features make customers happy and how to help customers get the most value from your product.
+
+STP301: Personal Capital: Lessons from a year with Amazon EKS
+
+Personal Capital is an online financial advisor and wealth management company. In this session, learn how the company went from one week of development and one week of testing to multiple releases per day, and along the way significantly increased its team's productivity using Amazon Elastic Kubernetes Service (Amazon EKS). Specifically, hear how managed Kubernetes let Personal Capital focus on its core financial business, how the company built a true engineering DevOps team, and how byproducts of Kubernetes on AWS helped.
+
+STP302: Using Amazon EMR to build a Spark ecosystem at Opendoor
+
+In this session, you learn how Opendoor, an online home-buying and selling service, manages medium-sized real estate data using Spark. The session covers the journey from in-house data processing solutions using Kubernetes to benchmark against providers, such as Amazon EMR and Databricks, to migrating to Amazon EMR to achieve a balance of cost and performance. As a cost-conscious startup with heavy data processing needs, Opendoor had to balance cost, performance, availability, and developer experiences when designing its ETL and machine learning platform. This session focuses on how Opendoor optimized its data workflow by migrating Spark workloads from Kubernetes to Amazon EMR.
+
+STP303-R1: Reduce churn using machine learning
+
+Increasing customer lifetime value by reducing churn is often an existential matter for startups with repeat-business models. Technical teams looking to predict customer behavior-who will happily stay and pay, and who is ready to jump ship-have largely relied on a set of too-simple metrics. The reason for this less-than-ideal approach is that meaningful analysis has typically been too hard and too pricey for startup budgets. That is, until now. Learn how readily available machine learning frameworks and tooling make it possible for companies of any size to detect and reduce churn.
+
+STP304-R1: Predicting what your customers really, really want
+
+Targeting customers with the right recommendations at the right moment is critical for startups that offer multiple products or services (and for larger companies as well). By combining historical usage data with other variables in your business and the right machine-learning model, your customers can receive 50% more accurate recommendations for your products or services. Discover how to collect and store data, and how to train machine-learning models to predict what your customers want.
+
+# Serverless
+
 
 
 
