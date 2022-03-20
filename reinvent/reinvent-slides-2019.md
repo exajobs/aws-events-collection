@@ -24,6 +24,9 @@
 - Serveless
 - Telecommunications
 - Travel & Hospitality
+- Windows & .NET
+- Public Sector
+- We Power Tech
 
 
 # Artificial Intelligence & Machine Learning
