@@ -3131,6 +3131,205 @@ STP304-R1: Predicting what your customers really, really want
 Targeting customers with the right recommendations at the right moment is critical for startups that offer multiple products or services (and for larger companies as well). By combining historical usage data with other variables in your business and the right machine-learning model, your customers can receive 50% more accurate recommendations for your products or services. Discover how to collect and store data, and how to train machine-learning models to predict what your customers want.
 
 # Serverless
+SVS201-R2: Build a serverless web app for a theme park
+
+Innovator Island is a popular theme park that's rolling out a mobile app for thousands of visitors. The app provides wait times, photo opportunities, notification alerts, and language translation for visitors who need it. However, the lead developer has disappeared, and in this workshop, you're part of a development team that's assembling the pieces left behind. Learn and practice building a scalable serverless web app with limited development resources.
+
+SVS203-R1: Build a serverless ride-sharing web application
+
+In this workshop, you deploy a simple web application that lets users request unicorn rides from the Wild Rydes fleet. The application presents users with an HTML-based user interface for indicating the location where they would like to be picked up and interfaces on the backend with a RESTful web service to submit the request and dispatch a nearby unicorn. The application also provides facilities for users to register with the service and log in before requesting rides.
+
+SVS209-S: Powering digital billboards with serverless
+
+Digital billboards are everywhere from buildings to signs to transit stops. Place Exchange, a prominent auction platform for digital billboards, runs over 50,000 concurrent auctions 24/7 for placements on connected billboards in the world's largest cities. In this talk, the Place Exchange team shares the challenges of managing, monitoring, and scaling a hybrid environment of edge devices all powered by a 100 percent serverless auction platform. This presentation is brought to you by Datadog, an APN Partner.
+
+SVS210-S: Automatically scale a serverless app with Amazon Textract & MongoDB
+
+Working with disorganized data is expensive and wasteful. One area in which this is readily apparent is the legal field, especially during the data discovery phase. In this session, we use Amazon Textract, Amazon Comprehend, and MongoDB Atlas to build a serverless product that seamlessly ingests documents and intelligently organizes their data, increasing efficiency and reducing costs. We show you how to easily interconnect these services using AWS Lambda as a backend and how to quickly create web and mobile user interfaces using MongoDB Realm. This presentation is brought to you by MongoDB, an APN Partner.
+
+SVS213-R1: Thinking serverless: From business problem to serverless solution
+
+Serverless is more than just AWS Lambda, it's about learning to use a range of different services and techniques to solve a customer problem. How do you approach building a solution with a serverless mindset? In this session, learn how to tackle a business problem from a customer perspective by breaking down the needs into serverless building blocks that work well together. We highlight the power of distributed systems design and event-based architecture, and we show you how easy it is to turn a flowchart into a model for a serverless application.
+
+SVS214-R1: Amazon S3 to Lambda: A flexible pattern at the core of serverless applications
+
+It's not just image resizing. In this session, we show how to use Amazon S3 as an event source for major parts of your application workflow, including language translation, transcription, data processing, identity verification, content management, and more.
+
+SVS215-R1: Build observability into a serverless application
+
+Observability is a common challenge for developers. In this session, we share some approaches for addressing this challenge and discuss the trade-offs and limitations with both AWS and third-party tools.
+
+SVS219-S: Serverless at scale
+
+AWS offers a great breadth of serverless services beyond AWS Lambda functions. In this session, learn how Capital One leverages serverless architectures for data-driven and web applications across a footprint of thousands of applications. This presentation is brought to you by Capital One, an APN Partner.
+
+SVS220-R1: Build microservice APIs with Amazon API Gateway
+
+Learn how to create, secure, and deploy API-based microservices with Amazon API Gateway. We also cover how to build integrations with backends powered by compute services such as AWS Lambda. By the end of this session, you'll understand the basic building blocks of a microservices-based application. Please bring your laptop.
+
+SVS222-R2: Streamline AWS Lambda development with Lambda layers
+
+Learn how to use AWS Lambda layers to streamline serverless development, leverage libraries, and share code between teams. We showcase how Lambda layers can help you build more powerful serverless applications while improving the development experience for you and your team. Please bring your laptop.
+
+SVS223-R1: Finding a home for your data in your serverless app
+
+Where should your data live? Amazon Relational Database Service (Amazon RDS)? Amazon DynamoDB? Amazon Simple Storage Service (Amazon S3)? This decision has large implications on your overall serverless application architecture, performance, and cost. In this session, we look at all of the data options available to serverless developers and explain the benefits and downsides of each. By the end of the session, you'll understand how to make the most of each data store option in your next serverless app.
+
+SVS224-R3: AWS Lambda function performance tuning
+
+All AWS Lambda functions are not created equal. Learn the best practices for tuning memory, runtime, initialization, concurrency, and more, in a data-driven way, to squeeze every drop of performance out of Lambda functions. By the end of this session, you'll understand the key Lambda performance knobs you can turn to make the most of your functions for your workload.
+
+SVS226: From prototype to org-wide serverless adoption: Key considerations
+
+You heard about the benefits of serverless and are intrigued. Maybe your team even put together a small prototype in a tenth of the time and half the budget. Moving from hype to production, though, will require extra scrutiny. Learn about best practices around serverless security, performance, cost, data management, CI/CD, tooling, and team organization that enable teams to adopt serverless microservices and deliver innovative projects on time and under budget.
+
+SVS227-S: Delivering agility at McDonald's with microservices transformation
+
+Consumer applications are excellent conduits for delivering rich features and collecting valuable usage information to power business decisions. Digital enterprises leverage platforms to rapidly hypothesize, test, scale up, and roll out features to remain competitive and agile. At McDonald's, the largest quick-service restaurant (QSR) chain in the world, microservices transformation on AWS is the foundational solution for empowering business agility at global scale. In this session, learn how McDonald's, Capgemini, and AWS have created a powerful digital e-commerce platform using Kubernetes, AWS Lambda, and more, and hear how they leverage this solution to deliver innovative features at great speeds without adverse impact to scale, availability, or cost. This presentation is brought to you by Capgemini, an APN Partner.
+
+SVS302-R1: Build a serverless online game and real-time leaderboard
+
+Many workloads have a common pipeline for ingesting, processing, storing, and consuming data. If you are trying to ingest data in real time, what options are available to you? Join this workshop to implement a serverless streaming architecture. While playing Alien Attack, you learn about how to select the appropriate services for your needs and how to leverage the same architecture for near-real-time processing in scenarios such as sales reporting, financial transactions, IoT applications, and many more.
+
+SVS303-R1: Monolith to serverless SaaS: A hands-on service decomposition
+
+The move to a serverless model is especially appealing to SaaS providers. For many, this journey begins with transforming their legacy, single-tenant monolithic architecture into a multi-tenant serverless solution. In this workshop, we dive into the heart of this challenge, walking through the incremental steps required to map your monolithic application to a series of AWS Lambda-based microservices. We then use Lambda layers to add tenant-aware logging, metrics, and data access to your Lambda functions. Throughout, we expose the fundamental moving parts of this transformation, highlighting common considerations that can affect your serverless SaaS migration strategy.
+
+SVS304-R1: Build a serverless engine to process large-scale documents
+
+In this hands-on workshop, you build an application in under three hours that leverages AWS Lambda and Amazon Textract to extract text and data from large-scale documents. We use both asynchronous and synchronous architectural patterns to build an efficient document-processing engine.
+
+SVS305-R1: How to secure your serverless applications
+
+In this workshop, you learn techniques for securing a serverless application built with AWS Lambda, Amazon API Gateway, and Amazon Aurora. We cover the AWS services and features that you can leverage to improve the security of serverless applications across five domains: identity and access, application code, data encryption, infrastructure, and logging & monitoring. You will wear the hat of a security engineer for Wild Rydes, a unicorn ride hailing company (fictitious, of course). You get to pick your own adventure in hardening a serverless application against OWASP top ten vulnerabilities.
+
+SVS308-R1: Moving to event-driven architectures
+
+Event-driven architectures are getting a lot of attention. We have recently invested in tools and infrastructure to make event-driven architectures easier to implement and operate. In this session, we discuss what events are, why the community is increasingly interested in event-centric applications, and what's new in the domain and with AWS in particular. In addition, we discuss the challenges that still face us and our customers. By the end of this session, you understand the key principles and benefits of being event-driven.
+
+SVS310-R1: Securing enterprise-grade serverless apps
+
+In this session, we discuss the development practices and architectural principles that the most innovative builders are implementing to secure their serverless applications in the cloud. Join us as we cover security considerations for serverless applications and discuss strategies to minimize risks and protect against threats.
+
+SVS315-R1: Serverless inference with AWS Lambda
+
+Learn how to ask questions of a trained model using a serverless architecture. In this session, you start by preprocessing data using Amazon Simple Storage Service (Amazon S3) and AWS Lambda then build and train your AI model using an Amazon SageMaker notebook. Once the model is trained and hosted on Amazon S3, you run your real-time inferences with Amazon API Gateway and Lambda.
+
+SVS317-R1: Serverless stream processing pipeline best practices
+
+Streaming data pipelines are increasingly used to replace batch processing with real-time decision-making for use cases including log processing, real-time monitoring, data lake analytics, and machine learning. Join this session to learn how to leverage Amazon Kinesis and AWS Lambda to solve real-time ingestion, processing, storage, and analytics challenges. We introduce design patterns and best practices as well as share a customer journey in building large-scale real-time serverless analytics capabilities.
+
+SVS320-R1: The serverless journey of shop.LEGO.com
+
+Connecting the LEGO play experience with millions of people requires an innovative platform. This has fueled the cloud migration of the legacy e-commerce application. In this session, we walk you through the principles, the approach, the learnings, and of course the serverless technologies that made the vision a reality. We cover multiple real-world use cases such as the integration of the e-commerce platform with the tax system, and the implementation of an event-streaming platform.
+
+SVS321-R2: AWS Lambda layers deep dive
+
+AWS Lambda layers and runtime API let developers publish and share libraries and runtimes that are compatible with Lambda. Using layers allows separation of concerns. Publishers can build reliable, hardened software and share it as Lambda layers for other AWS developers to consume. Application developers can consume one or more layers in their functions, letting them focus on writing business logic. The Lambda runtime API codifies the runtime-calling conventions and integration points of a Lambda-compatible runtime. In this session, you learn best practices for designing, using, and sharing Lambda layers to make your serverless app more robust while writing less code.
+
+SVS323-R1: Mastering AWS Lambda streaming event sources
+
+In this session, we dive into the details of consuming Amazon DynamoDB Streams and Amazon Kinesis Data Streams with Lambda. We walk through common architecture patterns, and we discuss the different scaling options for DynamoDB and how they affect the stream. We then talk through Kinesis scaling and explain enhanced fan-out and when it is useful. We conclude by discussing reliability, management, monitoring, and what to do when something goes wrong.
+
+SVS324-R1: Managing independent microservices behind Amazon API Gateway
+
+Customers want a clean, unified API. However, decoupled microservices with independent engineering teams are a best practice. How do you reconcile the two? In this session, we discuss the design patterns and considerations for balancing independence and ease of management, and how to minimize the blast radius for multiple microservices-powered by both AWS Lambda and Amazon ECS-behind Amazon API Gateway.
+
+SVS325-R2: Serverless big data processing
+
+In this chalk talk, we discuss several architectural patterns for using AWS Lambda at scale within big data use cases. We walk through big data processing with Lambda functions, partitioning data using Lambda, and transforming data using Lambda functions. But when is Lambda the right choice? We also cover the pros and cons of using Lambda compared with other tools, such as Amazon EMR and AWS Glue, giving you an overview of all the tools at your disposal to process big data using serverless.
+
+SVS326-R1: Pipelining AWS Lambda asynchronous invocations
+
+AWS Lambda asynchronous invocations allow you to benefit from all the goodness that is fire-and-forget. But what if you wanted to do some extra stuff when that invoke finally is run? Join us to talk about how you can handle common use cases in a simpler way by connecting pieces together with AWS Lambda asynchronous invoke.
+
+SVS327-R4: Build serverless APIs with the AWS CDK
+
+In this session, we build a booking API using Amazon API Gateway, AWS Lambda, and Amazon DynamoDB using the AWS Cloud Development Kit (AWS CDK). We also test our functions locally with AWS Serverless Application Model (AWS SAM) and deploy them to AWS. Please bring your laptop.
+
+SVS329-R2: Build a conversational chatbot & gain business insights
+
+In this session, learn how to build a serverless chatbot to get answers to your business questions. Using a sample business dataset, we build this chatbot application with Amazon Lex, AWS Lambda, Amazon Athena, and Amazon S3. Please bring your laptop.
+
+SVS330-R2: Build secure serverless mobile or web applications
+
+In this session, you build a functional serverless web application powered by AWS Amplify, AWS AppSync, AWS Lambda, Amazon API Gateway, and Amazon DynamoDB. Learn how to use Amplify to speed up development, take advantage of the GraphQL capabilities of AWS AppSync, and run your application logic with Lambda. You also learn how to add fully functional authentication capabilities to this application using Amplify and Amazon Cognito. Please bring your laptop.
+
+SVS331-R2: Build an IT automation framework using AWS Step Functions
+
+In this session, learn how to use AWS Step Functions to orchestrate serverless IT automation workflows in response to Amazon CloudWatch Events. As a real-world example, you implement an automation workflow for a security event. Please bring your laptop.
+
+SVS332-R2: AWS Step Functions: From zero to hero
+
+In this session, you build a serverless workflow-based application using AWS Step Functions. We cover the basics and common patterns of AWS Step Functions, discuss error handling, and demonstrate how easy it is to use the service.
+
+SVS333-R2: Build serverless APIs supported by Amazon Aurora Serverless & the Data API
+
+In this session, you build a simple yet functional API that leverages Amazon Aurora Serverless and the Data API. Please bring your laptop.
+
+SVS334-R1: Build & monitor a secure serverless app powered by ASP.NET & AWS services
+
+In this session, you use the AWS Serverless Application Model (AWS SAM) to build and deploy a serverless C# ASP.NET application that writes into an Amazon DynamoDB table. The application uses the web UI hosted by Amazon Cognito for OpenID authentication to process the JSON web token (JWT). Please bring your laptop.
+
+SVS335-R1: Serverless at scale: Design patterns and optimizations
+
+You've built your first serverless application, and it works beautifully. As traffic increases, you might discover that small changes make a big difference in performance or cost. In this session, we explore the common challenges that customers encounter at scale with early serverless architectures and the approaches to optimize them.
+
+SVS337-R1: Best practices for building multi-region, active-active serverless applications
+
+Customers are often looking at running their services at global scale, deploying applications to multiple regions. While it has traditionally been hard to do this-often requiring months of engineering work-serverless has changed the game! In this hands-on talk, we help you understand how to build different versions of a multi-region, active-active serverless backend. Learn the pros and cons of DNS routing versus IP Anycast, and see how you can leverage serverless services like Amazon Route 53, AWS Global Accelerator, Amazon API Gateway, the Application Load Balancer, AWS Lambda, and Amazon DynamoDB global tables to build global-scale, serverless applications.
+
+SVS338-R2: API patterns and architectures: When and how to use RESTful and GraphQL APIs
+
+In this chalk talk, we discuss the various options for building internet-facing APIs and microservices covering the semantics of RESTful and GraphQL API types. Learn how and when to use each, their pros and cons, and the core principles to follow when picking the right patterns for your next workload.
+
+SVS340-R1: Serverless image processing workflows at scale with AWS Step Functions
+
+With AWS Lambda, you can write code to process images and files without provisioning servers. But at scale, how do you manage coordinating multiple parallel processing steps, catch errors and retry failures, and keep your code modular and maintainable? AWS Step Functions comes to the rescue! In this workshop, you will design and implement a distributed state machine to orchestrate a multi-step image recognition and processing workflow using AWS Rekognition and AWS Step Functions.
+
+SVS341-R1: An in-depth tour of AWS SAM
+
+In this session, we take a tour of AWS Serverless Application Model (AWS SAM) and the AWS SAM CLI. We go beyond the surface of AWS SAM resources and AWS SAM CLI commands and show you how to use them to build quality applications. We cover customized application templates for sharing best practices in your organization, best practices for testing and deploying, IAM policy design, and more.
+
+SVS342-R1: Build machine learning applications with AWS Lambda & Amazon SageMaker
+
+Layers. Lambda functions. Models and more! If you're curious about the best ways to scale your production modeling system with a serverless architecture that is fast, cheap, and easy to use, come to this chalk talk. Learn how Amazon SageMaker and AWS Lambda seamlessly integrate to deliver applications that let you deploy new models and feature engineering strategies quickly and painlessly, deepening your modeling portfolio while serving increasingly more intelligent models.
+
+SVS343-R1: Building microservices with AWS Lambda
+
+Many developers have become familiar with building microservices on traditional compute offerings such as virtual machines and containers, but what about serverless? The 'functions as a service' model behind AWS Lambda presents a number of unique differences while still providing many benefits that make it a strong fit for microservices-based architectures. In this session, we talk about mapping microservices-based architectures to Lambda's event model. You learn how to think about the bounds of functions and their alignment to the services represented. We then cover patterns that enable rapid development and easier testing. Walk away ready to build your next microservice with AWS Lambda.
+
+SVS344-R1: Building APIs designed to push data in real-time
+
+Delivering data via APIs is a critical functionality for companies of all sizes and industries. In this chalk talk, learn about the successful architectural patterns (and anti-patterns) of building serverless APIs to deliver real-time information. We detail how to best use Amazon API Gateway, AWS Step Functions, Amazon Simple Notification Service (Amazon SNS), and AWS Lambda as building blocks to create such scalable, fault-tolerant, real-time push architectures.
+
+SVS401-R1: Optimizing your serverless applications
+
+Are you an experienced serverless developer? Do you want a handy guide for unleashing the full power of serverless architectures for your production workloads? Are you wondering whether to choose a stream or an API as your event source, or whether to have one function or many? In this session, we discuss architectural best practices, optimizations, and handy cheat codes that you can use to build secure, high-scale, high-performance serverless applications. We use real customer scenarios to illustrate the benefits.
+
+SVS402-R2: Building APIs from front to back
+
+APIs have become the norm for allowing applications to communicate with each other. On AWS, customers turn to Amazon API Gateway to build HTTP, REST, or WebSocket APIs, providing communication endpoints between services and clients. However, API Gateway can do much more. In this session, we demo setting up a REST API using API Gateway. We walk though configuring a simple Lambda-based backend and adding on capabilities around data modeling and validation, custom responses, and functionless integration with backend services. Learn about some of the advanced functionality that can be done at the API level before it ever hits your backend service.
+
+SVS403-R1: Best practices for AWS Lambda and Java
+
+In this session, we follow a customer's journey as they optimize an AWS Lambda function written in Java to meet their cold start time requirements. We start from a simple yet slow PoC and walk through all of the changes, tricks, and trade-offs we made to reduce the cold start time by over 70%. Finally, we explore new technologies such as Quarkus and GraalVM that can make Java even faster in Lambda.
+
+SVS404-R1: Networking best practices for serverless applications
+
+Serverless technologies such as AWS Lambda have removed the burden of server management, but what about networking? When should you put a Lambda in an Amazon VPC? How do you balance security vs. the flexibility offered by Lambda? What are the best practices for working with private endpoints, NATs, and peering? In this session, we go over the best practices of working with Lambda functions from a networking perspective. We talk about how networking impacts performance and cost and how to make sure that your network design allows for scale and meeting strict security concerns.
+
+SVS405-R1: A serverless journey: AWS Lambda under the hood
+
+Serverless computing allows you to build and run applications and services without thinking about servers. Serverless applications don't require you to provision, scale, and manage any servers. However, under the hood, there is a sophisticated architecture that takes care of all the undifferentiated heavy lifting for the developer. Join Holly Mesrobian, director of engineering, and Marc Brooker, senior principal of engineering, to learn how AWS architected one of its fastest-growing services. In this session, we show you how AWS Lambda takes care of everything required to run and scale your code with high availability.
+
+SVS406-R1: Asynchronous-processing best practices with AWS Lambda
+
+Waiting around for your workload to finish is expensive, and controlling the flow of traffic to protect your precious system is hard. AWS Lambda event invocations provide both an event-driven compute solution as well as an asynchronous traffic driver-but the 'asynchronous at scale' part is its own particular beast. In this session, learn how Lambda does asynchronous processing and best practices around using it. We also dive into key features to help you better monitor and control that asynchronous traffic.
+
+SVS407-R2: Architecting and operating resilient serverless systems at scale
+
+Overloading a software system occurs more often than expected, and the effects are difficult to deal with, including real-time web services halting and asynchronous systems building up backlogs. In this talk, we cover what AWS does to build reliable and resilient services, including avoiding modes and overload, performing bounded work, throttling at multiple layers, guarding concurrency, sending idempotent requests, applying backpressure and fairness in queueing, and performing shuffle sharding. We also discuss how separating concerns through service-oriented architectures helps reduce blast radius. As we explore these patterns, we discuss how they're embedded into the DNA of the AWS services that you use to build and operate serverless applications that are resilient to failure. We also discuss a number of AWS services, including AWS Lambda, Amazon API Gateway, AWS WAF, Amazon CloudWatch, and AWS X-Ray.
 
 
 
