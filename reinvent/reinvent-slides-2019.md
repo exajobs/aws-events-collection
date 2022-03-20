@@ -18,6 +18,11 @@
 - [Enterprise](#enterprise)
 - [End User Computing & Business Apps](#end-user-computing--business-apps)
 - [Financial Services](#financial-services)
+- Security
+- Storage
+- Startup
+- Serveless
+- 
 
 
 # Artificial Intelligence & Machine Learning
