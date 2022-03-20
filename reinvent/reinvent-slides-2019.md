@@ -2452,4 +2452,640 @@ Data streams and stream processing have many applications in Financial Services.
 
 
 
+#
+
+SEC201-L: Leadership session: AWS security
+
+Stephen Schmidt, chief information security officer for AWS, addresses the current state of security in the cloud, with a focus on feature updates, the AWS internal"secret sauce," and what's to come in terms of security, identity, and compliance tooling.
+
+SEC202-R2: AWS Well-Architected: Best practices for securing workloads
+
+Security best practices help you secure your workloads in the cloud to meet organizational, legal, and compliance requirements. In this chalk talk, we guide you through core security best practices aligned with the AWS Well-Architected Framework. You also learn how to secure an Amazon EC2-based web application covering identity and access management, detective controls, infrastructure protection, data protection, and incident response.
+
+SEC204-S: Strong security made simple: Putting all the pieces together
+
+Organizations struggle with extending their security practices to the cloud. Traditional approaches don't work, and new cloud-only practices duplicate work for an already overtaxed team. The goal of cybersecurity is simple: to ensure that what you build works as intended and only as intended. This session teaches you how the AWS Cloud Adoption Framework and Well-Architected Framework can help you create a cloud security strategy. For tactics, learn how to integrate key AWS security services, open-source tools, and AWS Lambda automations into the workflow of your organization. Strong security doesn't have to be complicated; this session shows you how. This presentation is brought to you by Trend Micro, an APN Partner.
+
+SEC205-R2: The fundamentals of AWS cloud security
+
+The services that make up AWS are many and varied, but the set of concepts you need to secure your data and infrastructure is simple and straightforward. By the end of this session, you know the fundamental patterns that you can apply to secure any workload you run in AWS with confidence. We cover the basics of network security, the process of reading and writing access management policies, and data encryption.
+
+SEC206-R1: Threat management in the cloud: Amazon GuardDuty and AWS Security Hub
+
+Amazon GuardDuty and AWS Security Hub in tandem provide continuous visibility, compliance, and detection of threats for AWS accounts and workloads. Amazon GuardDuty enables customers to achieve continuous security monitoring to detect threats in the cloud. AWS Security Hub enables customers to continuously monitor their environment using automated compliance checks based on AWS best practices and industry standards. In this session, we introduce you to Amazon GuardDuty and AWS Security Hub and walk you through the detection of an event; aggregation; prioritization of security findings; and the identification of possible remediation actions and other responses.
+
+SEC207-L: Leadership session: AWS identity
+
+Digital identity is one of the fastest growing and fastest changing parts of the cloud. Zero-trust networks, GDPR concerns, and new IoT opportunities have been dominating cloud news coverage. In this session, learn about significant industry changes that will affect the way AWS approaches identity for both workforce and consumer customers. We announce new features, discuss our participation in open standards and industry groups, and explain how we're making identity, access control, and resource management easier for you every day.
+
+SEC208-S: Running MongoDB securely on AWS using field-level encryption
+
+To help prevent unauthorized access to your data, especially in the cloud, it is critical to deploy and maintain strong encryption. In this session, learn how to use client-side field-level encryption to keep your data secure. We start by explaining how to best deploy and configure a MongoDB cloud service. We then show you how to write applications that encrypt data using safe key management practices without sacrificing the ability to query. Finally, we demonstrate how MongoDB customers already write code so that service providers never see anything but ciphertext. This presentation is brought to you by MongoDB, an APN Partner.
+
+SEC209-R1: Getting started with AWS identity
+
+The number, range, and breadth of AWS services are large, but the set of techniques that you, as a builder in the cloud, will use to secure them is not. Your cloud journey starts with this breakout session, in which we get you up to speed quickly on the practical fundamentals to do identity and authorization right in AWS.
+
+SEC210-S: Why IAM is the new perimeter, and how to govern it
+
+Everything has an identity on AWS: users, applications, services, and systems. This provides enormous flexibility, but it also requires careful and specialized governance. In this session, hear from a panel of technology leaders on why this security layer requires a modern approach on AWS, and learn their best practices for addressing perimeter fluidity while running AWS at scale. This presentation is brought to you by DivvyCloud, an APN Partner.
+
+SEC212-R1: Vulnerability disclosure and response with AWS security
+
+A vulnerability disclosure program should be part of any company's promise to its customers. The owner of a product must have a strategy to accept input from the security community regarding that product. In May 2019, the AWS Security team received a report regarding the AmazonSageMakerFullAccess managed security policy. This session covers the vulnerability disclosure process and includes a discussion of how AWS processed that report.
+
+SEC214: nib Health Funds: Running critical regulated workloads in the cloud
+
+This session focuses on the strategy, technology, and review process that customers can use to move their most critical workloads into the cloud. nib Health Funds, a regulated health insurance provider, dives deep into how it moved a regulated core system (which the regulator calls a"system of record") into AWS. The session examines the regulatory context and provides specific technical examples of the cloud-based platform nib built to meet its security, risk, and resiliency requirements. Come see what it did and learn how you can do the same.
+
+SEC215-R3: Best practices for proactive security testing
+
+One of the core tenets of DevSecOps and the world of application security is to"build in" security from the design stage and test as early as possible. This reduces the cost of remediating vulnerabilities in production. In this builders session, we walk you through how to develop a threat model and how to drive security implementation and proactive security testing including attacker scenarios for penetration testing and red team exercises. Please bring your laptop.
+
+SEC216-R3: Mitigate risks using cloud-native security
+
+Whether you are migrating existing workloads or creating something new on AWS, it can be tempting to bring your current security solutions with you. In this hands-on builders session, we help you identify which cloud-native solutions can mitigate your existing risks while providing scalability, reliability, and cost optimization at a low operational burden. During this session, learn how to use cloud-native controls such as those found in AWS CloudTrail, Amazon VPC security groups, and Amazon GuardDuty to secure your cloud architecture. Please bring your laptop.
+
+SEC217-R3: Delegate permissions management using permissions boundaries
+
+The new permissions boundaries feature in AWS IAM addresses how to delegate permissions management to many users. If you have developers who need to be able to create roles for Lambda functions or system administrators who need to be able to create AWS IAM roles and users, or if you find yourself in a similar scenario, permissions boundaries might be a solution for you. Please bring your laptop.
+
+SEC218-R1: Deploying private certificates using ACM Private CA
+
+Organizations are looking at projects requiring a private certificate infrastructure like service meshes for microservices, full path encryption of traffic, device manufacturing, and app development and deployment. In this session, we discuss how to deploy AWS Certificate Manager Private Certificate Authority to provide certificate infrastructure and walk through a few examples of projects like these. During the session, learn how to build a CA hierarchy, choose the correct CA templates, configure IAM permission options, and manage certificate lifecycle. Participants will be able to apply these lessons and use cases to their own PKI infrastructure to accelerate their projects.
+
+SEC219-R1: Build the next great app with Amazon Cognito
+
+Are you planning to build the next great app? Are you planning to include features like AI-driven responses, a friendly user experience, and a lightning fast response time? There's just one thing in your way: Identity. Before your users can use your app, you first have to know who they are. In this talk, we walk through how Amazon Cognito can help you deliver a unified identity management and authentication experience and help you mediate access to AWS services. We then discuss Amazon Cognito features, best practices, architectures, and how you can use Amazon Cognito to build your app today.
+
+SEC220-S: Avoiding cloud security anti-patterns the right way
+
+Time and again, we see enterprises experience data breaches even with significant investments in cloud security tools and automation processes. Research has shown recurring patterns around enterprise cloud security practices that end up being ineffective and, in some cases, weakening the cloud security posture. In this session, we identify five cloud security anti-patterns that enterprises should avoid and suggest best practices to follow when implementing security around cloud environments. This presentation is brought to you by Palo Alto Networks, an APN Partner.
+
+SEC221-S: Securing the Super Bowl at CBS Interactive
+
+CBS Interactive leverages the flexibility of the cloud to support its extensive online content network. In this session, learn how CBS Interactive streams major events from March Madness to the Super Bowl at speed and scale while deploying self-learning artificial intelligence security systems that create a self-defending cloud that is secure by default. This presentation is brought to you by Darktrace, an APN Partner.
+
+SEC222-S: Protecting you from you: Misconfiguration-caused breaches
+
+According to Gartner,"through 2022, at least 95 percent of cloud security failures will be the customer's fault." In this session, Roy Feintuch, cloud chief technologist at Check Point Software, outlines the problem statement while providing surprising examples of publicly known security breaches. He then provides best practices and methodologies to mitigate these breaches using detective, reactive, and preventative measures, as well as compliance and configuration monitoring. As part of the session, Feintuch also discusses alternative proprietary techniques that augment AWS native services and capabilities, like AWS Control Tower and AWS Lambda. This session is brought to you by Check Point Software, an APN Partner.
+
+SEC301-R1: Automating threat detection and response in AWS
+
+This workshop provides the opportunity for you to get familiar with AWS security services and learn how to use them to identify and remediate threats in your environment. Learn how to use Amazon GuardDuty, Amazon Macie, Amazon Inspector, and AWS Security Hub to investigate threats during and after an attack, set up a notification and response pipeline, and add additional protections to improve your environment's security posture. All attendees need a laptop and familiarity with core AWS services.
+
+SEC302-R1: DevSecOps: Integrating security into pipelines
+
+In this workshop, you practice running an environment with a test and production deployment pipeline. Along the way, we cover topics such as static code analysis, dynamic infrastructure review, and workflow types. You also learn how to update your process in response to security events. We write new AWS Lambda functions and incorporate them into the pipeline, and we consider capabilities such as AWS Systems Manager Parameter Store and AWS Secrets Manager.
+
+SEC304-R1: Compliance automation: Set it up fast, then code it your way
+
+In this workshop, learn how to detect common resource misconfigurations using AWS Security Hub. We also teach you how to extend coverage by deploying additional sets of existing rules or your own custom AWS Config rules using our Rule Development Kit (written in Python), as well as how to automatically remediate compliance violations when they are detected. Basic Python skills and a basic understanding of Boto 3 are required for the coding portion of this workshop. All attendees need a laptop, an active AWS account, an AWS IAM administrator, and familiarity with core AWS services.
+
+SEC305-R1: Achieving security goals with AWS CloudHSM
+
+In this talk, we compare AWS CloudHSM with other AWS cryptography services for common use cases. We dive deep on how to build scalable, reliable workloads with CloudHSM, and we teach you how to configure the service for performance, error resilience, and cross-region redundancy.
+
+SEC308: Managing user permissions at scale with AWS SSO
+
+AWS Organizations and AWS Single Sign-On (SSO) shifted the AWS cloud management model from separate accounts with unique identities to hierarchical accounts with common identities. Together they provide a simpler model to manage access within an account hierarchy, while providing users a portal from which to access their assigned accounts and roles. This session explains the latest AWS SSO security and administration features and best practices for managing permissions at scale, whether you administer your identities in AWS SSO or in Active Directory.
+
+SEC309: [NEW LAUNCH!] Dive Deep into IAM Access Analyzer
+
+AWS Identity and Access Management Access Analyzer is a new capability for security teams and administrators to validate that resource policies only provide the intended public and cross-account access. IAM Access Analyzer uses automated reasoning, which applies logic and mathematical inference to inspect resource policies. We will demonstrate how to use IAM Access Analyzer to identify resource policies that don't comply with your organization's security requirements and then proactively protect resources from unintended access. Learn how Millennium Management uses IAM Access Analyzer across their company to analyze policies associated with Amazon S3 buckets, AWS KMS keys, and more.
+
+SEC310: Security best practices for the Amazon EC2 instance metadata service
+
+The Amazon EC2 instance metadata service (IMDS) provides a rich set of relevant data to software on that instance. The IMDS ability to perform introspection about the runtime environment, as well as to pass parameters and code through user data, greatly simplifies software development and deployment. At the same time, an instance's metadata includes private information, such as AWS credentials, that should be limited to the software or humans that need access. In this session, we take a close look at the IMDS and mechanisms for protecting it from unintended access, including new capabilities provided by the recently launched IMDS version.
+
+SEC312: [NEW LAUNCH!] Introducing Amazon Detective
+
+Amazon Detective makes it easy to investigate, analyze, and quickly identify the root cause of potential security issues or suspicious activities. Amazon Detective automatically collects log data from your AWS resources and uses machine learning, statistical analysis, and graph theory to help you visualize and conduct faster and more efficient security investigations. Amazon Detective is integrated with AWS security services such as Amazon GuardDuty and AWS Security Hub as well as AWS partner security products. In this session, we will also demonstrate Amazon Detective and provide a walkthrough of how to investigate a security finding.
+
+SEC313-S: Beyond the scripts: Governance automation master class
+
+In this session, we define enterprise cloud governance and explain its role in achieving security, compliance, and architecture best practices. Using real-world case studies from Fortune 100 enterprises, we demonstrate how governance automation is being used to accelerate and elevate the role of cloud operations (DevOps) while increasing visibility and control for the enterprise. This presentation is brought to you by Turbot HQ, an APN Partner.
+
+SEC314-R1: Building and operating a private certificate authority on AWS
+
+In this workshop, we cover private certificate management on AWS employing the concepts of least privilege, separation of duties, monitoring for privileged actions and automation. You learn operational aspects of creating a complete certificate-authority (CA) hierarchy, building a simple web app, and issuing a private certificate. You learn how job functions-including CA Admins, application developers, and security admins-can follow the principal of least privilege to perform various functions associated with certificate management. The workshop includes quizzes throughout with information to enhance your understanding of the AWS Certificate Manager Private Certificate Authority capability.
+
+SEC316-R1: Access control confidence: Grant the right access to the right things
+
+As your organization builds on AWS, granting developers and applications the right access to the right resources at the right time for the right actions is critical to security. In this session, we share an approach to setting permissions in AWS environments. We demonstrate configuring permission guardrails and delegating permission administration to development teams. We show how to set fine-grained permissions that scale with your organization using attribute-based access control (ABAC). Finally, we discuss how to confidently dial in permissions. We guide you through each step and provide examples, helping you gain the confidence to set access controls in your organization.
+
+SEC318-R1: DIY guide to runbooks, incident reports, and incident response
+
+In this session, we explore the cost of incidents and consider creative ways to look at future threats. We walk you through the threat landscape, looking at what has happened over the last year. Learn about the best open-source tools to have in your security arsenal now and in the future to help you detect and deal with the threats of today and tomorrow. Finally, learn how to identify where these threats are coming from and how to detect them more easily. The information in this session is provided by various teams and sources.
+
+SEC319-R1: Deep dive on security in Amazon S3
+
+At AWS, security is our top priority, and Amazon Simple Storage Service (Amazon S3) provides some of the most advanced data-security features available in the cloud today to help you mitigate security risks. In this chalk talk, learn directly from the AWS engineering team that builds and maintains Amazon S3 security functionality such as encryption, block public access, and much more. Bring your feedback, questions, and expertise to discuss innovative ways to ensure that your data is available only to the users and applications that need it.
+
+SEC320-R1: We all want the same things: Meeting controls objectives on AWS
+
+This session is for technical practitioners as well as audit and compliance professionals. In it, we focus on bridging between IT and infosec technical experts and their stakeholders on audit and compliance teams so that both groups learn about the other's domain and foster closer, more productive working relationships. These groups want the same things; we show you how to work together to get them by using the range of capabilities and patterns on AWS for implementing and achieving controls objectives.
+
+SEC321-R2: Continuous Security Monitoring and Threat Detection with AWS
+
+In this session, we discuss a number of AWS services involved in threat detection and remediation and we walk through some real-world threat scenarios. You get answers to your questions about threat detection on AWS and learn about the threat-detection capabilities of Amazon GuardDuty, AWS Security Hub, Amazon Macie, and AWS Config, and the available remediation options. For each scenario, we also review methods to remediate the threat using AWS CloudFormation, Amazon S3, AWS CloudTrail, Amazon VPC flow logs, Amazon CloudWatch Events, Amazon SNS, DNS logs, AWS Lambda, and Amazon Inspector.
+
+SEC322-R2: Deep dive into AWS KMS
+
+In this session, learn the dos and don'ts of using AWS Key Management Service (AWS KMS). We cover topics such as envelope encryption, encryption context, and permissions. We also dig into common scenarios that customers encounter. At the end of this presentation, you leave with a working knowledge of how to use the permissions and authorization systems built into AWS KMS and with an understanding of how to appropriately encrypt data using AWS KMS.
+
+SEC323-R1: Building a DevSecOps culture
+
+In this chalk talk, we examine how to develop foundational practices and scaling functions to instantiate and resiliently operate a DevSecOps model. To achieve this shift, we analyze common success patterns, mechanisms for culture change, and mechanisms to reinforce this culture change. Takeaways include a blueprint for building a DevSecOps operating model in your organization, an understanding of the security practitioner's point of view and how to embrace it to drive innovation, and ways to identify operating characteristics in your organization and use them to drive a strategy for DevSecOps.
+
+SEC325-R2: Architecting security & governance across your landing zone
+
+A key element of your AWS environment is having a framework to provide resource isolation, separation of duties, and clear billing separation (i.e., a landing zone). In this session, we discuss updates to multi-account strategy best practices for establishing your landing zone, new guidance for building organizational unit structures, and a historical context. We cover security patterns, such as identity federation, cross-account roles, consolidated logging, and account governance. We wrap up with considerations on using AWS Landing Zone, AWS Control Tower, or AWS Organizations.¬†We encourage you to attend all the landing zone sessions. Search for 'landing zone' in the session catalog.
+
+SEC326-R1: AWS identity-dynamic permissions using employee attributes
+
+To access AWS resources, you can configure your IdP in AWS to be your corporate directory, letting your users federate into AWS for single sign-on access to AWS accounts using their corporate credentials. Along with employee credentials, your directory also stores employee attributes such as cost center, department and email address. Now, you can rely on the employee attributes to create fine-grained permissions in AWS. Permissions can then be¬† automatically applied based on attributes when employees change departments or new employees are added in AWS.
+
+SEC327-R1: Maturing and scaling your security remediation
+
+Leveraging multiple AWS security data sources and partner sources, we demonstrate how you can get started and move to full, automated remediation at scale. We also introduce Aero, an AWS Professional Services remediation offering, and we showcase how you can integrate it to help augment your existing playbooks.
+
+SEC329-S: Zoom scales security capabilities with Splunk and AWS
+
+Scaling in a predictable and cost-effective way is a priority for most organizations. This was the case for Zoom Video Communications, which needed a platform to ingest its security data in order to reduce blind spots in a cost-effective manner. In this session, learn how Zoom leveraged Splunk's root cause investigation and predictive analytics capabilities to help secure its AWS environment, monitor its applications and infrastructure, and predict potential security risks before they happen. This presentation is brought to you by Splunk, an APN Partner.
+
+SEC330-R1: Protecting workloads on AWS from the instance to the edge
+
+In this workshop, you will use AWS WAF, Amazon Inspector, and AWS Systems Manager to build an effective set of controls around your AWS workloads. Learn to use AWS WAF to mitigate common attack vectors against web applications such as SQL injection and cross-site scripting. Additionally, learn how to use Amazon Inspector and Systems Manager to automate security assessments and operational tasks such as patching and configuration management across your Amazon Elastic Compute Cloud (Amazon EC2) fleet. To do this workshop, you'll need a laptop, an active AWS Account, an AWS IAM administrator, and familiarity with core AWS services.
+
+SEC331-R1: Using AWS Service Catalog tools to govern multi-region environments
+
+With open-source tools that AWS has developed to complement AWS Service Catalog, you can orchestrate the provisioning of AWS resources across your organization to enforce security constraints and guardrails. In this session, learn how to build and deploy products as we work through challenges faced by customers who would like to provision AWS resources across large AWS estates with fine-grained security controls. We look at how the AWS Service Catalog tools can help you solve some of these challenges by enabling you to create, share, and provision products and by permitting self-service for users with security guardrails in place.
+
+SEC333-R1: Protect distributed web apps: AWS WAF & AWS Firewall Manager
+
+Web application firewalls (WAFs) give developers an added layer of protection and allow them to block unwanted traffic that would otherwise reach the application. Security administrators use WAFs to minimize the attack surface of an application, enforce compliance, and hot-patch zero-day external threats. In this chalk talk, learn how to use AWS WAF and AWS Firewall Manager to standardize web application security across many accounts and resources. Further, learn how security administrators can use these services to define and enforce baseline web application security across scaled applications while giving developers the freedom to write and manage their own rules.
+
+SEC335-R1: How to deploy secure workloads with AWS Control Tower
+
+Learn how AWS Control Tower automates the creation of a secure and compliant landing zone with best-practice blueprints for a multi-account structure, identity and federated access management, a central log archive, cross-account security audits, and workflows for provisioning accounts with pre-approved configurations. We discuss guardrails-pre-packaged governance rules created for security, operations, and compliance-that you can apply enterprise-wide or to groups of accounts to enforce policies or detect violations. Finally, learn how to easily manage and monitor all this through the AWS Control Tower dashboard. We encourage you to attend all of the landing zone sessions. Search for 'landing zone' in the session catalog.
+
+SEC336-S: Pacific Dental shifts left with McAfee for cloud security automation
+
+Cloud-native architecture moves faster than traditional security best practices are intended for. During Pacific Dental's move to AWS, it enhanced and operationalized its security to match the speed and scale of the cloud, using a cloud access security broker (CASB) to proactively address the shared responsibility model and risks to their data. As the speed of the DevOps process increases, security models need to"shift left" along with them, ensuring that resources, containers, and code comply with best practices to produce secure systems. Join this session to learn how Pacific Dental leverages McAfee's MVISION Cloud to address these challenges and fulfill its security responsibility on AWS. This presentation is brought to you by McAfee, an APN Partner.
+
+SEC337: Toyota Motor North America: Securing the cloud with AWS KMS
+
+Imagine being tasked with collecting, analyzing, and securing data from hundreds of sources around the world, in multiple cloud and on-premises environments. Toyota Motor North America, along with Booz Allen Hamilton, has created a secure, cloud-native solution to analyze billions of messages per day using AWS Key Management Service (AWS KMS). We discuss how AWS KMS with AWS native services provides granular access and secures corporate assets with data segregation using AWS KMS encryption. Toyota uses AWS Glue, Amazon Athena, and Amazon SageMaker to generate actionable intelligence in its corporate IT and vehicle telematics environments to solve its business and analytics challenges.
+
+SEC338: How FINRA builds serverless data-masking pipelines across accounts
+
+FINRA ingests up to 100 billion trading data records daily that need to be obfuscated securely when moving them. This data replication and obfuscation supports production data analysis, setup environments for user acceptance testing (UAT), and troubleshooting production issues. With the automated, one-click solution, FINRA teams can leverage the pipelines and within hours (versus days) get data for analysis, development, and testing. The solution is serverless, leveraging AWS Step Functions, AWS Lambda, Amazon ECS/AWS Fargate, Amazon SNS, and Amazon SQS. FINRA plans to open source this by the end of this year so attendees will be able to adopt the solution.
+
+SEC339: Actionable threat hunting in AWS
+
+Learn how WarnerMedia leveraged Amazon GuardDuty, AWS CloudTrail, and its own serverless inventory tool (Antiope) to root out cloud vulnerabilities, insecure behavior, and potential account compromise activities across a large number of accounts. We cover how WarnerMedia centralizes and automates its security tooling, offer detailed Splunk queries for GuardDuty and CloudTrail, and discuss how Antiope is used for vulnerability hunting. We cover the scaling issues incurred during a large enterprise merger. Leave this session with a strategy and an actionable set of detections for finding potential data breaches and account compromises.
+
+SEC340-R1: Using AWS KMS for data protection, access control, and audit
+
+This session focuses on how customers are using AWS Key Management Service (AWS KMS) to raise the bar for security and compliance with their workloads. Along with a detailed explanation of how AWS KMS fits into the AWS suite of services, we walk you through popular and sophisticated examples of how AWS KMS can be deployed in the context of access control, separation of duties, data protection, and auditability. We also cover the latest developments in AWS KMS functionality that will further expand the range of use cases to include additional cryptographic capabilities and system integrations.
+
+SEC341-R1: Set permission guardrails for multiple accounts in AWS Organizations
+
+AWS Organizations provides central governance and management for multiple accounts. Central security administrators use service control policies (SCPs) with Organizations to establish controls that all AWS Identity and Access Management (IAM) principals (users and roles) adhere to. For example, you can use SCPs to restrict access to specific AWS Regions or prevent your IAM principals from deleting common resources, such as an IAM role used by your central administrators. You can also define exceptions to your governance controls, restricting service actions for all IAM entities (users, roles, and root) in the account except a specific administrator role.
+
+SEC342-R1: Use AWS Security Hub to act on your compliance and security posture
+
+Join us for this chalk talk where we discuss how to continuously assess and act on your AWS security and compliance issues using AWS Security Hub. Learn how to enable integrations with Security Hub to aggregate, normalize, and prioritize security findings from AWS services and partner products. You also learn how to enable and interpret compliance checks based on industry standards and best practices, such as the Center for Internet Security (CIS) AWS Foundations Benchmark. Lastly, learn how to configure Security Hub for fully automated or semi-automated response and remediation actions.
+
+SEC343-R1: Provable access control: Know who can access your AWS resources
+
+The AWS Automated Reasoning Group focuses on strengthening the security foundations of AWS and provides customers with tools to verify their own security posture. In this session, we discuss the evolution of automated reasoning technology at AWS and how it works in the services in which it is embedded, including Amazon Simple Storage Service (Amazon S3), AWS Config, and Amazon Macie. Learn what's ahead for automated reasoning at AWS and the customer problems it continues to solve in the security and broader cloud space.
+
+SEC344-R1: Scaling security group management with AWS Firewall Manager
+
+Security groups make it easy for developers to control access to resources launched in an Amazon Virtual Private Cloud (Amazon VPC). This lets developers define the traffic that should be allowed to reach resources from public or private subnets. Developers who manage scaled applications are looking for easy ways to standardize and audit security groups across many accounts and VPCs. In this session, learn how to use AWS Firewall Manager to centrally configure and manage security groups across your organization. You also learn how to create rules to apply policies across accounts and enable remediation workflows to take action on compliance issues.
+
+SEC345-R3: Protecting your IoT fleet
+
+Whether you're selling millions of IoT devices to customers or deploying thousands to your own factories, protecting your IoT fleet can be a challenge. With AWS, you can quickly deploy, manage, and audit your devices' security posture consistently and continuously. In this builders session, learn how to securely deploy a provided IoT sensor with its own certificate, register the device with a simple function, and then audit the device's security posture against best practices. Each attendee should be an AWS IAM administrator and needs a laptop, an active AWS account, and a familiarity with core AWS services.
+
+SEC346-R3: Automating remediation of noncompliant configurations
+
+This builders session focuses on developing automation to immediately remediate issues and notify security teams of noncompliance to expected baselines through several simple yet powerful implementations of AWS Config and AWS Lambda. All attendees need a laptop, an active AWS Account, an AWS IAM Administrator, and a familiarity with core AWS services.
+
+SEC347-R3: DNS across a multi-account environment
+
+Many financial institutions are concerned about how data security issues can occur through overlooked foundational services in the cloud-for example, over DNS. In this builders session, learn how to engineer your DNS infrastructure across a multi-account environment to avoid accidental data leakage and guard against"DNS tunneling" while enabling access between your Amazon VPC and on-premises network without the need for dedicated DNS proxies. Please bring your laptop.
+
+SEC348-R3: Protecting sensitive data in your AWS workloads
+
+As you start moving your data to AWS, you want to employ the appropriate controls and mechanisms to protect it. In this builders session, learn how to protect data on AWS using services such as AWS Identity and Access Management (IAM), AWS Key Management Service (AWS KMS), AWS CloudHSM, and AWS Secrets Manager. In particular, learn about data protection best practices that you can incorporate into your AWS architecture and use in the pursuit of your security and compliance objectives. Please bring your laptop.
+
+SEC349-R3: Establishing cloud controls for financial institutions
+
+Highly regulated companies moving to the cloud face compliance requirements and control frameworks imposed by multiple regulatory entities. Protection of data in the cloud differs from protection in the on-premises environment. Business objectives, operational risks, and compliance requirements are inputs into the building of your control catalog. Establishing the controls at the start helps you establish the guardrails to protect data and meet regulatory compliance. In this builders session, learn how to define the controls required for your unique implementation and the types of data that you plan to store in the cloud. Please bring your laptop.
+
+SEC350-R3: Getting started with the HIPAA Quick Start on AWS
+
+Many organizations need to securely host personal health information (PHI) on AWS. In this builders session, using the HIPAA Quick Start on AWS, learn about the shared responsibility model and various AWS security services to help you start building an AWS environment suitable for PHI workloads. Attendees should have intermediate knowledge of HIPAA compliance. Please bring your laptop.
+
+SEC351-R3: Getting started with machine learning & data science for security
+
+This builders session is for security professionals who want to start using machine learning and data science techniques to gain insight from their security-related data. We discuss the types of insights these techniques can facilitate (finding repeating patterns, identifying anomalous activity, etc.), and we demonstrate how you can jump-start your efforts to explore your own security-related data by using AWS. Join us if you consider yourself a security professional (with at least a 200-level understanding) who has an introductory familiarity with ML and data science concepts and terminology. Please bring your laptop.
+
+SEC352: National Australia Bank: Automating governance in Financial Services
+
+National Australia Bank (NAB) is migrating hundreds of sensitive, regulated financial workloads to the cloud. This session focuses on the automated approach that NAB has taken to evolve and scale its ability to meet its strict risk and regulatory requirements. Specifically, NAB describes its cloud governance framework and the automated enforcement platform (Deputy) that supports it and that brings governance and technology together to ensure that compliant workloads are deployed in the cloud. The talk dives deep into the architecture of Deputy, which uses AWS Lambda, Amazon SNS, Amazon SQS, Amazon DynamoDB, and Amazon RDS to create a cost-efficient, scalable solution.
+
+SEC353-R4: Threat detection with Amazon GuardDuty
+
+Amazon GuardDuty is a threat detection system that is purpose-built for the cloud. Once enabled, GuardDuty immediately starts analyzing continuous streams of account and network activity in near real time and at scale. You don't have to deploy or manage any additional security software, sensors, or network appliances. Threat intelligence is pre-integrated into the service and is continuously updated and maintained. In this session, we introduce you to GuardDuty, walk you through the detection of an event, and discuss the various ways you can react and remediate. Please bring your laptop.
+
+SEC354-R1: How the BBC uses AWS Secrets Manager to manage secrets
+
+Join this chalk talk to hear about the BBC's journey of adopting AWS Secrets Manager for lifecycle management of its secrets such as database passwords, API keys, and third-party keys. In this session, you learn about the key features and benefits of AWS Secrets Manager and what factors to consider when adopting Secrets Manager across your enterprise. You also learn how the BBC chose to go all in on Secrets Manager to meet their secrets management needs.
+
+SEC355: Speculation & leakage: Timing side channels & multi-tenant computing
+
+In January 2018, the world learned about Spectre and Meltdown, a new class of issues that affects virtually all modern CPUs via nearly imperceptible changes to their micro-architectural states and can result in full access to physical RAM or leaking of state between threads, processes, or guests. In this session, we examine one of these side-channel attacks in detail and explore the implications for multi-tenant computing. We discuss AWS design decisions and what AWS does to protect your instances, containers, and function invocations. Finally, we discuss what the future looks like in the presence of this new class of issue.
+
+SEC356: How to prepare for & respond to security incidents in your AWS environment
+
+In this session, we walk through what you need to do to be prepared to respond to security incidents in your AWS environments. We start off with planning best practices, move through the configurations that will help deliver protective and detective controls, then finally show you how you can improve your response capability. Learn how AWS Organizations, AWS Identity and Access Management (IAM), Amazon GuardDuty, AWS Security Hub, AWS Lambda, AWS WAF, AWS Systems Manager, and AWS Key Management Service (AWS KMS) can help take you from protect and detect to respond and recover.
+
+SEC357-R2: Fortifying web apps against bots and scrapers with AWS WAF
+
+Developers are looking for easier ways to manage application layer threats at scale. In this workshop, work in a provisioned sandbox environment that lets you run L7 attacks from a simulator instance against a website protected by AWS WAF. Also use a pre-deployed AWS WAF automation and analytics solution using Amazon Elasticsearch Service, Kibana, and Amazon Athena. Finally, use this solution to create security operations dashboards, to analyze attacks against your web application, to automate your AWS WAF rules, and to create an intelligent defense for your web application fleet at scale. Please bring your laptop.
+
+SEC401-R1: Using the AWS Encryption SDK for multi-master key encryption
+
+In this workshop, learn the basics of client-side encryption, perform encrypt/decrypt operations using AWS Key Management Service (AWS KMS) and the AWS Encryption SDK, and discuss security and performance considerations when implementing client-side encryption in your software. We cover the basic challenges of this domain: a best practice for protecting data end-to-end with client-side encryption; KMS-style services and their uses, including AWS KMS; the open-source, open-format AWS Encryption SDK; and considerations for advanced integrations, such as performance trade-offs and high-availability strategies. All attendees need a laptop, an active AWS account, an AWS IAM administrator, and familiarity with core AWS services.
+
+SEC402-R1: AWS identity: Permission boundaries & delegation
+
+A permissions boundary is an AWS IAM feature that makes it easier to delegate permissions management to trusted employees. These employees can now configure IAM permissions to help scale permissions management and move workloads to AWS faster. For example, developers can create IAM roles for AWS Lambda functions and Amazon EC2 instances without exceeding certain permissions boundaries. In this workshop, using a sample application that we provide, practice delegating IAM permissions management so that developers can create roles without being able to either escalate their permissions or impact the resources of other teams. All attendees need a laptop and familiarity with core AWS services.
+
+SEC403-R1: AWS Identity: Using Amazon Cognito for serverless consumer apps
+
+In this workshop, you learn how to build a serverless customer-facing microservices application demonstrating end-to-end authentication and authorization using Amazon Cognito, Amazon API Gateway, AWS Lambda, and all things AWS Identity and Access Management (IAM). You have the opportunity to build an end-to-end functional app with a secure identity provider showcasing user authentication patterns. To participate, you need a laptop, an active AWS account, an AWS IAM administrator, and familiarity with core AWS services.
+
+SEC404-R1: Building secure APIs in the cloud
+
+APIs provide a great opportunity for enterprises to quickly and easily develop and integrate applications. However, it's a challenge to build enterprise-grade security measures into APIs in to protect data and meet compliance requirements. In this workshop, you get hands-on experience applying security best practices to improve the security posture of APIs built on AWS. We examine best practices for security and many of the security features and services available on the AWS platform, including Amazon Cognito, AWS WAF, Amazon API Gateway input validation, API Gateway usage plans, API Gateway authentication and authorization, and AWS X-Ray.
+
+SEC405-R1: Access management in 4D
+
+In this session, we take 'who can access what under which conditions' and deeply explore 'under which conditions.' We demonstrate patterns that allow you to implement advanced access-management workflows such as two-person rule, just-in-time privilege elevation, real-time adaptive permissions, and more using advanced combinations of AWS identity services, a range of environmental and contextual information sources, and automated and human-based approval workflows. We keep things fun, engaging, and practical using a lively mix of demos and code that you can take home and implement in your own environment.
+
+SEC406-R1: Deep dive on AWS CloudHSM
+
+Organizations building applications that handle confidential or sensitive data are subject to many types of regulatory requirements. They also often rely on hardware security modules (HSMs) to provide validated control of encryption keys and cryptographic operations. AWS CloudHSM is a cloud-based HSM that enables you to easily generate and use your own encryption keys on the AWS Cloud using FIPS 140-2 Level 3 validated HSMs. In this talk, we demonstrate best practices in configuring and scaling your CloudHSM cluster, implementing cross-region disaster recovery, and optimizing throughput.
+
+SEC408-R1: Security benefits of the Nitro architecture
+
+The AWS Nitro architecture is fundamental to the Amazon EC2 service. With Nitro, each host in the core compute platform is built with trusted computers that simulate the outside world and surround an untrusted CPU and memory computer that runs workloads. Those trusted Nitro computers appear to the customer workload computer as I/O devices that are accessible across the PCIe bus. Most traditional virtualization work is done via hardware emulation. The Nitro computers carefully control the workload computer access, providing a layer of protection. Learn about the security properties of this powerful architecture, which significantly increases cloud reliability and performance.
+
+SEC409-R2: Fine-grained access control for serverless apps
+
+In this small-group, hands-on builders session, you take a guided tour of how to build enterprise-grade serverless web applications with fine-grained, directory-based access controls. We show how to take a regular Express.js app, move it to AWS Lambda, add authentication using Amazon Cognito with SAML federation, and implement fine-grained authorization based on an external identity provider's group membership (e.g., LDAP/AD). Services used: Amazon Cognito, AWS Lambda, Amazon API Gateway, Amazon DynamoDB, AWS CDK, and AWS Amplify. Prerequisites: Proficiency in basic JavaScript/TypeScript. Basic experience with AWS is recommended but not mandatory. Please bring your laptop.
+
+# Storage 
+
+STG201-L: Leadership session: Storage state of the union
+
+In this leadership session, we highlight the latest innovations across all AWS storage services. Join us to learn what's new in AWS object, file, and block storage, as well as in hybrid, edge, and data transfer services. You will also hear from major AWS storage customers about how they're using AWS storage to create a competitive advantage in their businesses.
+
+STG202: What's new in AWS file storage
+
+In this session, we focus on innovations in the fast-growing AWS file-storage portfolio, including Amazon Elastic File System (Amazon EFS), Amazon FSx for Windows File Server, and Amazon FSx for Lustre.
+
+STG203-R2: What's new with Amazon S3 and Amazon S3 Glacier
+
+Amazon Simple Storage Service (Amazon S3) is the largest and most performant, secure, and feature-rich object-storage service. With Amazon S3, organizations of all sizes and industries can store any amount of data for any use case, including applications, IoT, data lakes, analytics, backup and restore, archive, and disaster recovery. In this session, we review recently launched Amazon S3 features such as Amazon S3 batch operations, Amazon S3 Glacier Deep Archive, Amazon S3 Block Public Access, and more to come.
+
+STG204-R1: Get your data to AWS: How to choose and use data migration services
+
+You have data you need to move to the cloud-either once for a migration, or repeatedly for ongoing workflows. AWS data migration and transfer services move data securely and efficiently into and out of AWS. In this session, learn how to choose and combine services-including AWS DataSync, the AWS Snow family, CloudEndure, and AWS Transfer for SFTP-for your different use cases. Learn from the real-world experiences of enterprise customers and gain practical advice to help you get started.
+
+STG205-R2: Data migration: Understanding the technologies and options
+
+AWS offers a variety of data migration and transfer services and tools to help you move everything from gigabytes to petabytes of data using your networks, our networks, the mail, or even a tractor trailer. In this session, we briefly cover a few key data-migration services and products, including the AWS Snow family, AWS DataSync, and CloudEndure Migration. Then you can join the discussion about specific customer use cases, including yours. Come learn which technologies are best for your various needs, and how they work.
+
+STG206-R1: Stop managing SFTP servers today
+
+You currently operate SFTP servers on-premises or in the cloud. Would you like to stop thinking about security, integrations, scaling, and application access? In this session, sit down with an AWS expert and get hands-on with AWS Transfer for SFTP. AWS SFTP is our fully managed SFTP service that integrates with your existing authentication systems, seamlessly scales up and down with your network traffic, and transparently utilizes Amazon S3 for storage, simplifying file processing and application access. Please bring your laptop.
+
+STG207-S: Five hybrid cloud backup and disaster recovery mistakes to avoid
+
+Protecting and backing up your data across a heterogeneous hybrid environment is not an easy task. Learn about the top pitfalls and mistakes to avoid if you are backing up your legacy on-premises data to AWS or protecting your Amazon EC2 or Amazon RDS cloud-native workloads. Further, learn how progressive organizations are using Cohesity's backup and data management software to redefine success for backup, archival, and disaster recovery on AWS. This presentation is brought to you by Cohesity, an APN Partner.
+
+STG208: Backup-and-restore and disaster-recovery solutions with AWS
+
+Disasters, failures, and threats come in all shapes and sizes and can significantly impact your business. In this session, learn how to modernize your backup and disaster recovery (DR) architectures by employing hybrid models to the cloud as well as backup and DR in the cloud. The session includes discussions of the various architectures that customers are using in their backup and DR implementations, as well as the AWS services and building blocks used for backup and DR. We also discuss common architectures employed by customers leveraging third-party backup and DR tools from AWS backup and DR partners.
+
+STG210-S: Real-world Veeam backup and disaster recovery with AWS: A customer view
+
+Join AWS customers and experts as they talk about Veeam Availability Suite backup and recovery with AWS. No matter where you are in your journey with AWS-from planning to workload migration to production-this session offers you valuable tips and lessons from AWS customers. This is an interactive session with opportunities to engage with Veeam and AWS experts who share best practices and strategies for cloud data management. This presentation is brought to you by Veeam, an APN Partner.
+
+STG211: How to use AWS storage for on-premises file-based applications
+
+Many organizations have on-premises file storage supporting local users and applications, yet they want to leverage cloud storage to reduce their infrastructure-management burden and costs. AWS offers storage options that you can use in hybrid cloud architectures, including File Gateway and Amazon S3, Amazon EFS, and Amazon FSx for Windows File Server. In this session, learn how you can use AWS storage for on-premises use cases, including user home directories, cloud-backed file shares for applications, content repositories, analytics workloads, and enterprise business applications. Gain an understanding of what service to use in different scenarios, hear customer examples, and see a demonstration.
+
+STG212: Managing your data at scale with Amazon S3 storage management tools
+
+As customers grow to storing millions of objects and terabytes of data or more on Amazon S3, it becomes increasingly valuable to use tools and automation to handle that scale. In this session, we go into depth on Amazon S3 lifecycle management, batch operations, inventory reports, and other features that can be used to be help better understand, optimize, and perform actions across storage at scale.
+
+STG213: Storage for hybrid cloud and edge computing: Bring AWS to you
+
+If you want to use cloud storage, but still have applications in a data center, or remote field operations that require computing and storage capabilities, this session is for you. In it, we explain the services that can make AWS storage a seamless extension of your existing on-premises infrastructure and application investments to support business operations almost anywhere in the world. Get educated on the continuum of capabilities that you can choose to bring to your site, including AWS Outposts storage options, AWS Storage Gateway, AWS Snowball Edge, Amazon S3 Transfer Acceleration, and more.
+
+STG214: Data migration and edge computing with the AWS Snow family
+
+Many organizations still have data they want to move to AWS, and have disconnected, remote field operations that require local computing capabilities. The AWS Snow family-AWS Snowball, AWS Snowball Edge, and AWS Snowmobile-helps you move large quantities of data offline and enables data processing and storage at edge locations when network capacity is constrained or nonexistent. This session provides an update on the Snow family and dives into the operational details of migrating data and how to build edge computing architectures with Snowball Edge. Learn when and how to use the service for your migration and computing needs.
+
+STG217: Shift your tape backups to AWS to save time and money
+
+IT operations teams are asked by business stakeholders to store more data for backup, archiving, and compliance reasons, often with less budget and fewer people. If you face this challenge, see how AWS Storage Gateway's tape-gateway configuration shifts tape backups and archives to AWS. This enables you to use the lowest-cost storage in the cloud for backups-without changing workflows or applications. Learn how tape gateways work, hear from an AWS customer how and why they are using one, and see a demonstration. Gain understanding of the business-case and deployment steps to move your tape backups to AWS.
+
+STG220: How to move 700 TB over the wire to AWS with AWS DataSync
+
+Enterprises often face the challenge of migrating vast amounts of data from their on-premises storage environments to AWS. To simplify such migrations, AWS offers many services, including AWS DataSync, for accelerated online transfer. In this interactive session, we show how one customer, Autodesk, successfully migrated over 700 terabytes (TB) of data from their Dell EMC Data Domain storage systems to Amazon Simple Storage Service (Amazon S3) with minimal setup and administration, within two months. By the end of this session, you'll know when and how to use DataSync to simplify and speed up moving large datasets over the network to AWS.
+
+STG221: SFTP workflows for data lakes and enterprise applications
+
+Sharing files using SFTP (Secure Shell File Transfer Protocol) is still important for many businesses, but running your own SFTP servers and infrastructure can burden IT operations. AWS Transfer for SFTP makes it easy to move your file exchange workloads to the cloud. Learn how the service supports common file transfer use cases for data lakes, analytics, and ERP and CRM applications. See a demonstration of key capabilities, including authentication and networking security options, and get your questions answered.
+
+STG222-R1: Developing a game plan for storage migration to AWS
+
+Do you need to move your storage to AWS? Join this interactive discussion about how to work backward from your on-premises data-center storage resources to create a storage migration plan that will have maximum business impact and highest ROI, while using AWS storage and migration services intelligently. This session is focused on the needs of a senior data center/IT manager and will provide real-world AWS customer examples and lessons learned from our senior solution-architect teams.
+
+STG225-R2: Getting started with hybrid file storage using File Gateway
+
+Learn hands-on how to deploy the file gateway configuration of the AWS Storage Gateway service to get access to virtually unlimited cloud storage for your on-premises file-based applications. The file gateway configuration provides a file share backed by Amazon Simple Storage Service (Amazon S3) that works with existing Windows or Linux applications using SMB or NFS, and gives you low-latency performance with a local cache. You can also use it to store files, database backups, and other data as durable objects in Amazon S3. Please bring your laptop.
+
+STG229-R1: Optimizing Amazon S3 data throughputs, requests, and transfers
+
+Amazon Simple Storage Service (Amazon S3) supports many automated features to help save on storage time and costs. There are some things that customers can avoid to maximize their resources and optimize performance. In this builders session, Amazon S3 experts provide hands-on guidance on optimizing throughputs for large Amazon S3 objects, request rates for small Amazon S3 objects, and data transfers to Amazon S3 over long distances. All attendees should have an AWS account and be able to perform basic Linux commands. Please bring your laptop.
+
+STG230-R2: Creating and running your first job in Amazon S3 batch operations
+
+Come to this session and experience the power of Amazon Simple Storage Service (Amazon S3) batch operations as you perform actions across millions of Amazon S3 objects with just a few simple requests or a single request. Please bring your laptop.
+
+STG236-S: Ensure AWS data recoverability, featuring MassMutual & Boston Scientific
+
+According to recent studies, 84 percent of cloud administrators assume that the cloud provider is responsible for backing up cloud data. But the truth is that data protection is a matter of administration. In this session, we show you how MassMutual and Boston Scientific optimized their data protection by recovery SLA, retention period, and granular and at-scale recovery. We also show you how they protected against ransomware and other threats. Finally, we discuss opportunities and options in regulatory compliance, and we share best practices for exploring the variety of data protection options that Veritas makes available to AWS customers like these. This presentation is brought to you by Veritas Technologies, an APN Partner.
+
+STG237-S: Learn how GMI achieves high performance for its databases
+
+The cloud has made it possible to process massive amounts of data at scale. When it comes to big data sets, human genomic projects are considered to be some of the largest in the world. In this session, we explore how GMI, a leading genomics research company, is running multiple studies to advance development for disease treatment. You learn how the company used fast, reliable on-premises connectivity to cloud storage for quick upload of large data sets to shorten the time required to process each sequence. Additionally, you discover how GMI used NetApp persistent shared storage and Amazon EC2 Spot Instances to achieve cost savings of up to 90 percent. This presentation is brought to you by NetApp, an APN Partner.
+
+STG238: Deep dive: File storage for business-critical applications
+
+Want to learn how to easily take advantage of cloud-native services for existing file-based applications? In this session, we explore how you can use AWS services to easily and cost-effectively load, store, and protect your file-based workloads in the cloud. We dive deep into native features of services such as Amazon EFS-specifically, lifecycle management and provisioned throughput for Linux workloads-and native Active Directory integration for Amazon FSx for Windows File Server, we review how to configure backups with AWS Backup and other storage services, and we show you how to quickly migrate your datasets to the cloud using AWS DataSync and AWS Snowball..
+
+STG239-S: Intuit delivers cloud services to drive customer satisfaction
+
+In this session, learn about Intuit's best practices for moving financial data securely and streamlining data management. Hear from Justin Stottlemyer, director and distinguished engineer at Intuit, about his experience moving critical data quickly using NetApp Cloud Sync. Discover how Intuit uses NetApp Cloud Volumes Service to run its file ingestion service with fast performance and with the required SLA delivered. Plus, learn how Intuit architected and used Amazon EBS, Amazon S3, and AWS Transit Gateway with NetApp Cloud Volumes ONTAP to provide multiprotocol storage services with multiple Availability Zones, high availability, and multi-regional disaster recovery for over 3,400 AWS accounts. This presentation is brought to you by NetApp, an APN Partner.
+
+STG301-R3: Deep dive on Amazon S3 security and management
+
+Learn best practices for data security in Amazon Simple Storage Service (Amazon S3). In this session, we discuss the fundamentals of Amazon S3 security architecture and dive deep into the latest enhancements in usability and functionality. We also investigate options for encryption, access control, security monitoring, auditing, and remediation.
+
+STG302-R: Best practices for Amazon S3 (including storage classes)
+
+Learn best practices for Amazon Simple Storage Service (Amazon S3) security, data protection, storage management, cost optimization, and more. In this session, we look at common Amazon S3 use cases and ways to manage large volumes of data within Amazon S3. Learn more about our latest feature enhancements and how you can get started with each of them. We also talk about ways to monitor and visualize your storage environment.
+
+STG302-R1: Best practices for Amazon S3 (including storage classes) ft. Instructure
+
+Learn best practices for Amazon Simple Storage Service (Amazon S3) security, data protection, storage management, cost optimization, and more. In this session, we look at common Amazon S3 use cases and ways to manage large volumes of data within Amazon S3. Learn more about our latest feature enhancements and how you can get started with each of them. We also talk about ways to monitor and visualize your storage environment.
+
+STG302-R2: Best practices for Amazon S3 (including storage classes), ft. Thomson Reuters
+
+Learn best practices for Amazon Simple Storage Service (Amazon S3) security, data protection, storage management, cost optimization, and more. In this session, we look at common Amazon S3 use cases and ways to manage large volumes of data within Amazon S3. Learn more about our latest feature enhancements and how you can get started with each of them. We also talk about ways to monitor and visualize your storage environment. Further, hear how Thomson Reuters, one of the world's largest news agencies, with a constant requirement to ingest and distribute trusted breaking news globally, has achieved crucial collaboration and content sharing with the help of the cloud.
+
+STG303-R1: Deep dive on Amazon EBS
+
+In this popular session, discover how Amazon Elastic Block Store (Amazon EBS) can optimize performance and costs for workloads on Amazon EC2, such as relational and nonrelational databases, enterprise applications, big data analytics engines, file systems, and media workflows. Learn about new capabilities with Amazon EBS, features and benefits, security techniques, and details about performance and volume types. The target audience includes security administrators, application developers, application owners, and operations personnel who build or manage application infrastructure or storage area networks (SANs).
+
+STG304-R1: Network file system (NFS) evolved: Deep dive on Amazon EFS
+
+In this session, we explore the world's first cloud-scale file system and its targeted use cases. Learn about Amazon Elastic File System (Amazon EFS) features and benefits, how to identify applications that are appropriate for use with Amazon EFS, and details about the service's performance and security models. The target audience is security administrators, application developers, application owners, and infrastructure operations personnel who build or operate file-based applications or NAS.
+
+STG305-R: Build hybrid storage architectures with AWS Storage Gateway
+
+Do you have applications on-premises, need more storage capacity, or require low-latency access to data in Amazon S3? In this session, learn how to use AWS Storage Gateway in a hybrid architecture for workloads such as backup and archival, file shares for applications, accessing content in AWS, or distributed data processing and analytics. We describe representative customer implementations and dive deep into the technical capabilities and best practices for gateway deployments. Learn how you can get virtually unlimited cloud storage for your on-premises needs, reduce costs, speed up your cloud journey, and build the infrastructure for faster innovation.
+
+STG305-R1: Build hybrid storage architectures with AWS Storage Gateway
+
+Do you have applications on-premises, need more storage capacity, or require low-latency access to data in Amazon S3? This session explains how to use AWS Storage Gateway in a hybrid architecture for workloads such as backup and archival, file shares for applications, accessing content in AWS, or distributed data processing and analytics. We describe representative customer implementations and dive deep into the technical capabilities and best practices for gateway deployments. Learn how you can get virtually unlimited cloud storage for your on-premises needs, reduce costs, speed up your cloud journey, and build the infrastructure for faster innovation.
+
+STG306-R1: Deep dive on Amazon FSx for Windows File Server
+
+Amazon FSx for Windows File Server is a service that offers fully managed native Microsoft Windows file systems on AWS. It provides the compatibility and features that your Windows-based applications rely on, including full support for the SMB protocol, Windows NTFS, and Active Directory integration, and the fast performance your Windows applications and users expect, with high levels of throughput and IOPS, and consistent sub-millisecond latencies. In this session, storage administrators and application owners learn how to deploy, scale, and use highly available, highly durable, and elastic Windows file storage integrated with their organization's existing Active Directory environments.
+
+STG307-R1: Amazon S3 & FSx for Lustre: Deep dive on high-performance file storage
+
+A technical deep dive into the Amazon FSx for Lustre service that provides customers a fully managed high-performance file system optimized for workloads such as machine learning, high performance computing (HPC), video processing, financial modeling, and electronic design automation (EDA). In this session, data scientists, researchers, and system administrators learn how to launch a file system that allows applications to access data at hundreds of gigabytes per second with sub-millisecond latencies, allowing them to rapidly process large data stored on long-term data stores like Amazon S3 or on-premises filers.
+
+STG308-R1: Deep dive on security in Amazon S3 and Amazon S3 Glacier
+
+Amazon Simple Storage Service (Amazon S3) and Amazon S3 Glacier provide some of the most enhanced data security features available in the cloud today. In this chalk talk, learn directly from the AWS engineering team that builds and maintains Amazon S3 security functionality, such as encryption, public access visibility, and much more. Bring your feedback, questions, and expertise to discuss innovative ways to ensure that your data is available only to the users and applications that need it.
+
+STG310-R1: Edge computing use cases: Deep dive on AWS Snowball Edge
+
+Many organizations have remote operations that are disconnected from corporate networks and AWS. These operations-for example, mines, ships, farms, or industrial sites-often need to do processing at the edge, potentially before sending data back to AWS. Join this discussion with AWS experts to understand how AWS Snowball Edge enables you to capture, process, and migrate data into and out of AWS in locations where you don't have adequate (or any) network connectivity. Learn the details of running Amazon EC2 instances and AWS Lambda functions with block and object storage on Snowball Edge for common and emerging edge applications.
+
+STG312: Modernize your applications with containers using Amazon EFS
+
+Shared file storage can help you containerize even the pickiest of applications. In this session, we cover best practices for using fully managed Amazon EFS to share data between containers. We walk through how to get started with Amazon EFS for both Amazon ECS and Amazon EKS, we discuss your implementation questions, and then we diagram different architectures and techniques to help you maximize your container deployments.
+
+STG313-R1: Hybrid architectures for database backups & file migrations
+
+¬†In this workshop, you gain hands-on experience using AWS Storage Gateway to protect on-premises data in AWS, recover it locally or in the cloud, and migrate it when the time is right. You also work with AWS Storage Gateway's file interface, or file gateway, and Microsoft SQL Server's native tools to back up to Amazon S3 and then rapidly recover or migrate that database to AWS. Additionally, you learn how to archive on-premises files to Amazon S3 using AWS DataSync and then access those files on-premises using AWS Storage Gateway. Use this session to hone your skills in backing up, archiving, and preparing for application migrations.
+
+STG315-R1: Amazon S3 security settings and controls
+
+Amazon S3 provides several different settings to help you secure your data, controls to ensure that those settings remain in place, and features to help you audit all of the above. In this workshop, we walk you through these capabilities, presenting scenarios to help you apply them for different security requirements.
+
+STG316: Get hands-on & learn best practices for AWS data migrations
+
+The prospect of moving data workloads to the cloud can be daunting, so can making sense of the array of tools, protocols, and mechanisms available to move data into AWS. In this session, we look at online and offline data transfer methods for large amounts of data and vast quantities of small files, including AWS DataSync, AWS Transfer for SFTP, AWS Storage Gateway, and the AWS Snow family. We compare the merits of these services with traditional data transfer practices. Finally, you get hands-on time with AWS Storage Gateway, AWS Snowball, and AWS DataSync.
+
+STG322-R2: Secure data in Amazon S3 and Amazon S3 Glacier
+
+Amazon Simple Storage Service (Amazon S3) and Amazon S3 Glacier provide the most robust security solutions and features to protect your data in the cloud. In this builders session, you get to dive deep into specific security needs for your data, working with an Amazon S3 technical expert to help you make your data more secure in the cloud than it was in your own data center. Please bring your laptop.
+
+STG323-R1: Amazon FSx for Lustre: High-performance file system with Amazon S3
+
+This session is a technical deep dive into the Amazon FSx for Lustre service. FSx for Lustre provides a fully managed high-performance file system for workloads that include high-performance computing, machine learning, and media processing. If you're a data scientist, researcher, or system administrator, learn how to launch a file system that allows file-based applications to access hundreds of gigabytes per second of data with sub-millisecond latencies. We also provide an overview of the integration with existing Amazon S3 data lakes, and teach you how to use FSx for Lustre to burst high-performance workloads from premises. Please bring your laptop.
+
+STG324: Map and drive performance with Amazon FSx for Windows File Server
+
+Join us for a collaborative session where we discuss our new and exciting file-services offering for Windows file storage workloads. In this session, you get to ask questions about specific customer use cases, challenges, and roadblocks. This technical workshop will strengthen your ability to optimize your Windows file servers with Amazon FSx for Windows File Server. Please bring your laptop.
+
+STG326: Deploy fully managed FSx for Windows File Server instances in minutes
+
+Windows file servers are a common occurrence in customer environments. Each Windows file server requires time and effort to provision/de-provision, continual maintenance, and operational overhead. Now, you have a new option. In this hands-on session, in a few clicks deploy fully managed, highly performant Amazon FSx for Windows File Server and file systems, and integrate them directly with your own Active Directory domain or AWS-managed Active Directory.
+
+STG327: Set up a disaster-recovery project with CloudEndure Disaster Recovery
+
+CloudEndure Disaster Recovery makes it quick and easy to shift your disaster-recovery strategy to the AWS Cloud from existing physical or virtual data centers, private clouds, or other public clouds. In this workshop, get started with recovery to AWS. We show you how to set up your disaster-recovery project and immediately begin using CloudEndure, which you can use for recovery to cloud or across Regions. You also learn how to install a CloudEndure agent, monitor replication processes, review cloud staging-area resources, configure target blueprints, launch test instances in AWS, and connect to target machines.
+
+STG328: Build a simple trade-reconciliation platform with AWS services
+
+¬†SFTP servers are common in the Financial Services industry because of their security and ease of use. In this workshop, use AWS Transfer for SFTP, Amazon Simple Storage Service (Amazon S3), AWS Lambda, and Amazon Athena to build a simple trade-reconciliation pipeline to validate end-of-day trading logs. You learn how AWS SFTP links to Amazon S3, how to use Amazon S3 events to process data ingest in real time, and how to visualize using Amazon QuickSight.
+
+STG329-R1: Maximizing storage throughput and performance
+
+Do your applications demand the highest performance from your storage systems? Come learn how to achieve peak performance from Amazon Elastic Block Store (Amazon EBS), Amazon Elastic File System (Amazon EFS), and Amazon Simple Storage Service (Amazon S3). You learn effective use of these services' distributed designs and performance features, and the API best practices to meet any application's high-performance storage requirements.
+
+STG330-S: Tech deep dive: Backup & on-demand disaster recovery with Veeam and AWS
+
+Are you thinking about backing up AWS workloads or using AWS to enhance the availability of workloads? Come learn how leveraging Veeam Cloud Tier backed by Amazon S3 to back up Amazon EC2 instances or other virtual machines can beat ransomware and avoid downtime. In this session, we demonstrate new advanced Veeam capabilities for AWS and how you can leverage disaster recovery on AWS with Veeam. This presentation is brought to you by Veeam, an APN Partner.
+
+STG331-R1: Beyond eleven nines: Lessons from the Amazon S3 culture of durability
+
+Amazon S3 is well known for being designed for eleven nines of data durability. But durability is much more than a formula and a metric. It influences every aspect of how we design, build, deploy, and operate Amazon S3. In this session, learn about some of the practices that Amazon S3 applies under the hood to achieve 'durability in depth,' and how they can benefit your software systems.
+
+STG333: Migrate and modernize SFTP file transfer workflows with AWS
+
+File transfers via SFTP and other protocols are still critical to business processes across industries worldwide. In this session, we dive into AWS Transfer for SFTP, a service that helps migrate file-transfer workflows to AWS while maintaining integration with your existing authentication, security, and network configurations. Hear how AWS customers moved their file-transfer workloads to AWS and modernized downstream processes for populating data lakes and for business-critical systems such as CRM. This session also features demonstrations of the service's newer key capabilities.
+
+STG334-R1: Optimizing performance on Amazon S3
+
+Amazon Simple Storage Service (Amazon S3) powers some of the most performance-sensitive workloads running in the cloud today. The last two years have brought massive improvements in Amazon S3 request rates and overall throughput. In this chalk talk, you have the opportunity to hear directly from the Amazon S3 engineering team on topics such as data lake applications scanning millions or billions of objects for queries that run over petabytes of data, and designing applications that aggregate throughput across multiple instances to get multiple terabits per second. We review how to get the most out of Amazon S3, and we show you how to improve your architecture to enhance performance in your unique Amazon S3 environment.
+
+STG335-R1: Reduce TCO for your file-based applications
+
+Managing on-premises legacy NAS storage arrays brings complexity and high CapEx. Amazon Elastic File System (Amazon EFS) is a cloud-native, scalable, elastic NFS file system for Linux workloads for use with Amazon Elastic Compute Cloud (Amazon EC2). Amazon FSx for Windows File Server is a fully managed, enterprise-ready native Windows file system built on Windows Server and natively supports the SMB protocol and integrates directly with your on-premises Active Directory. In this session, learn about the latest features to optimize costs with your Linux and Windows file-based applications. We also demo cost-saving scenarios for colder file workloads.
+
+STG336: Using hybrid cloud storage to close a data center and migrate
+
+If you have a data center that you need to move workloads out of, or close entirely, join this interactive discussion to learn about the experience of TransferWise, a FinTech startup focused on international money transfers. Hear how the company planned for the shutdown of a data center and migrated data and workloads to the cloud using AWS Storage Gateway, AWS Database Migration Service (AWS DMS), Amazon Simple Storage Service (Amazon S3), Amazon Elastic File System (Amazon EFS), Amazon Relational Database Service (Amazon RDS), and other technologies. Learn about the choices TransferWise made and the lessons they learned, and get best practices for your migration.
+
+STG337: Managing large-scale offline data migrations: Best practices
+
+Many organizations have large amounts of data that they need to move into AWS, but may lack adequate network bandwidth to do the transfers online. Customers use AWS Snowball Edge, with its hardened, secure, shippable devices for such large, offline data migrations. In this session, we review best practices for planning and executing your migration with Snowball Edge devices, including optimizations used in environments with NAS and Hadoop data sources. This session prepares you for using Snowball Edge for your large-scale migration efforts.
+
+STG338-R1: Ask me anything about Amazon S3
+
+Amazon Simple Storage Service (Amazon S3) is the largest and most performant, secure, and feature-rich object storage service. With Amazon S3, organizations of all sizes and industries can store any amount of data for any use case, including applications, IoT, data lakes, analytics, backup and restore, archive, and disaster recovery. Bring your questions about any Amazon S3 topic.
+
+STG339-R1: Managing Amazon S3 and Amazon S3 Glacier objects at scale
+
+As your Amazon Simple Storage Service (Amazon S3) and Amazon S3 Glacier object-storage data repository grows, managed solutions become increasingly valuable in helping protect, manage, and operate on your objects at scale. In this chalk talk, you can speak directly with the AWS team behind features like batch operations, replication, S3 inventory, and S3 lifecycle. Bring your feedback, questions, and expertise to discuss innovative ways to protect data from corruption or accidental deletion, manage the data's lifecycle to reduce costs, run Lambda functions on objects, and much more.
+
+STG340: What to consider when building a data lake on Amazon S3
+
+AWS offers tools and services that make analyzing and processing petabytes of data in the cloud faster, simpler, and more cost effective. In this chalk talk, AWS experts provide an overview of our services for querying data in place, such as Amazon S3 Select, Glacier Select, Amazon Athena, and Amazon Redshift Spectrum. We explore best practices around using them with other analytics services (like Amazon EMR and AWS Glue) and third-party tools to build data lakes in Amazon S3 and Amazon Glacier and deploy other analytics solutions. Our AWS experts also provide sample use cases.
+
+STG341: Deep dive on AWS Backup, ft. Rackspace
+
+In this session, we dive deep on AWS Backup, a fully managed, policy-based backup solution that makes it easy to automatically back up your application data across AWS services in the cloud as well as on premises using AWS Storage Gateway. Using AWS Backup, you can centrally configure backup policies and monitor backup activity for AWS resources, such as Amazon EBS volumes, Amazon EC2 instances, Amazon RDS databases and Aurora clusters, Amazon DynamoDB tables, Amazon EFS file systems, and Storage Gateway volumes. Further, learn how APN Partner Rackspace uses AWS Backup to enable end customers to reduce their IT administrative overhead and meet compliance requirements.
+
+STG342: Rapid online data transfer with AWS DataSync
+
+AWS DataSync is an online data transfer service that automates movement of data between on-premises storage and Amazon Simple Storage Service (Amazon S3) or Amazon Elastic File System (Amazon EFS). This session shows how you can use DataSync to move active on-premises data to the cloud for one-time migration, timely in-cloud analysis, and replication for data protection and recovery. We demonstrate how to get started with DataSync, and you hear how an enterprise customer rapidly moved hundreds of terabytes of data into AWS and what they learned from their experiences.
+
+STG343: Optimize your storage performance with Amazon S3, ft. Lyft
+
+Amazon Simple Storage Service (Amazon S3) powers some of the most performance-sensitive workloads running in the cloud today. The last two years have brought massive improvements in Amazon S3 request rates and overall throughput. In this session, we review how to get the most out of Amazon S3, and we show you how to improve your architecture to enhance performance in your unique Amazon S3 environment.
+
+STG346-R1: Deep dive on CloudEndure Disaster Recovery
+
+Working with AWS can enable faster recovery of your critical IT systems without incurring the infrastructure expense of a second physical site. Cloud disaster-recovery architectures range from simple copy jobs for point workloads to enterprise solutions that enable rapid failover at scale. In this session, we examine CloudEndure Disaster Recovery, an AWS service that lets you quickly and easily shift disaster-recovery processes to AWS from physical or virtual data centers or other clouds. Learn how you can leverage AWS as your cloud-recovery target and also better protect in-cloud workloads with CloudEndure's continuous cross-region replication.
+
+STG347: Choosing the right storage for your high-performance workloads
+
+AWS offers a range of storage solutions that enable you to maximize the performance of your applications. In this chalk talk, we discuss AWS storage solutions, including Amazon Simple Storage Service (Amazon S3), Amazon Elastic Block Store (Amazon EBS), Amazon Elastic File System (Amazon EFS), and Amazon FSx for high-performance workloads, such as business-critical enterprise applications, large-scale analytics, and autonomous vehicles. We diagram different architectures and share techniques to help you benefit from your storage deployments. We also examine best practices for ingestion, performance, and manageability in a cost-effective way. Bring your questions, and prepare to discuss how AWS storage solutions can best meet your implementation needs.
+
+STG348: Optimize HPC workload storage using Amazon FSx for Lustre
+
+Amazon FSx for Lustre allows you to quickly and easily spin up a performant and scalable file system linked to your low-cost data stores such as Amazon Simple Storage Service (Amazon S3), transparently access Amazon S3 objects as files, write results back to Amazon S3, and then spin down the file system. With sub-millisecond latencies and up to hundreds of gigabytes per second throughput, Amazon FSx removes the data-access bottleneck and keeps your compute nodes and GPUs fully utilized. In this session, learn best practices for reducing storage and compute costs of your high-performance computing workloads using FSx for Lustre.
+
+STG349: Optimize video processing using Amazon FSx for Lustre
+
+Amazon FSx for Lustre provides a high-performance file system optimized for fast processing of workloads such as machine learning, high-performance computing (HPC), video processing, financial modeling, and electronic design automation (EDA). In this session, hear how customers are using FSx for Lustre for video editing and rendering workloads.
+
+STG350: Securing your block storage on AWS
+
+Want to simplify the process of meeting compliance goals in a world of increasing data regulation? AWS customers run mission-critical workloads-SQL and NoSQL databases, business applications, data analytics, log analysis-on Amazon EC2, backed by Amazon EBS and EC2 instance storage. Securing data content and storage access is critical to maintaining uptime and meeting compliance needs. In this session, we discuss data security and review the security capabilities of Amazon EBS and EC2 instance storage. Learn how you can benefit from new Amazon EBS features such as encryption by default, launch of encrypted instances from unencrypted AMIs, and simplified sharing of encrypted AMIs.
+
+STG351: Meeting performance needs for database workloads on Amazon EBS
+
+Many customers have performance, security, or other requirements that necessitate running their database workloads on Amazon Elastic Compute Cloud (Amazon EC2) and Amazon Elastic Block Store (Amazon EBS) versus a managed AWS service. Join us for a deep dive into understanding how to achieve storage performance requirements and avoid I/O pitfalls while running production database workloads on Amazon EC2.
+
+STG352: Edge computing in disaster response with Snowball Edge
+
+Emergency personnel have to carefully coordinate their response to natural disasters across many teams. This coordination requires data, especially actionable mapping data. However, getting access to data at the tactical edge is challenging. In this session, we demonstrate an architecture and pipeline for managing data for field scenarios with the ruggedized AWS Snowball Edge. The serverless, cloud-based pipeline combines public and private data sources with open-source software that can be preloaded on Snowball Edge. See how it works firsthand, and ask questions to learn how you could put such edge computing to work in your field scenarios-even with drones.
+
+STG353: Edge computing, IoT & machine learning in disaster response
+
+Many government agencies and commercial organizations come together to respond to natural disaster emergencies in the field. Such responders need computing resources at the tactical edge for communications, data gathering, and reconnaissance, often in dangerous or unstable environments. In this session, we discuss a solution architecture combining AWS Snowball Edge, IoT sensors, and C4ISR software that was deployed as the AWS Disaster Response Action team tested the tracking of search parties and recovery vehicles. We also demonstrate how machine learning at the edge can augment traditional sensor data to better support first responders and decision makers during disaster scenarios.
+
+STG354: Large-scale file migrations with AWS DataSync
+
+Moving millions of files and terabytes of data is no easy task. Speed, security, and data integrity all need to be considered. You can spend valuable time and money building your own solution, or you can let AWS DataSync take care of the heavy lifting. DataSync allows you to focus on what matters-getting your data where it needs to be. In this interactive session, we discuss new DataSync features that help automate and simplify file migrations from on-premises to AWS storage, and file transfers between storage locations. We also provide the opportunity to ask questions about your own use cases.
+
+STG355: Archiving media content with Amazon S3 Glacier Deep Archive
+
+As the demand for media content continues to grow rapidly, you can eliminate on-premises tape by using Amazon S3 Glacier Deep Archive to reduce access time and rapidly shift the availability and workability of content sources. S3 Glacier Deep Archive addresses the challenges of economics and timelines associated with accessing and utilizing large media assets throughout every step of the content creation and distribution process. S3 Glacier Deep Archive offers the lowest-cost storage in the cloud. In this session, learn from AWS experts how to eliminate your tape and archive your media content on S3 Glacier Deep Archive.
+
+STG356: Managing access to Amazon S3 buckets
+
+Amazon Simple Storage Service (Amazon S3) is a scalable, durable storage service for building shared datasets such as data lakes in the cloud today. In this chalk talk, interact with the Amazon S3 engineering team that designs the features that enable applications and users to easily and securely interact with S3 buckets. We discuss how Amazon S3 has been innovating to make it easier for you to create and manage large buckets that can be securely shared across multiple users within an organization. We also cover best practices around how to set up and manage multi-tenant S3 buckets.
+
+STG357: Best practices to optimize costs for Amazon S3
+
+Effective cost optimization across Amazon Simple Storage Service (Amazon S3) storage classes can require different approaches depending on application latency and access patterns. In this session, we review key considerations for storing data in both synchronous and asynchronous storage classes. We also demo two AWS solutions designed to help you model storage class transition costs and to aggregate colder datasets for cost optimization.
+
+STG358-R1: Configuration and management with Amazon S3
+
+In this session, get hands-on with Amazon Simple Storage Service (Amazon S3) and Amazon S3 Glacier. Understand how to use object versioning to preserve full data history. Learn best practices for configuring and managing object policies, including storage buckets, security, regulatory compliance, data replication, and business continuity. Please bring your laptop.
+
+STG359-R: Best practices for implementing a data lake on Amazon S3 ft. Sweetgreen
+
+Flexibility is key when building and scaling a data lake, and by choosing the right storage architecture you will have agility to quickly experiment and migrate with the latest analytics solutions. In this session, we explore the best practices for building a data lake on Amazon S3 that allows you to leverage an entire array of AWS, open-source, and third-party analytics tools, helping you remain at the cutting edge. We explore use cases for analytics tools, including Amazon EMR and AWS Glue, and query-in-place tools like Amazon Athena, Amazon Redshift Spectrum, Amazon S3 Select, and Amazon Glacier Select.
+
+STG359-R1: Best practices for implementing a data lake on Amazon S3 ft. AppsFlyer
+
+Flexibility is key when building and scaling a data lake, and by choosing the right storage architecture you will have agility to quickly experiment and migrate with the latest analytics solutions. In this session, we explore the best practices for building a data lake on Amazon S3 that allows you to leverage an entire array of AWS, open-source, and third-party analytics tools, helping you remain at the cutting edge. We explore use cases for analytics tools, including Amazon EMR and AWS Glue, and query-in-place tools like Amazon Athena, Amazon Redshift Spectrum, Amazon S3 Select, and Amazon Glacier Select.
+
+STG362-R2: Migrating Windows file servers to Amazon FSx
+
+Learn how to start moving your Windows file storage to AWS with Amazon FSx for Windows File Server efficiently and securely. Hear best practices on moving Windows file data into AWS and gain insights and resources on selecting the right Windows file data transfer solution for your needs. Please bring your laptop.
+
+STG363-R2: Managing access to Amazon S3 buckets at scale
+
+Amazon Simple Storage Service (Amazon S3) is the storage of choice for building shared datasets, such as data lakes, in the cloud today. Attend this builders session to learn how to create and manage large S3 buckets that can be securely shared across multiple users within an organization. Members of our Amazon S3 team teach you how to use the Amazon S3 management features. Please bring your laptop.
+
+STG364: Securing Amazon EFS for container and data science applications
+
+In this session, we explore how you can use Amazon Elastic File System (Amazon EFS), a scalable, elastic, cloud-native NFS file system to modernize your applications and data science environments. We cover considerations and best practices when connecting Amazon EFS file systems to applications running in containers in multiple frameworks. We also show you how to make the most use of Amazon EFS for data science environments as a repository for notebook files and a place where data scientists can rapidly iterate on training data.
+
+STG365-S: Self-service disaster recovery for AWS with Druva
+
+In this session, learn how Druva's SaaS solution enables you to take a self-service approach to backup and disaster recovery (DR) readiness. By making DR plans simple to set up, you can keep them current, tested, and cost-optimized for critical applications in your AWS environments. We discuss how to automatically create an AWS cross-account DR site based on a production site with Amazon VPC cloning and seamlessly backing up Amazon EC2, Amazon RDS, and Amazon Aurora instances across AWS accounts and Regions. We also cover how to schedule regular testing of DR plans and automatically generate DR test reports for compliance. This presentation is brought to you by Druva, an APN Partner.
+
+STG401: Manage objects and optimize cost with Amazon S3 and Amazon S3 Glacier
+
+In this workshop, get hands-on experience managing large amounts of data in Amazon S3. Learn best practices for configuring and managing object policies, including storage buckets, security, regulatory compliance, data replication, and more. We review optimizing storage costs, data lifecycle management, and retrieval times through the various restore tiers and SLAs, and we share strategies for moving and organizing data in formats that take advantage of Amazon S3 features. We also discuss how efficient Amazon S3 clients use the Amazon S3 API. In addition, learn about listing objects, Amazon S3 inventory, Amazon S3 batch operations, and Amazon S3 Select.
+
+STG402: Querying data in place with Amazon S3 and analytics tools
+
+AWS offers tools and services that make analyzing and processing petabytes of data in the cloud faster, simpler, and more cost effective. In this chalk talk, AWS experts provide an overview of our services for querying data in place, such as Amazon S3 Select, Glacier Select, Amazon Athena, and Amazon Redshift Spectrum. We explore best practices around using them with other analytics services (like Amazon EMR and AWS Glue) and third-party tools to build data lakes in Amazon S3 and Amazon Glacier and deploy other analytics solutions. Our AWS experts also provide sample use cases.
+
+STG404: Architecting hybrid cloud media workflows
+
+Studios and creative-content teams are searching for ways to synchronize their media assets to their production facilities around the world both on premises and in the cloud using best practices with AWS technologies. In this session, learn how you can use AWS Lambda, Amazon API Gateway, Amazon Simple Storage Service (Amazon S3), AWS Storage Gateway, AWS Directory Service, and AWS Fargate to build a serverless global storage platform for your creative teams around the world.
+
+STG405: Maximizing Amazon EFS performance for Linux workloads
+
+Amazon Elastic File System (Amazon EFS) delivers highly available and highly durable file systems that are distributed across an unconstrained number of storage servers and enables massively parallel access. This means that highly parallelized workloads can drive high levels of aggregate throughput and operations per second. In this chalk talk, we diagram different architectures that leverage this distributed data-storage design, and we share best practices around selecting the appropriate performance and throughput mode, configuring clients, ingesting data, and monitoring performance.
+
+# Startup
+
+
+
 
