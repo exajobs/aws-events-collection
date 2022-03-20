@@ -22,7 +22,7 @@
 - Storage
 - Startup
 - Serveless
-- 
+- Telecommunications
 
 
 # Artificial Intelligence & Machine Learning
@@ -3332,6 +3332,41 @@ SVS407-R2: Architecting and operating resilient serverless systems at scale
 Overloading a software system occurs more often than expected, and the effects are difficult to deal with, including real-time web services halting and asynchronous systems building up backlogs. In this talk, we cover what AWS does to build reliable and resilient services, including avoiding modes and overload, performing bounded work, throttling at multiple layers, guarding concurrency, sending idempotent requests, applying backpressure and fairness in queueing, and performing shuffle sharding. We also discuss how separating concerns through service-oriented architectures helps reduce blast radius. As we explore these patterns, we discuss how they're embedded into the DNA of the AWS services that you use to build and operate serverless applications that are resilient to failure. We also discuss a number of AWS services, including AWS Lambda, Amazon API Gateway, AWS WAF, Amazon CloudWatch, and AWS X-Ray.
 
 
+# Telecommunications
+
+TLC202: Assurance Cloud: Telco-grade assurance via the cloud with MYCOM & AWS
+
+Come hear how Globe and MYCOM are breaking the legacy paradigms for telecom service assurance with a cloud-native solution powered by AWS. With 5G, network virtualization, and SD-WAN, telecom networks are evolving away from appliance-based implementations and toward cloud-native software applications. You learn about the MYCOM Assurance Cloud solution, which is powered by AWS services like AWS Systems Manager, Amazon CloudWatch, AWS CloudTrail, Amazon RDS, Amazon EFS, and Amazon EBS for real-time data processing at large scale for distributed environments. You also learn how disruptive telecom service providers are adopting cloud-based assurance software to accelerate the pace of innovation and improve customer experiences.
+
+TLC203: From SMS to 5G: Out-of-the-box telecom solution
+
+Learn how to set up out-of-the-box connectivity and activate service for e-Commerce and IoT for a telecommunications or mobile network operator. We share our recipe for launching two sub-brands for TELUS in Canada and how we plan to evolve the cloud control plane (CCP) toward"all core." Come learn how this will serve generations of mobile networks from 3G to 5G, providing current 3G voice, SMS, VoLTE, and data as well as providing future telecommunications services such as IoT, network slicing, and multi-access edge computing. Finally, learn how we built a geo-redundant wireless telecommunications core CCP with cloud services from AWS.
+
+TLC204-R1: Implementing telecommunication data analytics
+
+By attending this session, you gain an understanding of telecommunication-specific data analytics by using AWS services such as: Amazon S3, AWS Glue, Amazon Athena, and Amazon QuickSight. In this session, we use simple network management system/operation support system (NMS/OSS)-generated call data records (CDR) as an example and analyze them with AWS services so that you can apply this in your own organization. Attendees are required to have an AWS account with access to Amazon S3, AWS Glue, Athena, and Amazon QuickSight. Please bring your laptop.
+
+TLC205-L: Leadership session: Join T-Mobile in a rapid cloud-native journey
+
+Learn how T-Mobile embraced the AWS Cloud to improve business agility, enhance development approaches, transform a culture, and humanize the customer experience. Hear T-Mobile's story around how they transformed a complete business ecosystem into a public and cloud-native reality.
+
+TLC301: AI-driven self-healing, churn prediction, and fraud detection on AWS
+
+Did you know that you can leverage machine learning to solve problems like fraud detection, churn prediction, and even self-healing to improve customer experience? Join this session to learn about different use cases where Amazon SageMaker and Amazon QuickSight have been utilized to facilitate anomaly detection and apply self-correcting procedures. This workshop shows you how to implement fraud detection, self-healing, and churn prediction with a leading Telecommunications provider using AWS artificial intelligence services.
+
+TLC302: Securely scale your VoIP with Amazon Chime & Ribbon
+
+You can securely scale your VoIP with Amazon Chime Voice Connector and Ribbon's Session Border Controller (SBC) on AWS Quick Starts. Together, they provide enterprise customers with a less expensive, simpler-to-manage, on-demand SIP trunking solution for connecting on-premises private branch exchanges (PBXs) to the public switched telephone network (PSTN). Deploying SBCs helps ensure security, high availability, and interoperability for VoIP traffic between an enterprise and Amazon Chime. In this session, learn about deploying real-time communication design patterns using SBCs, Amazon Chime Voice Connector, and Amazon EC2 networking, and discover how to lower your costs and simplify your business model.
+
+TLC303: How Vodafone's Intelligent Care platform utilizes AWS
+
+Join Vodafone UK's management and technology team to understand how AI is being used to drive superior customer experiences. Vodafone UK, partnering with Accenture, built its Intelligent Care Program utilizing AWS's big data and AI capabilities to predict customer behavior and provide a game-changing digital experience for Vodafone's customers. The program enables an analytically driven IVR, an omni-channel customer analytics capability, and a new experience-led design framework that improves customer satisfaction. Intelligent Care makes use of Amazon SageMaker, AWS Glue, Amazon EMR, AWS Lambda, and Amazon S3 to automate the ML pipeline and cut the time it takes to deliver AI models in half.
+
+TLC305: Industry 4.0 with mobile edge network services powered by AWS Outposts
+
+In this session, you learn how AWS is enabling new Industry 4.0 virtualized mobile network functionality at any on-premises or edge location using AWS Outposts. You also learn how to implement enterprise-ready dedicated virtual network function architecture with AWS Outposts to meet the demands for Industry 4.0 use cases. We dive deep into the architecture and into real-life use case implementation. We also explore how AWS Outposts enable enterprises to use cloud services and tools to orchestrate, update, scale, and manage the lifecycle of enterprise dedicated mobile networks for Industry 4.0 across cloud, on premises, and edge.
+
+# 
 
 
 
