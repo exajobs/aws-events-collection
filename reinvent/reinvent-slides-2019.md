@@ -2755,19 +2755,19 @@ SEC408-R1: Security benefits of the Nitro architecture
 
 The AWS Nitro architecture is fundamental to the Amazon EC2 service. With Nitro, each host in the core compute platform is built with trusted computers that simulate the outside world and surround an untrusted CPU and memory computer that runs workloads. Those trusted Nitro computers appear to the customer workload computer as I/O devices that are accessible across the PCIe bus. Most traditional virtualization work is done via hardware emulation. The Nitro computers carefully control the workload computer access, providing a layer of protection. Learn about the security properties of this powerful architecture, which significantly increases cloud reliability and performance.
 
-SEC409-R2: Fine-grained access control for serverless apps
+## SEC409-R2: Fine-grained access control for serverless apps
 
-In this small-group, hands-on builders session, you take a guided tour of how to build enterprise-grade serverless web applications with fine-grained, directory-based access controls. We show how to take a regular Express.js app, move it to AWS Lambda, add authentication using Amazon Cognito with SAML federation, and implement fine-grained authorization based on an external identity provider's group membership (e.g., LDAP/AD). Services used: Amazon Cognito, AWS Lambda, Amazon API Gateway, Amazon DynamoDB, AWS CDK, and AWS Amplify. Prerequisites: Proficiency in basic JavaScript/TypeScript. Basic experience with AWS is recommended but not mandatory. Please bring your laptop.
+> In this small-group, hands-on builders session, you take a guided tour of how to build enterprise-grade serverless web applications with fine-grained, directory-based access controls. We show how to take a regular Express.js app, move it to AWS Lambda, add authentication using Amazon Cognito with SAML federation, and implement fine-grained authorization based on an external identity provider's group membership (e.g., LDAP/AD). Services used: Amazon Cognito, AWS Lambda, Amazon API Gateway, Amazon DynamoDB, AWS CDK, and AWS Amplify. Prerequisites: Proficiency in basic JavaScript/TypeScript. Basic experience with AWS is recommended but not mandatory. Please bring your laptop.
 
 # Storage 
 
-STG201-L: Leadership session: Storage state of the union
+## STG201-L: Leadership session: Storage state of the union
 
-In this leadership session, we highlight the latest innovations across all AWS storage services. Join us to learn what's new in AWS object, file, and block storage, as well as in hybrid, edge, and data transfer services. You will also hear from major AWS storage customers about how they're using AWS storage to create a competitive advantage in their businesses.
+> In this leadership session, we highlight the latest innovations across all AWS storage services. Join us to learn what's new in AWS object, file, and block storage, as well as in hybrid, edge, and data transfer services. You will also hear from major AWS storage customers about how they're using AWS storage to create a competitive advantage in their businesses.
 
-STG202: What's new in AWS file storage
+## STG202: What's new in AWS file storage
 
-In this session, we focus on innovations in the fast-growing AWS file-storage portfolio, including Amazon Elastic File System (Amazon EFS), Amazon FSx for Windows File Server, and Amazon FSx for Lustre.
+> In this session, we focus on innovations in the fast-growing AWS file-storage portfolio, including Amazon Elastic File System (Amazon EFS), Amazon FSx for Windows File Server, and Amazon FSx for Lustre.
 
 STG203-R2: What's new with Amazon S3 and Amazon S3 Glacier
 
