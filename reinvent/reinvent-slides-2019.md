@@ -18,9 +18,9 @@
 - [Enterprise](#enterprise)
 - [End User Computing & Business Apps](#end-user-computing--business-apps)
 - [Financial Services](#financial-services)
-- Security
-- Storage
-- Startup
+- [Security](#security)
+- [Storage](#storage)
+- [Startup](#startup)
 - Serveless
 - Telecommunications
 - Travel & Hospitality
