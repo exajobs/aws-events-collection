@@ -22,8 +22,8 @@
 - [Storage](#storage)
 - [Startup](#startup)
 - [Serveless](#serverless)
-- Telecommunications
-- Travel & Hospitality
+- [Telecommunications](#telecommunications)
+- [Travel & Hospitality](#hospitality)
 - Windows & .NET
 - Public Sector
 - We Power Tech
