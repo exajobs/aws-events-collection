@@ -24,8 +24,8 @@
 - [Serveless](#serverless)
 - [Telecommunications](#telecommunications)
 - [Travel & Hospitality](#hospitality)
-- Windows & .NET
-- Public Sector
+- [Windows & .NET]
+- [Public Sector]
 - We Power Tech
 
 
