@@ -1825,15 +1825,15 @@ DOP215-R2: Using AWS tools to author and debug applications
 
 Every organization wants its developers to be faster and more productive. AWS Cloud9 lets you create isolated cloud-based development environments for each project and access them from a powerful web-based IDE anywhere, anytime. In this session, we demonstrate how to use AWS Cloud9 and provide an overview of IDE toolkits that can be used to author application code.
 
-DOP216-R2: Continuous integration using AWS tools 
+## DOP216-R2: Continuous integration using AWS tools 
 
 Today, more teams are adopting continuous-integration (CI) techniques to enable collaboration, increase agility, and deliver a high-quality product faster. Cloud-based development tools such as AWS CodeCommit and AWS CodeBuild can enable teams to easily adopt CI practices without the need to manage infrastructure. In this session, we showcase best practices for continuous integration and discuss how to effectively use AWS tools for CI.
 
-DOP217-S: A great customer experience with the automated NOC-free environment 
+## DOP217-S: A great customer experience with the automated NOC-free environment 
 
 Delivering a great customer experience is at the core of any business. Genesys, which provides customer experience solutions, has made a significant investment in modern infrastructure that is heavily oriented around AWS and Sumo Logic due to their born-in-the-cloud heritage. As Genesys runs hundreds of microservices on AWS infrastructure around the globe, the real-time data insights it gets around operations and security enables it move to an automated NOC-free environment and help its customers deliver a great experience to their clients. In this session, learn about the discoverability, observability, and security of modern applications with Sumo Logic on AWS. This presentation is brought to you by Sumo Logic, an APN Partner.
 
-DOP218-S: Designing an open-source observability stack for Kubernetes   
+## DOP218-S: Designing an open-source observability stack for Kubernetes   
 
 Observability teams today need to achieve complete visibility into the systems that they monitor, but Kubernetes deployments can add significant complexity to achieving this goal. Open-source tools provide powerful options and come with serious advantages in cost, agility, and speed. Join Logz.io co-founder Asaf Yigal to learn how you can gain observability for Kubernetes projects with open-source tools. He reviews OSS telemetry tools for Kubernetes and how to deploy them for monitoring, logging, and tracing on AWS. He also covers the importance of security and how to add it to your observability stack. This session is brought to you by Logz.io, an APN Partner.
 
