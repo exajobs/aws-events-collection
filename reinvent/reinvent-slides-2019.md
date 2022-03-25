@@ -2231,11 +2231,11 @@ EUC211: Modern service desk with Amazon Connect and News Corp
 
 Learn how News Corp implemented Amazon Connect to improve employee and service desk engagement. News Corp's service desk is the 24/7/365 central point of contact for all IT-related questions and issues within News Corp companies in North America, including Dow Jones, HarperCollins, and¬†Realtor.com. News Corp was able to set up Amazon Connect in weeks instead of months, while saving hundreds of thousands of dollars. Amazon Connect contributed to improved employee experience, reduced abandon rate, reduced time to answer, enhanced reporting capability, and more. Come hear how News Corp realized a modern service desk and what it plans for the future.
 
-EUC212-R1: Build highly available contact centers with Amazon Connect
+## EUC212-R1: Build highly available contact centers with Amazon Connect
 
 Amazon Connect allows customers to build highly available and resilient contact-center solutions at a massive scale. Superior contact centers require a great deal of integration with external systems to achieve a personalized and dynamic customer experience. In this session, learn from our experts how to do this easily. We also show you specific designs approaches and techniques you can consider to ensure a high level of resiliency and availability while maintaining the set of flexibilities offered by Amazon Connect.
 
-EUC213: The New York Times: Improving customer care with Amazon Connect
+## EUC213: The New York Times: Improving customer care with Amazon Connect
 
 The New York Times was looking to radically transform its computer telephony integration (CTI) system supporting its customer-care operations. After evaluating other solutions, the company chose Amazon Connect because of its ease of migration, flexibility, and customer-centric capabilities. Learn how The New York Times successfully rewrote its IVR and call workflows using Amazon Lex for natural language detection, and how it is using Amazon Transcribe to stream call data to a datastore and is writing Amazon Lex bots. Hear how the company was able to leverage cutting-edge technology, at scale, while reducing operational costs.
 
