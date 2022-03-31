@@ -25,7 +25,7 @@
 - [Telecommunications](#telecommunications)
 - [Travel & Hospitality](#hospitality)
 - [Windows & .NET](#)
-- [Public Sector]
+- [Public Sector](#)
 - We Power Tech
 
 
