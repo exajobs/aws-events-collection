@@ -1549,11 +1549,11 @@ DAT311-R1: Understanding durability & availability with Amazon RDS for SQL Serve
 
 Amazon Relational Database Service (Amazon RDS) makes it easy to set up, operate, and scale SQL Server databases in the cloud. Even when using a fully managed service like Amazon RDS, durability and availability are always key considerations when deploying a database. In this session, you learn how to properly apply both snapshots and native backups to manage durability of your Amazon RDS for SQL Server instance. Additionally, you learn how to use Amazon RDS Multi-AZ to achieve high availability for your Amazon RDS for SQL Server deployment.
 
-DAT312-R1: Running mission-critical databases on Amazon RDS for Oracle 
+## DAT312-R1: Running mission-critical databases on Amazon RDS for Oracle 
 
 Amazon Relational Database Service (Amazon RDS) for Oracle continues to be a popular choice for"lifting and shifting" mission-critical Oracle database workloads to the cloud. In this session, you learn how you can scale compute, storage, and databases to address changing database workload patterns and increasing business demands for cost optimization. We also cover best practices for new high availability, security, and performance monitoring features. Come ask questions and share your experiences.
 
-DAT313: How Lambda256 developed a major blockchain platform with AWS databases 
+## DAT313: How Lambda256 developed a major blockchain platform with AWS databases 
 
 Lambda256 is one of Asia's largest blockchain as a service platforms built on AWS, provisioning Ethereum, Hyperledger, Luniverse mainnet, and other major protocols. Come to this session to learn how Lambda256 supports a large number of customers on its crypto exchange platform and to hear the rationale behind why Lambda256 chose AWS databases with which to build its platform.
 
