@@ -2459,11 +2459,48 @@ Data streams and stream processing have many applications in Financial Services.
 > Smart contracts have the potential to solve the inefficiencies inherent to traditional contracts. In this session, we build Hyperledger Fabric networks using Amazon Managed Blockchain, form a trusted consortium with multiple parties, and deploy a smart contract for a settlement use case. While obtaining an access-controlled Hyperledger consortium, we go through Hyperledger Fabric constructs, smart contract application interfaces, real-time transaction analytics, and connections to existing business systems, such as data analytics and reporting services. Please bring your laptop.
 
 
+# Robotics
+
+ROB201-L: Leadership session: Welcome to the era of smart robots   
+
+Robots are becoming more prevalent and integrated into our everyday lives. Robots help us complete housework, fight fires, manage warehouse inventory, automate manufacturing, and simulate lunar landscapes, as well as providing companionship. While the diversity of robot applications is greatly expanding, these breakthroughs demand a high level of intelligence and autonomy. Learn how AWS customers are driving innovation and bringing the future of smart robots to us today.
+
+ROB202: Embracing the next wave of digital transformation via smart robots   
+
+For over a decade, cloud-enabled digital transformation has remade industries and powered innovation to greatly benefit enterprises and consumers. In this session, learn how AWS customers in industries as diverse of Manufacturing, Healthcare, and Oil & Gas are incorporating robots into their next-generation solutions. Come learn how AWS services such AWS RoboMaker, AWS IoT Core, Amazon SageMaker, Amazon Kinesis, and Amazon Rekognition are being used to fundamentally transform work and improve outcomes.
+
+ROB301-R1: Running tests in simulation with AWS RoboMaker   
+
+In this session, we dive deep into how AWS RoboMaker simulation works, and discuss customer use cases. We demonstrate how you can use AWS RoboMaker simulation to manage your continuous integration / continuous deployment pipeline to build your robotics applications. This is followed by a presentation and demo by iRobot.
+
+ROB302: Innovation in robotics: Insights from NASA JPL and AWS   
+
+We are in the midst of an age of innovation in the world of robotics. From autonomous ground robots to drones to robotic arms, robots are being used across industries in new and innovative ways. In this session, learn about leading use cases and forthcoming applications in robotics from experts from NASA Jet Propulsion Laboratory and AWS.
+
+ROB303-R1: Cloud Robotics: Build and Operate a Smart Robot with AWS 
+
+¬†AWS RoboMaker makes it simple to build and deploy software to your robots. In this workshop, learn how to develop, test and deploy a robot application to a physical robot. You'll learn about the Robot Operating System (ROS) and you'll push ROS application changes to a robot. Finally, you'll run your application on the device to see it operate in the real world.
+
+ROB304-R1: Rise of the machines: Bring artificial intelligence to your robot 
+
+In this workshop, you learn how AWS AI services can be used with Robot Operating System (ROS) to build intelligence into your robots. You create a ROS application to identify objects and use AWS RoboMaker to simulate and test your robot software. Finally, we demonstrate the application with a real robot, built using the NVIDIA JetBot.
+
+ROB401-R1: Robotic fleet management with AWS 
+
+In this chalk talk, learn how companies are using AWS services to build, deploy, and update applications that enable them to manage robots in real time in the field. We review the detailed architecture involved when robots receive orders, navigate their environment, and avoid obstacles in order to choose and retrieve items in a warehouse. In addition, we show you how AWS RoboMaker is used to address one of the bigger challenges for companies-sharing intelligence across robots from different manufacturers-to illustrate a core benefit of an open, cloud-based robotics platform to companies that have a diverse fleet of robots.
+
+ROB402: Autonomous driving, reinforcement learning & AWS RoboMaker 
+
+In this chalk talk, learn how to use the AWS RoboMaker simulation service to improve autonomous driving. You can learn and test path finding, object recognition, avoidance, and navigation through simulation before taking control of an autonomous vehicle.
+
+ROB403: Best practices using DevOps in building robotic applications 
+
+In this session, you learn how to implement DevOps in robotics. We walk you through best practices and include case studies and customer examples that demonstrate how to automate testing and deployment through CI/CD best practices and regular code integration in Git.
 
 
-#
+# Security, Compliance, and Identity
 
-SEC201-L: Leadership session: AWS security
+## SEC201-L: Leadership session: AWS security
 
 Stephen Schmidt, chief information security officer for AWS, addresses the current state of security in the cloud, with a focus on feature updates, the AWS internal"secret sauce," and what's to come in terms of security, identity, and compliance tooling.
 
@@ -3135,6 +3172,7 @@ STP304-R1: Predicting what your customers really, really want
 Targeting customers with the right recommendations at the right moment is critical for startups that offer multiple products or services (and for larger companies as well). By combining historical usage data with other variables in your business and the right machine-learning model, your customers can receive 50% more accurate recommendations for your products or services. Discover how to collect and store data, and how to train machine-learning models to predict what your customers want.
 
 # Serverless
+
 SVS201-R2: Build a serverless web app for a theme park
 
 Innovator Island is a popular theme park that's rolling out a mobile app for thousands of visitors. The app provides wait times, photo opportunities, notification alerts, and language translation for visitors who need it. However, the lead developer has disappeared, and in this workshop, you're part of a development team that's assembling the pieces left behind. Learn and practice building a scalable serverless web app with limited development resources.
@@ -3331,7 +3369,7 @@ SVS406-R1: Asynchronous-processing best practices with AWS Lambda
 
 Waiting around for your workload to finish is expensive, and controlling the flow of traffic to protect your precious system is hard. AWS Lambda event invocations provide both an event-driven compute solution as well as an asynchronous traffic driver-but the 'asynchronous at scale' part is its own particular beast. In this session, learn how Lambda does asynchronous processing and best practices around using it. We also dive into key features to help you better monitor and control that asynchronous traffic.
 
-SVS407-R2: Architecting and operating resilient serverless systems at scale
+> SVS407-R2: Architecting and operating resilient serverless systems at scale
 
 Overloading a software system occurs more often than expected, and the effects are difficult to deal with, including real-time web services halting and asynchronous systems building up backlogs. In this talk, we cover what AWS does to build reliable and resilient services, including avoiding modes and overload, performing bounded work, throttling at multiple layers, guarding concurrency, sending idempotent requests, applying backpressure and fairness in queueing, and performing shuffle sharding. We also discuss how separating concerns through service-oriented architectures helps reduce blast radius. As we explore these patterns, we discuss how they're embedded into the DNA of the AWS services that you use to build and operate serverless applications that are resilient to failure. We also discuss a number of AWS services, including AWS Lambda, Amazon API Gateway, AWS WAF, Amazon CloudWatch, and AWS X-Ray.
 
@@ -3340,7 +3378,7 @@ Overloading a software system occurs more often than expected, and the effects a
 
 TLC202: Assurance Cloud: Telco-grade assurance via the cloud with MYCOM & AWS
 
-Come hear how Globe and MYCOM are breaking the legacy paradigms for telecom service assurance with a cloud-native solution powered by AWS. With 5G, network virtualization, and SD-WAN, telecom networks are evolving away from appliance-based implementations and toward cloud-native software applications. You learn about the MYCOM Assurance Cloud solution, which is powered by AWS services like AWS Systems Manager, Amazon CloudWatch, AWS CloudTrail, Amazon RDS, Amazon EFS, and Amazon EBS for real-time data processing at large scale for distributed environments. You also learn how disruptive telecom service providers are adopting cloud-based assurance software to accelerate the pace of innovation and improve customer experiences.
+> Come hear how Globe and MYCOM are breaking the legacy paradigms for telecom service assurance with a cloud-native solution powered by AWS. With 5G, network virtualization, and SD-WAN, telecom networks are evolving away from appliance-based implementations and toward cloud-native software applications. You learn about the MYCOM Assurance Cloud solution, which is powered by AWS services like AWS Systems Manager, Amazon CloudWatch, AWS CloudTrail, Amazon RDS, Amazon EFS, and Amazon EBS for real-time data processing at large scale for distributed environments. You also learn how disruptive telecom service providers are adopting cloud-based assurance software to accelerate the pace of innovation and improve customer experiences.
 
 TLC203: From SMS to 5G: Out-of-the-box telecom solution
 
