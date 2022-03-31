@@ -3528,59 +3528,59 @@ WPS304: Pushing Amazon RDS to the limit
 
 Is Amazon EC2 the only option for your legacy customized Oracle DB on AWS? Want to move your legacy Oracle database on AWS but aren't sure that Amazon Relational Database Service (Amazon RDS) can handle the custom developments you have on top of your business-critical database? In this session, learn how you can leverage Amazon Oracle RDS to accommodate specifics of your legacy database in the cloud. We also discuss when and how to choose between Amazon EC2 and Amazon RDS, outline remediation and migration steps for Amazon RDS, and share practice-proven experience from providing FTP and SMTP from Amazon RDS.
 
-WPS305: Building your geospatial data lake
+## WPS305: Building your geospatial data lake
 
 In this session, learn how to design a data lake and how to give permission to different groups and applications to access and analyze datasets. Hear from subject-matter experts about a variety of AWS technology for populating your data lake, monitoring new ingestion, and processing data for meaningful analysis. We also examine considerations for structured data, such as relevant database engines with geospatial support, as well as considerations for unstructured data in the form of object storage. Finally, learn how to protect and secure data based on your organization's needs.
 
-WPS306: AWS Public Datasets: Lessons from staging petabytes of data for analysis
+## WPS306: AWS Public Datasets: Lessons from staging petabytes of data for analysis
 
 AWS hosts a variety of public datasets that anyone can access for free. Previously, large datasets such as satellite imagery or genomic data have required hours or days to locate, download, customize, and analyze. By making data available publicly on AWS, anyone can analyze any volume of data without needing to download or store it themselves. In this session, the AWS Open Data team shares tips and tricks, patterns and anti-patterns, and tools to help you most effectively stage your data for analysis in the cloud.
 
-WPS308: Continuous monitoring techniques in AWS GovCloud (US)
+## WPS308: Continuous monitoring techniques in AWS GovCloud (US)
 
 AWS Professional Services developed a series of AWS CloudFormation templates that implement commonly requested continuous monitoring solutions within the constraints of AWS GovCloud (US). In this chalk talk, we discuss and demonstrate these reusable solutions and techniques.
 
-WPS309: Aiding natural-disaster responses with Amazon SageMaker and Amazon Comprehend
+## WPS309: Aiding natural-disaster responses with Amazon SageMaker and Amazon Comprehend
 
 The first hour after a natural disaster is often referred to as the"golden hour,' when responders have the highest chance of saving the lives of those effected by the disaster-but it's also when they have least amount of information available to them. In this chalk talk, we walk through different ways machine learning can help accelerate a responder's understanding of the areas impacted and their ability to begin formulate potential recovery strategies. We also discuss how we leveraged Amazon SageMaker, In-Q-Tel's SpaceNet dataset, Amazon Comprehend, AWS Lambda, Amazon API Gateway, and much more to build the prototype solution.
 
-WPS310: AWS Secret Region: Lessons learned around DevSecOps
+## WPS310: AWS Secret Region: Lessons learned around DevSecOps
 
 A Department of Defense (DoD) organization had unique challenges developing and deploying applications in multiple security domains (running workloads across AWS commercial regions, AWS Secret Region, and Commercial Cloud Services), which is a common pattern in the DoD. In this session, learn how the organization restructured its technical team-comprising military service members, government employees, and contractors-to adopt the DevOps software development approach, and how it has embraced containerization and Kubernetes, as well as AWS native automation capabilities and partner tools. We also discuss how these methods and tool sets have acted as a pathfinder for adoption by the broader community.
 
-WPS311: How public sector organizations enforce governance & compliance
+## WPS311: How public sector organizations enforce governance & compliance
 
 In this hands-on workshop, you learn and deploy the common patterns that public sector organizations are using to secure and govern their large Microsoft Windows environments on AWS. Using AWS services such as AWS Identity and Access Management (IAM), Amazon GuardDuty, AWS CloudTrail, Amazon Cloudwatch Events, AWS Systems Manager, AWS License Manager, and AWS Security Hub, you will deploy the automated mechanisms commonly used to ensure compliance with industry standards such as the CIS Benchmarks.
 
-WPS313: Container security and avoiding the 2 a.m. call
+## WPS313: Container security and avoiding the 2 a.m. call
 
 Containers are becoming one of the new normal infrastructures for deploying applications. One of the challenges that customers encounter is how to secure their applications. Traditional security practices and tools are designed for applications running directly on the hosts, whereas containers are virtualized and multi-tenant. This session discusses techniques that can be used to secure hosts, containers, and the applications hosted in individual containers. We look at using Amazon ECS, Amazon EC2, AWS Fargate, and Amazon EKS and dive into best practices and techniques for running applications.
 
-WPS314: Amazon WorkSpaces for regulated industries
+## WPS314: Amazon WorkSpaces for regulated industries
 
 In this session, we discuss how customers in regulated industries (e.g., Government, Financial, and Healthcare) can use Amazon WorkSpaces to help meet security and regulatory compliance requirements for end-user applications and devices. Organizations that have to deal with various regulatory and security requirements (such as SOC, HIPAA, PCI, ITAR, and FedRAMP requirements) have to consider how and where their users access applications and store data. In this session, we discuss how Amazon WorkSpaces can help you meet these unique requirements and help provide end users throughout your organization with secure, fast access to desktop applications and data.
 
-WPS316-R1: Getting started in AWS GovCloud (US)
+## WPS316-R1: Getting started in AWS GovCloud (US)
 
 AWS GovCloud (US) Regions are isolated AWS infrastructure and services specially built for U.S. government agencies and U.S. commercial organizations with sensitive data and regulated workloads in the cloud. In this builders session, we launch a separate AWS GovCloud (US) account and run AWS Quick Start tools that help customers automate NIST-based security controls supporting Federal Information Security Management Act (FISMA), Federal Risk and Authorization Management Program (FedRAMP), DoD Cloud Computing Security Requirements Guide (DoD SRG), and International Traffic in Arms Regulations (ITAR) compliance standards. Please bring your laptop.
 
-WPS317-R1: Compliance automation for the Public Sector
+## WPS317-R1: Compliance automation for the Public Sector
 
 For public sector customers, ensuring compliance and security is vital. AWS provides these organizations with a broad set of cloud-based services to build world-class solutions. In this session, we discuss native logging tools in AWS, such as AWS CloudTrail, Amazon CloudWatch alarms, Amazon CloudWatch Logs, and Amazon GuardDuty. We also cover automated remediation of compliance events, alerting tools, and other methods of implementing compliance. Please bring your laptop.
 
-WPS319-R1: Best practices for working with large-scale geospatial data
+## WPS319-R1: Best practices for working with large-scale geospatial data
 
 Across the commercial and public sectors, companies are working with large geospatial datasets. We take a look at how to use various services including Amazon Simple Storage Service (Amazon S3), Amazon Simple Storage Service Glacier, Amazon Athena, AWS Step Functions, and AWS Batch to store, process, and get insights into your large geospatial datasets. Please bring your laptop.
 
-WPS320-R1: Implement access control to data in AWS services using AWS KMS
+## WPS320-R1: Implement access control to data in AWS services using AWS KMS
 
 AWS Key Management Service (AWS KMS) gives you centralized control over the encryption keys used to protect your data. In this builders session, we demonstrate how to create key policies to limit access to encrypted data. Learn how to create encryption keys in AWS KMS and how to implement key policies using conditions. We also show you how to create Amazon CloudWatch alarms for your encryption key usage. Please bring your laptop.
 
-WPS321-R1: Managing InfoSec risk during cloud adoption
+## WPS321-R1: Managing InfoSec risk during cloud adoption
 
 Most enterprises have developed bodies of knowledge about risk governance for on-premises data centers. This knowledge influences information security risk management through objectives, priorities, standards, metrics, processes, and roles. The cloud journey offers new perspectives and opportunities for automation and continuous risk mitigation. Customers recognizing the need for change and implementing proactive, top-down approaches find it easier to manage risk. This session covers methods used in advanced stages of cloud adoption and patterns for risk governance that enterprise customers can use. It touches on the AWS security services portfolio and how some customers use these for maturing risk governance. Please bring your laptop.
 
-WPS322-R1: Building a modern call center using Amazon Connect
+## WPS322-R1: Building a modern call center using Amazon Connect
 
 Technology is rapidly evolving; shouldn't your call center? Learn how to utilize Amazon Connect to create meaningful customer interactions with your organization, whether that's reaching out to donors, helping people in times of need, or even using AI to augment your staff. In this session, you learn how to create a call center, enrich the user experience with AWS Lambda, and build out a voice-interaction model using Amazon Lex. Participants will need to bring a headphones and have access to a cell phone for testing purposes. Please bring your laptop.
 
