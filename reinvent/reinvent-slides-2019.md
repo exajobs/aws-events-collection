@@ -3366,15 +3366,15 @@ TLC303: How Vodafone's Intelligent Care platform utilizes AWS
 
 Join Vodafone UK's management and technology team to understand how AI is being used to drive superior customer experiences. Vodafone UK, partnering with Accenture, built its Intelligent Care Program utilizing AWS's big data and AI capabilities to predict customer behavior and provide a game-changing digital experience for Vodafone's customers. The program enables an analytically driven IVR, an omni-channel customer analytics capability, and a new experience-led design framework that improves customer satisfaction. Intelligent Care makes use of Amazon SageMaker, AWS Glue, Amazon EMR, AWS Lambda, and Amazon S3 to automate the ML pipeline and cut the time it takes to deliver AI models in half.
 
-TLC305: Industry 4.0 with mobile edge network services powered by AWS Outposts
+## TLC305: Industry 4.0 with mobile edge network services powered by AWS Outposts
 
-In this session, you learn how AWS is enabling new Industry 4.0 virtualized mobile network functionality at any on-premises or edge location using AWS Outposts. You also learn how to implement enterprise-ready dedicated virtual network function architecture with AWS Outposts to meet the demands for Industry 4.0 use cases. We dive deep into the architecture and into real-life use case implementation. We also explore how AWS Outposts enable enterprises to use cloud services and tools to orchestrate, update, scale, and manage the lifecycle of enterprise dedicated mobile networks for Industry 4.0 across cloud, on premises, and edge.
+> In this session, you learn how AWS is enabling new Industry 4.0 virtualized mobile network functionality at any on-premises or edge location using AWS Outposts. You also learn how to implement enterprise-ready dedicated virtual network function architecture with AWS Outposts to meet the demands for Industry 4.0 use cases. We dive deep into the architecture and into real-life use case implementation. We also explore how AWS Outposts enable enterprises to use cloud services and tools to orchestrate, update, scale, and manage the lifecycle of enterprise dedicated mobile networks for Industry 4.0 across cloud, on premises, and edge.
 
 # Travel & Hospitality
 
-TRH201-L: Leadership session: Travel and Hospitality
+## TRH201-L: Leadership session: Travel and Hospitality
 
-In the Travel and Hospitality industry, competition and customer expectations are greater than ever. AWS is helping industry leaders stay relevant and gain a competitive edge by delivering guest experiences that delight customers. Hear how businesses in the industry are turning big data into actionable customer insights and are creating guest experiences that are both more connected and personal, all while saving time and money. No matter which part of the industry you touch, you walk away from this session with both inspiration and techniques to increase customer engagement and loyalty.
+> In the Travel and Hospitality industry, competition and customer expectations are greater than ever. AWS is helping industry leaders stay relevant and gain a competitive edge by delivering guest experiences that delight customers. Hear how businesses in the industry are turning big data into actionable customer insights and are creating guest experiences that are both more connected and personal, all while saving time and money. No matter which part of the industry you touch, you walk away from this session with both inspiration and techniques to increase customer engagement and loyalty.
 
 TRH202: Personalizing customer experiences in Travel and Hospitality
 
