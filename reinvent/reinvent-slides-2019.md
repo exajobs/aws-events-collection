@@ -26,7 +26,7 @@
 - [Travel & Hospitality](#hospitality)
 - [Windows & .NET](#)
 - [Public Sector](#)
-- We Power Tech
+- [We Power Tech](#)
 
 
 # Artificial Intelligence & Machine Learning
