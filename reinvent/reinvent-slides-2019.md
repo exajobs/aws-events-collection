@@ -2751,9 +2751,9 @@ SEC406-R1: Deep dive on AWS CloudHSM
 
 Organizations building applications that handle confidential or sensitive data are subject to many types of regulatory requirements. They also often rely on hardware security modules (HSMs) to provide validated control of encryption keys and cryptographic operations. AWS CloudHSM is a cloud-based HSM that enables you to easily generate and use your own encryption keys on the AWS Cloud using FIPS 140-2 Level 3 validated HSMs. In this talk, we demonstrate best practices in configuring and scaling your CloudHSM cluster, implementing cross-region disaster recovery, and optimizing throughput.
 
-SEC408-R1: Security benefits of the Nitro architecture
+## SEC408-R1: Security benefits of the Nitro architecture
 
-The AWS Nitro architecture is fundamental to the Amazon EC2 service. With Nitro, each host in the core compute platform is built with trusted computers that simulate the outside world and surround an untrusted CPU and memory computer that runs workloads. Those trusted Nitro computers appear to the customer workload computer as I/O devices that are accessible across the PCIe bus. Most traditional virtualization work is done via hardware emulation. The Nitro computers carefully control the workload computer access, providing a layer of protection. Learn about the security properties of this powerful architecture, which significantly increases cloud reliability and performance.
+## The AWS Nitro architecture is fundamental to the Amazon EC2 service. With Nitro, each host in the core compute platform is built with trusted computers that simulate the outside world and surround an untrusted CPU and memory computer that runs workloads. Those trusted Nitro computers appear to the customer workload computer as I/O devices that are accessible across the PCIe bus. Most traditional virtualization work is done via hardware emulation. The Nitro computers carefully control the workload computer access, providing a layer of protection. Learn about the security properties of this powerful architecture, which significantly increases cloud reliability and performance.
 
 ## SEC409-R2: Fine-grained access control for serverless apps
 
@@ -2773,11 +2773,11 @@ STG203-R2: What's new with Amazon S3 and Amazon S3 Glacier
 
 Amazon Simple Storage Service (Amazon S3) is the largest and most performant, secure, and feature-rich object-storage service. With Amazon S3, organizations of all sizes and industries can store any amount of data for any use case, including applications, IoT, data lakes, analytics, backup and restore, archive, and disaster recovery. In this session, we review recently launched Amazon S3 features such as Amazon S3 batch operations, Amazon S3 Glacier Deep Archive, Amazon S3 Block Public Access, and more to come.
 
-STG204-R1: Get your data to AWS: How to choose and use data migration services
+## STG204-R1: Get your data to AWS: How to choose and use data migration services
 
 You have data you need to move to the cloud-either once for a migration, or repeatedly for ongoing workflows. AWS data migration and transfer services move data securely and efficiently into and out of AWS. In this session, learn how to choose and combine services-including AWS DataSync, the AWS Snow family, CloudEndure, and AWS Transfer for SFTP-for your different use cases. Learn from the real-world experiences of enterprise customers and gain practical advice to help you get started.
 
-STG205-R2: Data migration: Understanding the technologies and options
+## STG205-R2: Data migration: Understanding the technologies and options
 
 AWS offers a variety of data migration and transfer services and tools to help you move everything from gigabytes to petabytes of data using your networks, our networks, the mail, or even a tractor trailer. In this session, we briefly cover a few key data-migration services and products, including the AWS Snow family, AWS DataSync, and CloudEndure Migration. Then you can join the discussion about specific customer use cases, including yours. Come learn which technologies are best for your various needs, and how they work.
 
@@ -2789,7 +2789,7 @@ STG207-S: Five hybrid cloud backup and disaster recovery mistakes to avoid
 
 Protecting and backing up your data across a heterogeneous hybrid environment is not an easy task. Learn about the top pitfalls and mistakes to avoid if you are backing up your legacy on-premises data to AWS or protecting your Amazon EC2 or Amazon RDS cloud-native workloads. Further, learn how progressive organizations are using Cohesity's backup and data management software to redefine success for backup, archival, and disaster recovery on AWS. This presentation is brought to you by Cohesity, an APN Partner.
 
-STG208: Backup-and-restore and disaster-recovery solutions with AWS
+## STG208: Backup-and-restore and disaster-recovery solutions with AWS
 
 Disasters, failures, and threats come in all shapes and sizes and can significantly impact your business. In this session, learn how to modernize your backup and disaster recovery (DR) architectures by employing hybrid models to the cloud as well as backup and DR in the cloud. The session includes discussions of the various architectures that customers are using in their backup and DR implementations, as well as the AWS services and building blocks used for backup and DR. We also discuss common architectures employed by customers leveraging third-party backup and DR tools from AWS backup and DR partners.
 
