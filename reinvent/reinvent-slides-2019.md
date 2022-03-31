@@ -3584,13 +3584,13 @@ WPS322-R1: Building a modern call center using Amazon Connect
 
 Technology is rapidly evolving; shouldn't your call center? Learn how to utilize Amazon Connect to create meaningful customer interactions with your organization, whether that's reaching out to donors, helping people in times of need, or even using AI to augment your staff. In this session, you learn how to create a call center, enrich the user experience with AWS Lambda, and build out a voice-interaction model using Amazon Lex. Participants will need to bring a headphones and have access to a cell phone for testing purposes. Please bring your laptop.
 
-WPS323: Monitoring the Earth without costing the world
+## WPS323: Monitoring the Earth without costing the world
 
 The BlueDot Water Observatory is an Earth-observation-based solution that provides reliable and timely information about surface water levels across the globe. Cost-effective yet reliable solutions for monitoring water resources are needed, as ground-based monitoring networks are often too costly and, in some cases, also unreliable. Sinergise shows how using global satellite imagery available on Amazon Simple Storage Service (Amazon S3) through the AWS Public Dataset Program, combined with an efficient use of services including AWS Lambda, Amazon DynamoDB, and Amazon CloudWatch, you can carry out a global-scale project cheaper than previously possible.
 
-WPS402: Threat detection using artificial intelligence
+## WPS402: Threat detection using artificial intelligence
 
-In this session, learn about the threat detection solution on AWS, which democratizes cybersecurity tools that were previously cost- and skills-prohibitive so they can counter the rapidly advancing threat landscape. This improves security postures and provides security architecture that can scale as workloads scale. It allows customers to detect security threats, prioritize identified threats, and provide recommendations using threat intelligence. The scope is not limited to AWS; it also includes hybrid deployments, traditional data centers, satellite offices, and other cloud service providers. Come learn how you can use this solution to gain visibility into your environment and detect indicators of attack.
+> In this session, learn about the threat detection solution on AWS, which democratizes cybersecurity tools that were previously cost- and skills-prohibitive so they can counter the rapidly advancing threat landscape. This improves security postures and provides security architecture that can scale as workloads scale. It allows customers to detect security threats, prioritize identified threats, and provide recommendations using threat intelligence. The scope is not limited to AWS; it also includes hybrid deployments, traditional data centers, satellite offices, and other cloud service providers. Come learn how you can use this solution to gain visibility into your environment and detect indicators of attack.
 
 # We Power Tech
 
