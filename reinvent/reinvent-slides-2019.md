@@ -19,7 +19,7 @@
 - [End User Computing & Business Apps](#end-user-computing--business-apps)
 - [Financial Services](#financial-services)
 
-- Robotics
+- [Robotics](#)
 - [Security](#security)
 - [Storage](#storage)
 - [Startup](#startup)
