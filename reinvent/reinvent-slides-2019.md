@@ -2461,6 +2461,48 @@ Data streams and stream processing have many applications in Financial Services.
 > Smart contracts have the potential to solve the inefficiencies inherent to traditional contracts. In this session, we build Hyperledger Fabric networks using Amazon Managed Blockchain, form a trusted consortium with multiple parties, and deploy a smart contract for a settlement use case. While obtaining an access-controlled Hyperledger consortium, we go through Hyperledger Fabric constructs, smart contract application interfaces, real-time transaction analytics, and connections to existing business systems, such as data analytics and reporting services. Please bring your laptop.
 
 
+# Retail & Wholesale
+
+RET201: Optimizing retail store merchandise in real time 
+
+Learn how shelves can do more than just hold product. Connected to the AWS Cloud, they can generate a sales funnel for the product and help optimize the entire promotion process. AWS Smart Shelves identify leads by registering the number of potential customers passing in front of a product, validating the number who actually engage with it, and recognizing the number conversions. The shelves send all the captured data to the cloud for performance analysis to optimize pricing, promotion, visibility, and more. Finally, automated triggers can be activated based on the data analysis to perform actions in real time.
+
+RET202-L: Leadership session: AI/ML drives CPG transformation & customer engagement 
+
+CPG companies are exploring new business models to transform and connect with consumers in new ways. Join leaders from¬†Amazon.com¬†Packaging and Nu Skin in this session to learn how these two organizations are leveraging AI/ML for transformation. Every organization is eager to win the hearts and minds of consumers by offering relevant products and services. Hear from Nu Skin's CTO about how the AWS Cloud is empowering the company to modernize engagement and bring relevant products to customers. Then the head of¬†Amazon.com¬†Packaging shares how leveraging the power of data and AI/ML is reinventing package design and smart products for the digital age.
+
+RET203-L: Leadership session: Born from retail, built for retailers 
+
+AWS offers the only cloud born from retail and built for retailers. In this session, we discuss Amazon's tested, proven innovation that has helped partners and retailers reinvent their legacy applications for new value, complete their view of customers for relevant insight, and transform their engagement for increased sales velocity. Learn about new product launches and messaging, and hear from the CIOs of Neiman Marcus and 7-Eleven as well as the CTO of Zalando-who are each pioneering transformation of their own businesses and retail for everything from personalized recommendations to seasonal demand, accurate delivery times, fraud detection, and more.
+
+RET204: Deckers Brands & Kmart Australia's approaches to retail transformation 
+
+In this session, hear from two retailers thriving through innovation. Both discuss moving from monolithic OMS solutions into microservices--creating flexible integration and new value. For Kmart Australia, it made perfect sense to adopt a cloud-first strategy, but the company needed to overcome a skills gap from traditional IT to a cloud-first approach. CTO Michael Fagan speaks about why he certified 100 percent of his technical staff on cloud, and creating a self-service culture of learning. Jesse Carstens from Deckers speaks about how Deckers's iconic brands and customer-first approach are now being matched by cloud-first speed and innovation.
+
+RET205: Learn how rue21 & Kimberly-Clark use analytics to lead customer journeys 
+
+Both retail and CPG brands need to proactively identify out-of-stock issues and sales opportunities across the entire retail value chain. This means having the right data and analytical models that generate real-time alerts and insights to lead, not follow, the customer journey. This session showcases different perspectives in producing and executing on these insights through the lens of two brands, rue21 and Kimberly-Clark Corporation, via their partnerships with Manthan and LLamasoft, respectively.
+
+RET206: Retailers optimize more than cost: Sustainability through the cloud 
+
+Learn how retailers are moving to the cloud to optimize much more than cost. From Amazon to Walmart, sustainability has become a key focus for retailers-whether it be increasing minimum salaries to better standards of living, or companies like Unilever working with Lipton to source their tea from environmentally sustainable sources. These actions have not only benefited communities and the environment but have been proven not to hinder growth. This chalk talk explores how the cloud is allowing retailers to optimize in areas never before possible-with benefits to cost and brand.
+
+RET301: Know retail outcomes before you deploy with AWS Global Store simulation 
+
+In this session you learn how to deploy the Global Store for Retail into your AWS account as a pre-built, functional, simulated e-commerce platform-seeing firsthand how AWS services specifically function and add value in the retail vertical environment. Through a series of exercises, you learn how to solve business challenges that are most relevant to your environment. Example exercises will include adding personalization, chat bots, search services, analytics, customer segment identification and targeting, global expansion, analytics, and solving customer data sovereignty challenges.
+
+RET303: More accurate forecasting with breakthrough POS integration 
+
+In this workshop, you get firsthand experience solving one of retail's biggest challenges: making retail forecasts more accurate by incorporating critical store point-of-sale data. The store is one of retail's best differentiators, with more than 80 percent of sales still happening in physical locations. Transformation is critical, yet point-of-sale systems have proven very challenging to modernize and integrate with other systems. We show how retail operations can build an end-to-end pipeline of data from the point of sale- deriving real-time insights and building visualizations for business users to increase decision accuracy and sales.
+
+RET306: H-E-B: How Texas's largest grocery chain architects for speed & agility 
+
+Rapidly accelerate digital engineering for large enterprises using AWS and DevOps best practices. In this talk, see the AWS architecture that scales from a 200-person home delivery retail startup to a 110,000-person grocery and e-commerce enterprise. We focus on AWS Organizations, AWS Transit Gateway, and AWS Fargate, and you learn how you can empower teams without bottlenecks and with centralized networking and security, which makes growing in the cloud a breeze. Leave this session with takeaways from the process of architecting the cloud in parallel with H-E-B's first tech acquisition, Favor Delivery.
+
+RET310: Create higher-quality recommendations in your e-commerce platform 
+
+More than 75 percent of retail customers now expect every aspect of their journey to be personalized-from relevant product recommendations to personalized marketing offers or just accurately tuned search results. Building such systems can take months and often requires a sophisticated team of data scientists, but Amazon Personalize completely changes the game, democratizing AI/ML so you can create custom recommendation engines with no prior machine learning experience. In just a few lines of code, this builders session shows you how to build and embed a series of movie recommendation models into a simple Python web application. Please bring your laptop.
+
 # Robotics
 
 ROB201-L: Leadership session: Welcome to the era of smart robots   
