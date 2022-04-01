@@ -2460,6 +2460,26 @@ Data streams and stream processing have many applications in Financial Services.
 
 > Smart contracts have the potential to solve the inefficiencies inherent to traditional contracts. In this session, we build Hyperledger Fabric networks using Amazon Managed Blockchain, form a trusted consortium with multiple parties, and deploy a smart contract for a settlement use case. While obtaining an access-controlled Hyperledger consortium, we go through Hyperledger Fabric constructs, smart contract application interfaces, real-time transaction analytics, and connections to existing business systems, such as data analytics and reporting services. Please bring your laptop.
 
+# Power & Utilities
+PNU301: Smart meters, data lakes, and serverless for Utilities 
+
+In this session, we review the business drivers, benefits, and technical architecture switching from a legacy meter data system to one based on AWS services. A major EU utility needed to ingest 12.5 billion raw data points from smart meters that generated 288 million messages per day. Learn how they switched from monolith applications based on application servers and relational databases to a reengineered, redesigned serverless application based on AWS Lambda, Amazon DynamoDB, Amazon Kinesis, Amazon S3, and-in its newest version- AWS IoT Core and AWS IoT Greengrass. We end the session by highlighting lessons learned and benefits gained.
+
+PNU302: How to reduce drone data analysis cost by 70 percent with AWS AI 
+
+Image collection and analysis are business-critical applications that can be resource-intensive for use cases in Power and Utilities, Oil and Gas, and Manufacturing. Drone footage collection can cost $300 to $700 per circuit mile, and image analysis is costly and time-intensive. Learn how Amazon SageMaker and Amazon Ground Truth can help you quickly leverage AI/ML to automate this, saving you up to 70 percent in image analysis costs. Learn best practices for how to operate the entire life cycle for any image-based AI analytics project, from first video to completed solution.
+
+PNU303: Data lakes and analytics for the digital utility 
+
+Utilities are reinventing themselves as digital businesses to deliver new products and services and frictionless customer experiences. How effectively you manage your data as a strategic asset is quickly becoming a competitive differentiator, especially in deregulated markets. In this session, we share our best practices for building a modern data platform for developing key insights using data lakes and some of the latest AWS database, data streaming, AI/ML, and analytics services. Next we dive deep as we answer questions from the audience about their data analytics challenges relevant to customer and asset insights in the Utility industry.
+
+PNU305: Real-time and predictive asset health analytics for Utilities 
+
+One of the hard problems that utilities companies face is monitoring their assets in real time and implementing effective predictive asset health analytics. In this builders session, we explain how to build an end-to-end solution, from ingesting data (with AWS IoT Core and Amazon Kinesis) to storing it in a data lake, transforming and querying it, and displaying it all on real-time dashboards or AR/VR. Next, we dive into a hands-on exercise to understand how Kinesis streaming works and how to identifying anomalies (e.g., prediction on the real-time streaming data). Please bring your laptop and an AWS account. Please bring your laptop.
+
+PNU401: Use APIs to add speech AI to your Utility customer-care apps 
+
+AWS services put AI in the hands of developer. Consequently, you don't need to be a data scientist to join this session. We discuss and then build the architecture of a serverless AI workload relevant for Energy/Utility retailers (or any industry with customer contact centers): The automated analysis of call recordings using AWS automatic speech recognition (ASR) and natural language processing (NLP) services. You leave this session with a solid understanding of how you can use AWS AI services to easily add intelligence to all of your applications. Please bring your laptop and access to an AWS account. Please bring your laptop.
 
 # Retail & Wholesale
 
