@@ -2764,19 +2764,19 @@ SEC341-R1: Set permission guardrails for multiple accounts in AWS Organizations
 
 AWS Organizations provides central governance and management for multiple accounts. Central security administrators use service control policies (SCPs) with Organizations to establish controls that all AWS Identity and Access Management (IAM) principals (users and roles) adhere to. For example, you can use SCPs to restrict access to specific AWS Regions or prevent your IAM principals from deleting common resources, such as an IAM role used by your central administrators. You can also define exceptions to your governance controls, restricting service actions for all IAM entities (users, roles, and root) in the account except a specific administrator role.
 
-SEC342-R1: Use AWS Security Hub to act on your compliance and security posture
+## SEC342-R1: Use AWS Security Hub to act on your compliance and security posture
 
 Join us for this chalk talk where we discuss how to continuously assess and act on your AWS security and compliance issues using AWS Security Hub. Learn how to enable integrations with Security Hub to aggregate, normalize, and prioritize security findings from AWS services and partner products. You also learn how to enable and interpret compliance checks based on industry standards and best practices, such as the Center for Internet Security (CIS) AWS Foundations Benchmark. Lastly, learn how to configure Security Hub for fully automated or semi-automated response and remediation actions.
 
-SEC343-R1: Provable access control: Know who can access your AWS resources
+## SEC343-R1: Provable access control: Know who can access your AWS resources
 
 The AWS Automated Reasoning Group focuses on strengthening the security foundations of AWS and provides customers with tools to verify their own security posture. In this session, we discuss the evolution of automated reasoning technology at AWS and how it works in the services in which it is embedded, including Amazon Simple Storage Service (Amazon S3), AWS Config, and Amazon Macie. Learn what's ahead for automated reasoning at AWS and the customer problems it continues to solve in the security and broader cloud space.
 
-SEC344-R1: Scaling security group management with AWS Firewall Manager
+## SEC344-R1: Scaling security group management with AWS Firewall Manager
 
 Security groups make it easy for developers to control access to resources launched in an Amazon Virtual Private Cloud (Amazon VPC). This lets developers define the traffic that should be allowed to reach resources from public or private subnets. Developers who manage scaled applications are looking for easy ways to standardize and audit security groups across many accounts and VPCs. In this session, learn how to use AWS Firewall Manager to centrally configure and manage security groups across your organization. You also learn how to create rules to apply policies across accounts and enable remediation workflows to take action on compliance issues.
 
-SEC345-R3: Protecting your IoT fleet
+## SEC345-R3: Protecting your IoT fleet
 
 Whether you're selling millions of IoT devices to customers or deploying thousands to your own factories, protecting your IoT fleet can be a challenge. With AWS, you can quickly deploy, manage, and audit your devices' security posture consistently and continuously. In this builders session, learn how to securely deploy a provided IoT sensor with its own certificate, register the device with a simple function, and then audit the device's security posture against best practices. Each attendee should be an AWS IAM administrator and needs a laptop, an active AWS account, and a familiarity with core AWS services.
 
