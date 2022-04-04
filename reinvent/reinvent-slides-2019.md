@@ -3042,11 +3042,11 @@ STG327: Set up a disaster-recovery project with CloudEndure Disaster Recovery
 
 CloudEndure Disaster Recovery makes it quick and easy to shift your disaster-recovery strategy to the AWS Cloud from existing physical or virtual data centers, private clouds, or other public clouds. In this workshop, get started with recovery to AWS. We show you how to set up your disaster-recovery project and immediately begin using CloudEndure, which you can use for recovery to cloud or across Regions. You also learn how to install a CloudEndure agent, monitor replication processes, review cloud staging-area resources, configure target blueprints, launch test instances in AWS, and connect to target machines.
 
-STG328: Build a simple trade-reconciliation platform with AWS services
+## STG328: Build a simple trade-reconciliation platform with AWS services
 
 ¬†SFTP servers are common in the Financial Services industry because of their security and ease of use. In this workshop, use AWS Transfer for SFTP, Amazon Simple Storage Service (Amazon S3), AWS Lambda, and Amazon Athena to build a simple trade-reconciliation pipeline to validate end-of-day trading logs. You learn how AWS SFTP links to Amazon S3, how to use Amazon S3 events to process data ingest in real time, and how to visualize using Amazon QuickSight.
 
-STG329-R1: Maximizing storage throughput and performance
+## STG329-R1: Maximizing storage throughput and performance
 
 Do your applications demand the highest performance from your storage systems? Come learn how to achieve peak performance from Amazon Elastic Block Store (Amazon EBS), Amazon Elastic File System (Amazon EFS), and Amazon Simple Storage Service (Amazon S3). You learn effective use of these services' distributed designs and performance features, and the API best practices to meet any application's high-performance storage requirements.
 
