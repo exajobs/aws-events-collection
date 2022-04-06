@@ -2483,11 +2483,11 @@ AWS services put AI in the hands of developer. Consequently, you don't need to b
 
 # Retail & Wholesale
 
-RET201: Optimizing retail store merchandise in real time 
+## RET201: Optimizing retail store merchandise in real time 
 
-Learn how shelves can do more than just hold product. Connected to the AWS Cloud, they can generate a sales funnel for the product and help optimize the entire promotion process. AWS Smart Shelves identify leads by registering the number of potential customers passing in front of a product, validating the number who actually engage with it, and recognizing the number conversions. The shelves send all the captured data to the cloud for performance analysis to optimize pricing, promotion, visibility, and more. Finally, automated triggers can be activated based on the data analysis to perform actions in real time.
+> Learn how shelves can do more than just hold product. Connected to the AWS Cloud, they can generate a sales funnel for the product and help optimize the entire promotion process. AWS Smart Shelves identify leads by registering the number of potential customers passing in front of a product, validating the number who actually engage with it, and recognizing the number conversions. The shelves send all the captured data to the cloud for performance analysis to optimize pricing, promotion, visibility, and more. Finally, automated triggers can be activated based on the data analysis to perform actions in real time.
 
-RET202-L: Leadership session: AI/ML drives CPG transformation & customer engagement 
+## RET202-L: Leadership session: AI/ML drives CPG transformation & customer engagement 
 
 CPG companies are exploring new business models to transform and connect with consumers in new ways. Join leaders from¬†Amazon.com¬†Packaging and Nu Skin in this session to learn how these two organizations are leveraging AI/ML for transformation. Every organization is eager to win the hearts and minds of consumers by offering relevant products and services. Hear from Nu Skin's CTO about how the AWS Cloud is empowering the company to modernize engagement and bring relevant products to customers. Then the head of¬†Amazon.com¬†Packaging shares how leveraging the power of data and AI/ML is reinventing package design and smart products for the digital age.
 
