@@ -18,9 +18,13 @@
 - [Enterprise](#enterprise)
 - [End User Computing & Business Apps](#end-user-computing--business-apps)
 - [Financial Services](#financial-services)
-
+- [Netflix]
+- [Oil & Gas]
+- [Open Source]
+- [Power & Utilities]
+- [Retail & Wholesale]
 - [Robotics](#)
-- [Security](#security)
+- [Security, Identity, Compliance](#security)
 - [Storage](#storage)
 - [Startup](#startup)
 - [Serveless](#serverless)
