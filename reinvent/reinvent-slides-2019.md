@@ -2388,27 +2388,27 @@ In this session, join Stephen Vilke, GM of AWS end user computing services, as h
 
 # Financial Services
 
-FSI201-L: Leadership session: Running critical FSI applications on AWS
+## FSI201-L: Leadership session: Running critical FSI applications on AWS
 
 As financial services institutions strive to grow their businesses and better serve customers by building secure, flexible, and scalable solutions on the cloud, they have gained the confidence to run their most business-critical applications on AWS. In this session, Frank Fallon, VP of Worldwide Financial Services at AWS, discusses the industry's growing reliance on the public cloud and the strengthening of ties between business and IT. Frank is joined by senior executives of leading financial institutions who share why and how they moved key applications to AWS-and the benefits they have realized as a result.
 
-FSI202: AXA: Scaling adoption with a global landing zone
+## FSI202: AXA: Scaling adoption with a global landing zone
 
 Like many global financial institutions, AXA faces the challenge of globally scaling its cloud adoption. The company needed to deploy a landing zone across 80+ entities operating in 60+ countries. In this session, learn how AXA took a unique and agile approach that enables local teams to autonomously test, validate, and propose changes to landing zone templates while centrally monitoring adherence to detective and preventative controls. We explore how AXA accelerated the secure migration of hundreds of applications to AWS by embedding its landing zone within an organizational transformation program that includes robust cloud onboarding and change management processes.
 
-FSI203: NAB: Transforming customer experience with data and machine learning
+## FSI203: NAB: Transforming customer experience with data and machine learning
 
 National Australia Bank (NAB) has more than 160 years of customer and banking data at its disposal. But the bank faced the challenge of harnessing this asset to enable its contact-center team to provide rapid and engaging experiences to its customers while maintaining their privacy and security. Come learn how NAB lowered operational costs and transformed customer experience by transitioning hundreds of retail, corporate, and institutional contact-center professionals to Amazon Connect. This session also shares NAB's approach to building a centralized enterprise data lake and applying machine learning to further engage customers and drive the bank's multichannel strategy.
 
-FSI204: JPMorgan Chase: Moving workloads at speed and scale
+## FSI204: JPMorgan Chase: Moving workloads at speed and scale
 
 In this session, JPMorgan Chase, one of the leading global financial institutions in the world, talks about unlocking adoption across its enterprise of 50,000 developers and its application estate. Learn how JPMorgan Chase embraced"cloud parties," shifted to a focus on patterns from a focus on service enablement, and leveraged CI/CD tools to move 50+ workloads to production in three weeks. We discuss how JPMorgan Chase achieved this speed and scale across several lines of business in collaboration with engineering teams across disciplines, while maintaining the controls required to operate within a highly regulated environment.
 
-FSI301: Practical patterns for meeting IT compliance requirements
+## FSI301: Practical patterns for meeting IT compliance requirements
 
 AWS offers a wide variety of services and features that help companies in regulated industries such as Financial Services meet their IT governance requirements and operate in an agile manner. This chalk talk provides a guided tour of emerging patterns and solutions to address common IT governance concerns, such as zero-trust architecture, immutable production, and controlled change management. Our tour features a variety of services, including AWS Single Sign-On, AWS Organizations, and AWS Control Tower, among others.
 
-FSI302-R1: Migrating monolithic applications with the strangler pattern
+## FSI302-R1: Migrating monolithic applications with the strangler pattern
 
 Lifting and shifting an enterprise-scale application will give some of the benefits of the cloud, but elasticity and agility may still be limited. Conversely, rewriting that application to be cloud-native can be costly in terms of both time and money and could cause you to miss a market opportunity. This session explores the challenges financial institutions in particular face when migrating their existing portfolio of applications to the cloud. We walk through the steps financial institutions can take to migrate applications in such a way that they realize cloud-native architectural benefits incrementally using the strangler pattern.
 
