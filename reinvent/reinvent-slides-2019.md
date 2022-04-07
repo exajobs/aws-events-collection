@@ -1305,19 +1305,19 @@ Amazon.com has built a hosted infrastructure on Amazon Elastic Kubernetes Servic
 
 As your organization embraces Kubernetes, the number of clusters will explode, and it will become difficult to manage a consistent set of access, application security, configuration, and resource quota policies. In this session, you learn how to use a Kubernetes control plane to manage policies across hundreds of disparate clusters and align thousands of users with resources to maximize security and self-service. This presentation is brought to you by VMware, an APN Partner.
 
-CON215-S: Implementing Kubernetes on AWS with confidence 
+## CON215-S: Implementing Kubernetes on AWS with confidence 
 
 Come along on Lending Tree's journey to Kubernetes on AWS. In this talk, Lending Tree shares its experience and lessons learned while migrating to Kubernetes with the help of Sumo Logic. Hear how the company trained teams, ensured reliability, and made sure that monitoring stayed at the forefront of its technology stack. This presentation is brought to you by Sumo Logic, an APN Partner.
 
-CON216-R1: Getting started on AWS App Mesh 
+## CON216-R1: Getting started on AWS App Mesh 
 
 In this session, we provide an overview of AWS App Mesh and new capabilities that will enable your applications to securely communicate with each other. We also detail how to integrate App Mesh with Amazon Elastic Kubernetes Service (Amazon EKS) and Amazon Elastic Container Service (Amazon ECS). The demos and examples we provide in this session teach you the basics and tips and tricks for doing application-level networking on your services using App Mesh.
 
-CON217: Roadmaps for containers, application networking & Amazon Linux at AWS   
+## CON217: Roadmaps for containers, application networking & Amazon Linux at AWS   
 
 In this session, we cover recent announcements for containers, Amazon Linux, and application networking at AWS, and how they fit into the bigger picture for users. We also cover how we're thinking about what's next and discuss different ways you can help drive our product direction-such as developer previews, publicly available roadmaps, and more!
 
-CON218: How Amazon Lex uses Amazon ECS to process batches at scale for conversational bots   
+## CON218: How Amazon Lex uses Amazon ECS to process batches at scale for conversational bots   
 
 Amazon Lex creates conversational interfaces powered by the same deep learning technologies used in Alexa. AWS Batch dynamically provisions the optimal quantity and type of compute resources based on the volume and specific resource requirements of the batch jobs submitted. In this chalk talk, learn how Amazon Lex uses Amazon ECS to dynamically run these batch jobs to create conversational bots.
 
