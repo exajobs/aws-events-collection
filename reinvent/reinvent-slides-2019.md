@@ -1389,43 +1389,43 @@ CON326-R1: [NEW LAUNCH!] Running Kubernetes Applications on AWS Fargate
 
 Fargate is a serverless compute engine for containers that supports multiple orchestrators. Come to this session to learn how the new integration between EKS and Fargate allows developers to deploy containers on a kubernetes cluster without thinking about infrastructure.
 
-CON327-R1: Oversubscription at scale: Running tons of containers with Kubernetes   
+## CON327-R1: Oversubscription at scale: Running tons of containers with Kubernetes   
 
 How do you build a best-in-class application that can scale to millions of users while also being efficient and easy to operate? In this session, you learn how GoDaddy is using Amazon EKS to drive massive scalability with optimal cost structure on AWS. You also hear how GoDaddy's pod-packing strategy for oversubscription on Kubernetes is a key element in the plan to drive down cost while supporting very large cluster sizes.
 
-CON328-R1: Improving observability of your containers   
+## CON328-R1: Improving observability of your containers   
 
 With CloudWatch Container Insights, FireLens, and AWS App Mesh working across Amazon Elastic Container Service (Amazon ECS), Amazon Elastic Kubernetes Service (Amazon EKS), and AWS Fargate, customers now have the tools to gain visibility into their deployments across environments. In this session, we dive deep into an architecture¬†that enables the company to have a unified view across containers.
 
-CON329: Running Kubernetes clusters at scale: Square   
+## CON329: Running Kubernetes clusters at scale: Square   
 
 Cash App, part of the Square ecosystem, has amassed over 15 million monthly active users and continues to grow. Building its next-gen stack on top of AWS-managed open-source technologies has allowed Cash App platform teams to focus on security and increase developer velocity and permitted the app's product engineering teams to focus on business value. Come and learn how Cash App built its stack on top of Amazon EKS while leveraging AWS's first-rate managed services. If you are running at scale any application that requires operational excellence and fine-grained security policies, this session is for you.
 
-CON330: Running Kubernetes clusters at scale: Bird   
+## CON330: Running Kubernetes clusters at scale: Bird   
 
 Launched in fall 2017, Bird is a micromobility company that enables access to shared e-scooters and lightweight electric vehicles in 100+ locations worldwide. Join us to hear how building a modern stack on top of Amazon EKS has enabled Bird to quickly ramp up its development in order to provide business value in a stable and secure manner. Further, learn how Bird's backend utilizes native AWS services like Amazon S3 and Amazon SQS, open-source streaming systems like Kafka and Flink, and a modern microservices architecture to turn terabytes of geospatial data into the mobility revolution of the future.
 
-CON332-S: Extreme infrastructure automation with Wavefront by VMware 
+## CON332-S: Extreme infrastructure automation with Wavefront by VMware 
 
 In this session, learn from Wavefront by VMware how to scale containerized infrastructure while increasing efficiency. Join this session to learn about intelligent Amazon EC2 instance size selection, pod placement, cost-optimization automation using Amazon EC2 Spot Instances, and next-generation reserved instance management. This presentation is brought to you by Spotinst, an APN Partner.
 
-CON334-R1: Running high-security workloads on Amazon EKS   
+## CON334-R1: Running high-security workloads on Amazon EKS   
 
 AWS's rich set of features enable running high-security workloads on Amazon Elastic Kubernetes Service (Amazon EKS). In this session, we explore solutions with the real-life example of how HSBC's cloud services team built a secure multi-tenant platform for the company's application teams to run mission-critical containerized applications on Amazon EKS. Amazon EKS and HSBC engineers discuss security features, best practices, and lessons learned from operating secure Amazon EKS clusters. Topics include network security, Linux host security, AWS Identity and Access Management (IAM)integrations, IAM for service accounts, Kubernetes RBAC and Namespaces, and integrating logging and monitoring of the Kubernetes control-plane and worker nodes.
 
-CON335-R1: Using Amazon ECR to create trusted registries for container images 
+## CON335-R1: Using Amazon ECR to create trusted registries for container images 
 
 Dive deep with Amazon ECR to deploy a container image to AWS Fargate-but only if the image passes a vulnerability scan-and then set up subsequent re-scans, improving your application's security posture. Please bring your laptop.
 
-CON406-R1: Deep dive into application-level network management & observability with App Mesh   
+## CON406-R1: Deep dive into application-level network management & observability with App Mesh   
 
 AWS App Mesh provides enterprise-ready features beyond what is available through open-source solutions for application-level networks. In this session, we do a deep dive on best ways to onboard your applications to App Mesh, including how to configure your application, layer in different capabilities, tune your route settings, and configure dashboards needed to observe apps. You also learn what your teams should know to maximize value from App Mesh.
 
-CON408-R1: Deep dive into firecracker-containerd 
+## CON408-R1: Deep dive into firecracker-containerd 
 
 Last year, we released the Firecracker virtual machine monitor (VMM) built on top of the Linux KVM subsystem, which is optimized for lightweight, container-like"microVMs." In this session, we dive deep into the architecture of the firecracker-containerd project, which aims to allow portability between standard OCI container images and the larger container ecosystem with Firecracker microVMs. Topics covered include the standard containerd architecture with the reference OCI runtime (runc), challenges adapting containers into microVMs, and the firecracker-containerd suite.
 
-CON411-R1: Advanced network resource management on Amazon EKS 
+## CON411-R1: Advanced network resource management on Amazon EKS 
 
 Different Kubernetes users have different requirements for their cluster network setup. They might want high pod density, or no overlay networking, or separate security groups, or separate network interface for each pod. Having a centralized network resource provider instead of a per-node IPAM daemon enables network assets available as a schedulable Kubernetes resource. This makes it possible to simplify the management of networking resources and offer further customizable networking solutions. In this session, we discuss how the Amazon Elastic Kubernetes Service (Amazon EKS) team has approached meeting these customer needs, and share the solution to manage network resources centrally.
 
@@ -1433,11 +1433,11 @@ Different Kubernetes users have different requirements for their cluster network
 
 > Apache Spark is a popular execution framework for running machine-learning workloads. Since the beta release of spark-operator in early 2019, more users are determined to move their big data analytics workloads to Kubernetes. The challenge is that users still need guidance to utilize Kubernetes to achieve the best performance. In this session, we run Spark benchmarks on Kubernetes and provide insights into performance bottlenecks through use of compute-intensive workloads. We use benchmark tool spark-sql-perf from databricks and spark-bench from IBM CODAIT in performance evaluation. We share performance-tuning tips and tricks on scheduling, storage, and networking.
 
-CON413-R1: Move your machine learning workloads to Amazon EKS 
+## CON413-R1: Move your machine learning workloads to Amazon EKS 
 
 With the increased importance of machine learning (ML) and artificial intelligence (AI), companies are assembling dedicated ML teams and looking to move their ML infrastructure to Amazon Elastic Kubernetes Service (Amazon EKS). In this session, we discuss the principles and technical challenges in moving ML workloads to Kubernetes. We share popular community solutions, such as Kubeflow, as well as common performance challenges and bottlenecks when running ML workloads at scale on Kubernetes. In addition, we provide an update on the EKS team's efforts in infrastructure, platform areas, such as Kubeflow support, GPU cost optimization, distributed training, and large-scale data preprocessing on EKS.
 
-CON414-R3: Security best practices for AWS Fargate 
+## CON414-R3: Security best practices for AWS Fargate 
 
 In this session, we highlight several of the recommendations for container security on AWS Fargate. You learn about using a private registry and securing the cluster and your services. We also discuss network security basics and security monitoring using AWS solutions. Please bring your laptop.
 
