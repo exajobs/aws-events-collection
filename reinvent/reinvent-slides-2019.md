@@ -1627,23 +1627,23 @@ DAT338-R1: Hands-on workshop: How to migrate to Amazon DocumentDB
 
 Amazon DocumentDB is a fast, reliable, fully managed MongoDB-compatible database service. If you're using MongoDB today, how can you move your workloads to Amazon DocumentDB? What do you need to think about before, during, and after migration? Which tools and approaches should you use to ensure a successful migration? Join us to learn how to migrate MongoDB workloads to Amazon DocumentDB, and also get a demo of using AWS Database Migration Service (DMS).
 
-DAT339-R4: Build on Amazon Aurora with MySQL compatibility 
+## DAT339-R4: Build on Amazon Aurora with MySQL compatibility 
 
 Amazon Aurora is a MySQL- and PostgreSQL-compatible relational database with the speed, reliability, and availability of commercial databases at one-tenth the cost. In this session, get started with the MySQL-compatible edition, discuss your existing application running on Aurora, or learn about recently announced features, such as serverless or parallel query. Please bring your laptop.
 
-DAT340-R4: Build on Amazon Aurora with PostgreSQL compatibility 
+## DAT340-R4: Build on Amazon Aurora with PostgreSQL compatibility 
 
 Amazon Aurora is a MySQL- and PostgreSQL-compatible relational database with the speed, reliability, and availability of commercial databases at one-tenth the cost. In this session, get started with the PostgreSQL-compatible edition, discuss your existing application running on Aurora, or learn about recently announced features, such as fast database cloning or performance insights. Please bring your laptop.
 
-DAT341-R1: Best practices for graph data modeling and Amazon Neptune 
+## DAT341-R1: Best practices for graph data modeling and Amazon Neptune 
 
 Amazon Neptune is a fast, reliable, fully managed graph database service that makes it easy to build and run applications that work with highly connected datasets. In this session, we review some best practices for graph data modeling and how to migrate to graph from other data models.
 
-DAT342-R1: Lessons from migrating Oracle databases to Amazon Aurora 
+## DAT342-R1: Lessons from migrating Oracle databases to Amazon Aurora 
 
 AWS Database Migration Service (AWS DMS) helps you migrate databases to AWS easily and securely, minimizing downtime to applications that rely on the database. AWS DMS can migrate your data to and from most widely used commercial and open-source databases and, along with AWS Schema Conversion Tool (AWS SCT), has helped multiple customers migrate off of their Oracle databases into Amazon Aurora. In this session, learn about common pitfalls, issues, the biggest differences between the engines, migration best practices, and how some of our customers have completed these migrations.
 
-DAT343-R1: Lessons from migrating SQL server databases to Amazon Aurora 
+## DAT343-R1: Lessons from migrating SQL server databases to Amazon Aurora 
 
 AWS Database Migration Service (AWS DMS) helps you migrate databases to AWS easily and securely, minimizing downtime to applications that rely on the database. AWS DMS can migrate your data to and from most widely used commercial and open-source databases and, along with AWS Schema Conversion Tool (AWS SCT), has helped multiple customers migrate off of their SQL Server databases into Amazon Aurora. In this session, learn about common pitfalls, issues, the biggest differences between the engines, migration best practices, and how some of our customers have completed these migrations.
 
