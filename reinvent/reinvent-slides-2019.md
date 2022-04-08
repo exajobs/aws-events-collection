@@ -2922,23 +2922,23 @@ STG217: Shift your tape backups to AWS to save time and money
 
 IT operations teams are asked by business stakeholders to store more data for backup, archiving, and compliance reasons, often with less budget and fewer people. If you face this challenge, see how AWS Storage Gateway's tape-gateway configuration shifts tape backups and archives to AWS. This enables you to use the lowest-cost storage in the cloud for backups-without changing workflows or applications. Learn how tape gateways work, hear from an AWS customer how and why they are using one, and see a demonstration. Gain understanding of the business-case and deployment steps to move your tape backups to AWS.
 
-STG220: How to move 700 TB over the wire to AWS with AWS DataSync
+## STG220: How to move 700 TB over the wire to AWS with AWS DataSync
 
 Enterprises often face the challenge of migrating vast amounts of data from their on-premises storage environments to AWS. To simplify such migrations, AWS offers many services, including AWS DataSync, for accelerated online transfer. In this interactive session, we show how one customer, Autodesk, successfully migrated over 700 terabytes (TB) of data from their Dell EMC Data Domain storage systems to Amazon Simple Storage Service (Amazon S3) with minimal setup and administration, within two months. By the end of this session, you'll know when and how to use DataSync to simplify and speed up moving large datasets over the network to AWS.
 
-STG221: SFTP workflows for data lakes and enterprise applications
+## STG221: SFTP workflows for data lakes and enterprise applications
 
 Sharing files using SFTP (Secure Shell File Transfer Protocol) is still important for many businesses, but running your own SFTP servers and infrastructure can burden IT operations. AWS Transfer for SFTP makes it easy to move your file exchange workloads to the cloud. Learn how the service supports common file transfer use cases for data lakes, analytics, and ERP and CRM applications. See a demonstration of key capabilities, including authentication and networking security options, and get your questions answered.
 
-STG222-R1: Developing a game plan for storage migration to AWS
+## STG222-R1: Developing a game plan for storage migration to AWS
 
 Do you need to move your storage to AWS? Join this interactive discussion about how to work backward from your on-premises data-center storage resources to create a storage migration plan that will have maximum business impact and highest ROI, while using AWS storage and migration services intelligently. This session is focused on the needs of a senior data center/IT manager and will provide real-world AWS customer examples and lessons learned from our senior solution-architect teams.
 
-STG225-R2: Getting started with hybrid file storage using File Gateway
+## STG225-R2: Getting started with hybrid file storage using File Gateway
 
 Learn hands-on how to deploy the file gateway configuration of the AWS Storage Gateway service to get access to virtually unlimited cloud storage for your on-premises file-based applications. The file gateway configuration provides a file share backed by Amazon Simple Storage Service (Amazon S3) that works with existing Windows or Linux applications using SMB or NFS, and gives you low-latency performance with a local cache. You can also use it to store files, database backups, and other data as durable objects in Amazon S3. Please bring your laptop.
 
-STG229-R1: Optimizing Amazon S3 data throughputs, requests, and transfers
+## STG229-R1: Optimizing Amazon S3 data throughputs, requests, and transfers
 
 Amazon Simple Storage Service (Amazon S3) supports many automated features to help save on storage time and costs. There are some things that customers can avoid to maximize their resources and optimize performance. In this builders session, Amazon S3 experts provide hands-on guidance on optimizing throughputs for large Amazon S3 objects, request rates for small Amazon S3 objects, and data transfers to Amazon S3 over long distances. All attendees should have an AWS account and be able to perform basic Linux commands. Please bring your laptop.
 
