@@ -2628,47 +2628,47 @@ SEC218-R1: Deploying private certificates using ACM Private CA
 
 Organizations are looking at projects requiring a private certificate infrastructure like service meshes for microservices, full path encryption of traffic, device manufacturing, and app development and deployment. In this session, we discuss how to deploy AWS Certificate Manager Private Certificate Authority to provide certificate infrastructure and walk through a few examples of projects like these. During the session, learn how to build a CA hierarchy, choose the correct CA templates, configure IAM permission options, and manage certificate lifecycle. Participants will be able to apply these lessons and use cases to their own PKI infrastructure to accelerate their projects.
 
-SEC219-R1: Build the next great app with Amazon Cognito
+## SEC219-R1: Build the next great app with Amazon Cognito
 
 Are you planning to build the next great app? Are you planning to include features like AI-driven responses, a friendly user experience, and a lightning fast response time? There's just one thing in your way: Identity. Before your users can use your app, you first have to know who they are. In this talk, we walk through how Amazon Cognito can help you deliver a unified identity management and authentication experience and help you mediate access to AWS services. We then discuss Amazon Cognito features, best practices, architectures, and how you can use Amazon Cognito to build your app today.
 
-SEC220-S: Avoiding cloud security anti-patterns the right way
+## SEC220-S: Avoiding cloud security anti-patterns the right way
 
 Time and again, we see enterprises experience data breaches even with significant investments in cloud security tools and automation processes. Research has shown recurring patterns around enterprise cloud security practices that end up being ineffective and, in some cases, weakening the cloud security posture. In this session, we identify five cloud security anti-patterns that enterprises should avoid and suggest best practices to follow when implementing security around cloud environments. This presentation is brought to you by Palo Alto Networks, an APN Partner.
 
-SEC221-S: Securing the Super Bowl at CBS Interactive
+## SEC221-S: Securing the Super Bowl at CBS Interactive
 
 CBS Interactive leverages the flexibility of the cloud to support its extensive online content network. In this session, learn how CBS Interactive streams major events from March Madness to the Super Bowl at speed and scale while deploying self-learning artificial intelligence security systems that create a self-defending cloud that is secure by default. This presentation is brought to you by Darktrace, an APN Partner.
 
-SEC222-S: Protecting you from you: Misconfiguration-caused breaches
+## SEC222-S: Protecting you from you: Misconfiguration-caused breaches
 
 According to Gartner,"through 2022, at least 95 percent of cloud security failures will be the customer's fault." In this session, Roy Feintuch, cloud chief technologist at Check Point Software, outlines the problem statement while providing surprising examples of publicly known security breaches. He then provides best practices and methodologies to mitigate these breaches using detective, reactive, and preventative measures, as well as compliance and configuration monitoring. As part of the session, Feintuch also discusses alternative proprietary techniques that augment AWS native services and capabilities, like AWS Control Tower and AWS Lambda. This session is brought to you by Check Point Software, an APN Partner.
 
-SEC301-R1: Automating threat detection and response in AWS
+## SEC301-R1: Automating threat detection and response in AWS
 
 This workshop provides the opportunity for you to get familiar with AWS security services and learn how to use them to identify and remediate threats in your environment. Learn how to use Amazon GuardDuty, Amazon Macie, Amazon Inspector, and AWS Security Hub to investigate threats during and after an attack, set up a notification and response pipeline, and add additional protections to improve your environment's security posture. All attendees need a laptop and familiarity with core AWS services.
 
-SEC302-R1: DevSecOps: Integrating security into pipelines
+## SEC302-R1: DevSecOps: Integrating security into pipelines
 
 In this workshop, you practice running an environment with a test and production deployment pipeline. Along the way, we cover topics such as static code analysis, dynamic infrastructure review, and workflow types. You also learn how to update your process in response to security events. We write new AWS Lambda functions and incorporate them into the pipeline, and we consider capabilities such as AWS Systems Manager Parameter Store and AWS Secrets Manager.
 
-SEC304-R1: Compliance automation: Set it up fast, then code it your way
+## SEC304-R1: Compliance automation: Set it up fast, then code it your way
 
 In this workshop, learn how to detect common resource misconfigurations using AWS Security Hub. We also teach you how to extend coverage by deploying additional sets of existing rules or your own custom AWS Config rules using our Rule Development Kit (written in Python), as well as how to automatically remediate compliance violations when they are detected. Basic Python skills and a basic understanding of Boto 3 are required for the coding portion of this workshop. All attendees need a laptop, an active AWS account, an AWS IAM administrator, and familiarity with core AWS services.
 
-SEC305-R1: Achieving security goals with AWS CloudHSM
+## SEC305-R1: Achieving security goals with AWS CloudHSM
 
 In this talk, we compare AWS CloudHSM with other AWS cryptography services for common use cases. We dive deep on how to build scalable, reliable workloads with CloudHSM, and we teach you how to configure the service for performance, error resilience, and cross-region redundancy.
 
-SEC308: Managing user permissions at scale with AWS SSO
+## SEC308: Managing user permissions at scale with AWS SSO
 
 AWS Organizations and AWS Single Sign-On (SSO) shifted the AWS cloud management model from separate accounts with unique identities to hierarchical accounts with common identities. Together they provide a simpler model to manage access within an account hierarchy, while providing users a portal from which to access their assigned accounts and roles. This session explains the latest AWS SSO security and administration features and best practices for managing permissions at scale, whether you administer your identities in AWS SSO or in Active Directory.
 
-SEC309: [NEW LAUNCH!] Dive Deep into IAM Access Analyzer
+## SEC309: [NEW LAUNCH!] Dive Deep into IAM Access Analyzer
 
 AWS Identity and Access Management Access Analyzer is a new capability for security teams and administrators to validate that resource policies only provide the intended public and cross-account access. IAM Access Analyzer uses automated reasoning, which applies logic and mathematical inference to inspect resource policies. We will demonstrate how to use IAM Access Analyzer to identify resource policies that don't comply with your organization's security requirements and then proactively protect resources from unintended access. Learn how Millennium Management uses IAM Access Analyzer across their company to analyze policies associated with Amazon S3 buckets, AWS KMS keys, and more.
 
-SEC310: Security best practices for the Amazon EC2 instance metadata service
+## SEC310: Security best practices for the Amazon EC2 instance metadata service
 
 The Amazon EC2 instance metadata service (IMDS) provides a rich set of relevant data to software on that instance. The IMDS ability to perform introspection about the runtime environment, as well as to pass parameters and code through user data, greatly simplifies software development and deployment. At the same time, an instance's metadata includes private information, such as AWS credentials, that should be limited to the software or humans that need access. In this session, we take a close look at the IMDS and mechanisms for protecting it from unintended access, including new capabilities provided by the recently launched IMDS version.
 
