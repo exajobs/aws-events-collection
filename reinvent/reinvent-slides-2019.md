@@ -2770,11 +2770,11 @@ AWS Organizations provides central governance and management for multiple accoun
 
 ## SEC342-R1: Use AWS Security Hub to act on your compliance and security posture
 
-Join us for this chalk talk where we discuss how to continuously assess and act on your AWS security and compliance issues using AWS Security Hub. Learn how to enable integrations with Security Hub to aggregate, normalize, and prioritize security findings from AWS services and partner products. You also learn how to enable and interpret compliance checks based on industry standards and best practices, such as the Center for Internet Security (CIS) AWS Foundations Benchmark. Lastly, learn how to configure Security Hub for fully automated or semi-automated response and remediation actions.
+> Join us for this chalk talk where we discuss how to continuously assess and act on your AWS security and compliance issues using AWS Security Hub. Learn how to enable integrations with Security Hub to aggregate, normalize, and prioritize security findings from AWS services and partner products. You also learn how to enable and interpret compliance checks based on industry standards and best practices, such as the Center for Internet Security (CIS) AWS Foundations Benchmark. Lastly, learn how to configure Security Hub for fully automated or semi-automated response and remediation actions.
 
 ## SEC343-R1: Provable access control: Know who can access your AWS resources
 
-The AWS Automated Reasoning Group focuses on strengthening the security foundations of AWS and provides customers with tools to verify their own security posture. In this session, we discuss the evolution of automated reasoning technology at AWS and how it works in the services in which it is embedded, including Amazon Simple Storage Service (Amazon S3), AWS Config, and Amazon Macie. Learn what's ahead for automated reasoning at AWS and the customer problems it continues to solve in the security and broader cloud space.
+> The AWS Automated Reasoning Group focuses on strengthening the security foundations of AWS and provides customers with tools to verify their own security posture. In this session, we discuss the evolution of automated reasoning technology at AWS and how it works in the services in which it is embedded, including Amazon Simple Storage Service (Amazon S3), AWS Config, and Amazon Macie. Learn what's ahead for automated reasoning at AWS and the customer problems it continues to solve in the security and broader cloud space.
 
 ## SEC344-R1: Scaling security group management with AWS Firewall Manager
 
@@ -2806,7 +2806,7 @@ Many organizations need to securely host personal health information (PHI) on AW
 
 SEC351-R3: Getting started with machine learning & data science for security
 
-This builders session is for security professionals who want to start using machine learning and data science techniques to gain insight from their security-related data. We discuss the types of insights these techniques can facilitate (finding repeating patterns, identifying anomalous activity, etc.), and we demonstrate how you can jump-start your efforts to explore your own security-related data by using AWS. Join us if you consider yourself a security professional (with at least a 200-level understanding) who has an introductory familiarity with ML and data science concepts and terminology. Please bring your laptop.
+> This builders session is for security professionals who want to start using machine learning and data science techniques to gain insight from their security-related data. We discuss the types of insights these techniques can facilitate (finding repeating patterns, identifying anomalous activity, etc.), and we demonstrate how you can jump-start your efforts to explore your own security-related data by using AWS. Join us if you consider yourself a security professional (with at least a 200-level understanding) who has an introductory familiarity with ML and data science concepts and terminology. Please bring your laptop.
 
 SEC352: National Australia Bank: Automating governance in Financial Services
 
