@@ -1875,13 +1875,13 @@ DOP314-R2: Optimizing Java applications for scale on AWS
 
 Executing at scale in the cloud can require more than the conventional best practices. During this talk, we offer a number of different Java-related tools you can add to your AWS tool belt to help you more efficiently develop Java applications on AWS-as well as strategies for optimizing those applications. We adapt the talk on the fly to cover the topics that interest the group most, including more easily accessing Amazon DynamoDB, handling high-throughput uploads to and downloads from Amazon Simple Storage Service (Amazon S3), troubleshooting Amazon ECS services, working with local AWS Lambda invocations, optimizing the Java SDK, and more.
 
-DOP315-R2: Build using JavaScript with AWS Amplify, AWS Lambda, and AWS Fargate 
+## DOP315-R2: Build using JavaScript with AWS Amplify, AWS Lambda, and AWS Fargate 
 
-Learn how to build applications with AWS Amplify on the front end and AWS Fargate and AWS Lambda on the backend, and protocols (like HTTP/2), using the JavaScript SDKs in the browser and node. Leverage the AWS SDK for JavaScript's modular NPM packages in resource-constrained environments, and benefit from the built-in async features to run your node and mobile applications, and SPAs, at scale.
+> Learn how to build applications with AWS Amplify on the front end and AWS Fargate and AWS Lambda on the backend, and protocols (like HTTP/2), using the JavaScript SDKs in the browser and node. Leverage the AWS SDK for JavaScript's modular NPM packages in resource-constrained environments, and benefit from the built-in async features to run your node and mobile applications, and SPAs, at scale.
 
-DOP317-R3: Amazon's approach to automated testing 
+## DOP317-R3: Amazon's approach to automated testing 
 
-Join us for a session about how Amazon uses testing strategies to build a culture of quality. Learn Amazon's best practices around load testing, unit testing, integration testing, and UI testing. We also discuss what parts of testing are automated and how we take advantage of tools, and share how we strategize to fail early to ensure minimum impact to end users.
+> Join us for a session about how Amazon uses testing strategies to build a culture of quality. Learn Amazon's best practices around load testing, unit testing, integration testing, and UI testing. We also discuss what parts of testing are automated and how we take advantage of tools, and share how we strategize to fail early to ensure minimum impact to end users.
 
 DOP319-R2: Building and deploying applications on AWS with Python 
 
