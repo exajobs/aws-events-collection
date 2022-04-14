@@ -3456,17 +3456,17 @@ TLC204-R1: Implementing telecommunication data analytics
 
 By attending this session, you gain an understanding of telecommunication-specific data analytics by using AWS services such as: Amazon S3, AWS Glue, Amazon Athena, and Amazon QuickSight. In this session, we use simple network management system/operation support system (NMS/OSS)-generated call data records (CDR) as an example and analyze them with AWS services so that you can apply this in your own organization. Attendees are required to have an AWS account with access to Amazon S3, AWS Glue, Athena, and Amazon QuickSight. Please bring your laptop.
 
-TLC205-L: Leadership session: Join T-Mobile in a rapid cloud-native journey
+## TLC205-L: Leadership session: Join T-Mobile in a rapid cloud-native journey
 
 Learn how T-Mobile embraced the AWS Cloud to improve business agility, enhance development approaches, transform a culture, and humanize the customer experience. Hear T-Mobile's story around how they transformed a complete business ecosystem into a public and cloud-native reality.
 
-TLC301: AI-driven self-healing, churn prediction, and fraud detection on AWS
+## TLC301: AI-driven self-healing, churn prediction, and fraud detection on AWS
 
-Did you know that you can leverage machine learning to solve problems like fraud detection, churn prediction, and even self-healing to improve customer experience? Join this session to learn about different use cases where Amazon SageMaker and Amazon QuickSight have been utilized to facilitate anomaly detection and apply self-correcting procedures. This workshop shows you how to implement fraud detection, self-healing, and churn prediction with a leading Telecommunications provider using AWS artificial intelligence services.
+> Did you know that you can leverage machine learning to solve problems like fraud detection, churn prediction, and even self-healing to improve customer experience? Join this session to learn about different use cases where Amazon SageMaker and Amazon QuickSight have been utilized to facilitate anomaly detection and apply self-correcting procedures. This workshop shows you how to implement fraud detection, self-healing, and churn prediction with a leading Telecommunications provider using AWS artificial intelligence services.
 
-TLC302: Securely scale your VoIP with Amazon Chime & Ribbon
+## TLC302: Securely scale your VoIP with Amazon Chime & Ribbon
 
-You can securely scale your VoIP with Amazon Chime Voice Connector and Ribbon's Session Border Controller (SBC) on AWS Quick Starts. Together, they provide enterprise customers with a less expensive, simpler-to-manage, on-demand SIP trunking solution for connecting on-premises private branch exchanges (PBXs) to the public switched telephone network (PSTN). Deploying SBCs helps ensure security, high availability, and interoperability for VoIP traffic between an enterprise and Amazon Chime. In this session, learn about deploying real-time communication design patterns using SBCs, Amazon Chime Voice Connector, and Amazon EC2 networking, and discover how to lower your costs and simplify your business model.
+> You can securely scale your VoIP with Amazon Chime Voice Connector and Ribbon's Session Border Controller (SBC) on AWS Quick Starts. Together, they provide enterprise customers with a less expensive, simpler-to-manage, on-demand SIP trunking solution for connecting on-premises private branch exchanges (PBXs) to the public switched telephone network (PSTN). Deploying SBCs helps ensure security, high availability, and interoperability for VoIP traffic between an enterprise and Amazon Chime. In this session, learn about deploying real-time communication design patterns using SBCs, Amazon Chime Voice Connector, and Amazon EC2 networking, and discover how to lower your costs and simplify your business model.
 
 TLC303: How Vodafone's Intelligent Care platform utilizes AWS
 
