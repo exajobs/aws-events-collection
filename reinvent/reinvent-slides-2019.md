@@ -1246,17 +1246,17 @@ CMP328-R1: How Uber builds efficient & scalable autonomous vehicle simulations w
 
 ## AWS Community Heroes
 
-CMY201: Future-proof your career: Java developer to machine-learning practitioner   
+> CMY201: Future-proof your career: Java developer to machine-learning practitioner   
 
 In this session, learn how to level-up your skills and career through the journey of Kesha Williams, an AWS Machine Learning Hero. Kesha transformed her engineering skills from Java developer to ML practitioner by learning hands-on with AWS AI solutions like AWS DeepLens, Amazon Rekognition, and Amazon SageMaker; as well as TensorFlow, Jupyter, and Python. As an ML practitioner, she integrates technology into everyday life by developing ML models using computer vision on SageMaker to help us better connect with people around us. Hear the challenges she faced on her journey and how she overcame them using AWS AI solutions.
 
-CMY301: Performing chaos engineering in a serverless world   
+> CMY301: Performing chaos engineering in a serverless world   
 
 The principles of chaos engineering have been battle-tested for years using traditional infrastructure and containerized microservices. But how do they work with serverless functions and managed services? In this session, we cover the motivations behind chaos engineering, how we perform chaos experiments, and what some of the common weaknesses are that we can test for in our serverless applications. We also run some actual experiments in a serverless AWS environment. Join us as we move from talking about principles to performing real chaos-engineering experiments for serverless.
 
 ## CMY302: Scaling Hotstar.com for 25 million concurrent viewers   
 
-This session focuses on why traditional autoscaling doesn't work for Hotstar (Disney's OTT streaming service), who recently created a global record for live streaming to 25.3 million concurrent viewers. We talk about challenges in scaling infrastructure for millions and how to overcome them, how Hotstar runs gamedays before facing live games, how it uses a load-testing monster called Hulk to prepare its platform for 50M peak. We also learn how the company uses chaos engineering to overcome real-world problems and achieve this scale.
+> This session focuses on why traditional autoscaling doesn't work for Hotstar (Disney's OTT streaming service), who recently created a global record for live streaming to 25.3 million concurrent viewers. We talk about challenges in scaling infrastructure for millions and how to overcome them, how Hotstar runs gamedays before facing live games, how it uses a load-testing monster called Hulk to prepare its platform for 50M peak. We also learn how the company uses chaos engineering to overcome real-world problems and achieve this scale.
 
 ## CMY303: Using Amazon CloudFront, AWS WAF, and Lambda@Edge to keep spammers out   
 
