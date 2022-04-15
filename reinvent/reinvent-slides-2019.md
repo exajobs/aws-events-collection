@@ -315,7 +315,7 @@ Market segments like finance, insurance, or manufacturing all have documents and
 
 ## AIM364: How to deploy Amazon SageMaker to data science teams 
 
-In this session, we share best practices for DevOps teams that can help them run Amazon SageMaker more effectively. Join us, and learn how these best practices enable machine learning scientists to carry out experimentation in their organizations in a collaborative fashion, without having to worry about security, resource management, or cost overruns.
+> In this session, we share best practices for DevOps teams that can help them run Amazon SageMaker more effectively. Join us, and learn how these best practices enable machine learning scientists to carry out experimentation in their organizations in a collaborative fashion, without having to worry about security, resource management, or cost overruns.
 
 ## AIM365-R2: Build a custom model for object and logo detection 
 
@@ -347,7 +347,7 @@ PyTorch is a deep-learning framework that is becoming popular, especially for ra
 
 ## AIM403-R1: Deep learning with Apache MXNet 
 
-In this workshop, learn how to get started with the Apache MXNet deep learning framework using Amazon SageMaker, a fully managed service, to build, train, and deploy machine learning models at scale. Learn how to build a computer-vision model using MXNet to extract insights from an image dataset. Once the model is built, learn how to quickly train it to get the best possible results and then easily deploy it to production using Amazon SageMaker.
+> In this workshop, learn how to get started with the Apache MXNet deep learning framework using Amazon SageMaker, a fully managed service, to build, train, and deploy machine learning models at scale. Learn how to build a computer-vision model using MXNet to extract insights from an image dataset. Once the model is built, learn how to quickly train it to get the best possible results and then easily deploy it to production using Amazon SageMaker.
 
 ## AIM404-R1: Amazon SageMaker RL: Solving business problems with RL and bandits 
 
