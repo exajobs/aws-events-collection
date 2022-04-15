@@ -2285,9 +2285,9 @@ EUC310-R1: Enhance Amazon AppStream 2.0 environments: Automation and more
 
 In this session, learn how you can customize your application streaming environment. We also show you how to automate image, fleet, and stack management. You also learn how to do all of this and scale while optimizing your utilization. Please bring your laptop.
 
-EUC313-R1: Scaling your Amazon AppStream 2.0 Environment
+## EUC313-R1: Scaling your Amazon AppStream 2.0 Environment
 
-Learn the options for scaling your Amazon AppStream 2.0 streaming resources to match user demand for remotely delivered applications. We also discuss how you can manage your streaming fleets to balance between an instant-on and on-demand experience, select the optimal instance types for best performance, and manage updates to your environment to deliver the latest versions of users' applications. Please bring your laptop.
+> Learn the options for scaling your Amazon AppStream 2.0 streaming resources to match user demand for remotely delivered applications. We also discuss how you can manage your streaming fleets to balance between an instant-on and on-demand experience, select the optimal instance types for best performance, and manage updates to your environment to deliver the latest versions of users' applications. Please bring your laptop.
 
 EUC314: Advanced routing with Amazon Connect agent queues
 
