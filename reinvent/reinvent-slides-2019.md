@@ -3548,99 +3548,99 @@ WIN313-R1: Design, migrate, and optimize SQL Server on AWS
 
 In this session, we dive deep into best practices and considerations for running Microsoft SQL Server on AWS. Learn how to choose between Amazon Elastic Compute Cloud (Amazon EC2) and Amazon Relational Database Service (Amazon RDS), and understand how to optimize the performance of your SQL Server deployment for different application types. We review in detail how to provision and monitor your SQL Server databases and how to manage scalability, performance, availability, security, and backup and recovery in both Amazon RDS and Amazon EC2.
 
-WIN314: Best practices for .NET DevOps on AWS
+## WIN314: Best practices for .NET DevOps on AWS
 
 This chalk talk is for those who are building a new DevOps capability for .NET applications or improving existing capabilities. Join us to discuss the best practices and key factors to consider when building a DevOps culture and capabilities for .NET applications on AWS. This is an interactive question-and-answer session, so please bring your questions.
 
-WIN315-R1: Converting a monolithic .NET app into a modern application
+## WIN315-R1: Converting a monolithic .NET app into a modern application
 
 This chalk talk is for those who are interested in learning how to migrate and convert monolithic .NET applications to containers. You also learn how to migrate the SQL Server database using AWS Database Migration Service (AWS DMS) and set up a CI/CD pipeline using AWS CodePipeline.
 
-WIN316: Building AWS IoT applications using .NET
+## WIN316: Building AWS IoT applications using .NET
 
 In this talk, we review real-world scenarios in building IoT solutions on AWS, discuss common scenarios, demonstrate how to use AWS SDK for .NET, and share best practices. We also walk through code samples for a simple IOT device publisher and IOT device consumer using .NET framework and .NET Core.
 
-WIN317: Demystifying identity, AuthN, and AuthZ for .NET apps on AWS
+## WIN317: Demystifying identity, AuthN, and AuthZ for .NET apps on AWS
 
 Authentication is one of the most important parts of your IT estate to get right. Join us for this chalk talk, where we discuss the main approaches for designing an enterprise Windows and .NET authentication strategy and answer any questions that you may have. This is an interactive question-and-answer session, so please bring your questions.
 
-WIN318-R2: Manage your Microsoft licenses on-premises and in the cloud
+## WIN318-R2: Manage your Microsoft licenses on-premises and in the cloud
 
 Join us for this chalk talk, where we baseline everything you need to know about licensing Microsoft products on AWS and answer any questions you may have around the subject.
 
-WIN319-R: Best practices for advanced SQL Server storage architectures
+## WIN319-R: Best practices for advanced SQL Server storage architectures
 
 Join us for this chalk talk, where we discuss best practices for how to design and configure advanced storage architectures for SQL Server on AWS. We discuss how to leverage AWS NVMe drives (ephemeral storage) and Amazon Elastic Block Store (Amazon EBS) volume striping with Windows storage spaces to get more performance and cost effectiveness without compromise on high availability. This is an interactive question-and-answer session, so please bring your questions.
 
-WIN319-R1: Best practices for advanced SQL Server storage architectures
+## WIN319-R1: Best practices for advanced SQL Server storage architectures
 
 Join us for this chalk talk, where we discuss best practices for how to design and configure advanced storage architectures for SQL Server on AWS. We discuss how to leverage AWS NVMe drives (ephemeral storage) and Amazon Elastic Block Store (Amazon EBS) volume striping with Windows storage spaces to get more performance and cost effectiveness without compromise on high availability. This is an interactive question-and-answer session, so please bring your questions.
 
-WIN320-R1: Automating the upgrade of Amazon EC2 Windows instances
+## WIN320-R1: Automating the upgrade of Amazon EC2 Windows instances
 
 Windows Server 2008 end of support is just around the corner, and many IT organizations need help determining the best way forward. Join us for this builders session where you learn what your options are for upgrading to more current versions of Windows Server on AWS. You will also have the opportunity to perform an upgrade of Amazon EC2 Windows instances to a newer version using in-place and side-by-side techniques. Along the way, you'll discover tips, tricks, and troubleshooting procedures that will enable you to easily perform upgrades. Please bring a laptop (and charger) for the hands-on exercises.
 
-WIN321-R1: Improving Windows instance start times
+## WIN321-R1: Improving Windows instance start times
 
 Improving the start times of Windows Server is a common challenge for customers. Join us for this builders session, where we review best practices that can help improve Windows instance start times. You get the opportunity to fix some of the most common configuration issues that slow Windows Server start times and see how AWS services and features like AWS Systems Manager can help improve start times. Please bring a laptop (and charger) for the hands-on exercises.
 
-WIN322-R1: Leverage automation to re-platform SQL Server to Linux
+## WIN322-R1: Leverage automation to re-platform SQL Server to Linux
 
 Customers are increasingly looking at Linux as the operating system of choice for running SQL Server. Benefits include reduced cost, increased security, and reduced vendor lock-in. Join us for this builders session, where you use PowerShell and AWS Systems Manager Automation to re-platform SQL Server from Windows Server to Linux. Please bring a laptop (and charger) for the hands-on exercises.
 
-WIN323-R1: Migrating Azure VMs to AWS using AWS SMS and CloudEndure
+## WIN323-R1: Migrating Azure VMs to AWS using AWS SMS and CloudEndure
 
 Migrating virtual machines from Microsoft Azure to AWS is a common challenge that customers face. Join this builders session to learn how the AWS Server Migration Service (AWS SMS), the Microsoft Azure connector, and CloudEndure can help you migrate virtual machines from Azure to AWS. Please bring your laptop.
 
-WIN401-R1: Modernize your SQL Server workloads to Amazon Aurora
+## WIN401-R1: Modernize your SQL Server workloads to Amazon Aurora
 
 Amazon Aurora MySQL mitigates licensing restrictions for customers and provides greater performance gains and scalability to support millions of transactions. In this workshop, you learn about the advantages of modernizing and get hands-on experience migrating your Microsoft SQL Server database(s) to Aurora MySQL. You'll use the AWS Schema Conversion Tool and AWS Database Migration Service (AWS DMS) to automate the process of refactoring from Microsoft SQL Server to Aurora MySQL. Please bring a laptop (and charger) for the hands-on exercises.
 
-WIN403-R1: Best practices for .NET Core connection pooling in serverless apps
+## WIN403-R1: Best practices for .NET Core connection pooling in serverless apps
 
 Effectively managing database connections in .NET Core serverless applications is important for ensuring your applications perform well. Spinning up new connection pools every time a serverless .NET Core application wants to talk to a relational database is time intensive. Join us for this builders session, where we cover strategies for handling relational database connection pooling in serverless .NET Core applications. You get the opportunity to configure a few strategies for allowing connection pools to persist and be leveraged across individual lambda calls. Please bring a laptop (and charger) for the hands-on exercises. Please bring your laptop.
 
-WIN404-R1: Managing the health of .NET apps and SQL Server on AWS
+## WIN404-R1: Managing the health of .NET apps and SQL Server on AWS
 
 Managing the health of .NET applications and SQL Server running on AWS is an important part of keeping your mission-critical applications up and running. Join us for this builders session, where we cover how to use Amazon CloudWatch Application Insights for .NET and SQL Server to gain visibility into the health of .NET and SQL Server running on AWS. Learn hands-on how to effectively detect and troubleshoot application problems and reduce the mean time to resolution. Please bring a laptop (and charger) for the hands-on exercises.
 
-WIN405-R1: Active Directory design patterns on AWS
+## WIN405-R1: Active Directory design patterns on AWS
 
 Want to learn about your options for running Microsoft Active Directory on AWS? When you move Microsoft workloads to AWS, it's important to consider how to deploy Active Directory in support of name resolution, authentication, and authorization. In this session, we discuss options for deploying Microsoft Active Directory to AWS, including AWS Managed Microsoft Active Directory and deploying Active Directory to Windows on Amazon EC2. The discussion includes such topics as how to integrate your on-premises Active Directory environment to the cloud using Amazon Route 53 Resolver. Please bring your laptop.
 
-WIN406-R1: Build multi-region SQL Server Always On availability groups
+## WIN406-R1: Build multi-region SQL Server Always On availability groups
 
 Multi-region SQL Server database configurations offer the benefits of both high availability and disaster recovery. Join us for this builders session, where you learn how to design and deploy SQL Server in a multi-region architecture on AWS and perform the configuration of a multi-region SQL Server Always On availability group that spans AWS regions. Please bring a laptop (and charger) for the hands-on exercises.
 
-WIN407-R1: Performance tune SQL Server using AWS Machine Learning
+## WIN407-R1: Performance tune SQL Server using AWS Machine Learning
 
 When you are running critical database workloads on SQL Server it's vital that SQL Server is configured for optimal performance. In this builders session, we outline an approach for how to perform deep inspection of the workloads running on SQL Server and tune configuration settings to match the workload's performance needs. We develop a model to query dynamic management views and leverage machine learning to help tune SQL Server. Please bring a laptop (and charger) for the hands-on exercises. Please bring your laptop.
 
 # Public Sector
 
-WPS201: A tale of two IT modernization strategies
+## WPS201: A tale of two IT modernization strategies
 
 Join us to learn how government agencies are using AWS GovCloud (US) to achieve data center consolidation and optimization goals, and to support IT modernization. This session features the United States' Department of Justice's Bureau of Alcohol, Tobacco, Firearms and Explosives and the Veterans Affairs Enterprise Cloud program. We examine these organizations' unique journeys through enterprise data center consolidation, and how these efforts are influencing application modernization and database management strategies. Topics include database re-platforming, refactoring legacy applications, compliance, technical strategies, implementation, and running operations in the cloud.
 
-WPS203: AWS Educate: Innovation in education
+## WPS203: AWS Educate: Innovation in education
 
 Join us for four ten-minute powerful lightning talks from leading higher-education educators on topics related to AWS Educate, education, innovation, voice AI, ML, and deep learning.
 
-WPS301-R1: Security automation using open source and AWS for NIST workloads
+## WPS301-R1: Security automation using open source and AWS for NIST workloads
 
 Wazuh is a free open-source and enterprise-ready security-monitoring solution for threat detection, integrity monitoring, incident response and compliance. Combining the AWS NIST Compliance Quick Start and Wazuh creates a NIST reference architecture for continuous risk treatment for public sector organizations. In this session, you will deploy the reference architecture via AWS CloudFormation, work with a sample account to receive alerts, and remediate threats in real time. Please bring your laptop.
 
-WPS304: Pushing Amazon RDS to the limit
+## WPS304: Pushing Amazon RDS to the limit
 
 Is Amazon EC2 the only option for your legacy customized Oracle DB on AWS? Want to move your legacy Oracle database on AWS but aren't sure that Amazon Relational Database Service (Amazon RDS) can handle the custom developments you have on top of your business-critical database? In this session, learn how you can leverage Amazon Oracle RDS to accommodate specifics of your legacy database in the cloud. We also discuss when and how to choose between Amazon EC2 and Amazon RDS, outline remediation and migration steps for Amazon RDS, and share practice-proven experience from providing FTP and SMTP from Amazon RDS.
 
 ## WPS305: Building your geospatial data lake
 
-In this session, learn how to design a data lake and how to give permission to different groups and applications to access and analyze datasets. Hear from subject-matter experts about a variety of AWS technology for populating your data lake, monitoring new ingestion, and processing data for meaningful analysis. We also examine considerations for structured data, such as relevant database engines with geospatial support, as well as considerations for unstructured data in the form of object storage. Finally, learn how to protect and secure data based on your organization's needs.
+> In this session, learn how to design a data lake and how to give permission to different groups and applications to access and analyze datasets. Hear from subject-matter experts about a variety of AWS technology for populating your data lake, monitoring new ingestion, and processing data for meaningful analysis. We also examine considerations for structured data, such as relevant database engines with geospatial support, as well as considerations for unstructured data in the form of object storage. Finally, learn how to protect and secure data based on your organization's needs.
 
 ## WPS306: AWS Public Datasets: Lessons from staging petabytes of data for analysis
 
-AWS hosts a variety of public datasets that anyone can access for free. Previously, large datasets such as satellite imagery or genomic data have required hours or days to locate, download, customize, and analyze. By making data available publicly on AWS, anyone can analyze any volume of data without needing to download or store it themselves. In this session, the AWS Open Data team shares tips and tricks, patterns and anti-patterns, and tools to help you most effectively stage your data for analysis in the cloud.
+> AWS hosts a variety of public datasets that anyone can access for free. Previously, large datasets such as satellite imagery or genomic data have required hours or days to locate, download, customize, and analyze. By making data available publicly on AWS, anyone can analyze any volume of data without needing to download or store it themselves. In this session, the AWS Open Data team shares tips and tricks, patterns and anti-patterns, and tools to help you most effectively stage your data for analysis in the cloud.
 
 ## WPS308: Continuous monitoring techniques in AWS GovCloud (US)
 
