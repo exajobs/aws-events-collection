@@ -812,15 +812,15 @@ With the advent of virtualization and the cloud, IT staff face increasingly comp
 
 ## ARC334-R2: From one to many: Evolving VPC design   
 
-As more customers adopt Amazon VPC architectures, the features and flexibility of the service are encountering the obstacles of evolving design requirements. In this session, we follow the evolution of a single regional VPC to a multi-VPC, multi-region design with diverse connectivity into on-premises systems and infrastructure. Along the way, we investigate creative customer solutions for scaling and securing outbound VPC traffic, securing private access to Amazon Simple Storage Service (Amazon S3), managing multi-tenant VPCs, integrating existing customer networks through AWS Direct Connect, and building a full VPC mesh network across global regions.
+> As more customers adopt Amazon VPC architectures, the features and flexibility of the service are encountering the obstacles of evolving design requirements. In this session, we follow the evolution of a single regional VPC to a multi-VPC, multi-region design with diverse connectivity into on-premises systems and infrastructure. Along the way, we investigate creative customer solutions for scaling and securing outbound VPC traffic, securing private access to Amazon Simple Storage Service (Amazon S3), managing multi-tenant VPCs, integrating existing customer networks through AWS Direct Connect, and building a full VPC mesh network across global regions.
 
 ## ARC335-R1: Designing for failure: Architecting resilient systems on AWS   
 
-Customers moving mission-critical applications to the cloud are seeking guidance to replicate and improve the resiliency of their Tier 1 systems while simultaneously meeting compliance and regulatory requirements. Natural disasters, internet disruptions, or hardware or software failure can lead to events requiring customers to invoke disaster recovery (DR) plans. Join us in this session to learn how to design for failure and remain resilient in the event of disaster by designing applications using highly resilient components and service features.
+> Customers moving mission-critical applications to the cloud are seeking guidance to replicate and improve the resiliency of their Tier 1 systems while simultaneously meeting compliance and regulatory requirements. Natural disasters, internet disruptions, or hardware or software failure can lead to events requiring customers to invoke disaster recovery (DR) plans. Join us in this session to learn how to design for failure and remain resilient in the event of disaster by designing applications using highly resilient components and service features.
 
 ## ARC336-R1: CLP Innovation: Increasing agility with cloud-native architectures   
 
-In today's tech-driven world, an organization's architecture is a competitive differentiator. A key piece of this advantage lies in the ability to move fast. In this session, we dive into how cloud-native architecture patterns are changing the way businesses think about speed and cost of innovation. We hear from CLP Innovation Enterprises Ltd. on why it made the decision to reinvent with cloud-native services, what it learned, and benefits it has gained along its journey to modern application development.
+> In today's tech-driven world, an organization's architecture is a competitive differentiator. A key piece of this advantage lies in the ability to move fast. In this session, we dive into how cloud-native architecture patterns are changing the way businesses think about speed and cost of innovation. We hear from CLP Innovation Enterprises Ltd. on why it made the decision to reinvent with cloud-native services, what it learned, and benefits it has gained along its journey to modern application development.
 
 ## ARC337-R1: Baking the best security layer cake 
 
@@ -832,11 +832,11 @@ In today's tech-driven world, an organization's architecture is a competitive di
 
 ## ARC339-R1: Best practices for IoT architecture using AWS smart product solution   
 
-As more consumer products are embedded with sensors that allow communication and data transfer between the product and the manufacturer, customers need architecture to onboard, protect, and monitor device fleets. In this session, we cover best practices for creating this architecture and use the decisions that were made when creating the AWS smart product solution as a guide. The architecture incorporates AWS IoT Core, as well as AWS Lambda for backend microservices, AWS IoT Analytics with Amazon QuickSight to analyze telemetry data, and AWS IoT Device Defender to audit device configurations. We also show you how to use AWS CDK to create customized deployments.
+> As more consumer products are embedded with sensors that allow communication and data transfer between the product and the manufacturer, customers need architecture to onboard, protect, and monitor device fleets. In this session, we cover best practices for creating this architecture and use the decisions that were made when creating the AWS smart product solution as a guide. The architecture incorporates AWS IoT Core, as well as AWS Lambda for backend microservices, AWS IoT Analytics with Amazon QuickSight to analyze telemetry data, and AWS IoT Device Defender to audit device configurations. We also show you how to use AWS CDK to create customized deployments.
 
 ## ARC340-R1: Amazon.com automating machine learning deployments at scale   
 
-Machine learning involves more than just training models; you need to source and prepare data, engineer features, select algorithms, train and tune models, and then deploy those models and monitor their performance in production. Learn how Amazon Consumer Payments uses Amazon SageMaker, AWS Glue, AWS Step Functions, Amazon API Gateway, AWS Lambda, AWS Batch, Amazon Elastic Container Registry (Amazon ECR), and AWS CloudFormation to automate a CI/CD framework for business-critical machine learning workloads at scale.
+> Machine learning involves more than just training models; you need to source and prepare data, engineer features, select algorithms, train and tune models, and then deploy those models and monitor their performance in production. Learn how Amazon Consumer Payments uses Amazon SageMaker, AWS Glue, AWS Step Functions, Amazon API Gateway, AWS Lambda, AWS Batch, Amazon Elastic Container Registry (Amazon ECR), and AWS CloudFormation to automate a CI/CD framework for business-critical machine learning workloads at scale.
 
 ## ARC341-R1: Automation safety: How to avoid breaking things at scale 
 
