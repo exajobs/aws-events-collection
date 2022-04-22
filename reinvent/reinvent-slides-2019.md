@@ -1567,17 +1567,17 @@ DAT316-R1: MySQL options on AWS: Self-managed, managed, and serverless
 
 In recent years, MySQL has become a top database choice for new application development and migration from overpriced, restrictive commercial databases. In this session, we provide an overview of the MySQL and MariaDB options available on AWS. We also do a deep dive on Amazon Relational Database Service (Amazon RDS), a fully managed MySQL service; Amazon Aurora, a MySQL-compatible database with up to five times the performance; and many additional innovations.
 
-DAT317-R1: PostgreSQL options on AWS: Self-managed, managed, and serverless   
+## DAT317-R1: PostgreSQL options on AWS: Self-managed, managed, and serverless   
 
-In this session, we provide an overview of the PostgreSQL options available on AWS. We also do a deep dive on Amazon Relational Database Service (Amazon RDS) for PostgreSQL, a fully managed PostgreSQL service; and Amazon Aurora, a PostgreSQL-compatible database with up to three times the performance of standard PostgreSQL. Learn about the features, functionality, and many innovations in these two services. In doing so, you also gain the background to choose the right service to solve different technical challenges and the knowledge to easily move between services as your requirements change over time.
+> In this session, we provide an overview of the PostgreSQL options available on AWS. We also do a deep dive on Amazon Relational Database Service (Amazon RDS) for PostgreSQL, a fully managed PostgreSQL service; and Amazon Aurora, a PostgreSQL-compatible database with up to three times the performance of standard PostgreSQL. Learn about the features, functionality, and many innovations in these two services. In doing so, you also gain the background to choose the right service to solve different technical challenges and the knowledge to easily move between services as your requirements change over time.
 
 ## DAT319: How Uber stores financial transactions in ledgers using Amazon DynamoDB   
 
-Each day, millions of people move around the world with Uber. The associated financial transactions are stored in Uber's Ledger Store with provable completeness backed by Amazon DynamoDB. In this session, we discuss why provable completeness is key for compliant storage of financial and other ledger-like use cases, and we explain how this can be implemented at global scale by using DynamoDB.
+> Each day, millions of people move around the world with Uber. The associated financial transactions are stored in Uber's Ledger Store with provable completeness backed by Amazon DynamoDB. In this session, we discuss why provable completeness is key for compliant storage of financial and other ledger-like use cases, and we explain how this can be implemented at global scale by using DynamoDB.
 
 ## DAT321-R1: Deep Dive on Amazon Aurora with MySQL Compatibility   
 
-Amazon Aurora is a fully managed relational database service that combines the speed and availability of high-end commercial databases with the simplicity and cost-effectiveness of open-source databases. With Aurora, we've completely reimagined how databases are built for the cloud, providing higher performance, availability, and durability than previously possible. In this session, we dive deep into the architectural details of Aurora with MySQL compatibility and review recent innovations, such as parallel query, backtrack, serverless, and multi-master. You also hear from Nintendo and DeNA about how they built the popular mobile game Mario Kart Tour with Aurora MySQL.
+> Amazon Aurora is a fully managed relational database service that combines the speed and availability of high-end commercial databases with the simplicity and cost-effectiveness of open-source databases. With Aurora, we've completely reimagined how databases are built for the cloud, providing higher performance, availability, and durability than previously possible. In this session, we dive deep into the architectural details of Aurora with MySQL compatibility and review recent innovations, such as parallel query, backtrack, serverless, and multi-master. You also hear from Nintendo and DeNA about how they built the popular mobile game Mario Kart Tour with Aurora MySQL.
 
 ## DAT324: [NEW LAUNCH!] Introducing Amazon Managed Apache Cassandra Service 
 
