@@ -3309,29 +3309,29 @@ SVS304-R1: Build a serverless engine to process large-scale documents
 
 In this hands-on workshop, you build an application in under three hours that leverages AWS Lambda and Amazon Textract to extract text and data from large-scale documents. We use both asynchronous and synchronous architectural patterns to build an efficient document-processing engine.
 
-SVS305-R1: How to secure your serverless applications
+## SVS305-R1: How to secure your serverless applications
 
-In this workshop, you learn techniques for securing a serverless application built with AWS Lambda, Amazon API Gateway, and Amazon Aurora. We cover the AWS services and features that you can leverage to improve the security of serverless applications across five domains: identity and access, application code, data encryption, infrastructure, and logging & monitoring. You will wear the hat of a security engineer for Wild Rydes, a unicorn ride hailing company (fictitious, of course). You get to pick your own adventure in hardening a serverless application against OWASP top ten vulnerabilities.
+> In this workshop, you learn techniques for securing a serverless application built with AWS Lambda, Amazon API Gateway, and Amazon Aurora. We cover the AWS services and features that you can leverage to improve the security of serverless applications across five domains: identity and access, application code, data encryption, infrastructure, and logging & monitoring. You will wear the hat of a security engineer for Wild Rydes, a unicorn ride hailing company (fictitious, of course). You get to pick your own adventure in hardening a serverless application against OWASP top ten vulnerabilities.
 
-SVS308-R1: Moving to event-driven architectures
+## SVS308-R1: Moving to event-driven architectures
 
-Event-driven architectures are getting a lot of attention. We have recently invested in tools and infrastructure to make event-driven architectures easier to implement and operate. In this session, we discuss what events are, why the community is increasingly interested in event-centric applications, and what's new in the domain and with AWS in particular. In addition, we discuss the challenges that still face us and our customers. By the end of this session, you understand the key principles and benefits of being event-driven.
+> Event-driven architectures are getting a lot of attention. We have recently invested in tools and infrastructure to make event-driven architectures easier to implement and operate. In this session, we discuss what events are, why the community is increasingly interested in event-centric applications, and what's new in the domain and with AWS in particular. In addition, we discuss the challenges that still face us and our customers. By the end of this session, you understand the key principles and benefits of being event-driven.
 
-SVS310-R1: Securing enterprise-grade serverless apps
+## SVS310-R1: Securing enterprise-grade serverless apps
 
-In this session, we discuss the development practices and architectural principles that the most innovative builders are implementing to secure their serverless applications in the cloud. Join us as we cover security considerations for serverless applications and discuss strategies to minimize risks and protect against threats.
+> In this session, we discuss the development practices and architectural principles that the most innovative builders are implementing to secure their serverless applications in the cloud. Join us as we cover security considerations for serverless applications and discuss strategies to minimize risks and protect against threats.
 
-SVS315-R1: Serverless inference with AWS Lambda
+## SVS315-R1: Serverless inference with AWS Lambda
 
-Learn how to ask questions of a trained model using a serverless architecture. In this session, you start by preprocessing data using Amazon Simple Storage Service (Amazon S3) and AWS Lambda then build and train your AI model using an Amazon SageMaker notebook. Once the model is trained and hosted on Amazon S3, you run your real-time inferences with Amazon API Gateway and Lambda.
+> Learn how to ask questions of a trained model using a serverless architecture. In this session, you start by preprocessing data using Amazon Simple Storage Service (Amazon S3) and AWS Lambda then build and train your AI model using an Amazon SageMaker notebook. Once the model is trained and hosted on Amazon S3, you run your real-time inferences with Amazon API Gateway and Lambda.
 
-SVS317-R1: Serverless stream processing pipeline best practices
+## SVS317-R1: Serverless stream processing pipeline best practices
 
-Streaming data pipelines are increasingly used to replace batch processing with real-time decision-making for use cases including log processing, real-time monitoring, data lake analytics, and machine learning. Join this session to learn how to leverage Amazon Kinesis and AWS Lambda to solve real-time ingestion, processing, storage, and analytics challenges. We introduce design patterns and best practices as well as share a customer journey in building large-scale real-time serverless analytics capabilities.
+> Streaming data pipelines are increasingly used to replace batch processing with real-time decision-making for use cases including log processing, real-time monitoring, data lake analytics, and machine learning. Join this session to learn how to leverage Amazon Kinesis and AWS Lambda to solve real-time ingestion, processing, storage, and analytics challenges. We introduce design patterns and best practices as well as share a customer journey in building large-scale real-time serverless analytics capabilities.
 
-SVS320-R1: The serverless journey of shop.LEGO.com
+## SVS320-R1: The serverless journey of shop.LEGO.com
 
-Connecting the LEGO play experience with millions of people requires an innovative platform. This has fueled the cloud migration of the legacy e-commerce application. In this session, we walk you through the principles, the approach, the learnings, and of course the serverless technologies that made the vision a reality. We cover multiple real-world use cases such as the integration of the e-commerce platform with the tax system, and the implementation of an event-streaming platform.
+> Connecting the LEGO play experience with millions of people requires an innovative platform. This has fueled the cloud migration of the legacy e-commerce application. In this session, we walk you through the principles, the approach, the learnings, and of course the serverless technologies that made the vision a reality. We cover multiple real-world use cases such as the integration of the e-commerce platform with the tax system, and the implementation of an event-streaming platform.
 
 SVS321-R2: AWS Lambda layers deep dive
 
