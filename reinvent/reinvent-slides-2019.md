@@ -20,9 +20,9 @@
 - [Financial Services](#financial-services)
 - [Netflix](#)
 - [Oil & Gas](#)
-- [Open Source]
-- [Power & Utilities]
-- [Retail & Wholesale]
+- [Open Source](#)
+- [Power & Utilities](#)
+- [Retail & Wholesale](#)
 - [Robotics](#)
 - [Security, Identity, Compliance](#security)
 - [Storage](#storage)
