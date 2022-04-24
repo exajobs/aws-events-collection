@@ -19,7 +19,7 @@
 - [End User Computing & Business Apps](#end-user-computing--business-apps)
 - [Financial Services](#financial-services)
 - [Netflix](#)
-- [Oil & Gas]
+- [Oil & Gas](#)
 - [Open Source]
 - [Power & Utilities]
 - [Retail & Wholesale]
