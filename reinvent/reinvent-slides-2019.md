@@ -2341,11 +2341,11 @@ EUC328: Engage with your customers using SMS text messages
 
 Text messages form a vital part of customer-engagement strategy for organizations around the world. In this workshop, learn how to use Amazon Pinpoint to send promotional, transactional, and two-way SMS messages. You also see demonstrations of how other AWS customers use SMS messaging to engage with their customers.
 
-EUC330-R1: Migrating your Windows 7 desktops to Windows 10 on Amazon WorkSpaces
+## EUC330-R1: Migrating your Windows 7 desktops to Windows 10 on Amazon WorkSpaces
 
 With support for Windows 7 ending in January 2020, IT teams are facing costly extended-support solutions or purchasing and deploying new hardware for Windows 10. In this chalk talk, we discuss how to plan your migration from Windows 7 to Windows 10 with Amazon WorkSpaces, using your existing hardware.
 
-EUC332: Nielsen modernizes its PSTN calling with Amazon Chime Voice Connector
+## EUC332: Nielsen modernizes its PSTN calling with Amazon Chime Voice Connector
 
 In this chalk talk, you get a real-world account from Nielsen of how and why it moved its high-volume outbound dialing workload from legacy ISDN PRI to modern SIP trunking on AWS using Amazon Chime Voice Connector. We deep dive into implementation details, project timelines, and how Nielsen overcame challenges along the way. You also learn about new Voice Connector features like Amazon Kinesis audio streaming, call detail records, and Amazon CloudWatch integration. Whether you are a telecommunications, networking, or IT professional, learn how you can simplify PSTN calling in your enterprise with Amazon Chime Voice Connector.
 
