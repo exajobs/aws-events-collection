@@ -2704,11 +2704,11 @@ SEC321-R2: Continuous Security Monitoring and Threat Detection with AWS
 
 In this session, we discuss a number of AWS services involved in threat detection and remediation and we walk through some real-world threat scenarios. You get answers to your questions about threat detection on AWS and learn about the threat-detection capabilities of Amazon GuardDuty, AWS Security Hub, Amazon Macie, and AWS Config, and the available remediation options. For each scenario, we also review methods to remediate the threat using AWS CloudFormation, Amazon S3, AWS CloudTrail, Amazon VPC flow logs, Amazon CloudWatch Events, Amazon SNS, DNS logs, AWS Lambda, and Amazon Inspector.
 
-SEC322-R2: Deep dive into AWS KMS
+## SEC322-R2: Deep dive into AWS KMS
 
 In this session, learn the dos and don'ts of using AWS Key Management Service (AWS KMS). We cover topics such as envelope encryption, encryption context, and permissions. We also dig into common scenarios that customers encounter. At the end of this presentation, you leave with a working knowledge of how to use the permissions and authorization systems built into AWS KMS and with an understanding of how to appropriately encrypt data using AWS KMS.
 
-SEC323-R1: Building a DevSecOps culture
+## SEC323-R1: Building a DevSecOps culture
 
 In this chalk talk, we examine how to develop foundational practices and scaling functions to instantiate and resiliently operate a DevSecOps model. To achieve this shift, we analyze common success patterns, mechanisms for culture change, and mechanisms to reinforce this culture change. Takeaways include a blueprint for building a DevSecOps operating model in your organization, an understanding of the security practitioner's point of view and how to embrace it to drive innovation, and ways to identify operating characteristics in your organization and use them to drive a strategy for DevSecOps.
 
