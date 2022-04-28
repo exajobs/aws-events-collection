@@ -3500,7 +3500,7 @@ WIN202-R1: How to cost-optimize your Microsoft workloads on AWS
 
 Learn how enterprises optimize Microsoft workloads on AWS for licensing, availability, and performance. We discuss ways to diversify and optimize your current licensing investments, how to think strategically about licensing in the cloud, and how to bring your own licenses to AWS. We also cover a variety of cost-optimization features and share real examples of how customers are applying these to Microsoft-specific workloads.
 
-WIN203-R1: Addressing questions around Microsoft end of support (EOS)
+## WIN203-R1: Addressing questions around Microsoft end of support (EOS)
 
 Customers are concerned by the impact of Microsoft products reaching end of extended support (EOS). In this session, we answer all of your questions around how to work with Microsoft products reaching EOS or already at EOS, and make you aware of the all of the seamless, cost-effective options available from AWS. This is an interactive session, so bring your questions and concerns, and our experts will help you understand how we can upgrade your legacy applications.
 
