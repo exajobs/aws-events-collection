@@ -2114,11 +2114,11 @@ ENT304-R1: Build a migration factory with CloudEndure and Migration Hub
 
 A migration factory can increase the speed of your migration by leveraging automation and an agile delivery model. Bring your laptop to this session and build a migration factory using the CloudEndure Migration API and AWS Migration Hub. The session explores automation tasks such as installation of migration agents, orchestrating migration waves, updating database connection strings, application testing, application cutovers, and tracking migration status throughout the migration pipeline.
 
-ENT305-R1: Intelligently automating cloud operations 
+## ENT305-R1: Intelligently automating cloud operations 
 
 You can surface insights into best practices, security, fault tolerance, and performance using Amazon Inspector, AWS Config, Service Quotas, AWS Health, and AWS Trusted Advisor. Join this session to learn how to automate these insights intelligently using AWS DevOps and machine learning tools. After explaining the data insights that we surface, we walk you through setting up repeatable automation pipelines and using anomaly detection to drive automation. This hands-on workshop guides you through using Amazon CloudWatch, AWS Lambda, and AWS ML services.
 
-ENT306-R1: Getting hands on with VMware Cloud on AWS and native AWS service integrations 
+## ENT306-R1: Getting hands on with VMware Cloud on AWS and native AWS service integrations 
 
 In this workshop, gain hands-on experience using VMware Cloud on AWS to build a hybrid cloud. Learn about the hybrid cloud platform that delivers the best of both worlds, and utilize four popular use cases: Cloud migration, data center extension, disaster recovery, and application modernization. Work through setting up VMware Cloud on AWS and integrating native AWS services with your VM workloads. Please bring your laptop and power supply.
 
@@ -2126,11 +2126,11 @@ ENT307-R1: Strategies and tools to migrate hundreds of applications
 
 Your CIO has asked you to start migrating your application portfolio to AWS, including hundreds of applications hosted on thousands of servers. In this session, you learn how to analyze your application portfolio, determine the right migration strategies for a broad mix of applications, and select tools to accelerate the migration.
 
-ENT308-S: Build your next microservices application with modern AWS services   
+## ENT308-S: Build your next microservices application with modern AWS services   
 
 Learn how easy it is to get started with a new application composed of several microservices on AWS Lambda, Amazon EKS, Amazon SQS, and Amazon DynamoDB. In this session, you first learn through live demonstration how to do basic administration, such as deploying an application and inspecting the relevant Kubernetes resources. Next, you learn some troubleshooting practices (using log files, accessing containers, etc.) and dive into advanced troubleshooting. Innovate faster with software as you learn to leverage some of the most modern services on AWS. This presentation is brought to you by New Relic, an APN Partner.
 
-ENT309-R3: The best replatforming strategies for legacy workloads 
+## ENT309-R3: The best replatforming strategies for legacy workloads 
 
 As customers continue to rapidly migrate to AWS, IT teams must reduce technical debt to optimize costs and improve operational efficiencies. In this session, learn about AWS native services that can be leveraged as migration targets-such as Amazon Elastic Block Store (Amazon EBS), Amazon Route 53, AWS Certificate Manager (ACM), Amazon MQ, and others-to achieve these goals while you plan and prepare your applications for migration.
 
