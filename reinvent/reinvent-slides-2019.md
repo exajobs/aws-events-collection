@@ -383,15 +383,15 @@ With support for PyTorch in Amazon SageMaker, you have a flexible deep learning 
 
 ## AIM412-R1: Deep learning applications with PyTorch, featuring Freshworks 
 
-With support for PyTorch in Amazon SageMaker, you have a flexible deep learning framework combined with a fully managed machine learning solution to transition seamlessly from research prototyping to production deployment. In this session, hear from the PyTorch team on the latest features and library releases. Also learn how to develop with PyTorch using Amazon SageMaker for key use cases such as using a BERT model for natural language processing (NLP) and instance segmentation for fine-grain computer vision. Lastly, hear from Freshworks about how it reduced the time to train 20,000+ models from 15 hours to 30 minutes using PyTorch and Amazon SageMaker.
+> With support for PyTorch in Amazon SageMaker, you have a flexible deep learning framework combined with a fully managed machine learning solution to transition seamlessly from research prototyping to production deployment. In this session, hear from the PyTorch team on the latest features and library releases. Also learn how to develop with PyTorch using Amazon SageMaker for key use cases such as using a BERT model for natural language processing (NLP) and instance segmentation for fine-grain computer vision. Lastly, hear from Freshworks about how it reduced the time to train 20,000+ models from 15 hours to 30 minutes using PyTorch and Amazon SageMaker.
 
 ## AIM413: Deep dive on Project Jupyter   
 
-Amazon SageMaker offers fully managed Jupyter notebooks that you can use in the cloud so you can explore and visualize data and develop your machine learning model. In this session, we explain why we picked Jupyter notebooks, and how and why AWS is contributing to Project Jupyter. We dive deep into our overall strategy for Jupyter and explain different use cases for Jupyter, including data science, analytics, and simulation.
+> Amazon SageMaker offers fully managed Jupyter notebooks that you can use in the cloud so you can explore and visualize data and develop your machine learning model. In this session, we explain why we picked Jupyter notebooks, and how and why AWS is contributing to Project Jupyter. We dive deep into our overall strategy for Jupyter and explain different use cases for Jupyter, including data science, analytics, and simulation.
 
 ## AIM414: Containerizing deep learning workflows 
 
-Deep learning software stacks can be complex to build, optimize, and maintain. With different versions of frameworks, libraries, runtimes, and drivers for CPUs and GPUs, developers and data scientists spend much time ensuring that the full software stack works well together during upgrades and system changes. Join us for a discussion on how container technologies can address these challenges by providing training and inference environments that are lightweight, portable, consistent, and scalable.
+> Deep learning software stacks can be complex to build, optimize, and maintain. With different versions of frameworks, libraries, runtimes, and drivers for CPUs and GPUs, developers and data scientists spend much time ensuring that the full software stack works well together during upgrades and system changes. Join us for a discussion on how container technologies can address these challenges by providing training and inference environments that are lightweight, portable, consistent, and scalable.
 
 ## AIM415-R1: Build fraud detection systems with Amazon SageMaker 
 
