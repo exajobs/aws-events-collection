@@ -2469,6 +2469,143 @@ Data streams and stream processing have many applications in Financial Services.
 
 > Smart contracts have the potential to solve the inefficiencies inherent to traditional contracts. In this session, we build Hyperledger Fabric networks using Amazon Managed Blockchain, form a trusted consortium with multiple parties, and deploy a smart contract for a settlement use case. While obtaining an access-controlled Hyperledger consortium, we go through Hyperledger Fabric constructs, smart contract application interfaces, real-time transaction analytics, and connections to existing business systems, such as data analytics and reporting services. Please bring your laptop.
 
+# Management Tools & Governance
+MGT201-L: Leadership session: AWS management and governance services
+
+AWS management and governance services can help your organization become and remain agile while enabling you to maintain control over costs, compliance, and security. Join us to hear AWS service leaders discuss their vision and the latest launches from the AWS management and governance teams, including innovations you can leverage now from Amazon CloudWatch, AWS Config, AWS Organizations, AWS Service Catalog, AWS Control Tower, AWS Systems Manager, and much more. We are joined onstage by current AWS customers who discuss how they use management and governance services today.
+
+MGT203-S: Simple path to AWS Managed Services (AMS)
+
+With AWS Managed Services (AMS), you can offload the critical task of infrastructure operations, freeing yourself to focus on application modernization. In this session, learn how to accelerate your journey to the cloud with AMS. We cover the process of assessing your infrastructure, migrating it from your on-premises data center or existing cloud environment to AMS, and operationalizing it. You learn key steps to streamline this process using automation and infrastructure as code to set up network connectivity, access management, logging, monitoring, backups, and configuration. You also discover integration points for an existing managed service provider to seamlessly work with AMS. This presentation is brought to you by 2nd Watch, an APN Partner.
+
+MGT204-S: How Cox Automotive uses PagerDuty to speed up DevOps & cloud innovation
+
+In 2018, Cox Automotive-parent company of brands like Autotrader, Dealer.com, and Kelley Blue Book-announced that it was all-in on AWS. But fully migrating to the cloud doesn't only mean rearchitecting applications to take advantage of increased agility. It also signals a cultural shift: one that requires engineers to take responsibility for their code and be able to execute an effective, fast incident response across multiple teams. In this session, hear how Cox Automotive uses PagerDuty to accelerate incident response mobilization, improve communication in the moments that matter, and fundamentally drive culture change to reflect high-velocity innovation. This presentation is brought to you by PagerDuty, an APN Partner.
+
+MGT205-S: Finding the signal in the noise when running cloud-native applications
+
+Moving applications to the cloud provides many benefits, but the process of doing so can also create a lot of noise. More components to manage and the process of refactoring applications can result in new performance bottlenecks that weren't present in the data center. This makes it possible to experience increased problem resolution times and unnecessary spending that could impact your company's reputation or lead to increased customer abandonment rates. In this session, Aaron Newcomb from AppDynamics and Marius Dornean from Mitchell show you how to simplify your cloud application environment by providing visibility and insight into your infrastructure, applications, end-user behavior, and business impact. This presentation is brought to you by AppDynamics, an APN Partner.
+
+MGT301-R1: Cut through the chaos: Gain operational visibility and insight
+
+Setting up the right instrumentation for operational visibility and observability across your enterprise can be complex, costly, and time-consuming, from acquiring the right tool sets to correlating the data between them. In this session, we cover various ways in which you can gain operational visibility and insight into your environment using such services as Amazon CloudWatch, AWS X-Ray, and more. We also explore ways in which you can reduce incidents, address quality problems, and enhance your services and products.
+
+MGT302-R1: Enable AWS adoption at scale with automation and governance
+
+Enterprises are taking advantage of AWS so they can move quickly while maintaining governance control over costs, security, and compliance. In this session, we discuss how AWS Control Tower, AWS Service Catalog, AWS Organizations, and AWS CloudFormation simplifies compliance and makes ongoing governance easier. You learn how to set up and govern your multi-account AWS environment or landing zone through automation, blueprints, and guardrails. Finally, you learn how to launch governed and secure resources on AWS through a DevOps CI/CD pipeline.
+
+MGT303-R: How to ensure configuration compliance
+
+In this session, we dig into how to proactively govern and monitor your expanding AWS footprint using AWS Management and Governance services. We describe how AWS Config rules, AWS CloudFormation drift detection, AWS Service Catalog, and AWS Systems Manager State Manager help you maintain compliance with your AWS stack at scale.
+
+MGT303-R1: How to ensure configuration compliance
+
+In this session, we dig into how to govern and monitor your expanding AWS services and accounts using AWS management and governance features and services such as AWS Config rules, AWS CloudFormation drift detection, and AWS Systems Manager State Manager. We also describe how these features and services help you maintain compliance within your AWS stack at scale.
+
+MGT304: Automate everything: Options and best practices
+
+You can use an expanding set of services to automate many common management tasks in your AWS environment: patching, configuration updates, software stack deployments, and more. In this session, we explore how you can use AWS management tools for automation, including through the use of self-service runbooks. We discuss the many options available, including AWS CloudFormation, AWS Service Catalog, and AWS Systems Manager.
+
+MGT305: Patch compliance using AWS Systems Manager and AWS Config
+
+In this workshop, we show you how to streamline your patch approval and deployment process with AWS Systems Manager Patch Manager while using AWS Config to continuously monitor patch compliance. Learn how to implement these services for your organization, helping you build a scalable management and compliance mechanism for your AWS stack.
+
+MGT306: Monitoring for operational outcomes and application insights
+
+In this workshop, we show you how to develop and implement a workload monitoring plan. Learn how to implement and use logs, metrics, dashboards, events, and alarms to quickly and effectively respond to changes in your AWS environment. Also learn how to create alerts for the major categories of events, monitor for operational outcomes, trigger responses, and deliver insights. To participate in this workshop, bring your laptop and have a non-production AWS account.
+
+MGT308-R3: Monitoring modern apps: Containers, microservices, and more
+
+Whether containers or serverless functions, communicating over service mesh or not, the need for holistic monitoring and management of modern applications remains. In this session, we dive deep into what it takes to successfully monitor modern applications with Amazon CloudWatch, which provides a monitoring, management, and alerting service natively in AWS. We discuss best practices for collecting logs, metrics, and traces in AWS, so you can proactively detect malicious activities, speed up insight discovery, and troubleshoot your application and infrastructure issues faster.
+
+MGT310-R2: High-velocity service delivery: Infrastructure as code
+
+Customers today are looking to the cloud to help them evolve, adapt, and innovate faster than ever. In this chalk talk, learn how to use AWS native services to increase your organization's ability to deliver at high velocity using services like AWS CloudFormation, AWS OpsWorks, and AWS Systems Manager. We talk about best practices to help you provision and manage infrastructure, deploy code, and automate your software-release processes.
+
+MGT312: Operational automation: Set it and forget it
+
+In this workshop, learn how to use AWS Management and Governance services to automate your operations (ex., create self-service runbooks). We cover the many options available to you to implement operational excellence using automation through services such as AWS CloudFormation, AWS Service Catalog, AWS Systems Manager, AWS Config, and AWS CloudTrail.
+
+MGT313: Architect governance at enterprise scale with Goldman Sachs
+
+As AWS customers accelerate their AWS adoption, going from managing a few AWS accounts to supporting pilot applications to operating on an enterprise scale, they encounter common challenges to maintaining necessary governance. They face issues such as how to control budgets across accounts, workloads, and users; how to automate account provisioning and maintain good security; and how to automate compliance. In this session, we define cloud governance and provide best practices to achieve security, optimized costs, and compliance. Come learn how these best practices for managing your AWS environment have been applied in the real world by Goldman Sachs.
+
+MGT401-R1: Automate the infrastructure for a multi-tier application with CloudFormation
+
+Join us for this builders session where you and a small group work with an AWS subject matter expert to deploy a multi-tier application from beginning to end using AWS CloudFormation. Please bring your laptop.
+
+MGT402-R1: Self-service accounts and workloads for data scientists and developers
+
+In this session, learn how to create AWS Service Catalog products built to your business specifications and use cases. You learn how to vend accounts that include Amazon SageMaker and Amazon EMR workloads for your data scientists and development environments for your developers, as well as scenarios for your end users. A customizable framework will also be discussed.
+
+MGT403-R1: How to audit and remediate your resource misconfigurations
+
+In this builders session, we cover how to monitor resource and configuration compliance across your organization. Learn how to use management and governance tools such as AWS Config to query the configuration state of your resources, identify the resources that are noncompliant with your policies, and remediate those resources using AWS Systems Manager Automation documents. Please bring your laptop.
+
+MGT404-R1: CloudWatch agent best practices
+
+In this session, learn how to install, configure, and manage the Amazon CloudWatch agent for both on-premises and AWS Cloud deployments. We also cover the implications and considerations of installing the CloudWatch agent via the command line, AWS Systems Manager, or AWS CloudFormation. Further, we discuss the CloudWatch agent package. Please bring your laptop.
+
+MGT405-R1: Build an effective resource compliance program
+
+In this session, learn how to build a solution that will continuously evaluate your AWS resources for monitoring configuration compliance across your organization using AWS Config rules, Amazon CloudWatch Events, and AWS Lambda. You also learn how to improve your security posture by correcting or eliminating noncompliant resources. Please bring your laptop.
+
+MGT406-R2: Eliminate bastion hosts with AWS Systems Manager Session Manager
+
+AWS Systems Manager Session Manager improves a customer's security posture for instance access with a browser-based and CLI interactive shell experience that requires no open inbound ports or access/jump servers, and enables customer key encryption using AWS KMS. With IAM access control, sessions audited using AWS CloudTrail, and session output logged to Amazon S3 or Amazon CloudWatch Logs, Session Manager makes it easy to control and secure access to instances in operational scenarios while complying with corporate policies and security best practices. Dive deep with the Session Manager team to see how it works for Linux or Windows instances, in the cloud, or on premises. Please bring your laptop.
+
+MGT407-R1: Automating security management with IAM and AWS CloudFormation
+
+Security is a critical element for highly regulated industries like Healthcare. Infrastructure as code provides several options to automate security controls, whether it is implementing rules and guardrails or managing changes to policies in an automated yet auditable way. Learn how to implement a process to automate creation, permission changes, and exception management with IAM policies and AWS CloudFormation, fostering efficient collaborations between security stakeholders across teams. Please bring your laptop.
+
+MGT408-R2: Best practices for detecting and preventing data exposure
+
+In this session, learn how to configure AWS CloudTrail to detect unauthorized exposure of your data, and AWS Config, Amazon CloudWatch Events, and AWS Lambda to prevent the exposure. This session also provides best practices for preventing misconfiguration of resources, including Amazon S3 and other services. Please bring your laptop.
+
+MGT409-R1: Build an enterprise compliance management & remediation system on AWS
+
+In this builders session, we show you how to build a fleet-wide enterprise compliance management and remediation system using AWS Config, AWS Systems Manager, and Amazon CloudWatch. In addition, we provide compliance stakeholders with visibility into the performance of the compliance system by using Amazon QuickSight and Amazon Athena for reporting. Please bring your laptop.
+
+MGT410-R1: Enforce patch compliance for your AWS and hybrid environments
+
+In this builders session, we discuss best practices for patching your AWS and hybrid environments. Learn how to configure a patch baseline, create a maintenance window, and ensure your systems meet patch compliance requirements. Please bring your laptop.
+
+MGT411-R1: Create and use your first AWS Systems Manager Automation document
+
+In this builders session, learn how to create and use your first AWS Systems Manager Automation document as we employ a sample use case to create the Systems Manager Automation document from beginning to end.
+
+MGT412-R1: Learn how to get started with AWS Systems Manager OpsCenter
+
+Join this builders session to learn how to get started configuring and using OpsCenter, which provides a central view to investigate and resolve operational issues. We use a sample use case to set up Amazon CloudWatch Events rules to publish operational activity within OpsCenter and then configure manual and automated responses to these events. Please bring your laptop.
+
+MGT413-R1: Gain application-level visibility of your Microsoft workloads
+
+In this builders session, learn how to gain application-level visibility of your Microsoft workloads. We take a sample .NET and SQL Server application and use Amazon CloudWatch Application Insights to find the root cause of an issue and reduce our mean time to recovery (MTTR). Please bring your laptop.
+
+MGT414-R1: Meet license compliance needs with AWS License Manager
+
+In this builders session, learn about best practices for enterprise license management compliance using AWS License Manager. We discuss how to set up application discovery, license tracking enforcement, and centralized reporting. Please bring your laptop.
+
+MGT415-R1: Create your first CloudWatch dashboard using metric math
+
+In this builders session, learn how to use metric math to gain operational visibility and insights into your environment. During the session, we create a set of common Amazon CloudWatch dashboards using metric math. Please bring your laptop.
+
+MGT416-R1: Learn how to build your first Quick Start
+
+In this builders session, learn how to build your first Quick Start using AWS CloudFormation and AWS Systems Manager to create your own redeployable solution. During the session, we construct a redeployable solution from beginning to end using a common provisioning pattern. Please bring your laptop.
+
+MGT417-R1: Build end-to-end IT lifecycle management on AWS & ServiceNow
+
+In this builders session, cloud architects, Cloud Center of Excellence (CCOE) team members, and IT managers learn how to launch and operate governed cloud workloads on AWS by leveraging AWS management tools. Learn to extend a sample catalog containing services like Amazon Elastic Compute Cloud (Amazon EC2), Amazon Simple Storage Service (Amazon S3), and more, and enable catalog users to only manage the resources you create. Then perform the IT service management process integration using ServiceNow as an example solution. Please bring your laptop.
+
+MGT418-R1: Build IT lifecycle management with AWS and Atlassian Jira Service Desk
+
+In this session, you design and implement a provisioning strategy using AWS Service Catalog and install and configure the AWS Service Catalog Connector for Atlassian Jira Service Desk. You also learn and configure operational activities on cloud workloads such as updating, conducting self-service actions, and terminating products to create a holistic, end-to-end IT lifecycle management solution.
+
+MGT419-R1: AWS Service Catalog: Lifecycle management for ephemeral resources
+
+In this session, you learn how to enable end users to create the AWS resources they need for a set duration of time. You build a catalog of products to facilitate user self-service on an as-needed basis, and also define an automatic expiration time for these provisioned and ephemeral resources. We use multiple AWS services, such as AWS Service Catalog, AWS Lambda, and Amazon CloudWatch. Each attendee should bring a laptop and have an AWS account with admin privileges.
+
 # Marketplace
 
 MKT201-R: Master your security in the cloud
