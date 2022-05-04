@@ -3425,15 +3425,15 @@ SVS403-R1: Best practices for AWS Lambda and Java
 
 In this session, we follow a customer's journey as they optimize an AWS Lambda function written in Java to meet their cold start time requirements. We start from a simple yet slow PoC and walk through all of the changes, tricks, and trade-offs we made to reduce the cold start time by over 70%. Finally, we explore new technologies such as Quarkus and GraalVM that can make Java even faster in Lambda.
 
-SVS404-R1: Networking best practices for serverless applications
+## SVS404-R1: Networking best practices for serverless applications
 
 Serverless technologies such as AWS Lambda have removed the burden of server management, but what about networking? When should you put a Lambda in an Amazon VPC? How do you balance security vs. the flexibility offered by Lambda? What are the best practices for working with private endpoints, NATs, and peering? In this session, we go over the best practices of working with Lambda functions from a networking perspective. We talk about how networking impacts performance and cost and how to make sure that your network design allows for scale and meeting strict security concerns.
 
-SVS405-R1: A serverless journey: AWS Lambda under the hood
+## SVS405-R1: A serverless journey: AWS Lambda under the hood
 
 Serverless computing allows you to build and run applications and services without thinking about servers. Serverless applications don't require you to provision, scale, and manage any servers. However, under the hood, there is a sophisticated architecture that takes care of all the undifferentiated heavy lifting for the developer. Join Holly Mesrobian, director of engineering, and Marc Brooker, senior principal of engineering, to learn how AWS architected one of its fastest-growing services. In this session, we show you how AWS Lambda takes care of everything required to run and scale your code with high availability.
 
-SVS406-R1: Asynchronous-processing best practices with AWS Lambda
+## SVS406-R1: Asynchronous-processing best practices with AWS Lambda
 
 Waiting around for your workload to finish is expensive, and controlling the flow of traffic to protect your precious system is hard. AWS Lambda event invocations provide both an event-driven compute solution as well as an asynchronous traffic driver-but the 'asynchronous at scale' part is its own particular beast. In this session, learn how Lambda does asynchronous processing and best practices around using it. We also dive into key features to help you better monitor and control that asynchronous traffic.
 
