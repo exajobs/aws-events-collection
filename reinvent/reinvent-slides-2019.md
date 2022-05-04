@@ -2464,6 +2464,301 @@ Data streams and stream processing have many applications in Financial Services.
 
 > Smart contracts have the potential to solve the inefficiencies inherent to traditional contracts. In this session, we build Hyperledger Fabric networks using Amazon Managed Blockchain, form a trusted consortium with multiple parties, and deploy a smart contract for a settlement use case. While obtaining an access-controlled Hyperledger consortium, we go through Hyperledger Fabric constructs, smart contract application interfaces, real-time transaction analytics, and connections to existing business systems, such as data analytics and reporting services. Please bring your laptop.
 
+# 
+
+# Mobile
+MOB202-R1: Rapidly build working prototypes with AWS AppSync
+
+Building a working prototype can help you quickly gather feedback from end users, but mock data can be limiting and backend services may not exist in the state you need. During this chalk talk, we explore how AWS Amplify and AWS AppSync can be used to build a mobile API with little to no coding and/or to manage existing APIs to empower small development teams or bring your prototypes to life.
+
+MOB302-R1: Build an AI-powered mobile app with AWS Amplify
+
+In this workshop, you learn how to architect mobile apps that make the most of machine learning, whether you're using offline or online learning, and prebuilt or custom machine-learning models. We show you how to build your AI-powered mobile apps by leveraging AWS Amplify, AWS AppSync, and relevant machine-learning services. Please bring your own laptop.
+
+MOB303-R1: Build and ship full-stack serverless apps with AWS Amplify
+
+Learn how to use AWS AppSync and the AWS Amplify Framework to code, build, and deploy engaging full-stack serverless apps in React. We showcase how AWS AppSync provides data to your apps and lets you create robust, scalable GraphQL APIs to securely access and manipulate data from multiple sources, with both online and offline capabilities. See how the Amplify Framework simplifies building and connecting to a serverless backend with a powerful toolchain and resourceful library. Finally, learn how to deploy your app to the cloud using the AWS Amplify Console, which provides built-in hosting and out-of-the-box CI/CD capabilities. Please bring your own laptop.
+
+MOB304: Implement auth and authorization flows in your iOS apps
+
+Learn how to leverage custom authentication flows and social-provider identity federation (log in with Google, Amazon, Facebook, etc.) in your iOS application. You do this hands-on by building and deploying a modern iOS app using AWS Amplify and serverless services such as AWS AppSync (GraphQL API), Amazon DynamoDB, and Amazon S3. This workshop is suitable for all, even if you're not a cloud expert. This is an iOS/SwiftUI hands-on development workshop; please bring your own Mac with Xcode 11 already installed (it's too large to be downloaded or installed during the workshop). Having Python 3 and Node.js installed will speed things up.
+
+MOB305: Modernize REST with GraphQL APIs and AWS AppSync
+
+In this workshop, we look at an existing React application that uses several REST endpoints. We then use different strategies and patterns to migrate these endpoints to use GraphQL. We build out the GraphQL schema for the app and deploy it using AWS Amplify and AWS AppSync. You complete this workshop equipped with an understanding of the differences between REST and GraphQL APIs as well as knowledge of how to build a GraphQL schema using AWS AppSync from scratch, and knowing the strategies you can adopt when migrating from one to the other. Please bring your own laptop.
+
+MOB306-L: Leadership session: Innovations in mobile & web app development
+
+Get all the details on the most recent services and features released by the AWS mobile team. Learn about our innovations in mobile and web app development with AWS Amplify libraries, toolchain, and AWS Amplify Console. Learn how AWS AppSync's new customer-driven features make it an ideal GraphQL API layer for your apps. Two AWS customers join us to share their stories. HyperTrack presents its use of AWS services for processing millions of real-time data points for live location tracking. Dow Jones discusses how AWS services helped it create a mobile tracking and collaboration tool for the WSJ newsroom.
+
+MOB307: Frontend web and cross-platform mobile development on AWS
+
+Web applications are now first-class citizens of mobile. AWS Amplify libraries give you an open-source cross-platform environment for building mobile and web applications using React, Vue, and other JavaScript frameworks. In this session, we review the current feature set of Amplify, dive deep into the newest APIs and features, and share some best practices for creating secure, high-performance applications using Amazon Cognito, Amazon DynamoDB, and AWS AppSync (GraphQL).
+
+MOB308-R1: Production-grade full-stack apps with AWS Amplify
+
+Discover how AWS Amplify simplifies and speeds up full-lifecycle development of mobile and web apps. You learn how to build a serverless CI/CD pipeline that leverages various AWS services using preconfigured and custom workflows, and also how to integrate your favorite tools with the AWS platform. In this session, we cover development, build, testing, and deployment.
+
+MOB309-R1: Develop serverless GraphQL architectures using AWS AppSync
+
+AWS AppSync is the managed GraphQL service of AWS. In addition to queries, mutations, and subscriptions, AWS AppSync integrates seamlessly with many AWS data sources, VPC resources, and external sources, including microservices and other GraphQL endpoints. Learn how to rapidly develop a GraphQL data layer in your architecture, assisted by generated resolvers, declarative security, and client libraries. BMW joins us to share how it used AWS AppSync to build a holistic, data-centric GraphQL API for vehicle signals.
+
+MOB310-R2: Simple serverless solutions for your mobile apps
+
+In this session, learn three simple serverless patterns you can leverage from a mobile app to simplify your app development. We show you how to upload user files directly to Amazon Simple Storage Service (Amazon S3) and use serverless logic for processing. Next, you learn how to make complex workflows like payment processing easy with AWS Step Functions. Then we discuss using AWS Lambda to support common operations in mobile applications, like typeahead, account management, and messaging.
+
+MOB311-R2: The complete guide to user authentication with the Amplify Framework
+
+The AWS Amplify authentication modules provide authentication APIs and building blocks for developers who want to create apps with real-world production-ready user authentication. In this session, we dive deep into how the auth component works and how to use it with federation to give robust, secure access to your applications. Please bring your laptop.
+
+MOB312-R1: Real-time monitoring of IOT devices from an iOS app
+
+In this session, we develop an app that utilizes AWS AppSync to display real-time sensor updates from IoT devices in a React Native iPhone application. Please bring your laptop.
+
+MOB313-R1: Testing mobile applications on real devices with AWS Device Farm
+
+AWS Device Farm is an application-testing service that lets you test and interact with applications on many real devices at once or reproduce issues on a real device in real time. With Device Farm, you can use a variety of testing frameworks (including JS-based) to view videos, screenshots, logs, and performance data to fix issues. You can test your application on a shared fleet of real devices or on your own private device fleet in the cloud. In this session, we use Device Farm to run and test a sample application using Node.js and Appium. Please bring your laptop.
+
+MOB315-R2: Breaking down the OAuth flow
+
+Are you lost when reading about OAuth implicit grants vs. code grants? Are you always struggling to understand the difference between Amazon Cognito user pools and Amazon Cognito federated identities? And how your corporate Active Directory fits into that picture? During this chalk talk, we demystify identity federation and whiteboard the main flows, allowing you to understand how to leverage these services to bring identity federation to your web or mobile applications.
+
+MOB316-R2: Bringing AI and ML to the front end with AWS Amplify Predictions
+
+The AWS Amplify 'Predictions' category now gives you access to advanced machine-learning (ML) tools as part of the Amplify library. Now your web and mobile applications can take advantage of intelligent customer tailoring based on analytics data you probably already have. In this session, we map out how to incorporate ML into your apps without a data science background.
+
+MOB317: Speed up native mobile development with AWS Amplify
+
+In this session, we explore iOS and Android app development with AWS Amplify. We present how to use the AWS Amplify CLI to set up your backend with just a few lines of code. We go over the coding patterns of Amplify libraries and also show you how to tackle specific uses cases such as auth, storage, API, analytics, and AI/ML.
+
+MOB318-R2: AWS AppSync does that: Support for alternative data sources
+
+AWS AppSync supports a number of data sources out of the box, but can also support a variety of alternative data sources, including Amazon ElastiCache and Amazon Neptune. During this chalk talk, we discuss how to GraphQL-ify subscriptions to alternative data sources, including AWS services such as AWS Secrets Manager and AWS Step Functions.
+
+MOB319-R2: Get the most from AWS for mobile architectures
+
+In this session, you learn about the recommended AWS services for building mobile and web applications using the AWS Amplify toolset and AWS AppSync as the API layer. We cover features such as real-time notifications and offline capability for your applications. Learn how to use the Amplify toolchain, which supports team development and local testing.
+
+MOB402: Build data-driven mobile and web apps with AWS AppSync
+
+Great mobile and web apps deliver uncompromising user experiences both online and offline. Find out how to use AWS AppSync and other AWS services to build apps that leverage all of your data, regardless of user connectivity. Also, learn ways to use the delta sync pattern; we also discuss new AWS AppSync features.
+
+MOB403-R1: Bring machine learning to mobile and progressive web apps
+
+No machine-learning experience? No problem. The new Amplify Framework 'Predictions' category lets you add AI/ML use cases to your mobile and progressive web apps with only a few lines of code. Learn how to add capabilities that keep your users engaged with exciting content by leveraging powerful services such as Amazon SageMaker, Amazon Rekognition, Amazon Translate, and Amazon Polly.
+
+MOB404-R2: Authentication in depth with AWS Amplify: Web and React Native
+
+The auth libraries for AWS Amplify offer powerful ways to manage identity and secure your apps without worrying about manual credential handling and refreshing tokens. In this chalk talk, we cover authentication in depth, identity federation, OAuth, best practices, and how to incorporate the Amplify library into your next web or React Native application using a custom flow.
+
+MOB405-R2: AWS Amplify CLI: Make it work for you
+
+AWS Amplify is an open-source fully extensible framework that allows you to develop and iterate quickly. In this session, take a deeper look at extending the CLI to add new functionality. We also implement new plugins and/or transformers to augment the capabilities of the framework. Please bring your laptop.
+
+MOB406-R1: Expanding the AWS Amplify CLI: Adding custom features
+
+In this session, you learn how to extend the Amplify CLI using the plugin structure. This will include adding new categories and new providers like Terraform. We also dive into some example code showing how these work and some of the nuances that you should consider while developing plugins. Please bring your laptop.
+
+# Networking & Content Delivery
+
+NET201-R2: AWS networking fundamentals
+
+In this session, we walk through the fundamentals of Amazon VPC. First, we cover build-out and design fundamentals for VPCs, including picking your IP space, subnetting, routing, security, NAT, and much more. We then transition to different approaches and use cases for connecting your VPC to your physical data center with VPN or AWS Direct Connect. This mid-level architecture discussion is aimed at architects, network administrators, and technology decision-makers interested in understanding the building blocks that AWS makes available with Amazon VPC. Learn how you can connect VPCs with your offices and current data center footprint.
+
+NET202-R2: Using AWS Global Accelerator for multi-region applications
+
+In this session, we build a simple multi-region application on AWS and serve it with anycast IP addresses using AWS Global Accelerator. We dive into how you can use the AWS global network to route your users to the closest AWS Region and apply controls for regional traffic dials, endpoint weights, and active health checks. Please bring your laptop.
+
+NET204-R1: Hybrid connectivity on AWS
+
+Get hands-on with AWS hybrid cloud solutions. Learn how to create highly available and scalable architectures for connecting on-premises environments and users to AWS. Set up your connectivity using services like AWS Direct Connect, AWS Site-to-Site VPN, and AWS Client VPN and see how to combine them with Amazon Route 53 Resolver for seamless DNS resolution.
+
+NET205-R2: Getting started with Global Accelerator
+
+In this builders session, we build a simple application on AWS and serve it with anycast IP addresses using AWS Global Accelerator. You become familiar with the key components of AWS Global Accelerator and learn how to use these features to improve your applications' resilience and performance. Please bring your laptop.
+
+NET206-R2: Getting started with Traffic Mirroring
+
+In this builders session, we demonstrate how to get visibility into the traffic that is flowing in your VPC by using VPC Traffic Mirroring. We use a partner solution as well as showing you how to build your own basic tool to view traffic. Please bring your laptop.
+
+NET207-R2: Understand the basics of IPv6 networking on AWS
+
+Understand the basics of IPv6 networking and what it takes to build a simple IPv6-capable web server on AWS, including load balancing and DNS. We also discuss different patterns involved when migrating from IPv4 to IPv6. Please bring your laptop.
+
+NET208-S: Unleashing the 5G value
+
+The new 5G technology is poised to be a far bigger transformational shift for the Telecommunications industry than previous mobile technologies. With the promise of greater speed and capacity, ultra-low latency, and lower power consumption, 5G promises an astonishing new array of innovative, industry-specific product and service solutions (such as smart city, smart grid, and smart manufacturing) that are powered by the intelligent network. In this session, listen to executives from Accenture, AWS, and one of their joint customers as they talk about how 5G will transform the established business models, network, and infrastructure value chain. Additionally, hear about a vision for convergence with opportunities for new players and partnerships. This presentation is brought to you by Accenture, an APN Partner.
+
+NET209-R2: Getting started with shared VPC
+
+VPC sharing allows multiple AWS accounts to create their application resources in shared, centrally managed Amazon Virtual Private Clouds (VPCs). Join us in this builders session to discuss the benefits of this model and get hands-on building a shared VPC environment. You also use the AWS Resource Access Manager (AWS RAM) service to share subnets across accounts to access sample resources in central VPCs. Please bring your laptop.
+
+NET211-S: Service mesh across hybrid infrastructure
+
+Having visibility of services and traffic between an on-premises data center and AWS can help you understand costs, troubleshoot requests, secure connections, and maintain application resiliency. In this session, we walk through how to configure AWS Cloud Map and HashiCorp Consul so that you can observe services and manage traffic between the cloud and your data center. We also show you how to trace a request from an AWS application to a data center database in order to troubleshoot an issue. This presentation is brought to you HashiCorp, an APN Partner.
+
+NET212: [NEW LAUNCH!] Introducing AWS Network Manager
+
+AWS Network Manager is a new service that enables customers to centrally manage and monitor their global networks across AWS and their on-premises environments. Network Manager reduces the operational cost and complexity involved with visualizing and troubleshooting connectivity across remote locations, third-party network appliances, and cloud resources. Come to this session to learn more about this new service and how it integrates with AWS Transit Gateway, AWS Direct Connect, and AWS Site-to-Site VPNs.
+
+NET213-S: True stories: Digital business innovations on AWS
+
+In this session, Dave Shacochis, VP of hybrid IT product management at CenturyLink, leads a discussion with cross-industry technology leaders, focusing on success stories about AWS solutions that enable business innovation. You also get to learn from this panel of experts as they dive deep and discuss the AWS and network architecture that powers re:Invent. This presentation is brought to you by CenturyLink, an APN Partner.
+
+NET214-S: What everyone should know about hybrid cloud networking
+
+Shift your thinking about hybrid cloud networking. In this session, amplify your knowledge of simplifying network connectivity and segmentation through a policy-driven automation framework. Get answers for scalable architectures, which enable common use cases such as cloud migration, cloud bursting, business continuity, and disaster recovery. A live demo showcases Cisco's flagship SDN solution, Cisco Application Centric Infrastructure. This session also includes details about enabling a consistent management model in hybrid cloud environments, including integration with third-party services like firewalls and load balancers. Finally, learn how to deploy, manage, and operate a hybrid cloud environment while meeting common governance and compliance mandates. This presentation is brought to you by Cisco Systems, an APN Partner.
+
+NET301-R1: Improve your SEO ranking using Amazon CloudFront & Lambda@Edge
+
+In this builders session, we discuss how to improve your SEO rankings using AWS edge services like Amazon CloudFront and Lambda@Edge. We walk through techniques such as dynamic content indexing, low-latency redirections, data-driven caching strategies, URL optimizations, and mobile-friendly websites. Please bring your laptop.
+
+NET302-R2: Protect your website and infrastructure using Amazon CloudFront
+
+Amazon CloudFront is a critical component for improving application security. In this session we show you how CloudFront can be used to manage Transport Layer Security (TLS) policies, restrict viewers, and serve private content. You will leave this session familiarized with key CloudFront security components. Please bring your laptop.
+
+NET303-R2: Four steps for debugging your content delivery on AWS
+
+In content delivery, issues might occur in different places, for example: on your origin, when it returns HTTP 5xx errors; on Amazon CloudFront, when it cannot connect to your origin; or on Lambda@Edge, when your code throws an unhandled exception. In this session, we go through four steps to debug AWS content delivery issues using AWS services like Amazon CloudWatch, Amazon Athena, and the CloudFront monitoring dashboard.
+
+NET304-R1: Lambda@Edge best practices
+
+Are you using or planning to use Lambda@Edge in your web application? In this session, join our engineers to discuss Lambda@Edge best practices throughout the life cycle of your application; bring your questions. Topics include how to create the best Lambda@Edge design for your use case, how to read external data in your Lambda@Edge function in an efficient way, and how to integrate Lambda@Edge in your CI/CD pipeline.
+
+NET305-R1: Advanced VPC design and new capabilities for Amazon VPC
+
+Amazon Virtual Private Cloud (Amazon VPC) enables you to have complete control over your AWS virtual networking environment. Given this control, have you ever wondered how new Amazon VPC features might affect the way you design your AWS networking infrastructure, or even change existing architectures that you use today? In this session, we explore the new design and capabilities of Amazon VPC and how you might use them.
+
+NET306-R1: Best practices for securing Amazon VPC
+
+In this interactive workshop, we provide practical advice and guidance for designing and building secure Amazon Virtual Private Clouds (Amazon VPCs). Using a hands-on approach, we review the basic Amazon VPC features such as subnets, security groups, flow logs, and routing. We then dive deeper and look at how to integrate Amazon VPC with other services, such as AWS Transit Gateway, AWS PrivateLink, AWS Systems Manager, Amazon Route 53, AWS WAF, and more. Throughout, we share best practices for Amazon VPC design and management based on our experience supporting customers running large-scale infrastructures.
+
+NET307-R1: Customizing content delivery with Lambda@Edge
+
+Join us for a hands-on session on using Lambda@Edge and Amazon CloudFront to deliver high performance and personalized experience to your internet users globally. Walk away with a working setup that combines Amazon S3, Amazon DynamoDB, and CloudFront with Lambda@Edge to build websites that are simultaneously hosted across AWS locations around the world. Learn how to extend application architecture for scale and performance. We show how to reduce origin costs by rendering web page content at the edge with open source libraries. We explore architecture, configuration, and DevOps with real examples of how AWS customers are using Lambda@Edge for their websites.
+
+NET308-R1: Enabling automated astrophysics with AWS Ground Station
+
+NASA Jet Propulsion Laboratory's (JPL) IT Chief Technology Officer, Tom Soderstrom, presents a demonstration of automated scheduling with AWS Ground Station and a NASA JPL satellite. The satellite, ASTERIA, used for this demonstration was designed in collaboration between the Massachusetts Institute of Technology and NASA JPL. AWS Ground Station connects antenna systems to cloud technologies so that researchers and scientists can automate their projects in space.
+
+NET310-R1: Building serverless micro frontends at the edge
+
+Your users expect a fast and dynamic web experience, but this can be a challenge when you have thousands of users across the globe. How can you balance low-latency delivery and content personalization while scaling seamlessly to meet user demand? In this session, learn how to use Amazon CloudFront and Lambda@Edge to personalize your website, harden its security, and do canary releases and agile deployments. Hear from DAZN, a global sports streaming platform, about how it built serverless micro frontends on AWS.
+
+NET311-R1: Traffic management for multi-region architectures
+
+Do you have a plan to deploy your application in multiple AWS Regions? Join our engineers in this chalk talk to discuss the different ways to route traffic to multiple regions. We show you the possibilities offered by Amazon CloudFront, Amazon Route 53, Lambda@Edge, and AWS Global Accelerator to implement a multi-region application, and we discuss the pros and cons of each approach.
+
+NET312: How the BBC uses Lambda@Edge to customize device pages
+
+BBC iPlayer is a multi-team department, bringing the best of the BBC's offering to millions of people every day. The launch team is responsible for providing server-side-generated HTML, XHTML, and CE-HTML thousands of times a second to more than 300 different devices. Rather than computing each page at request-time (as was done previously), Lambda@Edge allows the BBC iPlayer team to identify an incoming device by its user-agent and provide a specific page stored in Amazon S3. Lambda@Edge allows the team to serve these requests much faster and without the need to manage a fleet of EC2 instances.
+
+NET313: Maintaining security and availability on the unpredictable internet
+
+With billions of internet users worldwide, maintaining up-time and a strong security posture is critical to earning your customers' trust. Unexpected fiber cuts, malicious hackers, and the latest viral sensations create internet inconsistencies that can bring down any web application. For many, the first line of defense is Amazon CloudFront, a content delivery network (CDN) designed for availability, security, and performance. In this session, learn how CloudFront engineering teams provide the highest levels of availability and security. We look at what happens behind the scenes when our operators are paged into action to resolve common issues across the internet.
+
+NET314-R5: Use AWS Transit Gateway to interconnect multi-account VPCs
+
+In this builders session, we share an AWS Transit Gateway among the participants and establish a multi-account transit topology. We also build VPN connections to on-premises appliances that will be shared by all these accounts. Come to learn and get hands-on with AWS Transit Gateway capabilities. Please bring your laptop.
+
+NET315-R4: AWS Direct Connect with AWS Transit Gateway
+
+In this builders session, we discuss, demonstrate, and get hands-on connecting AWS Transit Gateway with AWS Direct Connect. Come see how these features integrate and work across accounts and with multiple regions. Please bring your laptop.
+
+NET317-R1: Connectivity to AWS and hybrid AWS network architectures
+
+Amazon offers multiple options to achieve your connectivity requirements to access your resources in AWS. Whether you are connecting your corporate office or on-premises data center into AWS for hybrid connectivity or your personal device for end-user connectivity, AWS has many options for you to pick and choose. This session is intended for anyone wanting to get an overview of the AWS connectivity options available to you and learn about the best practices for architecting your connectivity to AWS.
+
+NET318-R1: Building highly available applications using Global Accelerator
+
+In this session, you learn how to build highly available and performant architectures for your applications with AWS Global Accelerator, a service that enables you to manage multi-regional endpoints using global static IP addresses anycast from the AWS edge network. We dive into the Global Accelerator architecture and explain how the service provides global resiliency by isolating cross-customer impact and mitigating different failure modes, such as host-level failures, site-level failures, software defects, and anycast shifts.
+
+NET320-R1: The right AWS network architecture for the right reason
+
+The unlimited choices that technology provides can be empowering to builders who understand what they want to build and how to build it. But some get overwhelmed when trying to decide on architectural constructs that appear to solve the same problem. Should I use VPC peering or AWS Transit Gateway? Is Shared VPC a better fit for my Amazon EKS deployment? In this talk, two solutions architects discuss how to identify the right solutions for the right reasons, how architectural decisions might change based on the scale of a workload, and how one size does not fit all design patterns.
+
+NET321: AWS PrivateLink deployments: DNS mechanisms for routing & resiliency
+
+Looking to consume AWS PrivateLink-enabled services from on premises? In this session, we provide you with guidance on how DNS mechanisms can be used to route traffic as well as build resiliency for your connections into PrivateLink-enabled services in the Amazon Virtual Private Cloud (Amazon VPC) infrastructure.
+
+NET333-R2: Building hybrid architectures with AWS Transit Gateway, AWS Direct Connect, and VPNs
+
+Questions often arise about building hybrid architectures at scale and best practices for doing so. This session includes a brief overview of how packets move through Amazon Virtual Private Cloud (Amazon VPC), AWS Direct Connect, and VPN with a focus on routing tables. This leads us into a Q&A for the remainder of the chalk talk around designing hybrid architectures with DX, VPN, and AWS Transit Gateway, where we show you the best way to build using these foundational services.
+
+NET334-R1: Designing hybrid connectivity for VMware Cloud on AWS
+
+This session covers network design approaches for VMware Cloud on AWS with best practices to build connectivity to customer VPCs, native AWS services, and on-premises data centers using AWS Transit Gateway, AWS Direct Connect, and VPN.
+
+NET335-R1: Cloud networking for the on-premises network engineer
+
+Find out how to translate the on-premises networking world into the cloud language. Embrace the culture of DevOps and infrastructure as code to speed up your network operations. Discover how to avoid pitfalls with centralized firewall deployments in the cloud.
+
+NET337: Common deployment models with Amazon CloudFront & Lambda@Edge
+
+Changing your web application will affect how users respond to your website. For instance, you may see higher conversion rates or a decrease in time that a user spends on a web page. Before committing to these changes, you'll want to test and sample how users respond. In this chalk talk, our Amazon CloudFront engineering team discusses common deployment techniques, such as A/B testing and blue-green transitions, as well as automating software releases in a CI/CD pipeline with Amazon CloudFront and Lambda@Edge.
+
+NET338: Bring your WordPress site to life with speed, security & text-to-speech
+
+Making your WordPress site stand out among the crowd is no easy task, but AWS services can help boost your natural SEO rankings and end-viewer engagement. In this workshop, get hands-on experience taking a standard WordPress site and bringing it to life. We leverage Amazon CloudFront's global content delivery network (CDN) infrastructure for faster load times, use Lambda@Edge's programmability to insert HTTP Strict Transport Security (HSTS) security headers, and integrate Amazon Polly to dynamically generate text-to-speech audio playbacks in a variety of languages.
+
+NET339: Innovation and operation of the AWS global network infrastructure
+
+In this session, we take a look inside the cloud to share how we build, operate, and innovate around the underlying infrastructure of the AWS global backbone. We start with an Amazon EC2 instance and the host it runs on and move through its high-bandwidth connection to the datacenter infrastructure out to other Availability Zones, regions, and the internet. We also discuss the automatic encryption of all traffic on the AWS global and regional networks between AWS secured facilities along with how we extensively use our own services, such as Amazon CloudWatch, to monitor, alarm, and automatically remediate any issues found on the network.
+
+NET401-R1: Build your AWS Ground Station mission profile with AWS CloudFormation
+
+Join us for a technical deep dive that provides you training to build a mission profile using AWS CloudFormation. In this session, you learn the satellite onboarding process for AWS Ground Station, build a mission profile that properly configures the antenna system before the pass, and directs your data flows between the antenna system and your VPC. You even get to watch a satellite contact! Please bring your laptop.
+
+NET402-R1: Networking wizards: Ask me anything
+
+This session features two principal solutions architects who have been helping AWS customers build simple and complex networks. Feel free to bring your questions about AWS Transit Gateway, Amazon VPC, AWS Direct Connect, VPN, firewall, and any other networking questions to this session.
+
+NET403-R1: Deep dive: Container networking at scale on Amazon EKS & Amazon EC2
+
+In this advanced workshop, we dive deep into the different networking options for deploying containers at production scale on Amazon EKS and Kubernetes on Amazon EC2. We review architectural best practices, the different relevant industry standards that are leveraged within these services, and Container Networking Interface (CNI) options best suited for workload types and challenges from big data jobs to machine learning simulations. This workshop includes hands-on labs to facilitate a better understanding of the networking underpinnings of the various container deployment options. It also covers important concepts around container network namespaces, iptables, routing, and traffic management between multiple nodes.
+
+NET404-R3: How to test network performance on AWS
+
+In this builders session, we explore and demonstrate methods to measure and evaluate the network performance of various EC2 instance types. We work through how to do this by following our best practice recommendations to optimize your network performance on AWS. Please bring your laptop.
+
+NET405-R2: Encryption options for AWS Direct Connect
+
+In this session, we cover different approaches for encrypting the AWS Direct Connect connection. This year attendees first build a transit gateway for connecting the VPCs and then build a VPN tunnel over a public virtual interface to the transit gateway. Please bring your laptop.
+
+NET406-R1: AWS Transit Gateway reference architectures for many VPCs
+
+In this advanced session, we review common architectural patterns for designing networks with many VPCs. Segmentation, security, scalability, cross-region connectivity, and flexibility become more important as you scale on AWS. We review designs that include AWS Transit Gateway, AWS Direct Connect, VPN, AWS PrivateLink, VPC peering, and more.
+
+NET407-R2: Get the most from Elastic Load Balancing for different workloads
+
+Elastic Load Balancing automatically distributes incoming application traffic across multiple application targets for fault tolerance and load distribution. In this session, we do a deep-dive and cover everything you ever wanted to know about using Application Load Balancers and Network Load Balancers. We go over some interesting use cases and cover topics such as picking the right load balancer, architectural best practices, and load balancing principles. We also go into detail about configuration and day-to-day management and discuss how you can analyze your applications using Amazon CloudWatch metrics and ELB access logs and their integration with the broader AWS ecosystem.
+
+NET410: Deep dive on DNS in the hybrid cloud
+
+The launch of Amazon Route 53 Resolver endpoints and forwarding rules has opened up a variety of exciting new options for managing DNS resolution, especially in hybrid cloud environments. This session gives a quick overview of the product before taking a deep dive into the design of Route 53 Resolver, including how it complements Route 53 private DNS and best practices to achieve availability and performance. We also dive into some new patterns that are emerging with services such as AWS Transit Gateway, AWS PrivateLink, and AWS Directory Service for Microsoft Active Directory.
+
+NET412-R1: Become an AWS VPN and AWS Direct Connect expert
+
+Do you want to learn how to connect to Amazon Virtual Private Cloud (Amazon VPC) from your on-premises location by using a site-to-site VPN, client VPN, or AWS Direct Connect? Static, dynamic, certificates, gateways-anything goes. Come learn how to set these up and ask us anything about these topics.
+
+NET413-R1: Elastic Load Balancing: Best practices for securing your applications
+
+Bring your tricky questions and interesting use cases to this session, where we cover topics such as Transport Layer Security (TLS) termination on elastic load balancers, how you can solve your identity management at scale with authentication on Application Load Balancer, and blocking requests using advanced request-routing features on Application Load Balancer or using AWS WAF.
+
+# Netflix
+
+NFX201: More data science with less engineering: ML infrastructure at Netflix
+
+Netflix is known for its unique culture that gives an extraordinary amount of freedom to individual engineers and data scientists. Our data scientists are expected to develop and operate large machine learning workflows autonomously without the need to be deeply experienced with systems or data engineering. Instead, we provide them with delightfully usable ML infrastructure that they can use to manage a project's lifecycle. Our end-to-end ML infrastructure, Metaflow, was designed to leverage the strengths of AWS: elastic compute; high-throughput storage; and dynamic, scalable notebooks. In this session, we present our human-centric design principles that enable the autonomy our engineers enjoy.
+
+NFX203: From pitch to play: The technology behind going from ideas to streaming
+
+It takes a lot of different technologies and teams to get entertainment from the idea stage through being available for streaming on the service. This session looks at what it takes to accept, produce, encode, and stream your favorite content. We explore all the systems necessary to make and stream content from Netflix.
+
+NFX205: Monitoring anomalous application behavior
+
+AWS CloudTrail provides a wealth of information on your AWS environment. In addition, teams can use it to perform basic anomaly detection by adding state. In this talk, Travis McPeak of Netflix and Will Bengtson introduce a system built strictly with off-the-shelf AWS components that tracks CloudTrail activity across multi-account environments and sends alerts when applications perform anomalous actions. By watching applications for anomalous actions, security and operations teams can monitor unusual and erroneous behavior. We share everything attendees need to implement CloudTrail in their own organizations.
+
 # Oil & Gas
 
 OIG301-R1: Build an Oil & Gas tank level monitoring solution with AWS IoT
