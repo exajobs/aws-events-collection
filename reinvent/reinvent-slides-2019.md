@@ -18,6 +18,11 @@
 - [Enterprise](#enterprise)
 - [End User Computing & Business Apps](#end-user-computing--business-apps)
 - [Financial Services](#financial-services)
+- Management Tools & Governance
+- Marketplace
+- Machine Learning
+- Mobile
+- Networking & Content Delivery
 - [Netflix](#)
 - [Oil & Gas](#)
 - [Open Source](#)
