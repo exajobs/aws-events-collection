@@ -2464,6 +2464,20 @@ Data streams and stream processing have many applications in Financial Services.
 
 > Smart contracts have the potential to solve the inefficiencies inherent to traditional contracts. In this session, we build Hyperledger Fabric networks using Amazon Managed Blockchain, form a trusted consortium with multiple parties, and deploy a smart contract for a settlement use case. While obtaining an access-controlled Hyperledger consortium, we go through Hyperledger Fabric constructs, smart contract application interfaces, real-time transaction analytics, and connections to existing business systems, such as data analytics and reporting services. Please bring your laptop.
 
+# Oil & Gas
+
+OIG301-R1: Build an Oil & Gas tank level monitoring solution with AWS IoT
+
+Monitoring remote oil field assets has always been challenging given traditional supervisory control and data acquisition (SCADA) systems and network limitations. With accurate real-time data, oil and gas operators can reduce operating expenses, minimize downtime, and improve safety. In this builders session, learn how to set up an edge hardware and software solution for monitoring water tank levels. We use the following AWS services: AWS IoT Greengrass, AWS IoT Core, AWS IoT Events, Amazon CloudWatch, Amazon DynamoDB, and Amazon SNS. A laptop is required to participate in this session. Please bring your laptop.
+
+OIG303: Using machine learning to find boulders on the sea floor
+
+In this chalk talk, we deep dive into Fugro's initiative to accelerate identifying boulders on the ocean floor, a first step in establishing offshore infrastructure. We also discuss the team's use of Amazon SageMaker and Amazon SageMaker batch transform for Mask R-CNN instance segmentation training and inference. We share the successes and challenges Fugro faced during this journey, and how this new technology is reducing the turnaround time for providing reports to its clients-from months to days or weeks.
+
+OIG304: Organize resources & consolidate data centers with AWS Organizations
+
+In this chalk talk, learn how the cloud simplifies asset organization during the migration of physical data centers to the cloud. By moving multiple physical data centers comprising enterprise application and heterogeneous technologies, Marathon Petroleum was able to drive consistent governance and security to allow for a focus on business fulfillment.
+
 
 # Open Source
 OPN201: Change is coming to robotics development: The shift to ROS 2
