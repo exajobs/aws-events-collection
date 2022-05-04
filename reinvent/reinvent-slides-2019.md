@@ -2464,7 +2464,60 @@ Data streams and stream processing have many applications in Financial Services.
 
 > Smart contracts have the potential to solve the inefficiencies inherent to traditional contracts. In this session, we build Hyperledger Fabric networks using Amazon Managed Blockchain, form a trusted consortium with multiple parties, and deploy a smart contract for a settlement use case. While obtaining an access-controlled Hyperledger consortium, we go through Hyperledger Fabric constructs, smart contract application interfaces, real-time transaction analytics, and connections to existing business systems, such as data analytics and reporting services. Please bring your laptop.
 
-# 
+# Marketplace
+
+MKT201-R: Master your security in the cloud
+
+In this session, we discuss how you can use AWS Marketplace to help secure your cloud adoption and new workloads using industry-leading third-party solutions. A representative from Sallie Mae, a nation-wide consumer banking company, describes how the company uses Checkpoint CloudGuard Dome9 from AWS Marketplace to enforce and automate security on AWS. Learn best practices for automating your security in the cloud with the shared responsibility model at AWS.
+
+MKT201-R1: Master your security in the cloud
+
+In this session, we discuss how you can help secure each stage of your cloud adoption with third-party solutions. Learn best practices to automate your security in the cloud with the shared responsibility model at AWS.
+
+MKT203-R1: Detect network and security anomalies with Traffic Mirroring
+
+Traffic Mirroring is a new Amazon Virtual Private Cloud (VPC) feature that allows customers to gain insight into the network traffic across their VPC infrastructure for content inspection and threat monitoring. In this session, we discuss how to integrate third-party solutions from AWS Marketplace to simplify and optimize Traffic Mirroring for your network security and monitoring appliances. Additionally, a representative from Salesforce, a cloud-based software company and a leading CRM platform, talks about how the company uses solutions from AWS Marketplace to implement compliance and security controls, analyze traffic patterns, and meet compliance requirements.
+
+MKT204: Automate your security on AWS
+
+In this session, we discuss how you can deliver secure and compliant code within a high-performing DevOps environment. Additionally, a representative from Cimpress, a world leader in mass customization that is primarily powered by AWS, describes the company's journey from long release cycles to rapid on-demand deployments of microservices with integrated security and compliance controls. Learn best practices for using third-party solutions to meet security and compliance requirements while maintaining agility.
+
+MKT205-R2: Build a machine learning model using a third-party algorithm
+
+Pre-built model algorithms from AWS Marketplace enable you to train a machine learning model that is specific to your needs. In this hands-on session, learn how to train a machine learning model using a third-party algorithm from AWS Marketplace, Amazon SageMaker, and sample data. Please bring your laptop.
+
+MKT206-R1: Integrate AWS Marketplace into your existing procurement system
+
+In this hands-on session, we provide a deep dive on how to set up Procurement System Integration, a new feature that enables you to integrate AWS Marketplace with procurement systems that are supported by cXML, such as Coupa. Please bring your laptop.
+
+MKT208-R1: Build modern applications using third-party container products
+
+In this hands-on session, we show you how to package and deploy applications faster by finding third-party container products directly through the Amazon Elastic Container Service (Amazon ECS) console and running them on Amazon ECS. Please bring your laptop.
+
+MKT209-R1: How to run third-party container products on Amazon EKS
+
+In this hands-on session, we show you how to package and deploy applications faster by finding third-party container products in AWS Marketplace and run them on Amazon Elastic Kubernetes Service (Amazon EKS). Please bring your laptop.
+
+MKT210-R2: Gain network-traffic insights with Traffic Mirroring solutions
+
+In this hands-on session, you use solutions from AWS Marketplace to copy network traffic from an elastic network interface (ENI) from your EC2 instances into your VPCs and send it to their security and monitoring appliances. Please bring your laptop.
+
+MKT211-R2: Building data lakes with third-party solutions
+
+In this builders session, learn how to build data lakes to fit your business needs with third-party solutions from AWS Marketplace. We also show you how you can try different solutions through free trials. Please bring your laptop.
+
+MKT212: Deep dive on using AWS Data Exchange for ML and data analytics
+
+Doing machine learning and data analysis at scale requires access to high-quality datasets. AWS Data Exchange is a new service that makes it easy to find, subscribe to, and use third-party data in the cloud. In this technical session, we dive deep on how to procure a third-party data product from AWS Data Exchange and algorithms from AWS Marketplace to train machine learning models in Amazon SageMaker. You also see how Virtusa is distributing synthetic datasets relating to more than 365 million virtual patients as well as more than 815 billion records using AWS Data Exchange to advance data science and predict patient outcomes.
+
+MKT213-R2: How to use cost allocation tags to help manage spend for EC2 instances
+
+In this builders session, we show how to use cost allocation tags to track your AWS costs and assign budget responsibility for EC2 instances deployed from AWS Marketplace. We also show how to use tags to customize billing reports and filter views in AWS Cost Explorer. Please bring your laptop.
+
+# Artificial Intelligence & Machine Learning
+MLS201: Machine Learning Summit
+
+From breakthroughs happening now to future possibilities to the biggest questions facing the industry, the Machine Learning Summit gives you the opportunity to hear from researchers, academics, and entrepreneurs on some of the hottest topics in artificial intelligence and machine learning. The half-day of 30-minute lightning talks covers topics ranging from bias and ethics in AI to how machine learning can be applied to solve some of our toughest societal challenges, including medical and environmental breakthroughs. The Machine Learning Summit is designed for everyone from data scientists to business professionals. Speaker roster available at reinvent.awsevents.com/learn/mlsummit/.
 
 # Mobile
 MOB202-R1: Rapidly build working prototypes with AWS AppSync
