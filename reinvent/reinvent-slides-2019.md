@@ -2466,6 +2466,113 @@ Data streams and stream processing have many applications in Financial Services.
 
 
 # Open Source
+OPN201: Change is coming to robotics development: The shift to ROS 2
+
+As more robots move from research and academia into real production use, we've seen an accelerated adoption of ROS 2 (Robot Operating System). What's driving this shift from ROS 1 to ROS 2? What was missing from ROS 1? What makes ROS 2 more commercially capable? In this session, you learn how the design, development, and features of ROS 2 change the landscape for all robot lovers.
+
+OPN203-S: How IBM is driving innovation with next-generation solutions on AWS
+
+Join us to hear how IBM is working with AWS to help customers accelerate innovation and digital transformation with IBM Cloud Paks on AWS. IBM Cloud Paks are enterprise-grade containerized solutions that are built on top of Red Hat OpenShift Container Platform. They provide enterprises with a fast, secure way to build, move, and manage core business applications and leverage innovative new technologies such as blockchain and IBM Watson. Hear how IBM and AWS customers are leveraging these cutting-edge solutions and are supported by dedicated AWS practices, and learn about the IBM Garage, a co-creation experience that drives purposeful innovation and transformational change. This presentation is brought to you by IBM, an APN Partner.
+
+OPN204: Secure your Open Distro for Elasticsearch cluster
+
+Open Distro for Elasticsearch Security is a rich, deep technology that has a variety of ways to control access to your cluster and your data. In this session, we dive deep on Open Distro Security. You learn how to secure your cluster with your own SSL certs, set up fine-grained access control for your documents and fields, assign users to roles, create multi-tenant Kibana visualizations and dashboards, and integrate with federated identity providers like LDAP, Active Directory, and Okta.
+
+OPN205-R1: Contributing to the AWS Construct Library
+
+The AWS Cloud Development Kit (AWS CDK) is an open-source software-development framework to model and provision cloud application resources using familiar programming languages. Its development is completely open and the framework is fully extensible, and we encourage people to contribute to the project and to build on top of it. In this session, we discuss the design patterns and considerations in the AWS Construct Library, all in the context of a new contribution to the project that we'll live code in TypeScript on stage.
+
+OPN207: PartiQL: One query language for all of your data
+
+PartiQL is a SQL-compatible query language that makes it easy and efficient to process both structured (relational) data, as well as semi-structured, schemaless, and nested data, as typically found in open data formats in the Amazon S3 data lake and document-oriented databases. PartiQL is a unifying query language, enabling single-query-language access to multiple AWS services. We discuss its core tenets and how they served AWS services and Amazon projects. Then we discuss how PartiQL can benefit your applications and tools in need of unifying query access to the data lake.
+
+OPN208-R2: Building modern APIs with GraphQL
+
+With the rise of microservice architectures and rich mobile and web applications, APIs are more important than ever. Learn how to tackle modern API design challenges with GraphQL, an open-source API query language used by Facebook, Amazon, Microsoft, Twitter, Virgin Trains, and more.
+
+OPN210: Using open source to re-architect monolithic applications
+
+Learn how the Verizon Operations Automation team was able to take a monolithic .NET, SSRS, and SQL Server application and re-deploy it in AWS utilizing only open source solutions. To comply with data governance and SOX compliance requirements, the application was re-architected to include only the reporting modules, optimized for AWS, and moved to CentOS EC2 and Amazon RDS MySQL. Required .NET code was kept in-tact, stored procedures updated, schemas converted with AWS Schema Conversion Tool, data was migrated, and 19 on-premise servers were migrated to single EC2 and RDS instances with Auto-scaling Groups.
+
+OPN211: How Zalando runs Kubernetes clusters at scale on AWS
+
+Many clusters, many problems? Having many clusters has benefits: reduced blast radius, less vertical scaling of cluster components, and a natural trust boundary. In this session, Zalando shows its approach for running 140+ clusters on AWS, how it does continuous delivery for its cluster infrastructure, and how it created open-source tooling to manage cost efficiency and improve developer experience. The company openly shares its failures and the learnings collected during three years of Kubernetes in production.
+
+OPN212: Analyze your log data with Open Distro for Elasticsearch
+
+Elasticsearch, an open-source distributed search and analytics engine, is used by companies worldwide to search and analyze their applications' logs. Open Distro for Elasticsearch is a 100% open-source distribution for Elasticsearch. This open-source distribution bundles critical capabilities required for your workloads, including security, cluster diagnostics, alerting, and SQL capabilities. In this session, we walk you through Open Distro for Elasticsearch features and build tools. We also cover the project's community-driven approach to building a great open-source search stack and how you can get involved and collaborate.
+
+OPN213: Travelers tales: The open-source journey of the AWS SAM toolkit
+
+In this chalk talk, we give an overview of AWS Serverless Application Model (AWS SAM) toolkit, an AWS CloudFormation extension and companion CLI tool for building, testing, and deploying serverless applications on AWS. We talk about why we created it, the decision and thinking behind open sourcing it, and the progress that has been made in the community since inception.
+
+OPN214: Getting the most out of your open-source investments
+
+As enterprises increase their dependency on open-source software and communities, there is a need to formalize a process and culture across the organization around the consumption and contribution of open-source code in order to maximize the impact of the organization's open-source investment. In this session, we dive deep into industry best practices and show you how to establish an open-source-program office (OSPO). You also learn how to influence and contribute to open-source projects that are critical to your business, and how to launch your own successful open-source initiatives.
+
+OPN215-R1: Intelligent automation with Snort and AWS security services
+
+In this builders session, we show you how to integrate open-source intrusion detection systems (IDS) with AWS Cloud services to improve scalability, automate operations, and leverage machine learning capabilities. We show you how to stream IDS events and packets from Snort sensors in a hybrid environment using Amazon Kinesis Data Firehose. Next, we show you how to store IDS data in a data lake for controlled access. We then demonstrate how to use Amazon QuickSight and Amazon Cognito to create insights from your data. Finally, we show you how to use Amazon SageMaker to trigger automatic management of your sensors with AWS Systems Manager. Please bring your laptop.
+
+OPN217: Enterprise blockchain: AWS's open-source approach
+
+Blockchain technology is evolving rapidly and organizations are experimenting with this technology across many use cases, including streamlining financial transactions, supply chain transparency, and healthcare data management. In this session, Hyperledger Foundation's Brian Behlendorf joins AWS' Tamara Dull to explore how three popular open source blockchain frameworks - Hyperledger Fabric, Hyperledger Sawtooth, and Ethereum - contrast/compare and how they are being used to address our customers' blockchain needs.
+
+OPN218: Marketing your open-source project
+
+Your open-source project needs more than just great code: to thrive in the crowded open-source environment, it also needs marketing. In this hands-on session with Deirdr√© Straughan, AWS's open source content lead, you develop an outline plan for marketing your project, covering customers, content of all kinds, social, community, and more. You also learn helpful tips and shortcuts to create open-source marketing at any scale, from the one-person project to the enterprise, gleaned from Deirdr's 30-plus years of experience. Please bring your laptop.
+
+OPN302-R1: Get started with Open Distro for Elasticsearch
+
+If you're running any kind of software, in any capacity, you're generating logs. In all likelihood, you have more logs than you could read through in several lifetimes. Buried among the noise, your logs contain important information that can help you tune and monitor your application, and find and fix security issues. In this workshop, you set up and configure Open Distro for Elasticsearch and its key plugins, including alerting, performance analyzer, security, and SQL. We will also walk through how you can manage your Elasticsearch cluster by setting up alerts, tracking cluster health metrics, and querying your data.
+
+OPN303-R1: BPF performance analysis at Netflix
+
+Extended BPF (eBPF) is an open-source Linux technology that powers a whole new class of software: mini programs that run on events. Among its many uses, BPF can be used to create powerful performance-analysis tools capable of analyzing everything: CPUs, memory, disks, file systems, networking, languages, applications, and more. In this session, Netflix's Brendan Gregg tours BPF tracing capabilities, including many new open-source performance analysis tools he developed for his new book 'BPF Performance Tools: Linux System and Application Observability.' The talk also includes examples of using these tools in the Amazon Elastic Compute Cloud (Amazon EC2) cloud.
+
+OPN304: Migrating AWS Lambda's front end from Java 8 to Java 11
+
+In this session, we explore the journey of migrating AWS Lambda's front-end service from Java 8 to Java 11 using Amazon Corretto, our no-cost distribution of OpenJDK. We also walk through the code and dependency changes required to migrate to Java 11, how we measured performance improvements, and how we safely deployed such a significant update to a large-scale service across multiple regions in production.
+
+OPN305: How Optum manages transient developer accounts at scale
+
+Disposable Cloud Environment (DCE) is an open-source account management product used to facilitate public cloud experimentation in isolated sandbox environments. It automatically provisions and recycles public cloud accounts while implementing duration and financial controls to manage usage and security risks. As a Fortune 500 enterprise, Optum uses DCE to empower its tens of thousands of engineers to explore public cloud services and resources while mitigating business risk. Learn more about Optum's use of DCE in this session.
+
+OPN308-R1: PartiQL: Solution integration and joining the community
+
+PartiQL is an evolving SQL-compatible query language that provides a unifying query language to the AWS data lake. In this chalk talk, we address how applications, business intelligence (BI) tools, and database engines benefit from PartiQL. You learn how you can use the PartiQL open source in the development of your application, BI tool, and/or database service. We also discuss how to join the PartiQL community and contribute to the next steps in its evolution.
+
+OPN310-R1: Alerting with Open Distro for Elasticsearch
+
+Open Distro for Elasticsearch has a variety of ways to allow you to set triggers for your alerts on Elasticsearch data. In this session, we detail the basic ingredients you need to create useful alerting and demonstrate how to set up and manage your alerts. You learn about different types of alerts, use cases, and where to send notifications. We also walk you through configuring alert thresholds and triggers and how to visualize the output using the Kibana UI to understand the behavior of your data and alerts over time. Please bring your laptop.
+
+OPN311-R1: Analyze performance of your workload with Open Distro for Elasticsearch
+
+Elasticsearch is challenging to provision for a workload, as its performance is hard to model. Elasticsearch is also hard to troubleshoot when it comes to performance problems. In this session, we focus on the Performance Analyzer, a feature offered with Open Distro for Elasticsearch. Performance Analyzer is a system that instruments Elasticsearch and exposes metrics that have diagnostic capabilities. We talk about the design and implementation of Performance Analyzer and also do a live demo of how it can be used in conjunction with the Open Distro PerfTop to troubleshoot a cluster issue. Please bring your laptop.
+
+OPN312-R1: End-to-end type safety with React, GraphQL, and TypeScript
+
+In this builders session, we show you how to build a full-stack modern web application using TypeScript throughout. You also learn how you can create a tight development workflow by using GraphQL to generate shared type definitions for your APIs. Please bring your laptop.
+
+OPN314-R1: Hosting resilient static sites using open-source tools
+
+In this session, learn how to use the AWS Cloud Development Kit (AWS CDK) to build and deploy a fast, inexpensive, and highly scalable static blog site using open-source tools. Whether you want to build a small personal blog or a homepage for the world's next big idea, you'll leave this builders session with a site that can handle as much traffic as possible. We use the AWS CDK, Amazon CloudFront, AWS CodeBuild, and AWS Lambda. Please bring your laptop.
+
+OPN401-R1: Machine learning with Kubeflow on AWS
+
+In this hands-on workshop, learn how to build and run machine learning models using open-source software. We cover creating a Kubernetes cluster using Amazon Elastic Kubernetes Service (Amazon EKS) and accelerated EC2 instances; training, optimizing, and deploying an ML model to your cluster; and building a pipeline to automate the entire process. Whether you're experienced with Kubernetes or are an ML expert looking to learn how to run open-source ML infrastructure on AWS, this workshop provides lessons and examples you can apply to any ML project. Come ready to build with a laptop; an AWS account will be provided.
+
+OPN402: Firecracker open-source innovation
+
+Since Firecracker's release at re:Invent 2018, several open-source teams have built on it, while AWS has continued investing in Firecracker's speed. In this session, we start by discussing Weave Ignite from Weaveworks, which unifies containers and VMs using Firecracker microVMs with OCI images, containerd, and CNI. Leigh Capili (DevAdv) demos how to launch apps from Git using Kubernetes orchestration, Ignite virtualization, and GitOps management. In the second part, Alexandra Iordache (Firecracker maintainer) showcases Firecracker's new snapshotting capability in which resuming execution from a microVM image takes milliseconds, and demos using snapshots to burst-start live microVMs on a single host.
+
+OPN403: Rust-VMM: Playing Lego with virtualization components
+
+rust-vmm is an open-source project that maintains a set of high-quality virtualization building blocks. It allows developers to focus on their VMM key differentiators rather than re-implementing components like KVM API wrappers, virtio devices, and memory models. In this session, we discuss the design and structure of the project, as well as the fundamentals of building VMMs using rust-vmm. We also highlight the implications of splitting virtualization components into stand-alone, separate repositories. Then, we look at how rust-vmm is used in practice by Rust-based VMMs like Firecracker and Cloud Hypervisor.
+
+OPN405-R1: How to integrate PartiQL into your project
+
+Learn how to take the open-source PartiQL engine and embed it into your Java- or Kotlin-based application, business-intelligence tool, or database engine to add basic query support. We cover how the query parser, the abstract syntax tree (AST), and the evaluator work. We also discuss how you can leverage the library in your application to add query against custom data sources. Please bring your laptop.
 
 
 # Power & Utilities
