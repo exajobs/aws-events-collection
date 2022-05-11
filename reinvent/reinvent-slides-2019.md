@@ -2554,11 +2554,11 @@ MGT406-R2: Eliminate bastion hosts with AWS Systems Manager Session Manager
 
 AWS Systems Manager Session Manager improves a customer's security posture for instance access with a browser-based and CLI interactive shell experience that requires no open inbound ports or access/jump servers, and enables customer key encryption using AWS KMS. With IAM access control, sessions audited using AWS CloudTrail, and session output logged to Amazon S3 or Amazon CloudWatch Logs, Session Manager makes it easy to control and secure access to instances in operational scenarios while complying with corporate policies and security best practices. Dive deep with the Session Manager team to see how it works for Linux or Windows instances, in the cloud, or on premises. Please bring your laptop.
 
-MGT407-R1: Automating security management with IAM and AWS CloudFormation
+## MGT407-R1: Automating security management with IAM and AWS CloudFormation
 
-Security is a critical element for highly regulated industries like Healthcare. Infrastructure as code provides several options to automate security controls, whether it is implementing rules and guardrails or managing changes to policies in an automated yet auditable way. Learn how to implement a process to automate creation, permission changes, and exception management with IAM policies and AWS CloudFormation, fostering efficient collaborations between security stakeholders across teams. Please bring your laptop.
+> Security is a critical element for highly regulated industries like Healthcare. Infrastructure as code provides several options to automate security controls, whether it is implementing rules and guardrails or managing changes to policies in an automated yet auditable way. Learn how to implement a process to automate creation, permission changes, and exception management with IAM policies and AWS CloudFormation, fostering efficient collaborations between security stakeholders across teams. Please bring your laptop.
 
-MGT408-R2: Best practices for detecting and preventing data exposure
+## MGT408-R2: Best practices for detecting and preventing data exposure
 
 In this session, learn how to configure AWS CloudTrail to detect unauthorized exposure of your data, and AWS Config, Amazon CloudWatch Events, and AWS Lambda to prevent the exposure. This session also provides best practices for preventing misconfiguration of resources, including Amazon S3 and other services. Please bring your laptop.
 
