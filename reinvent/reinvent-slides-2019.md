@@ -2226,21 +2226,21 @@ EUC206: Overview of Amazon digital user engagement & messaging solutions
 
 In this session, we describe how AWS shares the Amazon customer-centric culture of innovation, key technology building blocks, and a user engagement and messaging platform to help companies better understand their users. You also learn how Coinbase is utilizing the Amazon approach to engage its own users. The intended audience: Developers and business professionals who are responsible for digitally transforming their company.
 
-EUC207: Build high-volume email applications with Amazon SES
+## EUC207: Build high-volume email applications with Amazon SES
 
-Companies in many industries use AWS to send millions of emails every day, including Amazon.com. In this session, learn how to build applications using the highly scalable, highly reliable, and multi-tenant-capable email infrastructure of Amazon Simple Email Service (Amazon SES). You also learn how to monitor delivery rates and other important metrics, and how to use this data to improve deliverability. Members of the Amazon.com team discuss the architecture of their multi-tenant email-sending platform, the historical challenges they faced, and the ways Amazon Pinpoint and Amazon SES helped them meet their goals around Prime Day, Cyber Monday, and other retail events.
+> Companies in many industries use AWS to send millions of emails every day, including Amazon.com. In this session, learn how to build applications using the highly scalable, highly reliable, and multi-tenant-capable email infrastructure of Amazon Simple Email Service (Amazon SES). You also learn how to monitor delivery rates and other important metrics, and how to use this data to improve deliverability. Members of the Amazon.com team discuss the architecture of their multi-tenant email-sending platform, the historical challenges they faced, and the ways Amazon Pinpoint and Amazon SES helped them meet their goals around Prime Day, Cyber Monday, and other retail events.
 
-EUC209: Amazon Connect: Omnichannel cloud contact centers with Intuit and Salesforce
+## EUC209: Amazon Connect: Omnichannel cloud contact centers with Intuit and Salesforce
 
-In this session, hear about recently launched web and mobile chat for Amazon Connect. Learn how Intuit is deploying voice and chat at scale with Amazon Connect to improve customer engagement and how it implemented the solution across its global contact centers, what it learned along the way, and next steps in its contact center evolution. Specifically, Intuit shares its experiences with multi-session agents, best practices for using voice and chat simultaneously, and its approach to dynamic customer experiences. Also learn from Salesforce why it is using Amazon Connect to provide contact center solutions to its own customers.
+> In this session, hear about recently launched web and mobile chat for Amazon Connect. Learn how Intuit is deploying voice and chat at scale with Amazon Connect to improve customer engagement and how it implemented the solution across its global contact centers, what it learned along the way, and next steps in its contact center evolution. Specifically, Intuit shares its experiences with multi-session agents, best practices for using voice and chat simultaneously, and its approach to dynamic customer experiences. Also learn from Salesforce why it is using Amazon Connect to provide contact center solutions to its own customers.
 
-EUC210-L: Leadership session: End-user computing
+## EUC210-L: Leadership session: End-user computing
 
-In this session, Nathan Thomas, GM of Amazon WorkSpaces, and Muneer Mirza, GM of Amazon AppStream 2.0 and Amazon WorkLink, share our vision for end-user computing at AWS. We show how the world's largest companies are deploying global solutions for their users, and dive into recent feature updates.
+> In this session, Nathan Thomas, GM of Amazon WorkSpaces, and Muneer Mirza, GM of Amazon AppStream 2.0 and Amazon WorkLink, share our vision for end-user computing at AWS. We show how the world's largest companies are deploying global solutions for their users, and dive into recent feature updates.
 
-EUC211: Modern service desk with Amazon Connect and News Corp
+## EUC211: Modern service desk with Amazon Connect and News Corp
 
-Learn how News Corp implemented Amazon Connect to improve employee and service desk engagement. News Corp's service desk is the 24/7/365 central point of contact for all IT-related questions and issues within News Corp companies in North America, including Dow Jones, HarperCollins, and¬†Realtor.com. News Corp was able to set up Amazon Connect in weeks instead of months, while saving hundreds of thousands of dollars. Amazon Connect contributed to improved employee experience, reduced abandon rate, reduced time to answer, enhanced reporting capability, and more. Come hear how News Corp realized a modern service desk and what it plans for the future.
+> Learn how News Corp implemented Amazon Connect to improve employee and service desk engagement. News Corp's service desk is the 24/7/365 central point of contact for all IT-related questions and issues within News Corp companies in North America, including Dow Jones, HarperCollins, and¬†Realtor.com. News Corp was able to set up Amazon Connect in weeks instead of months, while saving hundreds of thousands of dollars. Amazon Connect contributed to improved employee experience, reduced abandon rate, reduced time to answer, enhanced reporting capability, and more. Come hear how News Corp realized a modern service desk and what it plans for the future.
 
 ## EUC212-R1: Build highly available contact centers with Amazon Connect
 
