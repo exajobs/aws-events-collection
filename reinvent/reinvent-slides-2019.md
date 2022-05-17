@@ -18,8 +18,8 @@
 - [Enterprise](#enterprise)
 - [End User Computing & Business Apps](#end-user-computing--business-apps)
 - [Financial Services](#financial-services)
-- Management Tools & Governance
-- Marketplace
+- [Management Tools & Governance](#)
+- [Marketplace](#)
 - Machine Learning
 - Mobile
 - Networking & Content Delivery
