@@ -20,9 +20,9 @@
 - [Financial Services](#financial-services)
 - [Management Tools & Governance](#)
 - [Marketplace](#)
-- Machine Learning
-- Mobile
-- Networking & Content Delivery
+- [Machine Learning](#)
+- [Mobile](#)
+- [Networking & Content Delivery](#)
 - [Netflix](#)
 - [Oil & Gas](#)
 - [Open Source](#)
