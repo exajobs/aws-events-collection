@@ -4119,47 +4119,47 @@ Learn how enterprises optimize Microsoft workloads on AWS for licensing, availab
 
 Customers are concerned by the impact of Microsoft products reaching end of extended support (EOS). In this session, we answer all of your questions around how to work with Microsoft products reaching EOS or already at EOS, and make you aware of the all of the seamless, cost-effective options available from AWS. This is an interactive session, so bring your questions and concerns, and our experts will help you understand how we can upgrade your legacy applications.
 
-WIN204-R1: Everything you need to know about Amazon FSx for Windows File Server
+## WIN204-R1: Everything you need to know about Amazon FSx for Windows File Server
 
 Fully managed native Windows file shares are an important technology for many IT organizations and important to consider when moving Microsoft workloads to AWS. Join us for this chalk talk, where we discuss Amazon FSx for Windows File Server, the fully managed Windows file share service that makes it easy to launch and use shared file storage for Windows applications. FSx for Windows File Server provides fully managed file storage built on Windows Server providing native support for Windows file system features and the Server Message Block protocol. This is an interactive question-and-answer session, so please bring your questions.
 
-WIN301-R1: Modernizing Microsoft SQL Server on AWS
+## WIN301-R1: Modernizing Microsoft SQL Server on AWS
 
 In this session, we take a cloud-based approach to modernizing and cost-optimizing Microsoft SQL Server on AWS. You learn the benefits of modernizing and how to get started. We cover topics such as how to leverage the optimize CPU feature, how to deploy Microsoft SQL Server on Linux, and how to migrate from Microsoft SQL Server to Amazon Aurora.
 
-WIN302: Migrating Microsoft applications to AWS like an expert
+## WIN302: Migrating Microsoft applications to AWS like an expert
 
 Join us as we discuss the journey of migrating Microsoft workloads to AWS and how to make it faster and easier than ever. Learn best practices and strategies to rightsize and migrate Windows-based infrastructure, Microsoft SQL Server, and .NET applications with minimal downtime. We also cover how legacy Microsoft applications can be migrated to AWS.
 
-WIN303: Deploy modern apps with the AWS Cloud Development Kit for .NET Core
+## WIN303: Deploy modern apps with the AWS Cloud Development Kit for .NET Core
 
 Get hands-on experience with creating your application infrastructure on AWS in .NET. The AWS Cloud Development Kit (AWS CDK) is a software development framework that makes it easy to model and provision your cloud application using .NET and other programming languages. Learn how to build highly scalable infrastructure supported by AWS services without leaving your integrated development environment (IDE). This workshop is for developers looking to deploy applications on AWS or central teams trying to bootstrap standardized application components for other teams. Please bring a laptop (and charger) for the hands-on exercises.
 
-WIN304-R1: Modernize legacy .NET applications on AWS
+## WIN304-R1: Modernize legacy .NET applications on AWS
 
 Customers are modernizing legacy .NET applications in the cloud and realizing benefits including cost savings, increased productivity, scalability, and more. In this workshop you have the opportunity to choose from hands-on scenarios that explore how to modernize and refactor legacy .NET applications. Examples include how to port a legacy .NET application codebase to .NET Core and approaches to converting a monolithic .NET application to a microservices pattern. Please bring a laptop (and charger) for the hands-on exercises.
 
-WIN306: Migrate Microsoft workloads to AWS
+## WIN306: Migrate Microsoft workloads to AWS
 
 Migrating your Microsoft workloads to the AWS Cloud will increase your competitive edge, drive business value, and modernize your infrastructure. This workshop facilitates your understanding of strategies that help with the preparation and execution steps required for migrating Microsoft workloads to the AWS Cloud. Please bring a laptop (and charger) for the hands-on exercises.
 
-WIN307: Manage Windows instances at scale with Systems Manager
+## WIN307: Manage Windows instances at scale with Systems Manager
 
 Get hands-on experience managing Windows servers with AWS Systems Manager. Examples include the life cycle of an application, automating the creation and management of a"golden AMI," domain join, application installation, patching, and collecting inventory. Experience with Windows administration and PowerShell are expected for this session. Please bring a laptop (and charger) for the hands-on exercises.
 
-WIN308-R1: Developing serverless .NET Core on AWS
+## WIN308-R1: Developing serverless .NET Core on AWS
 
 In this demonstration-heavy session, we highlight the latest techniques, tools, and libraries for developing with .NET Core on AWS. The focus is on serverless applications with AWS Lambda and AWS Fargate, but the techniques are broadly relevant. Learn about useful features and best practices for authoring serverless applications, including debugging locally from the IDE and in production, as well as how to set up your CI/CD workflow from the start.
 
-WIN309: Containerize .NET Apps with Amazon EKS and AWS Fargate
+## WIN309: Containerize .NET Apps with Amazon EKS and AWS Fargate
 
 Packaging software into containers gives your code everything needed to run with consistency from your laptop into production. But how do you run containers at scale in the cloud? In this session, learn how to run containerized Windows and .NET applications in production on AWS. We show you how to run Windows containers on Kubernetes with Amazon Elastic Kubernetes Service (Amazon EKS). We also demonstrate the benefits of running .NET Core Linux containers serverlessly with AWS Fargate. We cover core concepts and use demos to help you feel comfortable getting started with building and deploying .NET containerized applications on AWS.
 
-WIN310: Infrastructure as .NET with the AWS CDK
+## WIN310: Infrastructure as .NET with the AWS CDK
 
 AWS Cloud Development Kit (AWS CDK) is an open-source framework that enables developers to harness the power of familiar programming languages to define reusable cloud components and provision applications with those components. In this session, we quickly cover the basic concepts of AWS CDK, then we live code an application with it in .NET. See how easy it is to configure your cloud resources, manage permissions, connect event sources for our serverless app, and even build and publish your own constructs.
 
-WIN313-R1: Design, migrate, and optimize SQL Server on AWS
+## WIN313-R1: Design, migrate, and optimize SQL Server on AWS
 
 In this session, we dive deep into best practices and considerations for running Microsoft SQL Server on AWS. Learn how to choose between Amazon Elastic Compute Cloud (Amazon EC2) and Amazon Relational Database Service (Amazon RDS), and understand how to optimize the performance of your SQL Server deployment for different application types. We review in detail how to provision and monitor your SQL Server databases and how to manage scalability, performance, availability, security, and backup and recovery in both Amazon RDS and Amazon EC2.
 
