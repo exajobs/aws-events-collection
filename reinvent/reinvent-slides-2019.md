@@ -3856,11 +3856,11 @@ Targeting customers with the right recommendations at the right moment is critic
 
 # Serverless
 
-SVS201-R2: Build a serverless web app for a theme park
+## SVS201-R2: Build a serverless web app for a theme park
 
 Innovator Island is a popular theme park that's rolling out a mobile app for thousands of visitors. The app provides wait times, photo opportunities, notification alerts, and language translation for visitors who need it. However, the lead developer has disappeared, and in this workshop, you're part of a development team that's assembling the pieces left behind. Learn and practice building a scalable serverless web app with limited development resources.
 
-SVS203-R1: Build a serverless ride-sharing web application
+## SVS203-R1: Build a serverless ride-sharing web application
 
 In this workshop, you deploy a simple web application that lets users request unicorn rides from the Wild Rydes fleet. The application presents users with an HTML-based user interface for indicating the location where they would like to be picked up and interfaces on the backend with a RESTful web service to submit the request and dispatch a nearby unicorn. The application also provides facilities for users to register with the service and log in before requesting rides.
 
@@ -4008,35 +4008,35 @@ SVS338-R2: API patterns and architectures: When and how to use RESTful and Graph
 
 In this chalk talk, we discuss the various options for building internet-facing APIs and microservices covering the semantics of RESTful and GraphQL API types. Learn how and when to use each, their pros and cons, and the core principles to follow when picking the right patterns for your next workload.
 
-SVS340-R1: Serverless image processing workflows at scale with AWS Step Functions
+## SVS340-R1: Serverless image processing workflows at scale with AWS Step Functions
 
 With AWS Lambda, you can write code to process images and files without provisioning servers. But at scale, how do you manage coordinating multiple parallel processing steps, catch errors and retry failures, and keep your code modular and maintainable? AWS Step Functions comes to the rescue! In this workshop, you will design and implement a distributed state machine to orchestrate a multi-step image recognition and processing workflow using AWS Rekognition and AWS Step Functions.
 
-SVS341-R1: An in-depth tour of AWS SAM
+## SVS341-R1: An in-depth tour of AWS SAM
 
 In this session, we take a tour of AWS Serverless Application Model (AWS SAM) and the AWS SAM CLI. We go beyond the surface of AWS SAM resources and AWS SAM CLI commands and show you how to use them to build quality applications. We cover customized application templates for sharing best practices in your organization, best practices for testing and deploying, IAM policy design, and more.
 
-SVS342-R1: Build machine learning applications with AWS Lambda & Amazon SageMaker
+## SVS342-R1: Build machine learning applications with AWS Lambda & Amazon SageMaker
 
 Layers. Lambda functions. Models and more! If you're curious about the best ways to scale your production modeling system with a serverless architecture that is fast, cheap, and easy to use, come to this chalk talk. Learn how Amazon SageMaker and AWS Lambda seamlessly integrate to deliver applications that let you deploy new models and feature engineering strategies quickly and painlessly, deepening your modeling portfolio while serving increasingly more intelligent models.
 
-SVS343-R1: Building microservices with AWS Lambda
+## SVS343-R1: Building microservices with AWS Lambda
 
 Many developers have become familiar with building microservices on traditional compute offerings such as virtual machines and containers, but what about serverless? The 'functions as a service' model behind AWS Lambda presents a number of unique differences while still providing many benefits that make it a strong fit for microservices-based architectures. In this session, we talk about mapping microservices-based architectures to Lambda's event model. You learn how to think about the bounds of functions and their alignment to the services represented. We then cover patterns that enable rapid development and easier testing. Walk away ready to build your next microservice with AWS Lambda.
 
-SVS344-R1: Building APIs designed to push data in real-time
+## SVS344-R1: Building APIs designed to push data in real-time
 
 Delivering data via APIs is a critical functionality for companies of all sizes and industries. In this chalk talk, learn about the successful architectural patterns (and anti-patterns) of building serverless APIs to deliver real-time information. We detail how to best use Amazon API Gateway, AWS Step Functions, Amazon Simple Notification Service (Amazon SNS), and AWS Lambda as building blocks to create such scalable, fault-tolerant, real-time push architectures.
 
-SVS401-R1: Optimizing your serverless applications
+## SVS401-R1: Optimizing your serverless applications
 
 Are you an experienced serverless developer? Do you want a handy guide for unleashing the full power of serverless architectures for your production workloads? Are you wondering whether to choose a stream or an API as your event source, or whether to have one function or many? In this session, we discuss architectural best practices, optimizations, and handy cheat codes that you can use to build secure, high-scale, high-performance serverless applications. We use real customer scenarios to illustrate the benefits.
 
-SVS402-R2: Building APIs from front to back
+## SVS402-R2: Building APIs from front to back
 
 APIs have become the norm for allowing applications to communicate with each other. On AWS, customers turn to Amazon API Gateway to build HTTP, REST, or WebSocket APIs, providing communication endpoints between services and clients. However, API Gateway can do much more. In this session, we demo setting up a REST API using API Gateway. We walk though configuring a simple Lambda-based backend and adding on capabilities around data modeling and validation, custom responses, and functionless integration with backend services. Learn about some of the advanced functionality that can be done at the API level before it ever hits your backend service.
 
-SVS403-R1: Best practices for AWS Lambda and Java
+## SVS403-R1: Best practices for AWS Lambda and Java
 
 In this session, we follow a customer's journey as they optimize an AWS Lambda function written in Java to meet their cold start time requirements. We start from a simple yet slow PoC and walk through all of the changes, tricks, and trade-offs we made to reduce the cold start time by over 70%. Finally, we explore new technologies such as Quarkus and GraalVM that can make Java even faster in Lambda.
 
@@ -4052,7 +4052,7 @@ Serverless computing allows you to build and run applications and services witho
 
 Waiting around for your workload to finish is expensive, and controlling the flow of traffic to protect your precious system is hard. AWS Lambda event invocations provide both an event-driven compute solution as well as an asynchronous traffic driver-but the 'asynchronous at scale' part is its own particular beast. In this session, learn how Lambda does asynchronous processing and best practices around using it. We also dive into key features to help you better monitor and control that asynchronous traffic.
 
-> SVS407-R2: Architecting and operating resilient serverless systems at scale
+## SVS407-R2: Architecting and operating resilient serverless systems at scale
 
 Overloading a software system occurs more often than expected, and the effects are difficult to deal with, including real-time web services halting and asynchronous systems building up backlogs. In this talk, we cover what AWS does to build reliable and resilient services, including avoiding modes and overload, performing bounded work, throttling at multiple layers, guarding concurrency, sending idempotent requests, applying backpressure and fairness in queueing, and performing shuffle sharding. We also discuss how separating concerns through service-oriented architectures helps reduce blast radius. As we explore these patterns, we discuss how they're embedded into the DNA of the AWS services that you use to build and operate serverless applications that are resilient to failure. We also discuss a number of AWS services, including AWS Lambda, Amazon API Gateway, AWS WAF, Amazon CloudWatch, and AWS X-Ray.
 
@@ -4097,21 +4097,21 @@ Join Vodafone UK's management and technology team to understand how AI is being 
 
 > In the Travel and Hospitality industry, competition and customer expectations are greater than ever. AWS is helping industry leaders stay relevant and gain a competitive edge by delivering guest experiences that delight customers. Hear how businesses in the industry are turning big data into actionable customer insights and are creating guest experiences that are both more connected and personal, all while saving time and money. No matter which part of the industry you touch, you walk away from this session with both inspiration and techniques to increase customer engagement and loyalty.
 
-TRH202: Personalizing customer experiences in Travel and Hospitality
+## TRH202: Personalizing customer experiences in Travel and Hospitality
 
 The Travel and Hospitality industry is extremely competitive, and customers expect a personalized experience at every touch point. From recommendations for the perfect meal to suggestions for the right hotel room, tailored experiences drive higher engagement and loyalty. In this session, you learn how companies, with the help of AWS, are transforming their businesses through personalization. We describe how machine learning, artificial intelligence, and other services can help you leverage data and insights to"wow" your consumers at every stage of their journeys. Walk away with tangible knowledge, whether you're looking to level-up your personalized offerings or you're just getting started.
 
-TRH301: Unlocking the potential of IoT in Travel and Hospitality
+## TRH301: Unlocking the potential of IoT in Travel and Hospitality
 
 The Internet of Things (IoT) is one of the technologies causing the most disruption in the Travel and Hospitality industry. This urgency, along with increased competition and higher customer expectations, has led the industry to be among the first movers with IoT. In this session, you learn how leading companies are using IoT to develop connected kitchen and hotel room experiences, airline bag tracking solutions, aircraft turn tracking, and more. Hear the latest advancements, and learn ways to apply this technology to improve your business outcomes.
 
-TRH302: Turn Travel and Hospitality call centers into profit centers
+## TRH302: Turn Travel and Hospitality call centers into profit centers
 
 Providing best-in-class customer service is essential for business success, and this is particularly true in the Travel and Hospitality industry. AWS, specifically the Amazon Connect service, makes it easy for any business to deliver better customer service at lower cost and has been widely adopted in the industry. In this session, you learn how you can successfully integrate your customer databases, loyalty systems, and reservation systems. You also hear how leading companies have turned the customer service function, long considered a cost center, into a profit center.
 
 # Windows & .NET
 
-WIN202-R1: How to cost-optimize your Microsoft workloads on AWS
+## WIN202-R1: How to cost-optimize your Microsoft workloads on AWS
 
 Learn how enterprises optimize Microsoft workloads on AWS for licensing, availability, and performance. We discuss ways to diversify and optimize your current licensing investments, how to think strategically about licensing in the cloud, and how to bring your own licenses to AWS. We also cover a variety of cost-optimization features and share real examples of how customers are applying these to Microsoft-specific workloads.
 
