@@ -3399,11 +3399,11 @@ Security groups make it easy for developers to control access to resources launc
 
 Whether you're selling millions of IoT devices to customers or deploying thousands to your own factories, protecting your IoT fleet can be a challenge. With AWS, you can quickly deploy, manage, and audit your devices' security posture consistently and continuously. In this builders session, learn how to securely deploy a provided IoT sensor with its own certificate, register the device with a simple function, and then audit the device's security posture against best practices. Each attendee should be an AWS IAM administrator and needs a laptop, an active AWS account, and a familiarity with core AWS services.
 
-SEC346-R3: Automating remediation of noncompliant configurations
+## SEC346-R3: Automating remediation of noncompliant configurations
 
 This builders session focuses on developing automation to immediately remediate issues and notify security teams of noncompliance to expected baselines through several simple yet powerful implementations of AWS Config and AWS Lambda. All attendees need a laptop, an active AWS Account, an AWS IAM Administrator, and a familiarity with core AWS services.
 
-SEC347-R3: DNS across a multi-account environment
+## SEC347-R3: DNS across a multi-account environment
 
 Many financial institutions are concerned about how data security issues can occur through overlooked foundational services in the cloud-for example, over DNS. In this builders session, learn how to engineer your DNS infrastructure across a multi-account environment to avoid accidental data leakage and guard against"DNS tunneling" while enabling access between your Amazon VPC and on-premises network without the need for dedicated DNS proxies. Please bring your laptop.
 
