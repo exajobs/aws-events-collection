@@ -19,7 +19,7 @@
 - [End User Computing & Business Apps](#end-user-computing--business-apps)
 - [Financial Services](#financial-services)
 - [Management Tools & Governance](#)
-- [Marketplace](#)
+- [Marketplace](#marketplace)
 - [Machine Learning](#)
 - [Mobile](#)
 - [Networking & Content Delivery](#)
