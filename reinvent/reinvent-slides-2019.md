@@ -28,7 +28,7 @@
 - [Open Source](#)
 - [Power & Utilities](#)
 - [Retail & Wholesale](#)
-- [Robotics](#)
+- [Robotics](#robotics)
 - [Security, Identity, Compliance](#security)
 - [Storage](#storage)
 - [Startup](#startup)
