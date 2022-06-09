@@ -1536,17 +1536,17 @@ DAT305-R1: Real-world use cases for Amazon DynamoDB
 
 Build (or test!) your DynamoDB chops in this chalk talk where we work together to design data models and solutions for real-world use cases using DynamoDB. Share your experiences and best practices, and ask questions of DynamoDB experts.
 
-DAT306-R2: Implement microservice architectures with Amazon DynamoDB & AWS Lambda 
+## DAT306-R2: Implement microservice architectures with Amazon DynamoDB & AWS Lambda 
 
-In this chalk talk, we start with building blocks for reliable event delivery in microservice architectures using Amazon DynamoDB and AWS Lambda. We then discuss how to use these building blocks to implement eventually consistent transactional behavior and support for querying using a Command Query Responsibility Segregation (CQRS) pattern in serverless microservices. Along the way, we discuss the trade-offs and benefits of event-driven designs over request/response designs, and we go into the details of tuning DynamoDB-based and Lambda-based reliable delivery and processing pipelines for scale, performance, and cost.
+>  In this chalk talk, we start with building blocks for reliable event delivery in microservice architectures using Amazon DynamoDB and AWS Lambda. We then discuss how to use these building blocks to implement eventually consistent transactional behavior and support for querying using a Command Query Responsibility Segregation (CQRS) pattern in serverless microservices. Along the way, we discuss the trade-offs and benefits of event-driven designs over request/response designs, and we go into the details of tuning DynamoDB-based and Lambda-based reliable delivery and processing pipelines for scale, performance, and cost.
 
-DAT308: Real case on boosting performance with Amazon ElastiCache for Redis 
+## DAT308: Real case on boosting performance with Amazon ElastiCache for Redis 
 
-In this session, we show you how to build a caching layer before your primary database to dramatically boost its performance. We walk through a real customer scenario, and we share the challenges, solutions, and best practices when using Amazon ElastiCache as a caching layer. We also dive deep into the ElastiCache Redis engine and explain the underlying functionality so you know how to use ElastiCache to better accelerate and scale your application.
+> In this session, we show you how to build a caching layer before your primary database to dramatically boost its performance. We walk through a real customer scenario, and we share the challenges, solutions, and best practices when using Amazon ElastiCache as a caching layer. We also dive deep into the ElastiCache Redis engine and explain the underlying functionality so you know how to use ElastiCache to better accelerate and scale your application.
 
-DAT309-R: Amazon Aurora storage demystified: How it all works   
+## DAT309-R: Amazon Aurora storage demystified: How it all works   
 
-Amazon Aurora is a high-performance, highly scalable database service with MySQL and PostgreSQL compatibility. One of its key components is an innovative storage system that is optimized for database workloads and specifically designed to take advantage of modern cloud technology. In this session, hear from the team that built Amazon Aurora's storage system about how the system is designed, how it works, and what you need to know to get the most out of it.
+> Amazon Aurora is a high-performance, highly scalable database service with MySQL and PostgreSQL compatibility. One of its key components is an innovative storage system that is optimized for database workloads and specifically designed to take advantage of modern cloud technology. In this session, hear from the team that built Amazon Aurora's storage system about how the system is designed, how it works, and what you need to know to get the most out of it.
 
 DAT309-R1: Amazon Aurora storage demystified: How it all works 
 
