@@ -2025,11 +2025,11 @@ Learn best practices to accelerate cloud adoption by upskilling and closing the 
 
 ## ENT218-R1: Executing a large-scale migration to AWS 
 
-AWS has partnered with hundreds of customers in their large-scale migration to the AWS Cloud. In this session, you will learn best practices from enterprises at different stages of their have faced during large-scale migrations and how they overcame them. You will also learn the patterns that make migrations successful and the mechanisms we created to help our customers migrate and transform faster.
+> AWS has partnered with hundreds of customers in their large-scale migration to the AWS Cloud. In this session, you will learn best practices from enterprises at different stages of their have faced during large-scale migrations and how they overcame them. You will also learn the patterns that make migrations successful and the mechanisms we created to help our customers migrate and transform faster.
 
 ## ENT219-R2: Iterating toward a cloud-enabled IT organization 
 
-Transforming your organization and its people to unlock the maximum value of running your business on AWS can be an overwhelming task. Platform teams, operations teams, and development teams have both technical and nontechnical challenges to consider. In this chalk talk, learn the Amazonian way of working, organizing, and enabling your cloud foundation team. You also learn how to organize your teams into a small number of two-pizza application teams. You can then iteratively scale the concepts used to build these initial teams to build a fully cloud-enabled IT organization.
+> Transforming your organization and its people to unlock the maximum value of running your business on AWS can be an overwhelming task. Platform teams, operations teams, and development teams have both technical and nontechnical challenges to consider. In this chalk talk, learn the Amazonian way of working, organizing, and enabling your cloud foundation team. You also learn how to organize your teams into a small number of two-pizza application teams. You can then iteratively scale the concepts used to build these initial teams to build a fully cloud-enabled IT organization.
 
 ## ENT220-R1: VMware Cloud on AWS for VDI Workloads 
 
@@ -2037,7 +2037,7 @@ Transforming your organization and its people to unlock the maximum value of run
 
 ## ENT221-R2: How to optimize TCO by bringing Microsoft licenses to AWS 
 
-In this session, we cover practical steps for cost-optimizing your Microsoft workloads on AWS from both licensing and infrastructure perspectives. We discuss ways to diversify and optimize your current licensing investments, how to think strategically about licensing in the cloud, and how to bring your own licenses to AWS. We also cover a variety of additional cost-optimization features and approaches, and we explain how these can be applied to Microsoft-specific workloads. Please bring your laptop.
+> In this session, we cover practical steps for cost-optimizing your Microsoft workloads on AWS from both licensing and infrastructure perspectives. We discuss ways to diversify and optimize your current licensing investments, how to think strategically about licensing in the cloud, and how to bring your own licenses to AWS. We also cover a variety of additional cost-optimization features and approaches, and we explain how these can be applied to Microsoft-specific workloads. Please bring your laptop.
 
 ## ENT224-R1: Amazon culture of innovation   
 
