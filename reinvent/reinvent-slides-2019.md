@@ -2820,13 +2820,13 @@ NET304-R1: Lambda@Edge best practices
 
 Are you using or planning to use Lambda@Edge in your web application? In this session, join our engineers to discuss Lambda@Edge best practices throughout the life cycle of your application; bring your questions. Topics include how to create the best Lambda@Edge design for your use case, how to read external data in your Lambda@Edge function in an efficient way, and how to integrate Lambda@Edge in your CI/CD pipeline.
 
-NET305-R1: Advanced VPC design and new capabilities for Amazon VPC
+## NET305-R1: Advanced VPC design and new capabilities for Amazon VPC
 
-Amazon Virtual Private Cloud (Amazon VPC) enables you to have complete control over your AWS virtual networking environment. Given this control, have you ever wondered how new Amazon VPC features might affect the way you design your AWS networking infrastructure, or even change existing architectures that you use today? In this session, we explore the new design and capabilities of Amazon VPC and how you might use them.
+> Amazon Virtual Private Cloud (Amazon VPC) enables you to have complete control over your AWS virtual networking environment. Given this control, have you ever wondered how new Amazon VPC features might affect the way you design your AWS networking infrastructure, or even change existing architectures that you use today? In this session, we explore the new design and capabilities of Amazon VPC and how you might use them.
 
-NET306-R1: Best practices for securing Amazon VPC
+## NET306-R1: Best practices for securing Amazon VPC
 
-In this interactive workshop, we provide practical advice and guidance for designing and building secure Amazon Virtual Private Clouds (Amazon VPCs). Using a hands-on approach, we review the basic Amazon VPC features such as subnets, security groups, flow logs, and routing. We then dive deeper and look at how to integrate Amazon VPC with other services, such as AWS Transit Gateway, AWS PrivateLink, AWS Systems Manager, Amazon Route 53, AWS WAF, and more. Throughout, we share best practices for Amazon VPC design and management based on our experience supporting customers running large-scale infrastructures.
+> In this interactive workshop, we provide practical advice and guidance for designing and building secure Amazon Virtual Private Clouds (Amazon VPCs). Using a hands-on approach, we review the basic Amazon VPC features such as subnets, security groups, flow logs, and routing. We then dive deeper and look at how to integrate Amazon VPC with other services, such as AWS Transit Gateway, AWS PrivateLink, AWS Systems Manager, Amazon Route 53, AWS WAF, and more. Throughout, we share best practices for Amazon VPC design and management based on our experience supporting customers running large-scale infrastructures.
 
 NET307-R1: Customizing content delivery with Lambda@Edge
 
