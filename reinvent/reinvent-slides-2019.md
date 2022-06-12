@@ -1858,7 +1858,7 @@ Join Ken Exner, GM of AWS Developer Tools, as he shares the state of developer t
 
 ## DOP307-S: Fast-track Kubernetes and platform rebuilds with observability 
 
-CLEAR uses your eyes and fingerprints to confirm your identity, helping you breeze through airports, stadiums, and more. To continue to scale up its core biometric matching engine, CLEAR rapidly rebuilt its system using Kubernetes and microservices. In this session, hear from Jeff Gelb, SVP of platform integrations and operations, and Ruslan Rusu, principal performance engineer, about how building with the principles of observability allowed CLEAR to accelerate development, improve performance, harden operations, tune costs, and move with confidence. This presentation is brought to you by SignalFx, an APN Partner.
+> CLEAR uses your eyes and fingerprints to confirm your identity, helping you breeze through airports, stadiums, and more. To continue to scale up its core biometric matching engine, CLEAR rapidly rebuilt its system using Kubernetes and microservices. In this session, hear from Jeff Gelb, SVP of platform integrations and operations, and Ruslan Rusu, principal performance engineer, about how building with the principles of observability allowed CLEAR to accelerate development, improve performance, harden operations, tune costs, and move with confidence. This presentation is brought to you by SignalFx, an APN Partner.
 
 ## DOP308-S: Building a culture of observability 
 
@@ -1892,13 +1892,13 @@ DOP319-R2: Building and deploying applications on AWS with Python
 
 In this session, hear from core developers of the AWS SDK for Python (Boto3) as we walk through the design of sample Python applications. We cover best practices in using Boto3 and look at other libraries to help build these applications, including AWS Chalice, a serverless microframework for Python. Additionally, we discuss testing and deployment strategies to manage the lifecycle of your applications.
 
-DOP320-R1: Strategies for securing code in the cloud and on premises   
+## DOP320-R1: Strategies for securing code in the cloud and on premises   
 
 Some people prefer to keep their code and tooling on premises, though this can create headaches and slow teams down. Others prefer keeping code off of laptops that can be misplaced. In this session, we walk through the alternatives and recommend best practices for securing your code in cloud and on-premises environments. We demonstrate how to use services such as Amazon WorkSpaces to keep code secure in the cloud. We also show how to connect tools such as Amazon Elastic Container Registry (Amazon ECR) and AWS CodeBuild with your on-premises environments so that your teams can go fast while keeping your data off of the public internet.
 
-DOP321: Migrating .NET frameworks to the cloud   
+## DOP321: Migrating .NET frameworks to the cloud   
 
-Learn how to migrate your .NET application to AWS with minimal steps. In this demo-heavy session, we share best practices for migrating a three-tiered application on ASP.NET and SQL Server to AWS. Throughout the process, you get to see how AWS Toolkit for Visual Studio can enable you to fully leverage AWS services such as AWS Elastic Beanstalk, modernizing your application for more agile and flexible development.
+> Learn how to migrate your .NET application to AWS with minimal steps. In this demo-heavy session, we share best practices for migrating a three-tiered application on ASP.NET and SQL Server to AWS. Throughout the process, you get to see how AWS Toolkit for Visual Studio can enable you to fully leverage AWS services such as AWS Elastic Beanstalk, modernizing your application for more agile and flexible development.
 
 DOP322-S: Continuous delivery to AWS with GitHub Actions 
 
