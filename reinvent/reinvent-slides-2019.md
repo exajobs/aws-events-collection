@@ -3589,15 +3589,15 @@ STG302-R1: Best practices for Amazon S3 (including storage classes) ft. Instruct
 
 Learn best practices for Amazon Simple Storage Service (Amazon S3) security, data protection, storage management, cost optimization, and more. In this session, we look at common Amazon S3 use cases and ways to manage large volumes of data within Amazon S3. Learn more about our latest feature enhancements and how you can get started with each of them. We also talk about ways to monitor and visualize your storage environment.
 
-STG302-R2: Best practices for Amazon S3 (including storage classes), ft. Thomson Reuters
+## STG302-R2: Best practices for Amazon S3 (including storage classes), ft. Thomson Reuters
 
 Learn best practices for Amazon Simple Storage Service (Amazon S3) security, data protection, storage management, cost optimization, and more. In this session, we look at common Amazon S3 use cases and ways to manage large volumes of data within Amazon S3. Learn more about our latest feature enhancements and how you can get started with each of them. We also talk about ways to monitor and visualize your storage environment. Further, hear how Thomson Reuters, one of the world's largest news agencies, with a constant requirement to ingest and distribute trusted breaking news globally, has achieved crucial collaboration and content sharing with the help of the cloud.
 
-STG303-R1: Deep dive on Amazon EBS
+## STG303-R1: Deep dive on Amazon EBS
 
-In this popular session, discover how Amazon Elastic Block Store (Amazon EBS) can optimize performance and costs for workloads on Amazon EC2, such as relational and nonrelational databases, enterprise applications, big data analytics engines, file systems, and media workflows. Learn about new capabilities with Amazon EBS, features and benefits, security techniques, and details about performance and volume types. The target audience includes security administrators, application developers, application owners, and operations personnel who build or manage application infrastructure or storage area networks (SANs).
+> In this popular session, discover how Amazon Elastic Block Store (Amazon EBS) can optimize performance and costs for workloads on Amazon EC2, such as relational and nonrelational databases, enterprise applications, big data analytics engines, file systems, and media workflows. Learn about new capabilities with Amazon EBS, features and benefits, security techniques, and details about performance and volume types. The target audience includes security administrators, application developers, application owners, and operations personnel who build or manage application infrastructure or storage area networks (SANs).
 
-STG304-R1: Network file system (NFS) evolved: Deep dive on Amazon EFS
+## STG304-R1: Network file system (NFS) evolved: Deep dive on Amazon EFS
 
 In this session, we explore the world's first cloud-scale file system and its targeted use cases. Learn about Amazon Elastic File System (Amazon EFS) features and benefits, how to identify applications that are appropriate for use with Amazon EFS, and details about the service's performance and security models. The target audience is security administrators, application developers, application owners, and infrastructure operations personnel who build or operate file-based applications or NAS.
 
@@ -4225,17 +4225,17 @@ Want to learn about your options for running Microsoft Active Directory on AWS? 
 
 ## WIN406-R1: Build multi-region SQL Server Always On availability groups
 
-Multi-region SQL Server database configurations offer the benefits of both high availability and disaster recovery. Join us for this builders session, where you learn how to design and deploy SQL Server in a multi-region architecture on AWS and perform the configuration of a multi-region SQL Server Always On availability group that spans AWS regions. Please bring a laptop (and charger) for the hands-on exercises.
+>  Multi-region SQL Server database configurations offer the benefits of both high availability and disaster recovery. Join us for this builders session, where you learn how to design and deploy SQL Server in a multi-region architecture on AWS and perform the configuration of a multi-region SQL Server Always On availability group that spans AWS regions. Please bring a laptop (and charger) for the hands-on exercises.
 
 ## WIN407-R1: Performance tune SQL Server using AWS Machine Learning
 
-When you are running critical database workloads on SQL Server it's vital that SQL Server is configured for optimal performance. In this builders session, we outline an approach for how to perform deep inspection of the workloads running on SQL Server and tune configuration settings to match the workload's performance needs. We develop a model to query dynamic management views and leverage machine learning to help tune SQL Server. Please bring a laptop (and charger) for the hands-on exercises. Please bring your laptop.
+> When you are running critical database workloads on SQL Server it's vital that SQL Server is configured for optimal performance. In this builders session, we outline an approach for how to perform deep inspection of the workloads running on SQL Server and tune configuration settings to match the workload's performance needs. We develop a model to query dynamic management views and leverage machine learning to help tune SQL Server. Please bring a laptop (and charger) for the hands-on exercises. Please bring your laptop.
 
 # Public Sector
 
 ## WPS201: A tale of two IT modernization strategies
 
-Join us to learn how government agencies are using AWS GovCloud (US) to achieve data center consolidation and optimization goals, and to support IT modernization. This session features the United States' Department of Justice's Bureau of Alcohol, Tobacco, Firearms and Explosives and the Veterans Affairs Enterprise Cloud program. We examine these organizations' unique journeys through enterprise data center consolidation, and how these efforts are influencing application modernization and database management strategies. Topics include database re-platforming, refactoring legacy applications, compliance, technical strategies, implementation, and running operations in the cloud.
+> Join us to learn how government agencies are using AWS GovCloud (US) to achieve data center consolidation and optimization goals, and to support IT modernization. This session features the United States' Department of Justice's Bureau of Alcohol, Tobacco, Firearms and Explosives and the Veterans Affairs Enterprise Cloud program. We examine these organizations' unique journeys through enterprise data center consolidation, and how these efforts are influencing application modernization and database management strategies. Topics include database re-platforming, refactoring legacy applications, compliance, technical strategies, implementation, and running operations in the cloud.
 
 ## WPS203: AWS Educate: Innovation in education
 
@@ -4243,11 +4243,11 @@ Join us for four ten-minute powerful lightning talks from leading higher-educati
 
 ## WPS301-R1: Security automation using open source and AWS for NIST workloads
 
-Wazuh is a free open-source and enterprise-ready security-monitoring solution for threat detection, integrity monitoring, incident response and compliance. Combining the AWS NIST Compliance Quick Start and Wazuh creates a NIST reference architecture for continuous risk treatment for public sector organizations. In this session, you will deploy the reference architecture via AWS CloudFormation, work with a sample account to receive alerts, and remediate threats in real time. Please bring your laptop.
+> Wazuh is a free open-source and enterprise-ready security-monitoring solution for threat detection, integrity monitoring, incident response and compliance. Combining the AWS NIST Compliance Quick Start and Wazuh creates a NIST reference architecture for continuous risk treatment for public sector organizations. In this session, you will deploy the reference architecture via AWS CloudFormation, work with a sample account to receive alerts, and remediate threats in real time. Please bring your laptop.
 
 ## WPS304: Pushing Amazon RDS to the limit
 
-Is Amazon EC2 the only option for your legacy customized Oracle DB on AWS? Want to move your legacy Oracle database on AWS but aren't sure that Amazon Relational Database Service (Amazon RDS) can handle the custom developments you have on top of your business-critical database? In this session, learn how you can leverage Amazon Oracle RDS to accommodate specifics of your legacy database in the cloud. We also discuss when and how to choose between Amazon EC2 and Amazon RDS, outline remediation and migration steps for Amazon RDS, and share practice-proven experience from providing FTP and SMTP from Amazon RDS.
+> Is Amazon EC2 the only option for your legacy customized Oracle DB on AWS? Want to move your legacy Oracle database on AWS but aren't sure that Amazon Relational Database Service (Amazon RDS) can handle the custom developments you have on top of your business-critical database? In this session, learn how you can leverage Amazon Oracle RDS to accommodate specifics of your legacy database in the cloud. We also discuss when and how to choose between Amazon EC2 and Amazon RDS, outline remediation and migration steps for Amazon RDS, and share practice-proven experience from providing FTP and SMTP from Amazon RDS.
 
 ## WPS305: Building your geospatial data lake
 
