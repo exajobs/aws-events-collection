@@ -1492,13 +1492,13 @@ DAT209-L: Leadership session: AWS purpose-built databases
 
 In this session, Shawn Bice, VP of databases, discusses the AWS purpose-built database strategy and explains why your application should drive the requirements for which database(s) to use, not the other way around. Learn about the purpose of each AWS database service and how AWS customers are using purpose-built databases to build some of the most scalable applications on the planet. If you are a technology or engineering leader and you're trying to understand how to modernize your data strategy, this session is for you. We discuss using various approaches for new application development, lifting-and-shifting to managed services, and refactoring monolithic database architectures to use purpose-built databases.
 
-DAT212-L: Leadership session: Database and analytics   
+## DAT212-L: Leadership session: Database and analytics   
 
-We're witnessing an unprecedented growth in the amount of data collected and stored in the cloud. Generating insights from this data requires database and analytics services that scale and perform in ways not possible before. AWS offers a broad set of database and analytics services for processing, storing, managing, and analyzing all your data. In this session, we provide an overview of the database and analytics services at AWS, new services and features that we launched this year, how customers are using these services, and our vision for continued innovation in this space.
+> We're witnessing an unprecedented growth in the amount of data collected and stored in the cloud. Generating insights from this data requires database and analytics services that scale and perform in ways not possible before. AWS offers a broad set of database and analytics services for processing, storing, managing, and analyzing all your data. In this session, we provide an overview of the database and analytics services at AWS, new services and features that we launched this year, how customers are using these services, and our vision for continued innovation in this space.
 
-DAT214: Automation framework to migrate relational databases 
+## DAT214: Automation framework to migrate relational databases 
 
-AWS Database Migration Service (AWS DMS) is used to migrate production workloads to the cloud. With AWS DMS you can do a full load and replicate ongoing changes to keep databases in sync. In this session, we utilize services such as AWS CodePipeline, AWS CodeBuild, and AWS Lambda to automate manual steps in the migration process using Oracle as the source and Amazon Aurora PostgreSQL as the target. By the end of the session, you know how to integrate these services to save time during migrations and automate the process.
+> AWS Database Migration Service (AWS DMS) is used to migrate production workloads to the cloud. With AWS DMS you can do a full load and replicate ongoing changes to keep databases in sync. In this session, we utilize services such as AWS CodePipeline, AWS CodeBuild, and AWS Lambda to automate manual steps in the migration process using Oracle as the source and Amazon Aurora PostgreSQL as the target. By the end of the session, you know how to integrate these services to save time during migrations and automate the process.
 
 DAT215-R1: Build high-performing apps on Amazon Aurora Serverless with RDS Data API 
 
