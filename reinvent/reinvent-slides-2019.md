@@ -21,7 +21,7 @@
 - [Management Tools & Governance](#)
 - [Marketplace](#marketplace)
 - [Machine Learning](#machine-learning)
-- [Mobile](#)
+- [Mobile](#mobile)
 - [Networking & Content Delivery](#)
 - [Netflix](#)
 - [Oil & Gas](#)
@@ -3557,35 +3557,35 @@ Learn hands-on how to deploy the file gateway configuration of the AWS Storage G
 
 Amazon Simple Storage Service (Amazon S3) supports many automated features to help save on storage time and costs. There are some things that customers can avoid to maximize their resources and optimize performance. In this builders session, Amazon S3 experts provide hands-on guidance on optimizing throughputs for large Amazon S3 objects, request rates for small Amazon S3 objects, and data transfers to Amazon S3 over long distances. All attendees should have an AWS account and be able to perform basic Linux commands. Please bring your laptop.
 
-STG230-R2: Creating and running your first job in Amazon S3 batch operations
+## STG230-R2: Creating and running your first job in Amazon S3 batch operations
 
 Come to this session and experience the power of Amazon Simple Storage Service (Amazon S3) batch operations as you perform actions across millions of Amazon S3 objects with just a few simple requests or a single request. Please bring your laptop.
 
-STG236-S: Ensure AWS data recoverability, featuring MassMutual & Boston Scientific
+## STG236-S: Ensure AWS data recoverability, featuring MassMutual & Boston Scientific
 
 According to recent studies, 84 percent of cloud administrators assume that the cloud provider is responsible for backing up cloud data. But the truth is that data protection is a matter of administration. In this session, we show you how MassMutual and Boston Scientific optimized their data protection by recovery SLA, retention period, and granular and at-scale recovery. We also show you how they protected against ransomware and other threats. Finally, we discuss opportunities and options in regulatory compliance, and we share best practices for exploring the variety of data protection options that Veritas makes available to AWS customers like these. This presentation is brought to you by Veritas Technologies, an APN Partner.
 
-STG237-S: Learn how GMI achieves high performance for its databases
+## STG237-S: Learn how GMI achieves high performance for its databases
 
 The cloud has made it possible to process massive amounts of data at scale. When it comes to big data sets, human genomic projects are considered to be some of the largest in the world. In this session, we explore how GMI, a leading genomics research company, is running multiple studies to advance development for disease treatment. You learn how the company used fast, reliable on-premises connectivity to cloud storage for quick upload of large data sets to shorten the time required to process each sequence. Additionally, you discover how GMI used NetApp persistent shared storage and Amazon EC2 Spot Instances to achieve cost savings of up to 90 percent. This presentation is brought to you by NetApp, an APN Partner.
 
-STG238: Deep dive: File storage for business-critical applications
+## STG238: Deep dive: File storage for business-critical applications
 
 Want to learn how to easily take advantage of cloud-native services for existing file-based applications? In this session, we explore how you can use AWS services to easily and cost-effectively load, store, and protect your file-based workloads in the cloud. We dive deep into native features of services such as Amazon EFS-specifically, lifecycle management and provisioned throughput for Linux workloads-and native Active Directory integration for Amazon FSx for Windows File Server, we review how to configure backups with AWS Backup and other storage services, and we show you how to quickly migrate your datasets to the cloud using AWS DataSync and AWS Snowball..
 
-STG239-S: Intuit delivers cloud services to drive customer satisfaction
+## STG239-S: Intuit delivers cloud services to drive customer satisfaction
 
 In this session, learn about Intuit's best practices for moving financial data securely and streamlining data management. Hear from Justin Stottlemyer, director and distinguished engineer at Intuit, about his experience moving critical data quickly using NetApp Cloud Sync. Discover how Intuit uses NetApp Cloud Volumes Service to run its file ingestion service with fast performance and with the required SLA delivered. Plus, learn how Intuit architected and used Amazon EBS, Amazon S3, and AWS Transit Gateway with NetApp Cloud Volumes ONTAP to provide multiprotocol storage services with multiple Availability Zones, high availability, and multi-regional disaster recovery for over 3,400 AWS accounts. This presentation is brought to you by NetApp, an APN Partner.
 
-STG301-R3: Deep dive on Amazon S3 security and management
+## STG301-R3: Deep dive on Amazon S3 security and management
 
 Learn best practices for data security in Amazon Simple Storage Service (Amazon S3). In this session, we discuss the fundamentals of Amazon S3 security architecture and dive deep into the latest enhancements in usability and functionality. We also investigate options for encryption, access control, security monitoring, auditing, and remediation.
 
-STG302-R: Best practices for Amazon S3 (including storage classes)
+## STG302-R: Best practices for Amazon S3 (including storage classes)
 
 Learn best practices for Amazon Simple Storage Service (Amazon S3) security, data protection, storage management, cost optimization, and more. In this session, we look at common Amazon S3 use cases and ways to manage large volumes of data within Amazon S3. Learn more about our latest feature enhancements and how you can get started with each of them. We also talk about ways to monitor and visualize your storage environment.
 
-STG302-R1: Best practices for Amazon S3 (including storage classes) ft. Instructure
+## STG302-R1: Best practices for Amazon S3 (including storage classes) ft. Instructure
 
 Learn best practices for Amazon Simple Storage Service (Amazon S3) security, data protection, storage management, cost optimization, and more. In this session, we look at common Amazon S3 use cases and ways to manage large volumes of data within Amazon S3. Learn more about our latest feature enhancements and how you can get started with each of them. We also talk about ways to monitor and visualize your storage environment.
 
