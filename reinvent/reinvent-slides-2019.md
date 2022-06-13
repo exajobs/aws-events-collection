@@ -3351,7 +3351,7 @@ SEC331-R1: Using AWS Service Catalog tools to govern multi-region environments
 
 With open-source tools that AWS has developed to complement AWS Service Catalog, you can orchestrate the provisioning of AWS resources across your organization to enforce security constraints and guardrails. In this session, learn how to build and deploy products as we work through challenges faced by customers who would like to provision AWS resources across large AWS estates with fine-grained security controls. We look at how the AWS Service Catalog tools can help you solve some of these challenges by enabling you to create, share, and provision products and by permitting self-service for users with security guardrails in place.
 
-SEC333-R1: Protect distributed web apps: AWS WAF & AWS Firewall Manager
+## SEC333-R1: Protect distributed web apps: AWS WAF & AWS Firewall Manager
 
 Web application firewalls (WAFs) give developers an added layer of protection and allow them to block unwanted traffic that would otherwise reach the application. Security administrators use WAFs to minimize the attack surface of an application, enforce compliance, and hot-patch zero-day external threats. In this chalk talk, learn how to use AWS WAF and AWS Firewall Manager to standardize web application security across many accounts and resources. Further, learn how security administrators can use these services to define and enforce baseline web application security across scaled applications while giving developers the freedom to write and manage their own rules.
 
@@ -3379,9 +3379,9 @@ SEC340-R1: Using AWS KMS for data protection, access control, and audit
 
 This session focuses on how customers are using AWS Key Management Service (AWS KMS) to raise the bar for security and compliance with their workloads. Along with a detailed explanation of how AWS KMS fits into the AWS suite of services, we walk you through popular and sophisticated examples of how AWS KMS can be deployed in the context of access control, separation of duties, data protection, and auditability. We also cover the latest developments in AWS KMS functionality that will further expand the range of use cases to include additional cryptographic capabilities and system integrations.
 
-SEC341-R1: Set permission guardrails for multiple accounts in AWS Organizations
+## SEC341-R1: Set permission guardrails for multiple accounts in AWS Organizations
 
-AWS Organizations provides central governance and management for multiple accounts. Central security administrators use service control policies (SCPs) with Organizations to establish controls that all AWS Identity and Access Management (IAM) principals (users and roles) adhere to. For example, you can use SCPs to restrict access to specific AWS Regions or prevent your IAM principals from deleting common resources, such as an IAM role used by your central administrators. You can also define exceptions to your governance controls, restricting service actions for all IAM entities (users, roles, and root) in the account except a specific administrator role.
+> AWS Organizations provides central governance and management for multiple accounts. Central security administrators use service control policies (SCPs) with Organizations to establish controls that all AWS Identity and Access Management (IAM) principals (users and roles) adhere to. For example, you can use SCPs to restrict access to specific AWS Regions or prevent your IAM principals from deleting common resources, such as an IAM role used by your central administrators. You can also define exceptions to your governance controls, restricting service actions for all IAM entities (users, roles, and root) in the account except a specific administrator role.
 
 ## SEC342-R1: Use AWS Security Hub to act on your compliance and security posture
 
