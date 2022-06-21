@@ -2848,49 +2848,49 @@ NET312: How the BBC uses Lambda@Edge to customize device pages
 
 BBC iPlayer is a multi-team department, bringing the best of the BBC's offering to millions of people every day. The launch team is responsible for providing server-side-generated HTML, XHTML, and CE-HTML thousands of times a second to more than 300 different devices. Rather than computing each page at request-time (as was done previously), Lambda@Edge allows the BBC iPlayer team to identify an incoming device by its user-agent and provide a specific page stored in Amazon S3. Lambda@Edge allows the team to serve these requests much faster and without the need to manage a fleet of EC2 instances.
 
-NET313: Maintaining security and availability on the unpredictable internet
+## NET313: Maintaining security and availability on the unpredictable internet
 
-With billions of internet users worldwide, maintaining up-time and a strong security posture is critical to earning your customers' trust. Unexpected fiber cuts, malicious hackers, and the latest viral sensations create internet inconsistencies that can bring down any web application. For many, the first line of defense is Amazon CloudFront, a content delivery network (CDN) designed for availability, security, and performance. In this session, learn how CloudFront engineering teams provide the highest levels of availability and security. We look at what happens behind the scenes when our operators are paged into action to resolve common issues across the internet.
+> With billions of internet users worldwide, maintaining up-time and a strong security posture is critical to earning your customers' trust. Unexpected fiber cuts, malicious hackers, and the latest viral sensations create internet inconsistencies that can bring down any web application. For many, the first line of defense is Amazon CloudFront, a content delivery network (CDN) designed for availability, security, and performance. In this session, learn how CloudFront engineering teams provide the highest levels of availability and security. We look at what happens behind the scenes when our operators are paged into action to resolve common issues across the internet.
 
-NET314-R5: Use AWS Transit Gateway to interconnect multi-account VPCs
+## NET314-R5: Use AWS Transit Gateway to interconnect multi-account VPCs
 
-In this builders session, we share an AWS Transit Gateway among the participants and establish a multi-account transit topology. We also build VPN connections to on-premises appliances that will be shared by all these accounts. Come to learn and get hands-on with AWS Transit Gateway capabilities. Please bring your laptop.
+> In this builders session, we share an AWS Transit Gateway among the participants and establish a multi-account transit topology. We also build VPN connections to on-premises appliances that will be shared by all these accounts. Come to learn and get hands-on with AWS Transit Gateway capabilities. Please bring your laptop.
 
-NET315-R4: AWS Direct Connect with AWS Transit Gateway
+## NET315-R4: AWS Direct Connect with AWS Transit Gateway
 
-In this builders session, we discuss, demonstrate, and get hands-on connecting AWS Transit Gateway with AWS Direct Connect. Come see how these features integrate and work across accounts and with multiple regions. Please bring your laptop.
+> In this builders session, we discuss, demonstrate, and get hands-on connecting AWS Transit Gateway with AWS Direct Connect. Come see how these features integrate and work across accounts and with multiple regions. Please bring your laptop.
 
-NET317-R1: Connectivity to AWS and hybrid AWS network architectures
+## NET317-R1: Connectivity to AWS and hybrid AWS network architectures
 
-Amazon offers multiple options to achieve your connectivity requirements to access your resources in AWS. Whether you are connecting your corporate office or on-premises data center into AWS for hybrid connectivity or your personal device for end-user connectivity, AWS has many options for you to pick and choose. This session is intended for anyone wanting to get an overview of the AWS connectivity options available to you and learn about the best practices for architecting your connectivity to AWS.
+> Amazon offers multiple options to achieve your connectivity requirements to access your resources in AWS. Whether you are connecting your corporate office or on-premises data center into AWS for hybrid connectivity or your personal device for end-user connectivity, AWS has many options for you to pick and choose. This session is intended for anyone wanting to get an overview of the AWS connectivity options available to you and learn about the best practices for architecting your connectivity to AWS.
 
-NET318-R1: Building highly available applications using Global Accelerator
+## NET318-R1: Building highly available applications using Global Accelerator
 
-In this session, you learn how to build highly available and performant architectures for your applications with AWS Global Accelerator, a service that enables you to manage multi-regional endpoints using global static IP addresses anycast from the AWS edge network. We dive into the Global Accelerator architecture and explain how the service provides global resiliency by isolating cross-customer impact and mitigating different failure modes, such as host-level failures, site-level failures, software defects, and anycast shifts.
+> In this session, you learn how to build highly available and performant architectures for your applications with AWS Global Accelerator, a service that enables you to manage multi-regional endpoints using global static IP addresses anycast from the AWS edge network. We dive into the Global Accelerator architecture and explain how the service provides global resiliency by isolating cross-customer impact and mitigating different failure modes, such as host-level failures, site-level failures, software defects, and anycast shifts.
 
-NET320-R1: The right AWS network architecture for the right reason
+## NET320-R1: The right AWS network architecture for the right reason
 
-The unlimited choices that technology provides can be empowering to builders who understand what they want to build and how to build it. But some get overwhelmed when trying to decide on architectural constructs that appear to solve the same problem. Should I use VPC peering or AWS Transit Gateway? Is Shared VPC a better fit for my Amazon EKS deployment? In this talk, two solutions architects discuss how to identify the right solutions for the right reasons, how architectural decisions might change based on the scale of a workload, and how one size does not fit all design patterns.
+> The unlimited choices that technology provides can be empowering to builders who understand what they want to build and how to build it. But some get overwhelmed when trying to decide on architectural constructs that appear to solve the same problem. Should I use VPC peering or AWS Transit Gateway? Is Shared VPC a better fit for my Amazon EKS deployment? In this talk, two solutions architects discuss how to identify the right solutions for the right reasons, how architectural decisions might change based on the scale of a workload, and how one size does not fit all design patterns.
 
-NET321: AWS PrivateLink deployments: DNS mechanisms for routing & resiliency
+## NET321: AWS PrivateLink deployments: DNS mechanisms for routing & resiliency
 
-Looking to consume AWS PrivateLink-enabled services from on premises? In this session, we provide you with guidance on how DNS mechanisms can be used to route traffic as well as build resiliency for your connections into PrivateLink-enabled services in the Amazon Virtual Private Cloud (Amazon VPC) infrastructure.
+> Looking to consume AWS PrivateLink-enabled services from on premises? In this session, we provide you with guidance on how DNS mechanisms can be used to route traffic as well as build resiliency for your connections into PrivateLink-enabled services in the Amazon Virtual Private Cloud (Amazon VPC) infrastructure.
 
-NET333-R2: Building hybrid architectures with AWS Transit Gateway, AWS Direct Connect, and VPNs
+## NET333-R2: Building hybrid architectures with AWS Transit Gateway, AWS Direct Connect, and VPNs
 
-Questions often arise about building hybrid architectures at scale and best practices for doing so. This session includes a brief overview of how packets move through Amazon Virtual Private Cloud (Amazon VPC), AWS Direct Connect, and VPN with a focus on routing tables. This leads us into a Q&A for the remainder of the chalk talk around designing hybrid architectures with DX, VPN, and AWS Transit Gateway, where we show you the best way to build using these foundational services.
+> Questions often arise about building hybrid architectures at scale and best practices for doing so. This session includes a brief overview of how packets move through Amazon Virtual Private Cloud (Amazon VPC), AWS Direct Connect, and VPN with a focus on routing tables. This leads us into a Q&A for the remainder of the chalk talk around designing hybrid architectures with DX, VPN, and AWS Transit Gateway, where we show you the best way to build using these foundational services.
 
-NET334-R1: Designing hybrid connectivity for VMware Cloud on AWS
+## NET334-R1: Designing hybrid connectivity for VMware Cloud on AWS
 
-This session covers network design approaches for VMware Cloud on AWS with best practices to build connectivity to customer VPCs, native AWS services, and on-premises data centers using AWS Transit Gateway, AWS Direct Connect, and VPN.
+> This session covers network design approaches for VMware Cloud on AWS with best practices to build connectivity to customer VPCs, native AWS services, and on-premises data centers using AWS Transit Gateway, AWS Direct Connect, and VPN.
 
-NET335-R1: Cloud networking for the on-premises network engineer
+## NET335-R1: Cloud networking for the on-premises network engineer
 
-Find out how to translate the on-premises networking world into the cloud language. Embrace the culture of DevOps and infrastructure as code to speed up your network operations. Discover how to avoid pitfalls with centralized firewall deployments in the cloud.
+> Find out how to translate the on-premises networking world into the cloud language. Embrace the culture of DevOps and infrastructure as code to speed up your network operations. Discover how to avoid pitfalls with centralized firewall deployments in the cloud.
 
-NET337: Common deployment models with Amazon CloudFront & Lambda@Edge
+## NET337: Common deployment models with Amazon CloudFront & Lambda@Edge
 
-Changing your web application will affect how users respond to your website. For instance, you may see higher conversion rates or a decrease in time that a user spends on a web page. Before committing to these changes, you'll want to test and sample how users respond. In this chalk talk, our Amazon CloudFront engineering team discusses common deployment techniques, such as A/B testing and blue-green transitions, as well as automating software releases in a CI/CD pipeline with Amazon CloudFront and Lambda@Edge.
+> Changing your web application will affect how users respond to your website. For instance, you may see higher conversion rates or a decrease in time that a user spends on a web page. Before committing to these changes, you'll want to test and sample how users respond. In this chalk talk, our Amazon CloudFront engineering team discusses common deployment techniques, such as A/B testing and blue-green transitions, as well as automating software releases in a CI/CD pipeline with Amazon CloudFront and Lambda@Edge.
 
 NET338: Bring your WordPress site to life with speed, security & text-to-speech
 
