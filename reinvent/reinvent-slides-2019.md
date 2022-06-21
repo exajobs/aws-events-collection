@@ -3952,21 +3952,21 @@ SVS321-R2: AWS Lambda layers deep dive
 
 AWS Lambda layers and runtime API let developers publish and share libraries and runtimes that are compatible with Lambda. Using layers allows separation of concerns. Publishers can build reliable, hardened software and share it as Lambda layers for other AWS developers to consume. Application developers can consume one or more layers in their functions, letting them focus on writing business logic. The Lambda runtime API codifies the runtime-calling conventions and integration points of a Lambda-compatible runtime. In this session, you learn best practices for designing, using, and sharing Lambda layers to make your serverless app more robust while writing less code.
 
-SVS323-R1: Mastering AWS Lambda streaming event sources
+## SVS323-R1: Mastering AWS Lambda streaming event sources
 
-In this session, we dive into the details of consuming Amazon DynamoDB Streams and Amazon Kinesis Data Streams with Lambda. We walk through common architecture patterns, and we discuss the different scaling options for DynamoDB and how they affect the stream. We then talk through Kinesis scaling and explain enhanced fan-out and when it is useful. We conclude by discussing reliability, management, monitoring, and what to do when something goes wrong.
+> In this session, we dive into the details of consuming Amazon DynamoDB Streams and Amazon Kinesis Data Streams with Lambda. We walk through common architecture patterns, and we discuss the different scaling options for DynamoDB and how they affect the stream. We then talk through Kinesis scaling and explain enhanced fan-out and when it is useful. We conclude by discussing reliability, management, monitoring, and what to do when something goes wrong.
 
-SVS324-R1: Managing independent microservices behind Amazon API Gateway
+## SVS324-R1: Managing independent microservices behind Amazon API Gateway
 
-Customers want a clean, unified API. However, decoupled microservices with independent engineering teams are a best practice. How do you reconcile the two? In this session, we discuss the design patterns and considerations for balancing independence and ease of management, and how to minimize the blast radius for multiple microservices-powered by both AWS Lambda and Amazon ECS-behind Amazon API Gateway.
+> Customers want a clean, unified API. However, decoupled microservices with independent engineering teams are a best practice. How do you reconcile the two? In this session, we discuss the design patterns and considerations for balancing independence and ease of management, and how to minimize the blast radius for multiple microservices-powered by both AWS Lambda and Amazon ECS-behind Amazon API Gateway.
 
-SVS325-R2: Serverless big data processing
+## SVS325-R2: Serverless big data processing
 
-In this chalk talk, we discuss several architectural patterns for using AWS Lambda at scale within big data use cases. We walk through big data processing with Lambda functions, partitioning data using Lambda, and transforming data using Lambda functions. But when is Lambda the right choice? We also cover the pros and cons of using Lambda compared with other tools, such as Amazon EMR and AWS Glue, giving you an overview of all the tools at your disposal to process big data using serverless.
+> In this chalk talk, we discuss several architectural patterns for using AWS Lambda at scale within big data use cases. We walk through big data processing with Lambda functions, partitioning data using Lambda, and transforming data using Lambda functions. But when is Lambda the right choice? We also cover the pros and cons of using Lambda compared with other tools, such as Amazon EMR and AWS Glue, giving you an overview of all the tools at your disposal to process big data using serverless.
 
-SVS326-R1: Pipelining AWS Lambda asynchronous invocations
+## SVS326-R1: Pipelining AWS Lambda asynchronous invocations
 
-AWS Lambda asynchronous invocations allow you to benefit from all the goodness that is fire-and-forget. But what if you wanted to do some extra stuff when that invoke finally is run? Join us to talk about how you can handle common use cases in a simpler way by connecting pieces together with AWS Lambda asynchronous invoke.
+> AWS Lambda asynchronous invocations allow you to benefit from all the goodness that is fire-and-forget. But what if you wanted to do some extra stuff when that invoke finally is run? Join us to talk about how you can handle common use cases in a simpler way by connecting pieces together with AWS Lambda asynchronous invoke.
 
 SVS327-R4: Build serverless APIs with the AWS CDK
 
