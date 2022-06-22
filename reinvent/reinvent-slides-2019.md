@@ -3896,17 +3896,17 @@ SVS222-R2: Streamline AWS Lambda development with Lambda layers
 
 Learn how to use AWS Lambda layers to streamline serverless development, leverage libraries, and share code between teams. We showcase how Lambda layers can help you build more powerful serverless applications while improving the development experience for you and your team. Please bring your laptop.
 
-SVS223-R1: Finding a home for your data in your serverless app
+## SVS223-R1: Finding a home for your data in your serverless app
 
-Where should your data live? Amazon Relational Database Service (Amazon RDS)? Amazon DynamoDB? Amazon Simple Storage Service (Amazon S3)? This decision has large implications on your overall serverless application architecture, performance, and cost. In this session, we look at all of the data options available to serverless developers and explain the benefits and downsides of each. By the end of the session, you'll understand how to make the most of each data store option in your next serverless app.
+> Where should your data live? Amazon Relational Database Service (Amazon RDS)? Amazon DynamoDB? Amazon Simple Storage Service (Amazon S3)? This decision has large implications on your overall serverless application architecture, performance, and cost. In this session, we look at all of the data options available to serverless developers and explain the benefits and downsides of each. By the end of the session, you'll understand how to make the most of each data store option in your next serverless app.
 
-SVS224-R3: AWS Lambda function performance tuning
+## SVS224-R3: AWS Lambda function performance tuning
 
-All AWS Lambda functions are not created equal. Learn the best practices for tuning memory, runtime, initialization, concurrency, and more, in a data-driven way, to squeeze every drop of performance out of Lambda functions. By the end of this session, you'll understand the key Lambda performance knobs you can turn to make the most of your functions for your workload.
+> All AWS Lambda functions are not created equal. Learn the best practices for tuning memory, runtime, initialization, concurrency, and more, in a data-driven way, to squeeze every drop of performance out of Lambda functions. By the end of this session, you'll understand the key Lambda performance knobs you can turn to make the most of your functions for your workload.
 
-SVS226: From prototype to org-wide serverless adoption: Key considerations
+## SVS226: From prototype to org-wide serverless adoption: Key considerations
 
-You heard about the benefits of serverless and are intrigued. Maybe your team even put together a small prototype in a tenth of the time and half the budget. Moving from hype to production, though, will require extra scrutiny. Learn about best practices around serverless security, performance, cost, data management, CI/CD, tooling, and team organization that enable teams to adopt serverless microservices and deliver innovative projects on time and under budget.
+> You heard about the benefits of serverless and are intrigued. Maybe your team even put together a small prototype in a tenth of the time and half the budget. Moving from hype to production, though, will require extra scrutiny. Learn about best practices around serverless security, performance, cost, data management, CI/CD, tooling, and team organization that enable teams to adopt serverless microservices and deliver innovative projects on time and under budget.
 
 SVS227-S: Delivering agility at McDonald's with microservices transformation
 
