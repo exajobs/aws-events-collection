@@ -551,15 +551,15 @@ Building production-ready streaming applications can be complex, and maintaining
 
 ## ANT408-R1: Amazon ES sizing and capacity planning 
 
-How many instances? How many shards? What can I monitor? Whether you're new to Amazon Elasticsearch Service (Amazon ES) or a veteran, you need to understand where to start with capacity planning and how to adjust based on monitoring your domain. In this session, we address all of your questions on sizing, explaining the drivers and key metrics along the way.
+> How many instances? How many shards? What can I monitor? Whether you're new to Amazon Elasticsearch Service (Amazon ES) or a veteran, you need to understand where to start with capacity planning and how to adjust based on monitoring your domain. In this session, we address all of your questions on sizing, explaining the drivers and key metrics along the way.
 
 ## ANT409-R1: Getting started with streaming data and Amazon Kinesis 
 
-In this session, we walk through how to build a simple, end-to-end streaming architecture using Amazon Kinesis and AWS Lambda. We cover how continuous, serverless processing works, and the best practices for taking a simple app and getting it into production. Please bring your laptop.
+> In this session, we walk through how to build a simple, end-to-end streaming architecture using Amazon Kinesis and AWS Lambda. We cover how continuous, serverless processing works, and the best practices for taking a simple app and getting it into production. Please bring your laptop.
 
 ## ANT411-R1: Learn how to make ETL and ELT easy with Amazon Redshift 
 
-Loading data into your data warehouse quickly and reliably is a big pain point for many organizations. In this session, we show you how to generate the schema for your semi-structured data; create ETL code to transform, flatten, and enrich the data; and load it into Amazon Redshift on a recurring basis. You learn best practices to make your data pipeline performant and efficient. Please bring your laptop.
+> Loading data into your data warehouse quickly and reliably is a big pain point for many organizations. In this session, we show you how to generate the schema for your semi-structured data; create ETL code to transform, flatten, and enrich the data; and load it into Amazon Redshift on a recurring basis. You learn best practices to make your data pipeline performant and efficient. Please bring your laptop.
 
 ## ANT412-R1: Modernize your data warehouse with Amazon Redshift 
 
