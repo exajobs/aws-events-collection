@@ -308,15 +308,15 @@ In this workshop, we explore the new AWS Predictive Maintenance Using Machine Le
 
 ## AIM361-R1: [NEW LAUNCH!] Optimizing Your Machine Learning Models on Amazon SageMaker 
 
-In this code-level workshop, you'll learn how to use hyperparameter optimization (HPO) and AutoML on Amazon SageMaker, in order to quickly and easily build highly accurate machine learning models. Using a real-life dataset, you'll first use HPO to tune models built with the popular XGBoost algorithm. Then, you'll use the newly released AutoML capability in Amazon SageMaker to automatically figure out the algorithm, the parameters, and the data preprocessing steps. Finally, you'll use HPO again to perform architecture search on a Keras neural network. Prerequisites: familiarity with Python, Jupyter, Amazon SageMaker and basic machine learning concepts.
+> In this code-level workshop, you'll learn how to use hyperparameter optimization (HPO) and AutoML on Amazon SageMaker, in order to quickly and easily build highly accurate machine learning models. Using a real-life dataset, you'll first use HPO to tune models built with the popular XGBoost algorithm. Then, you'll use the newly released AutoML capability in Amazon SageMaker to automatically figure out the algorithm, the parameters, and the data preprocessing steps. Finally, you'll use HPO again to perform architecture search on a Keras neural network. Prerequisites: familiarity with Python, Jupyter, Amazon SageMaker and basic machine learning concepts.
 
 ## AIM362-R1: [NEW LAUNCH!] Build, train & debug, and deploy & monitor with Amazon SageMaker 
 
-Amazon SageMaker is a fully managed service that removes the heavy lifting from each step of the machine learning (ML) workflow and provides every developer and data scientist with the ability to build, train, and deploy ML models quickly. In this interactive workshop, we work on the different aspects of the ML workflow to build, train, and deploy a model using all the capabilities of Amazon SageMaker, including the ones that we announced at re:Invent this week. We use Amazon SageMaker to build and share notebooks, train and debug models with Amazon SageMaker Debugger, and deploy and monitor with Amazon SageMaker Model Monitor. Let's build together!
+> Amazon SageMaker is a fully managed service that removes the heavy lifting from each step of the machine learning (ML) workflow and provides every developer and data scientist with the ability to build, train, and deploy ML models quickly. In this interactive workshop, we work on the different aspects of the ML workflow to build, train, and deploy a model using all the capabilities of Amazon SageMaker, including the ones that we announced at re:Invent this week. We use Amazon SageMaker to build and share notebooks, train and debug models with Amazon SageMaker Debugger, and deploy and monitor with Amazon SageMaker Model Monitor. Let's build together!
 
 ## AIM363: How to use NLP for domain-specific data 
 
-Market segments like finance, insurance, or manufacturing all have documents and data that are very specific to their business. In this chalk talk, we discuss how you can utilize Amazon Comprehend custom entity recognition and classification, and AutoML features, to build state-of-the-art custom models to extract domain-specific terms and classifiers completely automatically.
+> Market segments like finance, insurance, or manufacturing all have documents and data that are very specific to their business. In this chalk talk, we discuss how you can utilize Amazon Comprehend custom entity recognition and classification, and AutoML features, to build state-of-the-art custom models to extract domain-specific terms and classifiers completely automatically.
 
 ## AIM364: How to deploy Amazon SageMaker to data science teams 
 
@@ -356,19 +356,19 @@ Market segments like finance, insurance, or manufacturing all have documents and
 
 ## AIM404-R1: Amazon SageMaker RL: Solving business problems with RL and bandits 
 
-In reinforcement learning (RL), an RL agent learns in an interactive environment by trial and error using feedback from its own actions, and can make sophisticated multi-step decisions. As a result, RL has broad applicability in robotics, industrial control, finance, HVAC, dialog systems, online advertising, and more. This workshop provides practitioners with hands-on experience building and deploying RL agents from scratch. We use examples from two scenarios: one where the environment can be simulated (computer games, resource allocation simulators, etc.) and one where it cannot be and the agent learns in a live environment (recommender systems, trading bots, etc.).
+> In reinforcement learning (RL), an RL agent learns in an interactive environment by trial and error using feedback from its own actions, and can make sophisticated multi-step decisions. As a result, RL has broad applicability in robotics, industrial control, finance, HVAC, dialog systems, online advertising, and more. This workshop provides practitioners with hands-on experience building and deploying RL agents from scratch. We use examples from two scenarios: one where the environment can be simulated (computer games, resource allocation simulators, etc.) and one where it cannot be and the agent learns in a live environment (recommender systems, trading bots, etc.).
 
 ## AIM405: Optimize deep learning models for edge deployments with AWS DeepLens 
 
-In this workshop, learn how to optimize your computer vision pipelines for edge deployments with AWS DeepLens and Amazon SageMaker Neo. Also learn how to build a sample object detection model with Amazon SageMaker and deploy it to AWS DeepLens. Finally, learn how to optimize your deep learning models and code to achieve faster performance for use cases where speed matters.
+> In this workshop, learn how to optimize your computer vision pipelines for edge deployments with AWS DeepLens and Amazon SageMaker Neo. Also learn how to build a sample object detection model with Amazon SageMaker and deploy it to AWS DeepLens. Finally, learn how to optimize your deep learning models and code to achieve faster performance for use cases where speed matters.
 
 ## AIM407-R1: Amazon SageMaker and PyTorch: Tips & tricks 
 
-With support for PyTorch in Amazon SageMaker, you have a flexible deep learning framework combined with a fully managed machine learning solution to transition seamlessly from research prototyping to production deployment. In this builders session, learn how to build, train, and deploy PyTorch deep learning models in Amazon SageMaker. Please bring your laptop.
+> With support for PyTorch in Amazon SageMaker, you have a flexible deep learning framework combined with a fully managed machine learning solution to transition seamlessly from research prototyping to production deployment. In this builders session, learn how to build, train, and deploy PyTorch deep learning models in Amazon SageMaker. Please bring your laptop.
 
 ## AIM409-R1: Amazon SageMaker: Bring your own framework 
 
-In this builders session, we show you how to set up your own machine learning environments and workflows on Amazon SageMaker together with AWS Deep Learning AMIs. First we explain how to use the prepackaged, optimized Amazon Machine Images (AMIs). Then we show you how to use these custom environments on Amazon SageMaker using AWS Deep Learning Containers, which provide Docker images preinstalled and tested with popular deep learning frameworks, so you can skip the complicated process of building and optimizing your environments from scratch. Come away understanding how to integrate custom algorithms into Amazon SageMaker. Please bring your laptop.
+> In this builders session, we show you how to set up your own machine learning environments and workflows on Amazon SageMaker together with AWS Deep Learning AMIs. First we explain how to use the prepackaged, optimized Amazon Machine Images (AMIs). Then we show you how to use these custom environments on Amazon SageMaker using AWS Deep Learning Containers, which provide Docker images preinstalled and tested with popular deep learning frameworks, so you can skip the complicated process of building and optimizing your environments from scratch. Come away understanding how to integrate custom algorithms into Amazon SageMaker. Please bring your laptop.
 
 ## AIM410-R: Deep learning applications with TensorFlow, featuring Mobileye   
 
