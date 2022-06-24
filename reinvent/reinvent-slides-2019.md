@@ -292,19 +292,19 @@ ALERTWildfire is a camera-based network infrastructure that captures satellite i
 
 ## AIM357: Build an ETL pipeline to analyze customer data 
 
-Machine learning involves more than just training models; you need to source and prepare data, engineer features, select algorithms, train and tune models, and then deploy those models and monitor their performance in production. Learn how to set up an ETL pipeline to analyze customer data using Amazon SageMaker, AWS Glue, and AWS Step Functions.
+> Machine learning involves more than just training models; you need to source and prepare data, engineer features, select algorithms, train and tune models, and then deploy those models and monitor their performance in production. Learn how to set up an ETL pipeline to analyze customer data using Amazon SageMaker, AWS Glue, and AWS Step Functions.
 
 ## AIM358: Prepare data for ML using Amazon SageMaker 
 
-High-quality datasets are the foundation of machine learning. In this chalk talk, we explain how to use Amazon SageMaker to prepare data. We show you how to create data inference pipelines so you can pass raw input data and execute preprocessing, predictions, and post-processing on real-time and batch inference requests. We also show you how to build data processing and feature engineering pipelines with a suite of feature transformers available in the SparkML and Scikit-learn framework containers in Amazon SageMaker.
+> High-quality datasets are the foundation of machine learning. In this chalk talk, we explain how to use Amazon SageMaker to prepare data. We show you how to create data inference pipelines so you can pass raw input data and execute preprocessing, predictions, and post-processing on real-time and batch inference requests. We also show you how to build data processing and feature engineering pipelines with a suite of feature transformers available in the SparkML and Scikit-learn framework containers in Amazon SageMaker.
 
 ## AIM359-R1: Build a fraud detection system with Amazon SageMaker 
 
-In this workshop, we will explore the new AWS Fraud Detection Solution. We show you how to build, train, and deploy a fraud detection machine learning model. The fraud detection model recognizes fraud patterns, and is self-learning which enables it to adapt to new, unknown fraud patterns. We will show you how to execute automated transaction processing, and how to the Fraud Detection solution flags that activity for review. The solution comes with an implementation guide and accompanying AWS CloudFormation template.
+> In this workshop, we will explore the new AWS Fraud Detection Solution. We show you how to build, train, and deploy a fraud detection machine learning model. The fraud detection model recognizes fraud patterns, and is self-learning which enables it to adapt to new, unknown fraud patterns. We will show you how to execute automated transaction processing, and how to the Fraud Detection solution flags that activity for review. The solution comes with an implementation guide and accompanying AWS CloudFormation template.
 
 ## AIM360: Build a predictive maintenance system with Amazon SageMaker 
 
-In this workshop, we explore the new AWS Predictive Maintenance Using Machine Learning solution. This solution deploys a machine learning model and an example dataset of turbofan degradation simulation data to train the model to recognize potential equipment failures. You can use this solution to automate the detection of potential equipment failures and provide recommended actions to take. We walk through the solution's implementation guide and accompanying AWS CloudFormation template.
+> In this workshop, we explore the new AWS Predictive Maintenance Using Machine Learning solution. This solution deploys a machine learning model and an example dataset of turbofan degradation simulation data to train the model to recognize potential equipment failures. You can use this solution to automate the detection of potential equipment failures and provide recommended actions to take. We walk through the solution's implementation guide and accompanying AWS CloudFormation template.
 
 ## AIM361-R1: [NEW LAUNCH!] Optimizing Your Machine Learning Models on Amazon SageMaker 
 
@@ -372,7 +372,7 @@ In this workshop, we explore the new AWS Predictive Maintenance Using Machine Le
 
 ## AIM410-R: Deep learning applications with TensorFlow, featuring Mobileye   
 
-TensorFlow is one of several open-source deep learning frameworks used in machine learning development that is currently popular among developers. But it can be challenging to scale TensorFlow model training and inference. Amazon SageMaker provides several features that solve these challenges. In this session, learn about these features, including distributed training, cost-effective inference, and workflow management. Then, hear from Mobileye, an Intel company focused on developing and delivering driving assist and autonomous vehicles solutions, about how they migrated their training workloads to Amazon SageMaker to reduce development cycle time from weeks to days.
+> TensorFlow is one of several open-source deep learning frameworks used in machine learning development that is currently popular among developers. But it can be challenging to scale TensorFlow model training and inference. Amazon SageMaker provides several features that solve these challenges. In this session, learn about these features, including distributed training, cost-effective inference, and workflow management. Then, hear from Mobileye, an Intel company focused on developing and delivering driving assist and autonomous vehicles solutions, about how they migrated their training workloads to Amazon SageMaker to reduce development cycle time from weeks to days.
 
 ## AIM410-R1: Deep learning applications with TensorFlow, featuring Fannie Mae 
 
@@ -380,11 +380,11 @@ TensorFlow is one of several currently popular open-source deep learning framewo
 
 ## AIM411-R1: Deep learning applications using Apache MXNet   
 
-The Apache MXNet deep learning framework is used for developing, training, and deploying diverse artificial intelligence (AI) applications, including computer vision, speech recognition, and natural language processing (NLP). In this session, learn how to develop deep learning models with MXNet on Amazon SageMaker. Hear from the BBC about how it built a BERT-based NLP application to allow its website users to find relevant clips from recorded shows. We use the BBC's NLP application to demonstrate how to leverage MXNet's GluonNLP library to quickly build, train, and deploy deep learning models.
+> The Apache MXNet deep learning framework is used for developing, training, and deploying diverse artificial intelligence (AI) applications, including computer vision, speech recognition, and natural language processing (NLP). In this session, learn how to develop deep learning models with MXNet on Amazon SageMaker. Hear from the BBC about how it built a BERT-based NLP application to allow its website users to find relevant clips from recorded shows. We use the BBC's NLP application to demonstrate how to leverage MXNet's GluonNLP library to quickly build, train, and deploy deep learning models.
 
 ## AIM412-R: Deep learning applications using PyTorch, featuring Autodesk   
 
-With support for PyTorch in Amazon SageMaker, you have a flexible deep learning framework combined with a fully managed machine learning solution to transition seamlessly from research prototyping to production deployment. In this session, hear from the PyTorch team on the latest features and library releases. Also learn how to develop with PyTorch using Amazon SageMaker for key use cases such as using a BERT model for natural language processing (NLP) and instance segmentation for fine-grain computer vision. Lastly, take away best practices from Autodesk based on its experience with PyTorch on Amazon SageMaker for a range of NLP use cases.
+> With support for PyTorch in Amazon SageMaker, you have a flexible deep learning framework combined with a fully managed machine learning solution to transition seamlessly from research prototyping to production deployment. In this session, hear from the PyTorch team on the latest features and library releases. Also learn how to develop with PyTorch using Amazon SageMaker for key use cases such as using a BERT model for natural language processing (NLP) and instance segmentation for fine-grain computer vision. Lastly, take away best practices from Autodesk based on its experience with PyTorch on Amazon SageMaker for a range of NLP use cases.
 
 ## AIM412-R1: Deep learning applications with PyTorch, featuring Freshworks 
 
@@ -1486,11 +1486,11 @@ Amazon Relational Database Service (Amazon RDS) is a fully managed database serv
 
 DAT208: Supercharge your real-time apps with Amazon ElastiCache   
 
-With the rapid growth in cloud adoption and the new scenarios that it empowers, applications need microsecond latency and high throughput to support millions of requests per second. Developers have traditionally relied on specialized hardware and workarounds, such as disk-based databases combined with data reduction techniques, to manage data for real-time applications. These approaches can be expensive and not scalable. Learn how you can boost the performance of real-time applications by using the fully managed, in-memory Amazon ElastiCache for extreme performance, high scalability, availability, and security.
+> With the rapid growth in cloud adoption and the new scenarios that it empowers, applications need microsecond latency and high throughput to support millions of requests per second. Developers have traditionally relied on specialized hardware and workarounds, such as disk-based databases combined with data reduction techniques, to manage data for real-time applications. These approaches can be expensive and not scalable. Learn how you can boost the performance of real-time applications by using the fully managed, in-memory Amazon ElastiCache for extreme performance, high scalability, availability, and security.
 
 DAT209-L: Leadership session: AWS purpose-built databases   
 
-In this session, Shawn Bice, VP of databases, discusses the AWS purpose-built database strategy and explains why your application should drive the requirements for which database(s) to use, not the other way around. Learn about the purpose of each AWS database service and how AWS customers are using purpose-built databases to build some of the most scalable applications on the planet. If you are a technology or engineering leader and you're trying to understand how to modernize your data strategy, this session is for you. We discuss using various approaches for new application development, lifting-and-shifting to managed services, and refactoring monolithic database architectures to use purpose-built databases.
+> In this session, Shawn Bice, VP of databases, discusses the AWS purpose-built database strategy and explains why your application should drive the requirements for which database(s) to use, not the other way around. Learn about the purpose of each AWS database service and how AWS customers are using purpose-built databases to build some of the most scalable applications on the planet. If you are a technology or engineering leader and you're trying to understand how to modernize your data strategy, this session is for you. We discuss using various approaches for new application development, lifting-and-shifting to managed services, and refactoring monolithic database architectures to use purpose-built databases.
 
 ## DAT212-L: Leadership session: Database and analytics   
 
@@ -1510,17 +1510,17 @@ Amazon Relational Database Service (Amazon RDS) makes it easy to set up, operate
 
 DAT217-R2: Build on Amazon RDS for PostgreSQL 
 
-Amazon Relational Database Service (Amazon RDS) makes it easy to set up, operate, and scale a relational database in the cloud. Amazon RDS supports six popular database engines. In this session, get started with Amazon RDS for PostgreSQL or discuss your existing application running on Amazon RDS for PostgreSQL, and learn about recently announced features. Please bring your laptop.
+> Amazon Relational Database Service (Amazon RDS) makes it easy to set up, operate, and scale a relational database in the cloud. Amazon RDS supports six popular database engines. In this session, get started with Amazon RDS for PostgreSQL or discuss your existing application running on Amazon RDS for PostgreSQL, and learn about recently announced features. Please bring your laptop.
 
-DAT218-R3: Build on Amazon RDS for Oracle 
+## DAT218-R3: Build on Amazon RDS for Oracle 
 
-Amazon Relational Database Service (Amazon RDS) makes it easy to set up, operate, and scale a relational database in the cloud. Amazon RDS supports six popular database engines. In this session, get started with Amazon RDS for Oracle or discuss your existing application running on Amazon RDS for Oracle, and learn about recently announced features.
+> Amazon Relational Database Service (Amazon RDS) makes it easy to set up, operate, and scale a relational database in the cloud. Amazon RDS supports six popular database engines. In this session, get started with Amazon RDS for Oracle or discuss your existing application running on Amazon RDS for Oracle, and learn about recently announced features.
 
-DAT220: Real-world customer use cases with Amazon Neptune   
+## DAT220: Real-world customer use cases with Amazon Neptune   
 
 Why do you need a graph database? In this session, we deep dive into the use cases of Amazon Neptune. You hear from Uber and NBCUniversal about how they have deployed highly scalable graph solutions with Neptune. This session also covers the companies' design decisions, the lessons they learned, and their experiences with this service.
 
-DAT221-S: From RDS to SAP, protect your cloud databases the right way   
+## DAT221-S: From RDS to SAP, protect your cloud databases the right way   
 
 Most business-critical applications rely on databases. Whether you have a new serverless cloud application, a database that is using Amazon RDS, or a high-transaction application using SAP HANA over hybrid cloud architecture, these databases need to be backed up, protected, and quickly recovered. Legacy backup solutions that were built for on-premises environments don't quite cut it for today's cloud workloads, while cloud snapshots can quickly become a burden to manage. Learn how to automate the backup of your cloud databases and provide fast and reliable recovery options when needed using Cohesity's modern data management software. This presentation is brought to you by Cohesity, an APN Partner.
 
