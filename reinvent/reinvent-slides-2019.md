@@ -400,11 +400,11 @@ TensorFlow is one of several currently popular open-source deep learning framewo
 
 ## AIM415-R1: Build fraud detection systems with Amazon SageMaker 
 
-Fraud is an expensive problem that can damage customer trust. Many companies use a rule-based approach to detect fraudulent activity. But implementing and maintaining rules can be a complex process because fraud is constantly evolving, rules require that fraud patterns be known, and rules can lead to false positives or negatives. In this session, learn how machine learning (ML) can provide a more flexible approach. We dive deep on an ML solution using Amazon SageMaker, where the ML models don't use rules. Instead, they're trained to recognize fraud patterns, and they're self-learning, enabling them to adapt.
+> Fraud is an expensive problem that can damage customer trust. Many companies use a rule-based approach to detect fraudulent activity. But implementing and maintaining rules can be a complex process because fraud is constantly evolving, rules require that fraud patterns be known, and rules can lead to false positives or negatives. In this session, learn how machine learning (ML) can provide a more flexible approach. We dive deep on an ML solution using Amazon SageMaker, where the ML models don't use rules. Instead, they're trained to recognize fraud patterns, and they're self-learning, enabling them to adapt.
 
 ## AIM416: Deploy an ML model on the cloud and at the edge 
 
-In this workshop, learn how to use Amazon SageMaker Neo deep learning compiler to compile your trained TensorFlow models and deploy them on the cloud or on edge devices using AWS IoT Greengrass. Learn how Neo deep learning compiler optimizes the trained models by improving efficiency and reducing the memory footprint of the compiled model and how Neo runtime abstracts the underlying hardware and allows running a compiled model on the target hardware platform. Explore how to reduce your inference costs by up to 75 percent using Amazon Elastic Inference to attach elastic GPU acceleration to your Amazon SageMaker instances.
+> In this workshop, learn how to use Amazon SageMaker Neo deep learning compiler to compile your trained TensorFlow models and deploy them on the cloud or on edge devices using AWS IoT Greengrass. Learn how Neo deep learning compiler optimizes the trained models by improving efficiency and reducing the memory footprint of the compiled model and how Neo runtime abstracts the underlying hardware and allows running a compiled model on the target hardware platform. Explore how to reduce your inference costs by up to 75 percent using Amazon Elastic Inference to attach elastic GPU acceleration to your Amazon SageMaker instances.
 
 ## AIM417: Reinforcement learning with Amazon SageMaker 
 
