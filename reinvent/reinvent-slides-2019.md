@@ -1440,55 +1440,55 @@ Different Kubernetes users have different requirements for their cluster network
 
 ## CON413-R1: Move your machine learning workloads to Amazon EKS 
 
-With the increased importance of machine learning (ML) and artificial intelligence (AI), companies are assembling dedicated ML teams and looking to move their ML infrastructure to Amazon Elastic Kubernetes Service (Amazon EKS). In this session, we discuss the principles and technical challenges in moving ML workloads to Kubernetes. We share popular community solutions, such as Kubeflow, as well as common performance challenges and bottlenecks when running ML workloads at scale on Kubernetes. In addition, we provide an update on the EKS team's efforts in infrastructure, platform areas, such as Kubeflow support, GPU cost optimization, distributed training, and large-scale data preprocessing on EKS.
+> With the increased importance of machine learning (ML) and artificial intelligence (AI), companies are assembling dedicated ML teams and looking to move their ML infrastructure to Amazon Elastic Kubernetes Service (Amazon EKS). In this session, we discuss the principles and technical challenges in moving ML workloads to Kubernetes. We share popular community solutions, such as Kubeflow, as well as common performance challenges and bottlenecks when running ML workloads at scale on Kubernetes. In addition, we provide an update on the EKS team's efforts in infrastructure, platform areas, such as Kubeflow support, GPU cost optimization, distributed training, and large-scale data preprocessing on EKS.
 
 ## CON414-R3: Security best practices for AWS Fargate 
 
-In this session, we highlight several of the recommendations for container security on AWS Fargate. You learn about using a private registry and securing the cluster and your services. We also discuss network security basics and security monitoring using AWS solutions. Please bring your laptop.
+> In this session, we highlight several of the recommendations for container security on AWS Fargate. You learn about using a private registry and securing the cluster and your services. We also discuss network security basics and security monitoring using AWS solutions. Please bring your laptop.
 
 ## CON415-R3: Auto scale Kubernetes workload by GPU 
 
-In this session, we add a GPU-enabled node group to an Amazon EKS cluster built with eksctl and show you how to automatically scale your workload based on the GPUs available in the cluster. Please bring your laptop.
+> In this session, we add a GPU-enabled node group to an Amazon EKS cluster built with eksctl and show you how to automatically scale your workload based on the GPUs available in the cluster. Please bring your laptop.
 
 ## CON417-R3: Live debug microservice running on Kubernetes cluster 
 
-In this session, we give an overview of different options to debug microservices running on Amazon Elastic Kubernetes Service (Amazon EKS) clusters. We go over remote debugging configuration and the 'pod swap' technique, where you can debug local processes 'running' on remote Amazon EKS clusters (without a need to build an image and redeploy the service). Please bring your laptop.
+> In this session, we give an overview of different options to debug microservices running on Amazon Elastic Kubernetes Service (Amazon EKS) clusters. We go over remote debugging configuration and the 'pod swap' technique, where you can debug local processes 'running' on remote Amazon EKS clusters (without a need to build an image and redeploy the service). Please bring your laptop.
 
 ## CON418-R3: Deep dive: Kubernetes auto scaling 
 
-In this session, we take a deeper look at Kubernetes HPA, VPA, and various custom metrics depending on the workload. We also perform a live demo of Kubernetes Cluster Autoscaler on AWS. Please bring your laptop.
+> In this session, we take a deeper look at Kubernetes HPA, VPA, and various custom metrics depending on the workload. We also perform a live demo of Kubernetes Cluster Autoscaler on AWS. Please bring your laptop.
 
 ## CON421-R1: Amazon EKS under the hood   
 
-Kubernetes allows you to run containerized workloads and services using declarative configuration and automation. Amazon Elastic Kubernetes Service (Amazon EKS) is a managed service that makes it easy to run Kubernetes on AWS without needing to stand up or maintain your own Kubernetes clusters. Amazon EKS takes care of the undifferentiated heavy lifting around securing, patching, qualifying, and upgrading Kubernetes clusters. Join us for a look under the hood at how Amazon EKS manages Kubernetes at scale. We also discuss some of the key design decisions in building out the infrastructure to manage one of the industry's fastest-growing open-source projects.
+> Kubernetes allows you to run containerized workloads and services using declarative configuration and automation. Amazon Elastic Kubernetes Service (Amazon EKS) is a managed service that makes it easy to run Kubernetes on AWS without needing to stand up or maintain your own Kubernetes clusters. Amazon EKS takes care of the undifferentiated heavy lifting around securing, patching, qualifying, and upgrading Kubernetes clusters. Join us for a look under the hood at how Amazon EKS manages Kubernetes at scale. We also discuss some of the key design decisions in building out the infrastructure to manage one of the industry's fastest-growing open-source projects.
 
 ## CON423-R1: AWS Fargate under the hood   
 
-AWS Fargate is a completely serverless, container-native compute experience on AWS. Fargate doesn't require users to provision, scale, and manage any servers. Under the hood of Fargate, there is a sophisticated architecture where AWS is innovating both vertically to build a container-optimized virtualization platform and horizontally to build the right integrations with surrounding AWS services to take care of undifferentiated heavy lifting for the developer. In this session, learn from senior engineers how AWS Fargate is designed to deliver a scalable, secure, serverless developer experience with containers.
+> AWS Fargate is a completely serverless, container-native compute experience on AWS. Fargate doesn't require users to provision, scale, and manage any servers. Under the hood of Fargate, there is a sophisticated architecture where AWS is innovating both vertically to build a container-optimized virtualization platform and horizontally to build the right integrations with surrounding AWS services to take care of undifferentiated heavy lifting for the developer. In this session, learn from senior engineers how AWS Fargate is designed to deliver a scalable, secure, serverless developer experience with containers.
 
 ## CON424-R3: Using Amazon CloudWatch Container Insights to monitor your microservices 
 
-In this session, we explore using Amazon CloudWatch Container Insights to monitor, analyze, and scale your Amazon ECS workloads and microservices. You learn through a guided tutorial how to enable an ECS cluster for Container Insights and set up infrastructure to enrich your DevOps processes on both AWS Fargate and Amazon EC2. Please bring your laptop.
+> In this session, we explore using Amazon CloudWatch Container Insights to monitor, analyze, and scale your Amazon ECS workloads and microservices. You learn through a guided tutorial how to enable an ECS cluster for Container Insights and set up infrastructure to enrich your DevOps processes on both AWS Fargate and Amazon EC2. Please bring your laptop.
 
 ## Databases
 
-DAT202-R1: What's new in Amazon Aurora   
+## DAT202-R1: What's new in Amazon Aurora   
 
-Amazon Aurora is a MySQL- and PostgreSQL-compatible relational database with the speed, reliability, and availability of commercial databases at one-tenth the cost. In this session you get an overview of Aurora, including recently announced features, such as serverless, multi-master, and performance insights. We also help you get started using Aurora.
+> Amazon Aurora is a MySQL- and PostgreSQL-compatible relational database with the speed, reliability, and availability of commercial databases at one-tenth the cost. In this session you get an overview of Aurora, including recently announced features, such as serverless, multi-master, and performance insights. We also help you get started using Aurora.
 
-DAT205: How Verizon Media implemented push notification using Amazon DynamoDB   
+## DAT205: How Verizon Media implemented push notification using Amazon DynamoDB   
 
-Verizon Media had to create a better, stronger, and faster push notification system to serve the requirements of iconic Verizon brands, fulfill push notification completion time of 27 million devices in under three minutes, and consistently show the push 'toast' on all users' lock screens. Verizon decided to use Amazon DynamoDB and other AWS services such as Amazon ElastiCache and Amazon SQS in conjunction with its own Vespa search engine to power all the use cases of its brands. It also uses Kubernetes to orchestrate microservices across many Amazon EC2 instances. Join this session to learn how Verizon has been able to accomplish all of this.
+> Verizon Media had to create a better, stronger, and faster push notification system to serve the requirements of iconic Verizon brands, fulfill push notification completion time of 27 million devices in under three minutes, and consistently show the push 'toast' on all users' lock screens. Verizon decided to use Amazon DynamoDB and other AWS services such as Amazon ElastiCache and Amazon SQS in conjunction with its own Vespa search engine to power all the use cases of its brands. It also uses Kubernetes to orchestrate microservices across many Amazon EC2 instances. Join this session to learn how Verizon has been able to accomplish all of this.
 
-DAT207-R2: What's new in Amazon RDS   
+## DAT207-R2: What's new in Amazon RDS   
 
-Amazon Relational Database Service (Amazon RDS) is a fully managed database service that allows you to launch an optimally configured, secure, and highly available database with just a few clicks. It manages time-consuming database administration tasks, freeing you to focus on your applications and business. In this session, we look at all of the new capabilities launched for Amazon RDS across different engines and review the latest features available.
+> Amazon Relational Database Service (Amazon RDS) is a fully managed database service that allows you to launch an optimally configured, secure, and highly available database with just a few clicks. It manages time-consuming database administration tasks, freeing you to focus on your applications and business. In this session, we look at all of the new capabilities launched for Amazon RDS across different engines and review the latest features available.
 
-DAT208: Supercharge your real-time apps with Amazon ElastiCache   
+## DAT208: Supercharge your real-time apps with Amazon ElastiCache   
 
 > With the rapid growth in cloud adoption and the new scenarios that it empowers, applications need microsecond latency and high throughput to support millions of requests per second. Developers have traditionally relied on specialized hardware and workarounds, such as disk-based databases combined with data reduction techniques, to manage data for real-time applications. These approaches can be expensive and not scalable. Learn how you can boost the performance of real-time applications by using the fully managed, in-memory Amazon ElastiCache for extreme performance, high scalability, availability, and security.
 
-DAT209-L: Leadership session: AWS purpose-built databases   
+## DAT209-L: Leadership session: AWS purpose-built databases   
 
 > In this session, Shawn Bice, VP of databases, discusses the AWS purpose-built database strategy and explains why your application should drive the requirements for which database(s) to use, not the other way around. Learn about the purpose of each AWS database service and how AWS customers are using purpose-built databases to build some of the most scalable applications on the planet. If you are a technology or engineering leader and you're trying to understand how to modernize your data strategy, this session is for you. We discuss using various approaches for new application development, lifting-and-shifting to managed services, and refactoring monolithic database architectures to use purpose-built databases.
 
