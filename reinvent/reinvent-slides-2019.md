@@ -3850,51 +3850,51 @@ STP303-R1: Reduce churn using machine learning
 
 Increasing customer lifetime value by reducing churn is often an existential matter for startups with repeat-business models. Technical teams looking to predict customer behavior-who will happily stay and pay, and who is ready to jump ship-have largely relied on a set of too-simple metrics. The reason for this less-than-ideal approach is that meaningful analysis has typically been too hard and too pricey for startup budgets. That is, until now. Learn how readily available machine learning frameworks and tooling make it possible for companies of any size to detect and reduce churn.
 
-STP304-R1: Predicting what your customers really, really want
+## STP304-R1: Predicting what your customers really, really want
 
-Targeting customers with the right recommendations at the right moment is critical for startups that offer multiple products or services (and for larger companies as well). By combining historical usage data with other variables in your business and the right machine-learning model, your customers can receive 50% more accurate recommendations for your products or services. Discover how to collect and store data, and how to train machine-learning models to predict what your customers want.
+> Targeting customers with the right recommendations at the right moment is critical for startups that offer multiple products or services (and for larger companies as well). By combining historical usage data with other variables in your business and the right machine-learning model, your customers can receive 50% more accurate recommendations for your products or services. Discover how to collect and store data, and how to train machine-learning models to predict what your customers want.
 
 # Serverless
 
 ## SVS201-R2: Build a serverless web app for a theme park
 
-Innovator Island is a popular theme park that's rolling out a mobile app for thousands of visitors. The app provides wait times, photo opportunities, notification alerts, and language translation for visitors who need it. However, the lead developer has disappeared, and in this workshop, you're part of a development team that's assembling the pieces left behind. Learn and practice building a scalable serverless web app with limited development resources.
+> Innovator Island is a popular theme park that's rolling out a mobile app for thousands of visitors. The app provides wait times, photo opportunities, notification alerts, and language translation for visitors who need it. However, the lead developer has disappeared, and in this workshop, you're part of a development team that's assembling the pieces left behind. Learn and practice building a scalable serverless web app with limited development resources.
 
 ## SVS203-R1: Build a serverless ride-sharing web application
 
-In this workshop, you deploy a simple web application that lets users request unicorn rides from the Wild Rydes fleet. The application presents users with an HTML-based user interface for indicating the location where they would like to be picked up and interfaces on the backend with a RESTful web service to submit the request and dispatch a nearby unicorn. The application also provides facilities for users to register with the service and log in before requesting rides.
+> In this workshop, you deploy a simple web application that lets users request unicorn rides from the Wild Rydes fleet. The application presents users with an HTML-based user interface for indicating the location where they would like to be picked up and interfaces on the backend with a RESTful web service to submit the request and dispatch a nearby unicorn. The application also provides facilities for users to register with the service and log in before requesting rides.
 
-SVS209-S: Powering digital billboards with serverless
+## SVS209-S: Powering digital billboards with serverless
 
-Digital billboards are everywhere from buildings to signs to transit stops. Place Exchange, a prominent auction platform for digital billboards, runs over 50,000 concurrent auctions 24/7 for placements on connected billboards in the world's largest cities. In this talk, the Place Exchange team shares the challenges of managing, monitoring, and scaling a hybrid environment of edge devices all powered by a 100 percent serverless auction platform. This presentation is brought to you by Datadog, an APN Partner.
+> Digital billboards are everywhere from buildings to signs to transit stops. Place Exchange, a prominent auction platform for digital billboards, runs over 50,000 concurrent auctions 24/7 for placements on connected billboards in the world's largest cities. In this talk, the Place Exchange team shares the challenges of managing, monitoring, and scaling a hybrid environment of edge devices all powered by a 100 percent serverless auction platform. This presentation is brought to you by Datadog, an APN Partner.
 
-SVS210-S: Automatically scale a serverless app with Amazon Textract & MongoDB
+## SVS210-S: Automatically scale a serverless app with Amazon Textract & MongoDB
 
-Working with disorganized data is expensive and wasteful. One area in which this is readily apparent is the legal field, especially during the data discovery phase. In this session, we use Amazon Textract, Amazon Comprehend, and MongoDB Atlas to build a serverless product that seamlessly ingests documents and intelligently organizes their data, increasing efficiency and reducing costs. We show you how to easily interconnect these services using AWS Lambda as a backend and how to quickly create web and mobile user interfaces using MongoDB Realm. This presentation is brought to you by MongoDB, an APN Partner.
+> Working with disorganized data is expensive and wasteful. One area in which this is readily apparent is the legal field, especially during the data discovery phase. In this session, we use Amazon Textract, Amazon Comprehend, and MongoDB Atlas to build a serverless product that seamlessly ingests documents and intelligently organizes their data, increasing efficiency and reducing costs. We show you how to easily interconnect these services using AWS Lambda as a backend and how to quickly create web and mobile user interfaces using MongoDB Realm. This presentation is brought to you by MongoDB, an APN Partner.
 
-SVS213-R1: Thinking serverless: From business problem to serverless solution
+## SVS213-R1: Thinking serverless: From business problem to serverless solution
 
-Serverless is more than just AWS Lambda, it's about learning to use a range of different services and techniques to solve a customer problem. How do you approach building a solution with a serverless mindset? In this session, learn how to tackle a business problem from a customer perspective by breaking down the needs into serverless building blocks that work well together. We highlight the power of distributed systems design and event-based architecture, and we show you how easy it is to turn a flowchart into a model for a serverless application.
+> Serverless is more than just AWS Lambda, it's about learning to use a range of different services and techniques to solve a customer problem. How do you approach building a solution with a serverless mindset? In this session, learn how to tackle a business problem from a customer perspective by breaking down the needs into serverless building blocks that work well together. We highlight the power of distributed systems design and event-based architecture, and we show you how easy it is to turn a flowchart into a model for a serverless application.
 
-SVS214-R1: Amazon S3 to Lambda: A flexible pattern at the core of serverless applications
+## SVS214-R1: Amazon S3 to Lambda: A flexible pattern at the core of serverless applications
 
-It's not just image resizing. In this session, we show how to use Amazon S3 as an event source for major parts of your application workflow, including language translation, transcription, data processing, identity verification, content management, and more.
+> It's not just image resizing. In this session, we show how to use Amazon S3 as an event source for major parts of your application workflow, including language translation, transcription, data processing, identity verification, content management, and more.
 
-SVS215-R1: Build observability into a serverless application
+## SVS215-R1: Build observability into a serverless application
 
-Observability is a common challenge for developers. In this session, we share some approaches for addressing this challenge and discuss the trade-offs and limitations with both AWS and third-party tools.
+> Observability is a common challenge for developers. In this session, we share some approaches for addressing this challenge and discuss the trade-offs and limitations with both AWS and third-party tools.
 
-SVS219-S: Serverless at scale
+## SVS219-S: Serverless at scale
 
-AWS offers a great breadth of serverless services beyond AWS Lambda functions. In this session, learn how Capital One leverages serverless architectures for data-driven and web applications across a footprint of thousands of applications. This presentation is brought to you by Capital One, an APN Partner.
+> AWS offers a great breadth of serverless services beyond AWS Lambda functions. In this session, learn how Capital One leverages serverless architectures for data-driven and web applications across a footprint of thousands of applications. This presentation is brought to you by Capital One, an APN Partner.
 
-SVS220-R1: Build microservice APIs with Amazon API Gateway
+## SVS220-R1: Build microservice APIs with Amazon API Gateway
 
-Learn how to create, secure, and deploy API-based microservices with Amazon API Gateway. We also cover how to build integrations with backends powered by compute services such as AWS Lambda. By the end of this session, you'll understand the basic building blocks of a microservices-based application. Please bring your laptop.
+> Learn how to create, secure, and deploy API-based microservices with Amazon API Gateway. We also cover how to build integrations with backends powered by compute services such as AWS Lambda. By the end of this session, you'll understand the basic building blocks of a microservices-based application. Please bring your laptop.
 
-SVS222-R2: Streamline AWS Lambda development with Lambda layers
+## SVS222-R2: Streamline AWS Lambda development with Lambda layers
 
-Learn how to use AWS Lambda layers to streamline serverless development, leverage libraries, and share code between teams. We showcase how Lambda layers can help you build more powerful serverless applications while improving the development experience for you and your team. Please bring your laptop.
+> Learn how to use AWS Lambda layers to streamline serverless development, leverage libraries, and share code between teams. We showcase how Lambda layers can help you build more powerful serverless applications while improving the development experience for you and your team. Please bring your laptop.
 
 ## SVS223-R1: Finding a home for your data in your serverless app
 
