@@ -3968,29 +3968,29 @@ AWS Lambda layers and runtime API let developers publish and share libraries and
 
 > AWS Lambda asynchronous invocations allow you to benefit from all the goodness that is fire-and-forget. But what if you wanted to do some extra stuff when that invoke finally is run? Join us to talk about how you can handle common use cases in a simpler way by connecting pieces together with AWS Lambda asynchronous invoke.
 
-SVS327-R4: Build serverless APIs with the AWS CDK
+## SVS327-R4: Build serverless APIs with the AWS CDK
 
-In this session, we build a booking API using Amazon API Gateway, AWS Lambda, and Amazon DynamoDB using the AWS Cloud Development Kit (AWS CDK). We also test our functions locally with AWS Serverless Application Model (AWS SAM) and deploy them to AWS. Please bring your laptop.
+> In this session, we build a booking API using Amazon API Gateway, AWS Lambda, and Amazon DynamoDB using the AWS Cloud Development Kit (AWS CDK). We also test our functions locally with AWS Serverless Application Model (AWS SAM) and deploy them to AWS. Please bring your laptop.
 
-SVS329-R2: Build a conversational chatbot & gain business insights
+## SVS329-R2: Build a conversational chatbot & gain business insights
 
-In this session, learn how to build a serverless chatbot to get answers to your business questions. Using a sample business dataset, we build this chatbot application with Amazon Lex, AWS Lambda, Amazon Athena, and Amazon S3. Please bring your laptop.
+> In this session, learn how to build a serverless chatbot to get answers to your business questions. Using a sample business dataset, we build this chatbot application with Amazon Lex, AWS Lambda, Amazon Athena, and Amazon S3. Please bring your laptop.
 
-SVS330-R2: Build secure serverless mobile or web applications
+## SVS330-R2: Build secure serverless mobile or web applications
 
-In this session, you build a functional serverless web application powered by AWS Amplify, AWS AppSync, AWS Lambda, Amazon API Gateway, and Amazon DynamoDB. Learn how to use Amplify to speed up development, take advantage of the GraphQL capabilities of AWS AppSync, and run your application logic with Lambda. You also learn how to add fully functional authentication capabilities to this application using Amplify and Amazon Cognito. Please bring your laptop.
+> In this session, you build a functional serverless web application powered by AWS Amplify, AWS AppSync, AWS Lambda, Amazon API Gateway, and Amazon DynamoDB. Learn how to use Amplify to speed up development, take advantage of the GraphQL capabilities of AWS AppSync, and run your application logic with Lambda. You also learn how to add fully functional authentication capabilities to this application using Amplify and Amazon Cognito. Please bring your laptop.
 
-SVS331-R2: Build an IT automation framework using AWS Step Functions
+## SVS331-R2: Build an IT automation framework using AWS Step Functions
 
-In this session, learn how to use AWS Step Functions to orchestrate serverless IT automation workflows in response to Amazon CloudWatch Events. As a real-world example, you implement an automation workflow for a security event. Please bring your laptop.
+> In this session, learn how to use AWS Step Functions to orchestrate serverless IT automation workflows in response to Amazon CloudWatch Events. As a real-world example, you implement an automation workflow for a security event. Please bring your laptop.
 
-SVS332-R2: AWS Step Functions: From zero to hero
+## SVS332-R2: AWS Step Functions: From zero to hero
 
-In this session, you build a serverless workflow-based application using AWS Step Functions. We cover the basics and common patterns of AWS Step Functions, discuss error handling, and demonstrate how easy it is to use the service.
+> In this session, you build a serverless workflow-based application using AWS Step Functions. We cover the basics and common patterns of AWS Step Functions, discuss error handling, and demonstrate how easy it is to use the service.
 
-SVS333-R2: Build serverless APIs supported by Amazon Aurora Serverless & the Data API
+## SVS333-R2: Build serverless APIs supported by Amazon Aurora Serverless & the Data API
 
-In this session, you build a simple yet functional API that leverages Amazon Aurora Serverless and the Data API. Please bring your laptop.
+> In this session, you build a simple yet functional API that leverages Amazon Aurora Serverless and the Data API. Please bring your laptop.
 
 SVS334-R1: Build & monitor a secure serverless app powered by ASP.NET & AWS services
 
