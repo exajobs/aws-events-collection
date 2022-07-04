@@ -3427,17 +3427,17 @@ SEC352: National Australia Bank: Automating governance in Financial Services
 
 National Australia Bank (NAB) is migrating hundreds of sensitive, regulated financial workloads to the cloud. This session focuses on the automated approach that NAB has taken to evolve and scale its ability to meet its strict risk and regulatory requirements. Specifically, NAB describes its cloud governance framework and the automated enforcement platform (Deputy) that supports it and that brings governance and technology together to ensure that compliant workloads are deployed in the cloud. The talk dives deep into the architecture of Deputy, which uses AWS Lambda, Amazon SNS, Amazon SQS, Amazon DynamoDB, and Amazon RDS to create a cost-efficient, scalable solution.
 
-SEC353-R4: Threat detection with Amazon GuardDuty
+## SEC353-R4: Threat detection with Amazon GuardDuty
 
-Amazon GuardDuty is a threat detection system that is purpose-built for the cloud. Once enabled, GuardDuty immediately starts analyzing continuous streams of account and network activity in near real time and at scale. You don't have to deploy or manage any additional security software, sensors, or network appliances. Threat intelligence is pre-integrated into the service and is continuously updated and maintained. In this session, we introduce you to GuardDuty, walk you through the detection of an event, and discuss the various ways you can react and remediate. Please bring your laptop.
+> Amazon GuardDuty is a threat detection system that is purpose-built for the cloud. Once enabled, GuardDuty immediately starts analyzing continuous streams of account and network activity in near real time and at scale. You don't have to deploy or manage any additional security software, sensors, or network appliances. Threat intelligence is pre-integrated into the service and is continuously updated and maintained. In this session, we introduce you to GuardDuty, walk you through the detection of an event, and discuss the various ways you can react and remediate. Please bring your laptop.
 
-SEC354-R1: How the BBC uses AWS Secrets Manager to manage secrets
+## SEC354-R1: How the BBC uses AWS Secrets Manager to manage secrets
 
-Join this chalk talk to hear about the BBC's journey of adopting AWS Secrets Manager for lifecycle management of its secrets such as database passwords, API keys, and third-party keys. In this session, you learn about the key features and benefits of AWS Secrets Manager and what factors to consider when adopting Secrets Manager across your enterprise. You also learn how the BBC chose to go all in on Secrets Manager to meet their secrets management needs.
+> Join this chalk talk to hear about the BBC's journey of adopting AWS Secrets Manager for lifecycle management of its secrets such as database passwords, API keys, and third-party keys. In this session, you learn about the key features and benefits of AWS Secrets Manager and what factors to consider when adopting Secrets Manager across your enterprise. You also learn how the BBC chose to go all in on Secrets Manager to meet their secrets management needs.
 
-SEC355: Speculation & leakage: Timing side channels & multi-tenant computing
+## SEC355: Speculation & leakage: Timing side channels & multi-tenant computing
 
-In January 2018, the world learned about Spectre and Meltdown, a new class of issues that affects virtually all modern CPUs via nearly imperceptible changes to their micro-architectural states and can result in full access to physical RAM or leaking of state between threads, processes, or guests. In this session, we examine one of these side-channel attacks in detail and explore the implications for multi-tenant computing. We discuss AWS design decisions and what AWS does to protect your instances, containers, and function invocations. Finally, we discuss what the future looks like in the presence of this new class of issue.
+> In January 2018, the world learned about Spectre and Meltdown, a new class of issues that affects virtually all modern CPUs via nearly imperceptible changes to their micro-architectural states and can result in full access to physical RAM or leaking of state between threads, processes, or guests. In this session, we examine one of these side-channel attacks in detail and explore the implications for multi-tenant computing. We discuss AWS design decisions and what AWS does to protect your instances, containers, and function invocations. Finally, we discuss what the future looks like in the presence of this new class of issue.
 
 SEC356: How to prepare for & respond to security incidents in your AWS environment
 
