@@ -2490,49 +2490,49 @@ MGT301-R1: Cut through the chaos: Gain operational visibility and insight
 
 Setting up the right instrumentation for operational visibility and observability across your enterprise can be complex, costly, and time-consuming, from acquiring the right tool sets to correlating the data between them. In this session, we cover various ways in which you can gain operational visibility and insight into your environment using such services as Amazon CloudWatch, AWS X-Ray, and more. We also explore ways in which you can reduce incidents, address quality problems, and enhance your services and products.
 
-MGT302-R1: Enable AWS adoption at scale with automation and governance
+## MGT302-R1: Enable AWS adoption at scale with automation and governance
 
-Enterprises are taking advantage of AWS so they can move quickly while maintaining governance control over costs, security, and compliance. In this session, we discuss how AWS Control Tower, AWS Service Catalog, AWS Organizations, and AWS CloudFormation simplifies compliance and makes ongoing governance easier. You learn how to set up and govern your multi-account AWS environment or landing zone through automation, blueprints, and guardrails. Finally, you learn how to launch governed and secure resources on AWS through a DevOps CI/CD pipeline.
+> Enterprises are taking advantage of AWS so they can move quickly while maintaining governance control over costs, security, and compliance. In this session, we discuss how AWS Control Tower, AWS Service Catalog, AWS Organizations, and AWS CloudFormation simplifies compliance and makes ongoing governance easier. You learn how to set up and govern your multi-account AWS environment or landing zone through automation, blueprints, and guardrails. Finally, you learn how to launch governed and secure resources on AWS through a DevOps CI/CD pipeline.
 
-MGT303-R: How to ensure configuration compliance
+## MGT303-R: How to ensure configuration compliance
 
-In this session, we dig into how to proactively govern and monitor your expanding AWS footprint using AWS Management and Governance services. We describe how AWS Config rules, AWS CloudFormation drift detection, AWS Service Catalog, and AWS Systems Manager State Manager help you maintain compliance with your AWS stack at scale.
+> In this session, we dig into how to proactively govern and monitor your expanding AWS footprint using AWS Management and Governance services. We describe how AWS Config rules, AWS CloudFormation drift detection, AWS Service Catalog, and AWS Systems Manager State Manager help you maintain compliance with your AWS stack at scale.
 
-MGT303-R1: How to ensure configuration compliance
+## MGT303-R1: How to ensure configuration compliance
 
-In this session, we dig into how to govern and monitor your expanding AWS services and accounts using AWS management and governance features and services such as AWS Config rules, AWS CloudFormation drift detection, and AWS Systems Manager State Manager. We also describe how these features and services help you maintain compliance within your AWS stack at scale.
+> In this session, we dig into how to govern and monitor your expanding AWS services and accounts using AWS management and governance features and services such as AWS Config rules, AWS CloudFormation drift detection, and AWS Systems Manager State Manager. We also describe how these features and services help you maintain compliance within your AWS stack at scale.
 
-MGT304: Automate everything: Options and best practices
+## MGT304: Automate everything: Options and best practices
 
-You can use an expanding set of services to automate many common management tasks in your AWS environment: patching, configuration updates, software stack deployments, and more. In this session, we explore how you can use AWS management tools for automation, including through the use of self-service runbooks. We discuss the many options available, including AWS CloudFormation, AWS Service Catalog, and AWS Systems Manager.
+> You can use an expanding set of services to automate many common management tasks in your AWS environment: patching, configuration updates, software stack deployments, and more. In this session, we explore how you can use AWS management tools for automation, including through the use of self-service runbooks. We discuss the many options available, including AWS CloudFormation, AWS Service Catalog, and AWS Systems Manager.
 
-MGT305: Patch compliance using AWS Systems Manager and AWS Config
+## MGT305: Patch compliance using AWS Systems Manager and AWS Config
 
-In this workshop, we show you how to streamline your patch approval and deployment process with AWS Systems Manager Patch Manager while using AWS Config to continuously monitor patch compliance. Learn how to implement these services for your organization, helping you build a scalable management and compliance mechanism for your AWS stack.
+> In this workshop, we show you how to streamline your patch approval and deployment process with AWS Systems Manager Patch Manager while using AWS Config to continuously monitor patch compliance. Learn how to implement these services for your organization, helping you build a scalable management and compliance mechanism for your AWS stack.
 
-MGT306: Monitoring for operational outcomes and application insights
+## MGT306: Monitoring for operational outcomes and application insights
 
-In this workshop, we show you how to develop and implement a workload monitoring plan. Learn how to implement and use logs, metrics, dashboards, events, and alarms to quickly and effectively respond to changes in your AWS environment. Also learn how to create alerts for the major categories of events, monitor for operational outcomes, trigger responses, and deliver insights. To participate in this workshop, bring your laptop and have a non-production AWS account.
+> In this workshop, we show you how to develop and implement a workload monitoring plan. Learn how to implement and use logs, metrics, dashboards, events, and alarms to quickly and effectively respond to changes in your AWS environment. Also learn how to create alerts for the major categories of events, monitor for operational outcomes, trigger responses, and deliver insights. To participate in this workshop, bring your laptop and have a non-production AWS account.
 
-MGT308-R3: Monitoring modern apps: Containers, microservices, and more
+## MGT308-R3: Monitoring modern apps: Containers, microservices, and more
 
-Whether containers or serverless functions, communicating over service mesh or not, the need for holistic monitoring and management of modern applications remains. In this session, we dive deep into what it takes to successfully monitor modern applications with Amazon CloudWatch, which provides a monitoring, management, and alerting service natively in AWS. We discuss best practices for collecting logs, metrics, and traces in AWS, so you can proactively detect malicious activities, speed up insight discovery, and troubleshoot your application and infrastructure issues faster.
+> Whether containers or serverless functions, communicating over service mesh or not, the need for holistic monitoring and management of modern applications remains. In this session, we dive deep into what it takes to successfully monitor modern applications with Amazon CloudWatch, which provides a monitoring, management, and alerting service natively in AWS. We discuss best practices for collecting logs, metrics, and traces in AWS, so you can proactively detect malicious activities, speed up insight discovery, and troubleshoot your application and infrastructure issues faster.
 
-MGT310-R2: High-velocity service delivery: Infrastructure as code
+## MGT310-R2: High-velocity service delivery: Infrastructure as code
 
-Customers today are looking to the cloud to help them evolve, adapt, and innovate faster than ever. In this chalk talk, learn how to use AWS native services to increase your organization's ability to deliver at high velocity using services like AWS CloudFormation, AWS OpsWorks, and AWS Systems Manager. We talk about best practices to help you provision and manage infrastructure, deploy code, and automate your software-release processes.
+> Customers today are looking to the cloud to help them evolve, adapt, and innovate faster than ever. In this chalk talk, learn how to use AWS native services to increase your organization's ability to deliver at high velocity using services like AWS CloudFormation, AWS OpsWorks, and AWS Systems Manager. We talk about best practices to help you provision and manage infrastructure, deploy code, and automate your software-release processes.
 
-MGT312: Operational automation: Set it and forget it
+## MGT312: Operational automation: Set it and forget it
 
-In this workshop, learn how to use AWS Management and Governance services to automate your operations (ex., create self-service runbooks). We cover the many options available to you to implement operational excellence using automation through services such as AWS CloudFormation, AWS Service Catalog, AWS Systems Manager, AWS Config, and AWS CloudTrail.
+> In this workshop, learn how to use AWS Management and Governance services to automate your operations (ex., create self-service runbooks). We cover the many options available to you to implement operational excellence using automation through services such as AWS CloudFormation, AWS Service Catalog, AWS Systems Manager, AWS Config, and AWS CloudTrail.
 
-MGT313: Architect governance at enterprise scale with Goldman Sachs
+## MGT313: Architect governance at enterprise scale with Goldman Sachs
 
-As AWS customers accelerate their AWS adoption, going from managing a few AWS accounts to supporting pilot applications to operating on an enterprise scale, they encounter common challenges to maintaining necessary governance. They face issues such as how to control budgets across accounts, workloads, and users; how to automate account provisioning and maintain good security; and how to automate compliance. In this session, we define cloud governance and provide best practices to achieve security, optimized costs, and compliance. Come learn how these best practices for managing your AWS environment have been applied in the real world by Goldman Sachs.
+> As AWS customers accelerate their AWS adoption, going from managing a few AWS accounts to supporting pilot applications to operating on an enterprise scale, they encounter common challenges to maintaining necessary governance. They face issues such as how to control budgets across accounts, workloads, and users; how to automate account provisioning and maintain good security; and how to automate compliance. In this session, we define cloud governance and provide best practices to achieve security, optimized costs, and compliance. Come learn how these best practices for managing your AWS environment have been applied in the real world by Goldman Sachs.
 
-MGT401-R1: Automate the infrastructure for a multi-tier application with CloudFormation
+## MGT401-R1: Automate the infrastructure for a multi-tier application with CloudFormation
 
-Join us for this builders session where you and a small group work with an AWS subject matter expert to deploy a multi-tier application from beginning to end using AWS CloudFormation. Please bring your laptop.
+> Join us for this builders session where you and a small group work with an AWS subject matter expert to deploy a multi-tier application from beginning to end using AWS CloudFormation. Please bring your laptop.
 
 MGT402-R1: Self-service accounts and workloads for data scientists and developers
 
