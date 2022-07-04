@@ -128,7 +128,7 @@
 
 ## AIM231-S: Think Forward Initiative: 100M people making better financial decisions 
 
-Want to learn more about using technology to impact society? Join this session! Currently, 42 percent of Europeans face financial difficulties. As lead partners of the Think Forward Initiative (TFI), Deloitte, AWS, and ING aim to empower 100 million Europeans to make better financial decisions by translating the latest consumer behavior insights into easy applicable tools. In this session, you learn how TFI supports early stage scale-ups by using Amazon S3, Amazon API Gateway, AWS Lambda, Amazon Aurora, AWS CloudFormation, AWS Cloud9, Amazon Textract, and Amazon Personalize in an accelerator program. You also learn about the AWS Well-Architected Review and AWS Activate programs. This presentation is brought to you by Deloitte, an APN Partner.
+> Want to learn more about using technology to impact society? Join this session! Currently, 42 percent of Europeans face financial difficulties. As lead partners of the Think Forward Initiative (TFI), Deloitte, AWS, and ING aim to empower 100 million Europeans to make better financial decisions by translating the latest consumer behavior insights into easy applicable tools. In this session, you learn how TFI supports early stage scale-ups by using Amazon S3, Amazon API Gateway, AWS Lambda, Amazon Aurora, AWS CloudFormation, AWS Cloud9, Amazon Textract, and Amazon Personalize in an accelerator program. You also learn about the AWS Well-Architected Review and AWS Activate programs. This presentation is brought to you by Deloitte, an APN Partner.
 
 ## AIM232: Media discovery and compliance with Amazon Rekognition   
 
@@ -511,15 +511,15 @@ ANT308-R1: Deep dive into running Apache Spark on Amazon EMR
 
 ## ANT342: [NEW LAUNCH!] Scalable, secure, interactive log analytics using Amazon ES 
 
-With the rapid growth in machine generated data, customers are looking for ways to securely and cost-effectively analyze this constantly growing data in real time. In this talk, we will discuss how to use Amazon Elasticsearch Service to build a secure and scalable log analytics solution to interactively analyze your log data and get valuable operational intelligence for application monitoring, log forensics, clickstream analytics, SIEM, and more.
+> With the rapid growth in machine generated data, customers are looking for ways to securely and cost-effectively analyze this constantly growing data in real time. In this talk, we will discuss how to use Amazon Elasticsearch Service to build a secure and scalable log analytics solution to interactively analyze your log data and get valuable operational intelligence for application monitoring, log forensics, clickstream analytics, SIEM, and more.
 
 ## ANT343: [NEW LAUNCH!] Create a retail data product on AWS Data Exchange 
 
-AWS Data Exchange makes it easy to securely list retail data products for sharing with AWS customers. In this builders session, you see how easy it is to prepare and package a data product, list it with terms and pricing, and make revisions and alert your customers. You also learn how to bring over existing customers' subscriptions and deliver data without all the hassle. Be sure to bring your laptop.
+> AWS Data Exchange makes it easy to securely list retail data products for sharing with AWS customers. In this builders session, you see how easy it is to prepare and package a data product, list it with terms and pricing, and make revisions and alert your customers. You also learn how to bring over existing customers' subscriptions and deliver data without all the hassle. Be sure to bring your laptop.
 
 ## ANT344-R1: Augment business analytics with Amazon QuickSight & Amazon SageMaker 
 
-This session covers a new integration between Amazon QuickSight and Amazon SageMaker that makes it easy to connect to and use your predictive analytics models from Amazon SageMaker with Amazon QuickSight dashboards and analyses. Please bring your laptop.
+> This session covers a new integration between Amazon QuickSight and Amazon SageMaker that makes it easy to connect to and use your predictive analytics models from Amazon SageMaker with Amazon QuickSight dashboards and analyses. Please bring your laptop.
 
 ## ANT345-S: Tableau Server on AWS enables analytics agility for Capital One 
 
