@@ -4133,75 +4133,75 @@ Join us as we discuss the journey of migrating Microsoft workloads to AWS and ho
 
 ## WIN303: Deploy modern apps with the AWS Cloud Development Kit for .NET Core
 
-Get hands-on experience with creating your application infrastructure on AWS in .NET. The AWS Cloud Development Kit (AWS CDK) is a software development framework that makes it easy to model and provision your cloud application using .NET and other programming languages. Learn how to build highly scalable infrastructure supported by AWS services without leaving your integrated development environment (IDE). This workshop is for developers looking to deploy applications on AWS or central teams trying to bootstrap standardized application components for other teams. Please bring a laptop (and charger) for the hands-on exercises.
+> Get hands-on experience with creating your application infrastructure on AWS in .NET. The AWS Cloud Development Kit (AWS CDK) is a software development framework that makes it easy to model and provision your cloud application using .NET and other programming languages. Learn how to build highly scalable infrastructure supported by AWS services without leaving your integrated development environment (IDE). This workshop is for developers looking to deploy applications on AWS or central teams trying to bootstrap standardized application components for other teams. Please bring a laptop (and charger) for the hands-on exercises.
 
 ## WIN304-R1: Modernize legacy .NET applications on AWS
 
-Customers are modernizing legacy .NET applications in the cloud and realizing benefits including cost savings, increased productivity, scalability, and more. In this workshop you have the opportunity to choose from hands-on scenarios that explore how to modernize and refactor legacy .NET applications. Examples include how to port a legacy .NET application codebase to .NET Core and approaches to converting a monolithic .NET application to a microservices pattern. Please bring a laptop (and charger) for the hands-on exercises.
+> Customers are modernizing legacy .NET applications in the cloud and realizing benefits including cost savings, increased productivity, scalability, and more. In this workshop you have the opportunity to choose from hands-on scenarios that explore how to modernize and refactor legacy .NET applications. Examples include how to port a legacy .NET application codebase to .NET Core and approaches to converting a monolithic .NET application to a microservices pattern. Please bring a laptop (and charger) for the hands-on exercises.
 
 ## WIN306: Migrate Microsoft workloads to AWS
 
-Migrating your Microsoft workloads to the AWS Cloud will increase your competitive edge, drive business value, and modernize your infrastructure. This workshop facilitates your understanding of strategies that help with the preparation and execution steps required for migrating Microsoft workloads to the AWS Cloud. Please bring a laptop (and charger) for the hands-on exercises.
+> Migrating your Microsoft workloads to the AWS Cloud will increase your competitive edge, drive business value, and modernize your infrastructure. This workshop facilitates your understanding of strategies that help with the preparation and execution steps required for migrating Microsoft workloads to the AWS Cloud. Please bring a laptop (and charger) for the hands-on exercises.
 
 ## WIN307: Manage Windows instances at scale with Systems Manager
 
-Get hands-on experience managing Windows servers with AWS Systems Manager. Examples include the life cycle of an application, automating the creation and management of a"golden AMI," domain join, application installation, patching, and collecting inventory. Experience with Windows administration and PowerShell are expected for this session. Please bring a laptop (and charger) for the hands-on exercises.
+> Get hands-on experience managing Windows servers with AWS Systems Manager. Examples include the life cycle of an application, automating the creation and management of a"golden AMI," domain join, application installation, patching, and collecting inventory. Experience with Windows administration and PowerShell are expected for this session. Please bring a laptop (and charger) for the hands-on exercises.
 
 ## WIN308-R1: Developing serverless .NET Core on AWS
 
-In this demonstration-heavy session, we highlight the latest techniques, tools, and libraries for developing with .NET Core on AWS. The focus is on serverless applications with AWS Lambda and AWS Fargate, but the techniques are broadly relevant. Learn about useful features and best practices for authoring serverless applications, including debugging locally from the IDE and in production, as well as how to set up your CI/CD workflow from the start.
+> In this demonstration-heavy session, we highlight the latest techniques, tools, and libraries for developing with .NET Core on AWS. The focus is on serverless applications with AWS Lambda and AWS Fargate, but the techniques are broadly relevant. Learn about useful features and best practices for authoring serverless applications, including debugging locally from the IDE and in production, as well as how to set up your CI/CD workflow from the start.
 
 ## WIN309: Containerize .NET Apps with Amazon EKS and AWS Fargate
 
-Packaging software into containers gives your code everything needed to run with consistency from your laptop into production. But how do you run containers at scale in the cloud? In this session, learn how to run containerized Windows and .NET applications in production on AWS. We show you how to run Windows containers on Kubernetes with Amazon Elastic Kubernetes Service (Amazon EKS). We also demonstrate the benefits of running .NET Core Linux containers serverlessly with AWS Fargate. We cover core concepts and use demos to help you feel comfortable getting started with building and deploying .NET containerized applications on AWS.
+> Packaging software into containers gives your code everything needed to run with consistency from your laptop into production. But how do you run containers at scale in the cloud? In this session, learn how to run containerized Windows and .NET applications in production on AWS. We show you how to run Windows containers on Kubernetes with Amazon Elastic Kubernetes Service (Amazon EKS). We also demonstrate the benefits of running .NET Core Linux containers serverlessly with AWS Fargate. We cover core concepts and use demos to help you feel comfortable getting started with building and deploying .NET containerized applications on AWS.
 
 ## WIN310: Infrastructure as .NET with the AWS CDK
 
-AWS Cloud Development Kit (AWS CDK) is an open-source framework that enables developers to harness the power of familiar programming languages to define reusable cloud components and provision applications with those components. In this session, we quickly cover the basic concepts of AWS CDK, then we live code an application with it in .NET. See how easy it is to configure your cloud resources, manage permissions, connect event sources for our serverless app, and even build and publish your own constructs.
+> AWS Cloud Development Kit (AWS CDK) is an open-source framework that enables developers to harness the power of familiar programming languages to define reusable cloud components and provision applications with those components. In this session, we quickly cover the basic concepts of AWS CDK, then we live code an application with it in .NET. See how easy it is to configure your cloud resources, manage permissions, connect event sources for our serverless app, and even build and publish your own constructs.
 
 ## WIN313-R1: Design, migrate, and optimize SQL Server on AWS
 
-In this session, we dive deep into best practices and considerations for running Microsoft SQL Server on AWS. Learn how to choose between Amazon Elastic Compute Cloud (Amazon EC2) and Amazon Relational Database Service (Amazon RDS), and understand how to optimize the performance of your SQL Server deployment for different application types. We review in detail how to provision and monitor your SQL Server databases and how to manage scalability, performance, availability, security, and backup and recovery in both Amazon RDS and Amazon EC2.
+> In this session, we dive deep into best practices and considerations for running Microsoft SQL Server on AWS. Learn how to choose between Amazon Elastic Compute Cloud (Amazon EC2) and Amazon Relational Database Service (Amazon RDS), and understand how to optimize the performance of your SQL Server deployment for different application types. We review in detail how to provision and monitor your SQL Server databases and how to manage scalability, performance, availability, security, and backup and recovery in both Amazon RDS and Amazon EC2.
 
 ## WIN314: Best practices for .NET DevOps on AWS
 
-This chalk talk is for those who are building a new DevOps capability for .NET applications or improving existing capabilities. Join us to discuss the best practices and key factors to consider when building a DevOps culture and capabilities for .NET applications on AWS. This is an interactive question-and-answer session, so please bring your questions.
+> This chalk talk is for those who are building a new DevOps capability for .NET applications or improving existing capabilities. Join us to discuss the best practices and key factors to consider when building a DevOps culture and capabilities for .NET applications on AWS. This is an interactive question-and-answer session, so please bring your questions.
 
 ## WIN315-R1: Converting a monolithic .NET app into a modern application
 
-This chalk talk is for those who are interested in learning how to migrate and convert monolithic .NET applications to containers. You also learn how to migrate the SQL Server database using AWS Database Migration Service (AWS DMS) and set up a CI/CD pipeline using AWS CodePipeline.
+> This chalk talk is for those who are interested in learning how to migrate and convert monolithic .NET applications to containers. You also learn how to migrate the SQL Server database using AWS Database Migration Service (AWS DMS) and set up a CI/CD pipeline using AWS CodePipeline.
 
 ## WIN316: Building AWS IoT applications using .NET
 
-In this talk, we review real-world scenarios in building IoT solutions on AWS, discuss common scenarios, demonstrate how to use AWS SDK for .NET, and share best practices. We also walk through code samples for a simple IOT device publisher and IOT device consumer using .NET framework and .NET Core.
+> In this talk, we review real-world scenarios in building IoT solutions on AWS, discuss common scenarios, demonstrate how to use AWS SDK for .NET, and share best practices. We also walk through code samples for a simple IOT device publisher and IOT device consumer using .NET framework and .NET Core.
 
 ## WIN317: Demystifying identity, AuthN, and AuthZ for .NET apps on AWS
 
-Authentication is one of the most important parts of your IT estate to get right. Join us for this chalk talk, where we discuss the main approaches for designing an enterprise Windows and .NET authentication strategy and answer any questions that you may have. This is an interactive question-and-answer session, so please bring your questions.
+> Authentication is one of the most important parts of your IT estate to get right. Join us for this chalk talk, where we discuss the main approaches for designing an enterprise Windows and .NET authentication strategy and answer any questions that you may have. This is an interactive question-and-answer session, so please bring your questions.
 
 ## WIN318-R2: Manage your Microsoft licenses on-premises and in the cloud
 
-Join us for this chalk talk, where we baseline everything you need to know about licensing Microsoft products on AWS and answer any questions you may have around the subject.
+> Join us for this chalk talk, where we baseline everything you need to know about licensing Microsoft products on AWS and answer any questions you may have around the subject.
 
 ## WIN319-R: Best practices for advanced SQL Server storage architectures
 
-Join us for this chalk talk, where we discuss best practices for how to design and configure advanced storage architectures for SQL Server on AWS. We discuss how to leverage AWS NVMe drives (ephemeral storage) and Amazon Elastic Block Store (Amazon EBS) volume striping with Windows storage spaces to get more performance and cost effectiveness without compromise on high availability. This is an interactive question-and-answer session, so please bring your questions.
+> Join us for this chalk talk, where we discuss best practices for how to design and configure advanced storage architectures for SQL Server on AWS. We discuss how to leverage AWS NVMe drives (ephemeral storage) and Amazon Elastic Block Store (Amazon EBS) volume striping with Windows storage spaces to get more performance and cost effectiveness without compromise on high availability. This is an interactive question-and-answer session, so please bring your questions.
 
 ## WIN319-R1: Best practices for advanced SQL Server storage architectures
 
-Join us for this chalk talk, where we discuss best practices for how to design and configure advanced storage architectures for SQL Server on AWS. We discuss how to leverage AWS NVMe drives (ephemeral storage) and Amazon Elastic Block Store (Amazon EBS) volume striping with Windows storage spaces to get more performance and cost effectiveness without compromise on high availability. This is an interactive question-and-answer session, so please bring your questions.
+> Join us for this chalk talk, where we discuss best practices for how to design and configure advanced storage architectures for SQL Server on AWS. We discuss how to leverage AWS NVMe drives (ephemeral storage) and Amazon Elastic Block Store (Amazon EBS) volume striping with Windows storage spaces to get more performance and cost effectiveness without compromise on high availability. This is an interactive question-and-answer session, so please bring your questions.
 
 ## WIN320-R1: Automating the upgrade of Amazon EC2 Windows instances
 
-Windows Server 2008 end of support is just around the corner, and many IT organizations need help determining the best way forward. Join us for this builders session where you learn what your options are for upgrading to more current versions of Windows Server on AWS. You will also have the opportunity to perform an upgrade of Amazon EC2 Windows instances to a newer version using in-place and side-by-side techniques. Along the way, you'll discover tips, tricks, and troubleshooting procedures that will enable you to easily perform upgrades. Please bring a laptop (and charger) for the hands-on exercises.
+> Windows Server 2008 end of support is just around the corner, and many IT organizations need help determining the best way forward. Join us for this builders session where you learn what your options are for upgrading to more current versions of Windows Server on AWS. You will also have the opportunity to perform an upgrade of Amazon EC2 Windows instances to a newer version using in-place and side-by-side techniques. Along the way, you'll discover tips, tricks, and troubleshooting procedures that will enable you to easily perform upgrades. Please bring a laptop (and charger) for the hands-on exercises.
 
 ## WIN321-R1: Improving Windows instance start times
 
-Improving the start times of Windows Server is a common challenge for customers. Join us for this builders session, where we review best practices that can help improve Windows instance start times. You get the opportunity to fix some of the most common configuration issues that slow Windows Server start times and see how AWS services and features like AWS Systems Manager can help improve start times. Please bring a laptop (and charger) for the hands-on exercises.
+> Improving the start times of Windows Server is a common challenge for customers. Join us for this builders session, where we review best practices that can help improve Windows instance start times. You get the opportunity to fix some of the most common configuration issues that slow Windows Server start times and see how AWS services and features like AWS Systems Manager can help improve start times. Please bring a laptop (and charger) for the hands-on exercises.
 
 ## WIN322-R1: Leverage automation to re-platform SQL Server to Linux
 
-Customers are increasingly looking at Linux as the operating system of choice for running SQL Server. Benefits include reduced cost, increased security, and reduced vendor lock-in. Join us for this builders session, where you use PowerShell and AWS Systems Manager Automation to re-platform SQL Server from Windows Server to Linux. Please bring a laptop (and charger) for the hands-on exercises.
+> Customers are increasingly looking at Linux as the operating system of choice for running SQL Server. Benefits include reduced cost, increased security, and reduced vendor lock-in. Join us for this builders session, where you use PowerShell and AWS Systems Manager Automation to re-platform SQL Server from Windows Server to Linux. Please bring a laptop (and charger) for the hands-on exercises.
 
 ## WIN323-R1: Migrating Azure VMs to AWS using AWS SMS and CloudEndure
 
