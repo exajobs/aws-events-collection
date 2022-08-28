@@ -26,7 +26,7 @@
    - [2019](https://github.com/exajobs/aws-events-collection/tree/main/reinvent/reinvent-contents-2019/slides)
 
 ## License
-MIT License & [cc](https://creativecommons.org/licenses/by/4.0/) license
+Exajobs do not own the contents in this presentations, therefore all rights go to AWS & Third party providers. "No copyright infringement intended." 
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
