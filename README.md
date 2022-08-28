@@ -23,7 +23,7 @@
 
 ### Slides
 1. [re:Invent](https://reinvent.awsevents.com/)
-   - [2019](reinvent/reinvent-slides-2019.md)
+   - [2019](reinvent/https://github.com/exajobs/aws-events-collection/tree/main/reinvent/reinvent-contents-2019/slides)
 
 ## License
 MIT License & [cc](https://creativecommons.org/licenses/by/4.0/) license
