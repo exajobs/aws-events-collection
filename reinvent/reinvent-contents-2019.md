@@ -2539,23 +2539,23 @@ Setting up the right instrumentation for operational visibility and observabilit
 
 > Join us for this builders session where you and a small group work with an AWS subject matter expert to deploy a multi-tier application from beginning to end using AWS CloudFormation. Please bring your laptop.
 
-MGT402-R1: Self-service accounts and workloads for data scientists and developers
+## MGT402-R1: Self-service accounts and workloads for data scientists and developers
 
 In this session, learn how to create AWS Service Catalog products built to your business specifications and use cases. You learn how to vend accounts that include Amazon SageMaker and Amazon EMR workloads for your data scientists and development environments for your developers, as well as scenarios for your end users. A customizable framework will also be discussed.
 
-MGT403-R1: How to audit and remediate your resource misconfigurations
+## MGT403-R1: How to audit and remediate your resource misconfigurations
 
 In this builders session, we cover how to monitor resource and configuration compliance across your organization. Learn how to use management and governance tools such as AWS Config to query the configuration state of your resources, identify the resources that are noncompliant with your policies, and remediate those resources using AWS Systems Manager Automation documents. Please bring your laptop.
 
-MGT404-R1: CloudWatch agent best practices
+## MGT404-R1: CloudWatch agent best practices
 
 In this session, learn how to install, configure, and manage the Amazon CloudWatch agent for both on-premises and AWS Cloud deployments. We also cover the implications and considerations of installing the CloudWatch agent via the command line, AWS Systems Manager, or AWS CloudFormation. Further, we discuss the CloudWatch agent package. Please bring your laptop.
 
-MGT405-R1: Build an effective resource compliance program
+## MGT405-R1: Build an effective resource compliance program
 
 In this session, learn how to build a solution that will continuously evaluate your AWS resources for monitoring configuration compliance across your organization using AWS Config rules, Amazon CloudWatch Events, and AWS Lambda. You also learn how to improve your security posture by correcting or eliminating noncompliant resources. Please bring your laptop.
 
-MGT406-R2: Eliminate bastion hosts with AWS Systems Manager Session Manager
+## MGT406-R2: Eliminate bastion hosts with AWS Systems Manager Session Manager
 
 AWS Systems Manager Session Manager improves a customer's security posture for instance access with a browser-based and CLI interactive shell experience that requires no open inbound ports or access/jump servers, and enables customer key encryption using AWS KMS. With IAM access control, sessions audited using AWS CloudTrail, and session output logged to Amazon S3 or Amazon CloudWatch Logs, Session Manager makes it easy to control and secure access to instances in operational scenarios while complying with corporate policies and security best practices. Dive deep with the Session Manager team to see how it works for Linux or Windows instances, in the cloud, or on premises. Please bring your laptop.
 
@@ -2841,9 +2841,9 @@ NET308-R1: Enabling automated astrophysics with AWS Ground Station
 
 NASA Jet Propulsion Laboratory's (JPL) IT Chief Technology Officer, Tom Soderstrom, presents a demonstration of automated scheduling with AWS Ground Station and a NASA JPL satellite. The satellite, ASTERIA, used for this demonstration was designed in collaboration between the Massachusetts Institute of Technology and NASA JPL. AWS Ground Station connects antenna systems to cloud technologies so that researchers and scientists can automate their projects in space.
 
-NET310-R1: Building serverless micro frontends at the edge
+## NET310-R1: Building serverless micro frontends at the edge
 
-Your users expect a fast and dynamic web experience, but this can be a challenge when you have thousands of users across the globe. How can you balance low-latency delivery and content personalization while scaling seamlessly to meet user demand? In this session, learn how to use Amazon CloudFront and Lambda@Edge to personalize your website, harden its security, and do canary releases and agile deployments. Hear from DAZN, a global sports streaming platform, about how it built serverless micro frontends on AWS.
+> Your users expect a fast and dynamic web experience, but this can be a challenge when you have thousands of users across the globe. How can you balance low-latency delivery and content personalization while scaling seamlessly to meet user demand? In this session, learn how to use Amazon CloudFront and Lambda@Edge to personalize your website, harden its security, and do canary releases and agile deployments. Hear from DAZN, a global sports streaming platform, about how it built serverless micro frontends on AWS.
 
 NET311-R1: Traffic management for multi-region architectures
 
