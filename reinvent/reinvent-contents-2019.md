@@ -1505,13 +1505,13 @@ Different Kubernetes users have different requirements for their cluster network
 
 > AWS Database Migration Service (AWS DMS) is used to migrate production workloads to the cloud. With AWS DMS you can do a full load and replicate ongoing changes to keep databases in sync. In this session, we utilize services such as AWS CodePipeline, AWS CodeBuild, and AWS Lambda to automate manual steps in the migration process using Oracle as the source and Amazon Aurora PostgreSQL as the target. By the end of the session, you know how to integrate these services to save time during migrations and automate the process.
 
-DAT215-R1: Build high-performing apps on Amazon Aurora Serverless with RDS Data API 
+## DAT215-R1: Build high-performing apps on Amazon Aurora Serverless with RDS Data API 
 
-Amazon Relational Database Service (Amazon RDS) Data API lets customers easily access their Amazon Aurora databases with web-services-based applications. In this session, we provide an overview of RDS Data API and show you how to create a microservice with it and Aurora Serverless and AWS Lambda.
+> Amazon Relational Database Service (Amazon RDS) Data API lets customers easily access their Amazon Aurora databases with web-services-based applications. In this session, we provide an overview of RDS Data API and show you how to create a microservice with it and Aurora Serverless and AWS Lambda.
 
-DAT216-R2: Build on Amazon RDS for MySQL and MariaDB 
+## DAT216-R2: Build on Amazon RDS for MySQL and MariaDB 
 
-Amazon Relational Database Service (Amazon RDS) makes it easy to set up, operate, and scale a relational database in the cloud. Amazon RDS supports six popular database engines. In this session, get started with Amazon RDS for MariaDB or discuss your existing application running on Amazon RDS for MariaDB, and learn about recently announced features. Please bring your laptop.
+> Amazon Relational Database Service (Amazon RDS) makes it easy to set up, operate, and scale a relational database in the cloud. Amazon RDS supports six popular database engines. In this session, get started with Amazon RDS for MariaDB or discuss your existing application running on Amazon RDS for MariaDB, and learn about recently announced features. Please bring your laptop.
 
 DAT217-R2: Build on Amazon RDS for PostgreSQL 
 
@@ -1527,19 +1527,19 @@ Why do you need a graph database? In this session, we deep dive into the use cas
 
 ## DAT221-S: From RDS to SAP, protect your cloud databases the right way   
 
-Most business-critical applications rely on databases. Whether you have a new serverless cloud application, a database that is using Amazon RDS, or a high-transaction application using SAP HANA over hybrid cloud architecture, these databases need to be backed up, protected, and quickly recovered. Legacy backup solutions that were built for on-premises environments don't quite cut it for today's cloud workloads, while cloud snapshots can quickly become a burden to manage. Learn how to automate the backup of your cloud databases and provide fast and reliable recovery options when needed using Cohesity's modern data management software. This presentation is brought to you by Cohesity, an APN Partner.
+> Most business-critical applications rely on databases. Whether you have a new serverless cloud application, a database that is using Amazon RDS, or a high-transaction application using SAP HANA over hybrid cloud architecture, these databases need to be backed up, protected, and quickly recovered. Legacy backup solutions that were built for on-premises environments don't quite cut it for today's cloud workloads, while cloud snapshots can quickly become a burden to manage. Learn how to automate the backup of your cloud databases and provide fast and reliable recovery options when needed using Cohesity's modern data management software. This presentation is brought to you by Cohesity, an APN Partner.
 
-DAT303: Data security best practices on Amazon DynamoDB 
+## DAT303: Data security best practices on Amazon DynamoDB 
 
-In this session, learn about the security features built into Amazon DynamoDB and how you can best use them to protect your data. We show you how customers are using the available options for controlling access to their tables and the content stored within those tables. We also show you how customers are protecting the contents of their tables with encryption, and how they monitor access to their data.
+> In this session, learn about the security features built into Amazon DynamoDB and how you can best use them to protect your data. We show you how customers are using the available options for controlling access to their tables and the content stored within those tables. We also show you how customers are protecting the contents of their tables with encryption, and how they monitor access to their data.
 
-DAT304: Scale fearlessly with Amazon DynamoDB adaptive capacity   
+## DAT304: Scale fearlessly with Amazon DynamoDB adaptive capacity   
 
-Planning to run spiky or unpredictable workloads? Worried that your traffic isn't evenly distributed? In this session, learn how Amazon DynamoDB accommodates imbalanced workloads without throttling and how you can ensure optimal performance at any scale. First, we briefly cover DynamoDB fundamentals and recent innovations. Then, we dive deep into how DynamoDB shards your data, what is new with adaptive capacity, and the latest workload monitoring tools.
+> Planning to run spiky or unpredictable workloads? Worried that your traffic isn't evenly distributed? In this session, learn how Amazon DynamoDB accommodates imbalanced workloads without throttling and how you can ensure optimal performance at any scale. First, we briefly cover DynamoDB fundamentals and recent innovations. Then, we dive deep into how DynamoDB shards your data, what is new with adaptive capacity, and the latest workload monitoring tools.
 
-DAT305-R1: Real-world use cases for Amazon DynamoDB 
+## DAT305-R1: Real-world use cases for Amazon DynamoDB 
 
-Build (or test!) your DynamoDB chops in this chalk talk where we work together to design data models and solutions for real-world use cases using DynamoDB. Share your experiences and best practices, and ask questions of DynamoDB experts.
+> Build (or test!) your DynamoDB chops in this chalk talk where we work together to design data models and solutions for real-world use cases using DynamoDB. Share your experiences and best practices, and ask questions of DynamoDB experts.
 
 ## DAT306-R2: Implement microservice architectures with Amazon DynamoDB & AWS Lambda 
 
