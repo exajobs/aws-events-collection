@@ -1077,51 +1077,51 @@ CMP306: Getting started with Arm-based Amazon EC2 instances
 
 > Amazon EC2 A1 instances are the first EC2 instances powered by Arm-based AWS Graviton processors. They deliver significant cost savings for scale-out and Arm-based applications, such as web servers and containerized microservices. In this chalk talk, you learn about EC2 A1 instances, hear customer success stories, and experience how easy it can be to run your workloads on Arm-based EC2 instances and lower your costs.
 
-CMP307-R2: Optimize ML training and inferencing using Amazon EC2 
+## CMP307-R2: Optimize ML training and inferencing using Amazon EC2 
 
 > In this workshop, you gain hands-on experience with Amazon EC2 instances that offer the highest-performing GPU-based instances in the cloud for efficient model training and cost-effective inference. This workshop walks you through the entire machine learning application development life cycle and focuses specifically on how to optimize training and inference by leveraging the power of EC2.
 
-CMP309-R2: Easily deploy and scale a cloud app with Amazon Lightsail 
+## CMP309-R2: Easily deploy and scale a cloud app with Amazon Lightsail 
 
 > In this workshop, we start by deploying a monolithic web app into an Amazon Lightsail instance. From there, we separate out the components and use technologies like load balancers and snapshots to show you how to deploy your application at scale. By the end of this session, you'll understand: the benefits of Lightsail; when to choose Lightsail or Amazon EC2; best practices for deploying your application onto Lightsail's preconfigured blueprints; how to use an OS-only blueprint to deploy virtually any software package; and how to leverage snapshots and load balancers to scale applications.
 
-CMP311-R1: How NextRoll leverages AWS Batch for daily business operations 
+## CMP311-R1: How NextRoll leverages AWS Batch for daily business operations 
 
 > The Digital Marketing industry generates petabytes of event data per day. In this session, learn how NextRoll, a marketing technology provider and platform, uses AWS Batch to process these petabytes of data in a stable and efficient way. We review how NextRoll manages its compute environment provisioning, job scheduling, and jobs management, and how it performs data-transformation and business analytics calculations in the batch environment.
 
-CMP312-R2: Optimizing Amazon EBS for performance 
+## CMP312-R2: Optimizing Amazon EBS for performance 
 
 > Key techniques and practices while using Amazon EBS can help push performance and optimize spend. In this session, learn how to optimize storage performance and costs for Amazon EBS using tools such as Amazon CloudWatch and AWS Trusted Advisor, and third-party tools such as Cloudability.
 
-CMP313-R1: Save by using multiple purchase options with Amazon EC2 Auto Scaling 
+## CMP313-R1: Save by using multiple purchase options with Amazon EC2 Auto Scaling 
 
 > Amazon EC2 Auto Scaling makes it easy to mix multiple purchase options and instance types in the same Auto Scaling group. Now, with the introduction of instance type weights, you can configure your group to make scaling decisions based on the number of cores, amount of memory, or whatever instance type specifications your service uses, giving you more flexibility to use a wider range of instance types. In this chalk talk, we show you how to set up these Auto Scaling groups and discuss the different combinations that you can configure that best suit your use case for lowering cost and improving availability.
 
-CMP314: Accelerate applications using Amazon EC2 F1 FPGA instances 
+## CMP314: Accelerate applications using Amazon EC2 F1 FPGA instances 
 
 > Amazon EC2 F1 instances with field programmable gate arrays (FPGAs), combined with optimized cloud-based FPGA programming tools, provide researchers, application developers, and startups with a well-tested, standardized, and accessible platform for custom hardware-accelerated computing. In this session, we update you on the latest EC2 F1 features, and guest speakers from Valtix dive deep on how they are using F1 instances to accelerate native network security in the cloud.
 
-CMP315-R1: Multi-node deep learning training in the cloud 
+## CMP315-R1: Multi-node deep learning training in the cloud 
 
 > The key barriers to the wider adoption of deep neural networks on industrial-sized datasets are the time and resources required to train them. Data scientists and machine learning engineers continue to demand shorter training times, as this provides them with increased agility to try new algorithms and optimization techniques. In this chalk talk, we show how to optimize AWS infrastructure to minimize deep learning training times by using distributed/multi-node training using Amazon EC2 P3dn instances.
 
-CMP316: How GE Aviation accelerates CFD simulations on AWS 
+## CMP316: How GE Aviation accelerates CFD simulations on AWS 
 
 > General Electric is one of the world's largest manufacturing companies, and GE Avio is among the top aircraft engine suppliers, offering engines for the majority of commercial aircraft. Aircraft engine engineers need to run hundreds of computational fluid dynamics (CFD) simulations in order to optimize the turbine air flow. By moving these simulations to AWS, the customer has been able to run them four times faster and drastically reduce the time-to-market.
 
-CMP317-R2: Building a static site on Amazon Lightsail 
+## CMP317-R2: Building a static site on Amazon Lightsail 
 
 > In the earliest days of the web, almost all sites were static. But as time progressed, content management systems such as WordPress and Drupal gained popularity. Today static sites are becoming increasingly popular again. Based on the latest web technologies, static sites offer increased speed and security while being incredibly easy to deploy. In this chalk talk, we walk through how you can architect and deploy static websites-from a simple"brochure" site to more complex progressive web apps. You come away with a better idea of both when to choose a static website and how to easily deploy it using Amazon Lightsail.
 
-CMP318-R1: Kubernetes on Spot Instances: Optimize for scale and cost 
+## CMP318-R1: Kubernetes on Spot Instances: Optimize for scale and cost 
 
 > Containers are usually stateless and fault-tolerant, and Amazon EC2 Spot Instances are a great match for powering container workloads. Attend this workshop to learn how to provision, manage, and maintain your Amazon Kubernetes clusters with Amazon EKS at any scale on Spot Instances while architecting to optimize cost and scale. We dive deep using hands-on material to provision and scale worker nodes, handle interruptions, and design for fault tolerance. We also demonstrate successfully managing a suddenly spiky workload. This workshop is designed to help architects, engineers, and developers understand how to run a containerized environment on Spot Instances.
 
-CMP319-R1: Deploy graphics desktops for content production on AWS 
+## CMP319-R1: Deploy graphics desktops for content production on AWS 
 
 > Cloud-based GPU desktops enable companies to hire the best talent regardless of location or time zone. In this hands-on session, you explore the technical schema and underlying architecture of several solutions, including Amazon AppStream and managed Amazon WorkSpaces, and then individually build a working Windows and Linux graphics desktop based on the new Amazon EC2 G4 GPU instance type using Teradici Cloud Access Software.
 
-CMP322-R1: Deep dive on Arm-based EC2 instances powered by AWS Graviton   
+## CMP322-R1: Deep dive on Arm-based EC2 instances powered by AWS Graviton   
 
 > AWS Graviton processors feature 64-bit Arm Neoverse cores and custom silicon designed by AWS, delivering optimized performance and cost. AWS Graviton processors are built exclusively for the cloud, utilizing AWS and Annapurna Labs' expertise in running hyperscale cloud platforms and cloud applications. Amazon EC2 A1 instances are the first instances powered by the AWS Graviton processor. In this session, learn how you can optimize cost and performance for your scale-out and Arm-based workloads using EC2 instances based on AWS Graviton processors. We present use cases, software ecosystem, and customer adoption stories for EC2 A1 instances.
 
