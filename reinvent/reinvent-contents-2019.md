@@ -2475,9 +2475,10 @@ Data streams and stream processing have many applications in Financial Services.
 > Smart contracts have the potential to solve the inefficiencies inherent to traditional contracts. In this session, we build Hyperledger Fabric networks using Amazon Managed Blockchain, form a trusted consortium with multiple parties, and deploy a smart contract for a settlement use case. While obtaining an access-controlled Hyperledger consortium, we go through Hyperledger Fabric constructs, smart contract application interfaces, real-time transaction analytics, and connections to existing business systems, such as data analytics and reporting services. Please bring your laptop.
 
 # Management Tools & Governance
-MGT201-L: Leadership session: AWS management and governance services
 
-AWS management and governance services can help your organization become and remain agile while enabling you to maintain control over costs, compliance, and security. Join us to hear AWS service leaders discuss their vision and the latest launches from the AWS management and governance teams, including innovations you can leverage now from Amazon CloudWatch, AWS Config, AWS Organizations, AWS Service Catalog, AWS Control Tower, AWS Systems Manager, and much more. We are joined onstage by current AWS customers who discuss how they use management and governance services today.
+## MGT201-L: Leadership session: AWS management and governance services
+
+> AWS management and governance services can help your organization become and remain agile while enabling you to maintain control over costs, compliance, and security. Join us to hear AWS service leaders discuss their vision and the latest launches from the AWS management and governance teams, including innovations you can leverage now from Amazon CloudWatch, AWS Config, AWS Organizations, AWS Service Catalog, AWS Control Tower, AWS Systems Manager, and much more. We are joined onstage by current AWS customers who discuss how they use management and governance services today.
 
 MGT203-S: Simple path to AWS Managed Services (AMS)
 
