@@ -462,7 +462,7 @@ Many applications, like personalized web services, are continuously faced with d
 
 # Analytics
 
-ANT308-R1: Deep dive into running Apache Spark on Amazon EMR   
+## ANT308-R1: Deep dive into running Apache Spark on Amazon EMR   
 
 > Amazon EMR enables customers to run ETL, machine learning, real-time processing, data science, and low-latency SQL at petabyte scale. We focus this session on running Apache Spark on Amazon EMR. We introduce design patterns such as using Amazon S3 instead of HDFS, running long- and short-lived clusters, using notebooks, and performance-related enhancements. We discuss lowering cost with auto scaling and Spot Instances, and security with encryption and fine-grained access control with AWS Lake Formation.
 
@@ -568,27 +568,27 @@ Building production-ready streaming applications can be complex, and maintaining
 
 ## ANT412-R1: Modernize your data warehouse with Amazon Redshift 
 
-Migrating an on-premises data warehouse to the cloud is often perceived as complex, but it doesn't have to be. In this builders session, we go over the steps you should take to correctly collect your requirements. We also cover AWS services that can assist you in migrating your data to Amazon Redshift, such as AWS Database Migration Service (AWS DMS), AWS Snowball, and AWS Snowmobile. We then dive into targeted use cases based on the needs of the participants in the room. Please bring your laptop.
+> Migrating an on-premises data warehouse to the cloud is often perceived as complex, but it doesn't have to be. In this builders session, we go over the steps you should take to correctly collect your requirements. We also cover AWS services that can assist you in migrating your data to Amazon Redshift, such as AWS Database Migration Service (AWS DMS), AWS Snowball, and AWS Snowmobile. We then dive into targeted use cases based on the needs of the participants in the room. Please bring your laptop.
 
 ## ANT413-R1: How to tame unpredictable analytics workloads with Amazon Redshift 
 
-Scaling a traditional data warehouse can be complex, time consuming, and expensive. In this session, we show you how to deploy Amazon Redshift in minutes and automate most administrative tasks. Learn how to manage, monitor, and scale your data warehouse quickly and easily. You also learn how to deploy and scale multiple independent clusters, and scale each independently to address different workload scenarios. Please bring your laptop.
+> Scaling a traditional data warehouse can be complex, time consuming, and expensive. In this session, we show you how to deploy Amazon Redshift in minutes and automate most administrative tasks. Learn how to manage, monitor, and scale your data warehouse quickly and easily. You also learn how to deploy and scale multiple independent clusters, and scale each independently to address different workload scenarios. Please bring your laptop.
 
 ## ANT414-R1: Build great Kibana visualizations 
 
-In this session, we walk you through how to visualize your data in Kibana. You start by learning how to create a visualization and then bring those visualizations together under an overarching dashboard. We cover visualizations such as mapping latitude and longitude, heat maps, bar charts, lines, and newer tools such as Vega. Please bring your laptop.
+> In this session, we walk you through how to visualize your data in Kibana. You start by learning how to create a visualization and then bring those visualizations together under an overarching dashboard. We cover visualizations such as mapping latitude and longitude, heat maps, bar charts, lines, and newer tools such as Vega. Please bring your laptop.
 
 ## ANT415-R1: Learn how to quickly ingest data into Amazon S3 
 
-Want to quickly get data into Amazon Simple Storage Service (Amazon S3) without a large number of small objects? Learn how you can use streaming data to capture, buffer, and deliver data to Amazon S3 in an optimal manner using Amazon Kinesis. Use this pattern to more easily and quickly take advantage of services that process data from Amazon S3, including Amazon Redshift and Amazon Athena. Please come prepared with an active AWS account and your laptop.
+> Want to quickly get data into Amazon Simple Storage Service (Amazon S3) without a large number of small objects? Learn how you can use streaming data to capture, buffer, and deliver data to Amazon S3 in an optimal manner using Amazon Kinesis. Use this pattern to more easily and quickly take advantage of services that process data from Amazon S3, including Amazon Redshift and Amazon Athena. Please come prepared with an active AWS account and your laptop.
 
 ## ANT416-R: Performance and elasticity in Amazon Redshift 
 
-This session dives deep into the capabilities of Amazon Redshift. See how Amazon Redshift achieves its state-of-the-art performance and learn about all aspects of elasticity, from the compute and data elasticity within a single cluster to elasticity across multiple clusters.
+> This session dives deep into the capabilities of Amazon Redshift. See how Amazon Redshift achieves its state-of-the-art performance and learn about all aspects of elasticity, from the compute and data elasticity within a single cluster to elasticity across multiple clusters.
 
 ## ANT416-R1: Performance and elasticity in Amazon Redshift 
 
-This session dives deep into the capabilities of Amazon Redshift. See how Amazon Redshift achieves its state-of-the-art performance and learn about all aspects of elasticity, from the compute and data elasticity within a single cluster to elasticity across multiple clusters.
+> This session dives deep into the capabilities of Amazon Redshift. See how Amazon Redshift achieves its state-of-the-art performance and learn about all aspects of elasticity, from the compute and data elasticity within a single cluster to elasticity across multiple clusters.
 
 ## ANT417: Accelerating performance with materialized views 
 
@@ -670,11 +670,11 @@ Companies are increasingly opting to build applications using event-driven archi
 
 ## ARC201-R1: Comparing serverless and containers 
 
-Microservices are a great way to segment your application into well-defined, self-contained units of functionality. Come join us in this chalk talk as we discuss two common architectures for deploying microservices: containers and serverless.
+> Microservices are a great way to segment your application into well-defined, self-contained units of functionality. Come join us in this chalk talk as we discuss two common architectures for deploying microservices: containers and serverless.
 
 ## ARC202-R2: Architecting for the cloud 
 
-Bring your ideas, war stories, and 'aha moments' to this interactive session with an AWS solutions architect, where we discuss cloud architecture best practices. We highlight specific discoveries and insights from AWS customers, as the cloud has redefined how they think about scalability, designing for failure, constrained thinking, elasticity, parallel processing, loose coupling, and more. Come with your own story or an interest in learning how AWS forever changed the way your colleagues think about the IT world.
+> Bring your ideas, war stories, and 'aha moments' to this interactive session with an AWS solutions architect, where we discuss cloud architecture best practices. We highlight specific discoveries and insights from AWS customers, as the cloud has redefined how they think about scalability, designing for failure, constrained thinking, elasticity, parallel processing, loose coupling, and more. Come with your own story or an interest in learning how AWS forever changed the way your colleagues think about the IT world.
 
 ## ARC203: Innovation at speed   
 
