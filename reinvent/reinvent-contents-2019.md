@@ -1347,9 +1347,9 @@ CON309-R1: FireLens
 
 FireLens is an event router built using Fluent Bit that gives customers extensibility and control to tune between cost and availability for application logs. It works on Amazon ECS and AWS Fargate. In this session, we dive deep into how to use Fluent Bit to save costs and leverage the breadth of tools in AWS and third-party offerings. We also discuss how you can contribute to the open-source project.
 
-CON311-R1: [NEW LAUNCH!] Fargate Spot 
+## CON311-R1: [NEW LAUNCH!] Fargate Spot 
 
-With the ability to leverage Spot on Fargate, customers can now get the price flexibility they are used to with EC2 but through a serverless operational model. In this session, learn how to run Spot tasks on Fargate by running them as standalone tasks or in a service and how to handle interruptions. Also, we will briefly go over pricing and best practices of using Spot on Fargate.
+> With the ability to leverage Spot on Fargate, customers can now get the price flexibility they are used to with EC2 but through a serverless operational model. In this session, learn how to run Spot tasks on Fargate by running them as standalone tasks or in a service and how to handle interruptions. Also, we will briefly go over pricing and best practices of using Spot on Fargate.
 
 CON312: [NEW LAUNCH!] Automatic cluster scaling with ECS 
 
