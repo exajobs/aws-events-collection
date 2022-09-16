@@ -3519,9 +3519,9 @@ Protecting and backing up your data across a heterogeneous hybrid environment is
 
 Disasters, failures, and threats come in all shapes and sizes and can significantly impact your business. In this session, learn how to modernize your backup and disaster recovery (DR) architectures by employing hybrid models to the cloud as well as backup and DR in the cloud. The session includes discussions of the various architectures that customers are using in their backup and DR implementations, as well as the AWS services and building blocks used for backup and DR. We also discuss common architectures employed by customers leveraging third-party backup and DR tools from AWS backup and DR partners.
 
-STG210-S: Real-world Veeam backup and disaster recovery with AWS: A customer view
+## STG210-S: Real-world Veeam backup and disaster recovery with AWS: A customer view
 
-Join AWS customers and experts as they talk about Veeam Availability Suite backup and recovery with AWS. No matter where you are in your journey with AWS-from planning to workload migration to production-this session offers you valuable tips and lessons from AWS customers. This is an interactive session with opportunities to engage with Veeam and AWS experts who share best practices and strategies for cloud data management. This presentation is brought to you by Veeam, an APN Partner.
+> Join AWS customers and experts as they talk about Veeam Availability Suite backup and recovery with AWS. No matter where you are in your journey with AWS-from planning to workload migration to production-this session offers you valuable tips and lessons from AWS customers. This is an interactive session with opportunities to engage with Veeam and AWS experts who share best practices and strategies for cloud data management. This presentation is brought to you by Veeam, an APN Partner.
 
 STG211: How to use AWS storage for on-premises file-based applications
 
