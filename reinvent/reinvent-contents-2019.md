@@ -1929,25 +1929,25 @@ DOP328: Five lessons from principal engineers on building reliable services
 
 In this session, five Amazon principal engineers share hard-learned lessons from their experiences building reliable services at Amazon. Join Andrew Certain, Becky Weiss, Colm MacCarthaigh, David Yanacek, and Marc Brooker as they share personal stories that highlight a current Amazon best practice. The engineers discuss how Amazon uses timeouts, how we think about back-offs and retries, our approach to taking dependencies, how we measure performance, and how we use shuffle sharding.
 
-DOP329-R2: .NET on AWS: Problem-solving with AWS software engineers 
+## DOP329-R2: .NET on AWS: Problem-solving with AWS software engineers 
 
-In this builders session, experts from the .NET SDK engineering team answer your questions related to the .NET experience on AWS, including questions about the AWS SDK for .NET, AWS Lambda with .NET, AWS Lambda support for PowerShell, and AWS Tools for Visual Studio Team Services. Come and chat with us. Please bring your laptop.
+> In this builders session, experts from the .NET SDK engineering team answer your questions related to the .NET experience on AWS, including questions about the AWS SDK for .NET, AWS Lambda with .NET, AWS Lambda support for PowerShell, and AWS Tools for Visual Studio Team Services. Come and chat with us. Please bring your laptop.
 
-DOP331-R2: AWS Tools for PowerShell 
+## DOP331-R2: AWS Tools for PowerShell 
 
-Join us for this builders session, where you and a small group work with an AWS subject-matter expert to explore several PowerShell use cases on AWS. Please bring your laptop.
+> Join us for this builders session, where you and a small group work with an AWS subject-matter expert to explore several PowerShell use cases on AWS. Please bring your laptop.
 
-DOP332-R5: Microservices insights with AWS X-Ray 
+## DOP332-R5: Microservices insights with AWS X-Ray 
 
-In this session, learn how to easily debug and trace unhandled errors, performance bottlenecks, and customer impact in the distributed nature of a microservices architecture. Please bring your laptop.
+> In this session, learn how to easily debug and trace unhandled errors, performance bottlenecks, and customer impact in the distributed nature of a microservices architecture. Please bring your laptop.
 
-DOP336-R4: Serverless app infrastructure with the AWS Cloud Development Kit (AWS CDK) 
+## DOP336-R4: Serverless app infrastructure with the AWS Cloud Development Kit (AWS CDK) 
 
-The AWS Cloud Development Kit (AWS CDK) is a multi-language, open-source framework that lets developers harness the full power of familiar programming languages to define reusable cloud components and provision applications built from those components using AWS CloudFormation. In this session, you develop an application as well as learn how to assemble your AWS infrastructure while leveraging the Python language-focused version of the AWS CDK. Finally, we explore the AWS Construct Library and show you how easy it is to configure your cloud resources, manage permissions, connect event sources, and build and publish your own constructs. Please bring your laptop.
+> The AWS Cloud Development Kit (AWS CDK) is a multi-language, open-source framework that lets developers harness the full power of familiar programming languages to define reusable cloud components and provision applications built from those components using AWS CloudFormation. In this session, you develop an application as well as learn how to assemble your AWS infrastructure while leveraging the Python language-focused version of the AWS CDK. Finally, we explore the AWS Construct Library and show you how easy it is to configure your cloud resources, manage permissions, connect event sources, and build and publish your own constructs. Please bring your laptop.
 
-DOP340-R6: Debugging serverless applications 
+## DOP340-R6: Debugging serverless applications 
 
-To get the most out of your serverless applications, it is critical to have the proper tools to help manage the development lifecycle. Being able to leverage these tools to improve developer productivity, identify performance bottlenecks, and remediate bugs quickly can also help you maintain a competitive edge in today's marketplace. In this session, learn how to leverage the AWS Toolkit for VS Code, AWS Lambda, AWS X-Ray, and Amazon CloudWatch to effectively debug, test, and improve observability of serverless applications. You also get the opportunity to compete in a mini serverless application debugging showdown! Please bring your laptop.
+> To get the most out of your serverless applications, it is critical to have the proper tools to help manage the development lifecycle. Being able to leverage these tools to improve developer productivity, identify performance bottlenecks, and remediate bugs quickly can also help you maintain a competitive edge in today's marketplace. In this session, learn how to leverage the AWS Toolkit for VS Code, AWS Lambda, AWS X-Ray, and Amazon CloudWatch to effectively debug, test, and improve observability of serverless applications. You also get the opportunity to compete in a mini serverless application debugging showdown! Please bring your laptop.
 
 DOP341-R2: Optimizing deployment strategies for speed & safety 
 
