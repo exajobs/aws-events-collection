@@ -2688,9 +2688,9 @@ MOB305: Modernize REST with GraphQL APIs and AWS AppSync
 
 In this workshop, we look at an existing React application that uses several REST endpoints. We then use different strategies and patterns to migrate these endpoints to use GraphQL. We build out the GraphQL schema for the app and deploy it using AWS Amplify and AWS AppSync. You complete this workshop equipped with an understanding of the differences between REST and GraphQL APIs as well as knowledge of how to build a GraphQL schema using AWS AppSync from scratch, and knowing the strategies you can adopt when migrating from one to the other. Please bring your own laptop.
 
-MOB306-L: Leadership session: Innovations in mobile & web app development
+## MOB306-L: Leadership session: Innovations in mobile & web app development
 
-Get all the details on the most recent services and features released by the AWS mobile team. Learn about our innovations in mobile and web app development with AWS Amplify libraries, toolchain, and AWS Amplify Console. Learn how AWS AppSync's new customer-driven features make it an ideal GraphQL API layer for your apps. Two AWS customers join us to share their stories. HyperTrack presents its use of AWS services for processing millions of real-time data points for live location tracking. Dow Jones discusses how AWS services helped it create a mobile tracking and collaboration tool for the WSJ newsroom.
+> Get all the details on the most recent services and features released by the AWS mobile team. Learn about our innovations in mobile and web app development with AWS Amplify libraries, toolchain, and AWS Amplify Console. Learn how AWS AppSync's new customer-driven features make it an ideal GraphQL API layer for your apps. Two AWS customers join us to share their stories. HyperTrack presents its use of AWS services for processing millions of real-time data points for live location tracking. Dow Jones discusses how AWS services helped it create a mobile tracking and collaboration tool for the WSJ newsroom.
 
 MOB307: Frontend web and cross-platform mobile development on AWS
 
