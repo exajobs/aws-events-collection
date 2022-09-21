@@ -2076,9 +2076,9 @@ ENT231: How to go from zero to hundreds of certified AWS engineers
 
 For many organizations, a perceived or real lack of cloud skills in their staff can limit their move to the cloud. Proper re-skilling of your engineers and developers can speed the pace of adoption, cloud migration, and delivery of business benefits by helping your organization effectively operate the AWS Cloud. Learn about the 12 prescriptive steps that have been proven to work with many customers around the world to help accelerate their journeys. Additionally, hear from National Australia Bank about their re-skilling journey, which allowed them to go from zero to hundreds of AWS certified engineers.
 
-ENT234-S: Venerable accelerates its modernization journey with AWS 
+## ENT234-S: Venerable accelerates its modernization journey with AWS 
 
-Venerable, a newly created annuity company, manages $34B of assets for closed block variable annuity and $19B of fixed and fixed indexed annuity liabilities. As a young company, Venerable made a strategic decision to migrate two complex policy administration systems and its entire ecosystem to the cloud. In this session, learn how Venerable migrated 60+ business-critical applications and set up more than 72 interfaces on AWS in less than 18 months so that today, 100 percent of Venerable's business systems and operations run on AWS. Also, learn how Cognizant helped Venerable modernize its core systems while accelerating its transformation journey. This presentation is brought to you by Cognizant, an APN Partner.
+> Venerable, a newly created annuity company, manages $34B of assets for closed block variable annuity and $19B of fixed and fixed indexed annuity liabilities. As a young company, Venerable made a strategic decision to migrate two complex policy administration systems and its entire ecosystem to the cloud. In this session, learn how Venerable migrated 60+ business-critical applications and set up more than 72 interfaces on AWS in less than 18 months so that today, 100 percent of Venerable's business systems and operations run on AWS. Also, learn how Cognizant helped Venerable modernize its core systems while accelerating its transformation journey. This presentation is brought to you by Cognizant, an APN Partner.
 
 ENT235-S: How Salesforce and AWS accelerate the contact center 
 
